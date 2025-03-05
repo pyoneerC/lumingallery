@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale: 1.0" />
   <title>Lumin Gallery</title> <!-- App Name: Lumin Gallery -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -61,19 +61,21 @@
 
     .categories {
       display: flex;
-      gap: 1.5rem; /* Increased gap */
+      gap: 0.5rem; /* Reduced gap for square buttons */
     }
 
     .categories button {
-      padding: 0.75rem 1.5rem; /* Slightly larger buttons */
+      padding: 0.75rem 1rem; /* Adjusted padding for square buttons */
       background-color: transparent;
       border: 1px solid var(--text-secondary);
       color: var(--text-secondary);
       cursor: pointer;
-      border-radius: 30px; /* More rounded buttons */
+      border-radius: 0; /* Square buttons */
       font-size: 1rem;
-      font-weight: 400; /* Lighter font weight */
+      font-weight: 600; /* Slightly bolder font for square buttons */
       transition: all 0.2s ease-in-out;
+      text-align: center; /* Center text in square buttons */
+      min-width: 80px; /* Minimum width for square buttons */
     }
 
     .categories button.active,
@@ -385,7 +387,7 @@
   <div class="overlay" id="overlay">
     <div class="detail" id="detail">
       <button class="close-btn" id="closeBtn">×</button>
-      <img id="detailImage" src="" alt="Thumbnail">
+      <a id="detailImageLink" href="#" target="_blank"> <img id="detailImage" src="" alt="Thumbnail"></a>
       <h2 id="detailTitle"></h2>
       <p class="meta" id="detailMeta"></p>
       <div class="meter">
@@ -437,7 +439,7 @@
         const card = document.createElement('div');
         card.className = 'card';
         card.innerHTML = `
-          <img src="${post.thumbnail}" alt="${post.title}">
+          <a href="${post.external_url}" target="_blank"> <img src="${post.thumbnail}" alt="${post.title}"></a>
           <div class="info">
             <h3>${post.title}</h3>
           </div>
@@ -447,7 +449,7 @@
           imgElement.classList.add('loaded'); // Add loaded class after image is loaded for fade-in
         });
         imgElement.addEventListener('error', () => {
-          imgElement.src = 'placeholder-image.jpg'; // Fallback placeholder image if loading fails
+          imgElement.src = 'placeholder-image.png'; // Fallback placeholder image if loading fails
           imgElement.classList.add('loaded'); // Still mark as loaded to avoid repeated errors
         });
 
@@ -475,12 +477,23 @@
         detailImage.classList.add('loaded');
       };
 
+      const detailImageLink = document.getElementById('detailImageLink');
+      detailImageLink.href = post.external_url; // Set link for detail image
 
       document.getElementById('detailTitle').innerText = post.title;
       document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`; // Meta with spans for spacing and bold upvotes
+
       const meter = document.getElementById('sentimentMeter');
-      const sentimentVal = post.aggregate_sentiment !== null ? post.aggregate_sentiment : 0;
+      // Debugging sentiment value:
+      console.log("Sentiment Value from data:", post.aggregate_sentiment);
+      let sentimentVal = post.aggregate_sentiment !== null ? parseFloat(post.aggregate_sentiment) : 0; // Force to float and default to 0 if null
+      if (isNaN(sentimentVal)) { // Double check for NaN after parsing
+        sentimentVal = 0;
+        console.warn("Sentiment value is NaN, defaulting to 0.");
+      }
+      console.log("Sentiment Value to Meter:", sentimentVal); // Log value being set to meter
       meter.value = sentimentVal;
+
       document.getElementById('sentimentValue').innerText = sentimentVal ? `${sentimentVal.toFixed(0)}/100` : 'N/A';
       const commentsList = document.getElementById('commentsList');
       commentsList.innerHTML = '';
@@ -498,6 +511,15 @@
       document.getElementById('overlay').classList.remove('active');
       document.getElementById('detailImage').classList.remove('loaded'); // Reset detail image opacity for next open
     });
+
+    // Close overlay when clicking outside the detail box
+    document.getElementById('overlay').addEventListener('click', function(event) {
+      if (event.target === this) { // 'this' refers to the overlay element
+        document.getElementById('overlay').classList.remove('active');
+        document.getElementById('detailImage').classList.remove('loaded'); // Reset detail image opacity for next open
+      }
+    });
+
 
     fetchData();
   </script>
