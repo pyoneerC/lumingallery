@@ -134,7 +134,7 @@
       margin: 0;
       font-size: 1.1rem; /* Slightly larger title */
       font-weight: 600;
-      color: var(--text-primary);
+      color: white; /* Card Title made WHITE */
       line-height: 1.3;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -262,14 +262,15 @@
       font-size: 1rem; /* Slightly larger comment text */
       line-height: 1.5;
       color: var(--text-primary);
+      font-family: 'Playfair Display', serif; /* BETTER FONT for comments */
     }
 
     .close-btn {
       position: absolute;
       top: 2rem; /* Adjusted position */
       right: 2rem;
-      width: 36px; /* Slightly larger close button */
-      height: 36px;
+      width: 45px; /* LARGER close button */
+      height: 45px; /* LARGER close button */
       border: none;
       background-color: rgba(255, 255, 255, 0.8); /* More opaque close button */
       border-radius: 50%;
@@ -278,7 +279,7 @@
       align-items: center;
       justify-content: center;
       transition: background-color 0.2s ease-in-out;
-      font-size: 1.4rem;
+      font-size: 1.6rem; /* LARGER close button ICON */
       line-height: 1;
       color: var(--primary-color);
       opacity: 0.8; /* Slightly less opaque initially */
@@ -362,7 +363,7 @@
         top: 1.5rem; /* Adjusted close button position on mobile */
         right: 1.5rem;
         width: 32px; /* Slightly smaller close button on mobile */
-        height: 32px;
+        height: 32px; /* Slightly smaller close button on mobile */
         font-size: 1.3rem; /* Smaller close icon on mobile */
       }
     }
@@ -476,7 +477,7 @@
 
 
       document.getElementById('detailTitle').innerText = post.title;
-      document.getElementById('detailMeta').innerText = `Uploaded: ${post.date} <span>Upvotes: ${post.upvotes}</span>`; // Meta with spans for spacing
+      document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`; // Meta with spans for spacing and bold upvotes
       const meter = document.getElementById('sentimentMeter');
       const sentimentVal = post.aggregate_sentiment !== null ? post.aggregate_sentiment : 0;
       meter.value = sentimentVal;
