@@ -27,11 +27,12 @@ jobs:
       - name: Update README file
         run: python main.py
 
-      - name: Commit and push data.json
+      - name: Push changes
         run: |
           git config --global user.name "pyoneerC/GitHub-Actions-Bot"
-          git config --global user.email "github-actions-bot@pyoneerc.github.io" 
+          git config --global user.email "github-actions-bot@pyoneerc.github.io"
           git add .
           git diff
           git commit -m "Update JSON" -a || echo "No changes to commit"
-          git push
+          git pull origin ${{ github.ref_name }} --rebase
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
