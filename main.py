@@ -1,5 +1,6 @@
 import requests
 import re
+import json
 from datetime import datetime
 from bs4 import BeautifulSoup
 import asyncio
@@ -20,7 +21,10 @@ SENTIMENT_API_KEY = "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"  
 # --- Synchronous helper functions ---
 
 def fetch_social_preview(url):
-    """Given an external URL, fetch the page and try to extract a social preview image from meta tags."""
+    """
+    Given an external URL, fetch the page and try to extract a social preview image
+    from meta tags (og:image or twitter:image).
+    """
     try:
         r = requests.get(url, headers=HEADERS, timeout=10)
         if r.status_code == 200:
@@ -153,69 +157,61 @@ async def analyze_sentiment_async(text, session):
     return None
 
 
-async def analyze_comments_sentiments(comments, session):
-    """Concurrently analyze the sentiment for a list of comments."""
-    tasks = [analyze_sentiment_async(comment, session) for comment in comments]
-    return await asyncio.gather(*tasks)
-
-
-async def process_posts(all_posts):
+async def process_posts_json(all_posts, sentiment_limit=3):
     """
-    Process all posts: for each post, fetch comments and concurrently analyze their sentiment.
-    Then compute an aggregate sentiment score (average) per post.
+    Process all posts: for each post, fetch comments and analyze sentiment
+    for only the first `sentiment_limit` comments concurrently.
+    Build and return a JSON-serializable result.
     """
+    results = []
     async with aiohttp.ClientSession() as session:
-        with open("reddit_news_posts_and_comments.txt", "w", encoding="utf-8") as file:
-            for idx, (sort, post) in enumerate(all_posts, start=1):
-                post_date = convert_timestamp(post["timestamp"])
-                file.write(f"{idx}. [{sort.upper()}] {post['title']}\n")
-                file.write(f"    External URL: {post['external_url']}\n")
-                file.write(f"    Upvotes: {post['upvotes']} | Date: {post_date}\n")
-                file.write(f"    Thumbnail: {post['thumbnail']}\n")
+        for sort, post in all_posts:
+            post_date = convert_timestamp(post["timestamp"])
+            comments = fetch_comments(post["id"])
+            # Only analyze up to 'sentiment_limit' comments (e.g., 3)
+            sentiment_comments = comments[:sentiment_limit] if comments else []
+            analyzed_comments = []
+            if sentiment_comments:
+                sentiments = await asyncio.gather(
+                    *[analyze_sentiment_async(comment, session) for comment in sentiment_comments]
+                )
+                for comment, sentiment in zip(sentiment_comments, sentiments):
+                    analyzed_comments.append({
+                        "text": comment,
+                        "sentiment": sentiment
+                    })
+                valid_sentiments = [s for s in sentiments if s is not None]
+                aggregate_sentiment = sum(valid_sentiments) / len(valid_sentiments) if valid_sentiments else None
+            else:
+                aggregate_sentiment = None
 
-                print(f"{idx}. [{sort.upper()}] {post['title']}")
-                print(f"    External URL: {post['external_url']}")
-                print(f"    Upvotes: {post['upvotes']} | Date: {post_date}")
-                print(f"    Thumbnail: {post['thumbnail']}")
-
-                comments = fetch_comments(post["id"])
-                sentiment_scores = []
-                if comments:
-                    file.write("    Top Comments:\n")
-                    print("    Top Comments:")
-                    for comment in comments:
-                        file.write(f"        - {comment}\n")
-                        print(f"        - {comment}")
-                    # Analyze all comment sentiments concurrently
-                    sentiments = await analyze_comments_sentiments(comments, session)
-                    sentiment_scores = [s for s in sentiments if s is not None]
-                else:
-                    file.write("    No comments found.\n")
-                    print("    No comments found.")
-
-                # Compute aggregate sentiment score for the post
-                if sentiment_scores:
-                    aggregate_sentiment = sum(sentiment_scores) / len(sentiment_scores)
-                    file.write(f"    Aggregate Sentiment Score: {aggregate_sentiment:.2f}\n")
-                    print(f"    Aggregate Sentiment Score: {aggregate_sentiment:.2f}")
-                else:
-                    file.write("    Aggregate Sentiment Score: N/A\n")
-                    print("    Aggregate Sentiment Score: N/A")
-
-                file.write("\n" + "-" * 80 + "\n\n")
-                print("-" * 80)
-        print("\n✅ Saved all posts, comments, and aggregate sentiment analysis to 'reddit_news_posts_and_comments.txt'")
+            result_post = {
+                "category": sort.upper(),
+                "title": post["title"],
+                "external_url": post["external_url"],
+                "upvotes": post["upvotes"],
+                "date": post_date,
+                "thumbnail": post["thumbnail"],
+                "analyzed_comments": analyzed_comments,
+                "aggregate_sentiment": aggregate_sentiment
+            }
+            results.append(result_post)
+    return results
 
 
 def main():
     all_posts = []
     for sort in ["hot", "new", "rising"]:
-        print(f"\nFetching {sort.upper()} posts...\n")
+        print(f"Fetching {sort.upper()} posts...")
         posts = fetch_posts(sort, limit=10)
         all_posts.extend([(sort, post) for post in posts])
 
-    # Process posts asynchronously (concurrent sentiment analysis)
-    asyncio.run(process_posts(all_posts))
+    # Process posts asynchronously to analyze sentiment on only a few comments per post.
+    results = asyncio.run(process_posts_json(all_posts, sentiment_limit=3))
+
+    # Output the final JSON result (for example, printing to stdout)
+    output_json = json.dumps({"posts": results}, indent=4)
+    print(output_json)
 
 
 if __name__ == "__main__":
