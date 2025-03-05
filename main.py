@@ -1,6 +1,7 @@
 import requests
 import time
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 # Base URL and headers for Reddit
 BASE_URL = "https://www.reddit.com/r/news"
@@ -9,15 +10,36 @@ HEADERS = {
 }
 
 
+def fetch_social_preview(url):
+    """
+    Given an external URL, try to fetch the page and parse for a social preview image.
+    Checks for meta tags: og:image and twitter:image.
+    """
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=10)
+        if r.status_code == 200:
+            soup = BeautifulSoup(r.text, "html.parser")
+            meta_tag = soup.find("meta", property="og:image")
+            if meta_tag and meta_tag.get("content"):
+                return meta_tag["content"]
+            # Alternatively, check for twitter:image
+            meta_tag = soup.find("meta", property="twitter:image")
+            if meta_tag and meta_tag.get("content"):
+                return meta_tag["content"]
+    except Exception as e:
+        print(f"Error fetching social preview for {url}: {e}")
+    return "No social preview available"
+
+
 def fetch_posts(sort="hot", limit=10):
     """
-    Fetch posts for a given sort type ("hot", "new", "rising") with a limit.
+    Fetch posts for a given sort type ("hot", "new", or "rising") with a limit.
     For each post, extract:
-      - title
-      - external URL (the actual link to the news article)
-      - upvotes (score)
-      - created timestamp
-      - thumbnail (from preview data, if available)
+      - Title
+      - External URL (link to the news article)
+      - Upvotes (score)
+      - Created timestamp
+      - Thumbnail: first try Reddit's preview; if missing, attempt to fetch social preview from the external URL.
     """
     url = f"{BASE_URL}/{sort}.json?limit={limit}"
     response = requests.get(url, headers=HEADERS)
@@ -31,19 +53,19 @@ def fetch_posts(sort="hot", limit=10):
 
     for post in data["data"]["children"]:
         post_data = post["data"]
-        # For link posts, the "url" field contains the external link.
         external_url = post_data.get("url", "No external URL")
 
-        # Attempt to get the preview thumbnail if available
+        # Attempt to get thumbnail from Reddit's preview data
         thumbnail = None
         if "preview" in post_data:
             try:
-                # Reddit returns a list of images; we take the source image URL from the first one.
                 thumbnail = post_data["preview"]["images"][0]["source"]["url"]
-            except Exception as e:
+            except Exception:
                 thumbnail = None
-        if not thumbnail:
-            thumbnail = "No thumbnail available"
+
+        # If the thumbnail is missing or not a valid URL, try fetching the social preview
+        if not thumbnail or not thumbnail.startswith("http"):
+            thumbnail = fetch_social_preview(external_url)
 
         posts.append({
             "title": post_data.get("title", "No Title"),
@@ -93,7 +115,7 @@ def main():
         posts = fetch_posts(sort, limit=10)
         all_posts.extend([(sort, post) for post in posts])
 
-    # Save results to a file
+    # Write the results to a file
     with open("reddit_news_posts_and_comments.txt", "w", encoding="utf-8") as file:
         for idx, (sort, post) in enumerate(all_posts, start=1):
             post_date = convert_timestamp(post["timestamp"])
@@ -107,7 +129,7 @@ def main():
             print(f"    Upvotes: {post['upvotes']} | Date: {post_date}")
             print(f"    Thumbnail: {post['thumbnail']}")
 
-            # Fetch and print comments
+            # Fetch and display up to 5 top-level comments
             comments = fetch_comments(post["id"])
             if comments:
                 file.write("    Top Comments:\n")
