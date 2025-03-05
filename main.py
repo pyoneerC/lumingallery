@@ -211,7 +211,9 @@ def main():
     # Build final JSON result
     final_result = {"posts": results, "last_updated": last_updated}
     output_json = json.dumps(final_result, indent=4)
-    print(output_json)
+
+    with open("data.json", "w") as file:
+        file.write(output_json)
 
 
 if __name__ == "__main__":
