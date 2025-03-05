@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Reddit News Grid</title>
+  <title>Abstract Art Gallery</title>
   <style>
     :root {
       --primary-color: #1a1a1a;
@@ -13,15 +13,23 @@
       --text-secondary: #666666;
       --border-radius: 18px;
       --shadow-color: rgba(0, 0, 0, 0.1);
+      --bg-gradient-start: #f5f5f7;
+      --bg-gradient-end: #e0e0e0;
     }
 
+    /* Global Styles */
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell;
       margin: 0;
       padding: 0;
-      background: #f5f5f7;
+      background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
       color: var(--text-primary);
-      box-sizing: border-box;
+      line-height: 1.6;
     }
 
     header {
@@ -35,14 +43,16 @@
       justify-content: space-between;
       box-shadow: 0 2px 10px var(--shadow-color);
       z-index: 1000;
+      border-bottom: 1px solid rgba(0,0,0,0.05);
     }
 
     header h1 {
       margin: 0;
       font-size: 2rem;
       font-weight: 600;
-      color: var(--primary-color);
       text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--primary-color);
     }
 
     .categories {
@@ -65,7 +75,7 @@
     .categories button.active,
     .categories button:hover {
       background: var(--accent-color);
-      color: white;
+      color: #fff;
       border-color: var(--accent-color);
       transform: translateY(-3px);
     }
@@ -99,7 +109,6 @@
       width: 100%;
       height: 200px;
       object-fit: cover;
-      border-bottom: 1px solid rgba(0, 0, 0, 0.05);
       transition: transform 0.3s ease;
     }
 
@@ -123,22 +132,15 @@
       color: var(--primary-color);
     }
 
-    .card .meta {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      color: var(--text-secondary);
-      font-size: 0.875rem;
-    }
-
-    .upvotes {
-      display: flex;
+    .card .upvotes {
+      display: inline-flex;
       align-items: center;
       gap: 0.25rem;
       padding: 0.25rem 0.5rem;
       background: rgba(0, 122, 255, 0.1);
       border-radius: 12px;
       color: var(--accent-color);
+      font-size: 0.9rem;
     }
 
     /* Detail overlay */
@@ -189,27 +191,35 @@
       color: var(--primary-color);
     }
 
-    .detail .meta-info {
-      display: flex;
-      gap: 1.5rem;
+    .detail .meta {
       color: var(--text-secondary);
-      margin-bottom: 2rem;
+      font-size: 0.95rem;
+      margin-bottom: 1.5rem;
     }
 
-    .sentiment-meter {
-      width: 100%;
-      height: 8px;
-      background: #eee;
-      border-radius: 4px;
-      overflow: hidden;
+    .meter {
       margin: 1.5rem 0;
     }
 
-    .sentiment-fill {
-      height: 100%;
+    .meter label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    meter {
+      width: 100%;
+      height: 8px;
+      -webkit-appearance: none;
+      appearance: none;
+      background: #eee;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    meter::-webkit-meter-optimum-value {
       background: linear-gradient(90deg, #ff3b30 0%, #34c759 100%);
-      width: 50%;
-      transition: width 0.5s ease;
     }
 
     .comments {
@@ -219,7 +229,7 @@
     .comments h3 {
       margin: 0 0 1.5rem;
       font-size: 1.2rem;
-      color: var(--text-primary);
+      color: var(--primary-color);
     }
 
     .comment-list {
@@ -252,6 +262,8 @@
       align-items: center;
       justify-content: center;
       transition: background 0.2s;
+      font-size: 1.5rem;
+      line-height: 1;
     }
 
     .close-btn:hover {
@@ -262,11 +274,26 @@
       from { opacity: 0; }
       to { opacity: 1; }
     }
+
+    /* Sticky Footer */
+    footer {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(10px);
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      box-shadow: 0 -2px 10px var(--shadow-color);
+      position: sticky;
+      bottom: 0;
+      z-index: 1000;
+      border-top: 1px solid rgba(0,0,0,0.05);
+    }
   </style>
 </head>
 <body>
   <header>
-    <h1>Reddit News</h1>
+    <h1>Abstract Gallery</h1>
     <div class="categories">
       <button data-category="HOT" class="active">Hot</button>
       <button data-category="NEW">New</button>
@@ -276,6 +303,7 @@
 
   <div class="grid" id="grid"></div>
 
+  <!-- Detail overlay (modal) -->
   <div class="overlay" id="overlay">
     <div class="detail" id="detail">
       <button class="close-btn" id="closeBtn">&times;</button>
@@ -289,11 +317,14 @@
       </div>
       <div class="comments">
         <h3>Comments</h3>
-        <ul id="commentsList"></ul>
+        <ul id="commentsList" class="comment-list"></ul>
       </div>
-      <p class="meta" id="lastUpdated"></p>
     </div>
   </div>
+
+  <footer>
+    <p id="lastUpdatedFooter"></p>
+  </footer>
 
   <script>
     // Change DATA_URL to your JSON endpoint or embed the JSON data
@@ -308,6 +339,8 @@
         const data = await res.json();
         allPosts = data.posts;
         lastUpdated = data.last_updated;
+        // Update footer with last updated info
+        document.getElementById('lastUpdatedFooter').innerText = `Last updated: ${lastUpdated}`;
         renderGrid('HOT'); // default category
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -319,6 +352,10 @@
       grid.innerHTML = '';
       // Filter posts by category
       const filtered = allPosts.filter(post => post.category === category);
+      if (filtered.length === 0) {
+        grid.innerHTML = '<p style="text-align:center; width:100%;">No posts available.</p>';
+        return;
+      }
       // Calculate max upvotes to scale cards
       const maxUpvotes = Math.max(...filtered.map(p => p.upvotes));
       filtered.forEach(post => {
@@ -359,10 +396,10 @@
       commentsList.innerHTML = '';
       post.top_comments.forEach(comment => {
         const li = document.createElement('li');
+        li.className = 'comment-item';
         li.innerText = comment;
         commentsList.appendChild(li);
       });
-      document.getElementById('lastUpdated').innerText = `Last updated: ${lastUpdated}`;
       document.getElementById('overlay').classList.add('active');
     }
 
