@@ -233,19 +233,37 @@
       color: var(--text-secondary);
     }
 
-    meter {
+    /* Progress Bar Styling */
+    progress {
       width: 100%;
-      height: 8px; /* Slightly thicker meter */
+      height: 12px; /* Slightly thicker progress bar */
       -webkit-appearance: none;
       appearance: none;
-      background-color: #e8e8e8; /* Even lighter meter background */
-      border-radius: 4px;
-      overflow: hidden;
+      border: none;
+      border-radius: 6px; /* Rounded progress bar */
+      background-color: #e0e0e0; /* Light gray track color */
+      overflow: hidden; /* Ensure consistent border-radius */
     }
 
-    meter::-webkit-meter-optimum-value {
-      background-color: var(--accent-color);
+    /* Chrome, Safari */
+    progress::-webkit-progress-bar {
+      background-color: #e0e0e0;
+      border-radius: 6px;
     }
+
+    progress::-webkit-progress-value {
+      background-color: var(--accent-color);
+      border-radius: 6px;
+      transition: width 0.4s ease; /* Smooth progress animation */
+    }
+
+    /* Firefox */
+    progress::-moz-progress-bar {
+      background-color: var(--accent-color);
+      border-radius: 6px;
+      transition: width 0.4s ease; /* Smooth progress animation */
+    }
+
 
     .comments {
       margin-top: 2.5rem; /* Increased margin */
@@ -401,9 +419,8 @@
       <h2 id="detailTitle"></h2>
       <p class="meta" id="detailMeta"></p>
       <div class="meter">
-        <label for="sentimentMeter">Sentiment Score:</label>
-        <meter id="sentimentMeter" min="0" max="100" low="25" high="75" optimum="50" value="0"></meter>
-        <span id="sentimentValue"></span>
+        <label for="sentimentBar">Sentiment Score:</label>
+        <progress id="sentimentBar" value="0" max="100"></progress> <span id="sentimentValue"></span>
       </div>
       <div class="comments">
         <h3>Top Comments</h3>
@@ -506,13 +523,13 @@
       document.getElementById('detailTitle').innerText = post.title;
       document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`; // Meta with spans for spacing and bold upvotes
 
-      const meter = document.getElementById('sentimentMeter');
+      const sentimentBar = document.getElementById('sentimentBar'); // Changed ID to sentimentBar
       let sentimentVal = post.aggregate_sentiment !== null ? parseFloat(post.aggregate_sentiment) : 0;
       if (isNaN(sentimentVal)) {
         sentimentVal = 0;
         console.warn("Sentiment value is NaN, defaulting to 0.");
       }
-      meter.value = sentimentVal;
+      sentimentBar.value = sentimentVal; // Set value for progress bar
 
       document.getElementById('sentimentValue').innerText = sentimentVal ? `${sentimentVal.toFixed(0)}/100` : 'N/A';
       const commentsList = document.getElementById('commentsList');
