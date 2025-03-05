@@ -205,8 +205,11 @@ def main():
     # Process all posts concurrently
     results = asyncio.run(process_all_posts(all_posts))
 
+    # Get current time for "last updated"
+    last_updated = datetime.now(timezone.utc).strftime('%m/%d/%Y %H:%M:%S UTC')
+
     # Build final JSON result
-    final_result = {"posts": results}
+    final_result = {"posts": results, "last_updated": last_updated}
     output_json = json.dumps(final_result, indent=4)
     print(output_json)
 
