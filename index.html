@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale: 1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Lumin Gallery</title> <!-- App Name: Lumin Gallery -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,7 +10,7 @@
   <style>
     :root {
       --primary-color: #222222; /* Deep Charcoal */
-      --accent-color: #c9a777; /* Muted Gold */
+      --accent-color: #FFD700; /* Muted Gold */
       --bg-color: #f8f8f8; /* Very Light Gray */
       --card-bg: #ffffff; /* White */
       --text-primary: var(--primary-color);
@@ -20,6 +20,7 @@
       --overlay-bg: rgba(15, 15, 15, 0.9); /* Deeper Overlay */
       --font-heading: 'Playfair Display', serif;
       --font-body: 'Nunito Sans', sans-serif;
+      --high-upvote-border-color: var(--accent-color); /* Border color for high upvote posts */
     }
 
     /* Reset & Basic Styling */
@@ -73,6 +74,7 @@
       border-radius: 0; /* Square buttons */
       font-size: 1rem;
       font-weight: 600; /* Slightly bolder font for square buttons */
+      font-family: "Neue Haas Grotesk Text Pro", sans-serif;
       transition: all 0.2s ease-in-out;
       text-align: center; /* Center text in square buttons */
       min-width: 80px; /* Minimum width for square buttons */
@@ -122,6 +124,14 @@
     .card img:hover {
       opacity: 0.95; /* Subtle image hover effect */
     }
+
+    /* High Upvote Border Style */
+    .card img.high-upvotes {
+      border: 6px solid var(--high-upvote-border-color); /* Thicker border for high upvote images */
+      border-radius: var(--border-radius); /* Maintain border radius */
+      box-sizing: border-box; /* Include border in element's total width and height */
+    }
+
 
     .card .info {
       position: absolute;
@@ -411,6 +421,7 @@
 
     let allPosts = [];
     let lastUpdated = '';
+    let averageUpvotes = 0; // Variable to store average upvotes
 
     async function fetchData() {
       try {
@@ -419,6 +430,12 @@
         allPosts = data.posts;
         lastUpdated = data.last_updated;
         document.getElementById('lastUpdatedFooter').innerText = `Last updated: ${lastUpdated}`;
+
+        // Calculate average upvotes
+        const totalUpvotes = allPosts.reduce((sum, post) => sum + post.upvotes, 0);
+        averageUpvotes = totalUpvotes / allPosts.length;
+        console.log("Average Upvotes:", averageUpvotes); // Log average upvotes
+
         renderGrid('HOT');
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -439,17 +456,23 @@
         const card = document.createElement('div');
         card.className = 'card';
         card.innerHTML = `
-          <a href="${post.external_url}" target="_blank"> <img src="${post.thumbnail}" alt="${post.title}"></a>
+          <img src="${post.thumbnail}" alt="${post.title}">
           <div class="info">
             <h3>${post.title}</h3>
           </div>
         `;
         const imgElement = card.querySelector('img');
+
+        // Apply high-upvotes class if upvotes are above average
+        if (post.upvotes > averageUpvotes) {
+          imgElement.classList.add('high-upvotes');
+        }
+
         imgElement.addEventListener('load', () => {
           imgElement.classList.add('loaded'); // Add loaded class after image is loaded for fade-in
         });
         imgElement.addEventListener('error', () => {
-          imgElement.src = 'placeholder-image.png'; // Fallback placeholder image if loading fails
+          imgElement.src = 'placeholder-image.jpg'; // Fallback placeholder image if loading fails
           imgElement.classList.add('loaded'); // Still mark as loaded to avoid repeated errors
         });
 
@@ -484,14 +507,11 @@
       document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`; // Meta with spans for spacing and bold upvotes
 
       const meter = document.getElementById('sentimentMeter');
-      // Debugging sentiment value:
-      console.log("Sentiment Value from data:", post.aggregate_sentiment);
-      let sentimentVal = post.aggregate_sentiment !== null ? parseFloat(post.aggregate_sentiment) : 0; // Force to float and default to 0 if null
-      if (isNaN(sentimentVal)) { // Double check for NaN after parsing
+      let sentimentVal = post.aggregate_sentiment !== null ? parseFloat(post.aggregate_sentiment) : 0;
+      if (isNaN(sentimentVal)) {
         sentimentVal = 0;
         console.warn("Sentiment value is NaN, defaulting to 0.");
       }
-      console.log("Sentiment Value to Meter:", sentimentVal); // Log value being set to meter
       meter.value = sentimentVal;
 
       document.getElementById('sentimentValue').innerText = sentimentVal ? `${sentimentVal.toFixed(0)}/100` : 'N/A';
