@@ -3,147 +3,151 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Abstract Art Gallery</title>
+  <title>Lumin Gallery</title> <!-- App Name: Lumin Gallery -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Nunito+Sans:wght@400;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --primary-color: #1a1a1a;
-      --accent-color: #007AFF;
-      --card-bg: #ffffff;
-      --text-primary: #1a1a1a;
-      --text-secondary: #666666;
-      --border-radius: 18px;
-      --shadow-color: rgba(0, 0, 0, 0.1);
-      --bg-gradient-start: #f5f5f7;
-      --bg-gradient-end: #e0e0e0;
+      --primary-color: #222222; /* Deep Charcoal */
+      --accent-color: #c9a777; /* Muted Gold */
+      --bg-color: #f8f8f8; /* Very Light Gray */
+      --card-bg: #ffffff; /* White */
+      --text-primary: var(--primary-color);
+      --text-secondary: #888888; /* Medium Gray */
+      --border-radius: 16px; /* Slightly More Rounded */
+      --shadow-color: rgba(0, 0, 0, 0.06); /* Even Subtler Shadow */
+      --overlay-bg: rgba(15, 15, 15, 0.9); /* Deeper Overlay */
+      --font-heading: 'Playfair Display', serif;
+      --font-body: 'Nunito Sans', sans-serif;
     }
 
-    /* Global Styles */
-    *,
-    *::before,
-    *::after {
+    /* Reset & Basic Styling */
+    *, *::before, *::after {
       box-sizing: border-box;
-    }
-    body {
       margin: 0;
       padding: 0;
-      background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-      color: var(--text-primary);
-      line-height: 1.6;
     }
 
+    body {
+      font-family: var(--font-body);
+      background-color: var(--bg-color);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* Header */
     header {
-      background: rgba(255, 255, 255, 0.8);
-      backdrop-filter: blur(10px);
+      background-color: var(--bg-color);
       position: sticky;
       top: 0;
-      padding: 1rem 2rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      box-shadow: 0 2px 10px var(--shadow-color);
       z-index: 1000;
-      border-bottom: 1px solid rgba(0,0,0,0.05);
+      padding: 2rem 3rem; /* Increased padding */
+      border-bottom: 1px solid rgba(0,0,0,0.03); /* Even lighter border */
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
 
     header h1 {
-      margin: 0;
-      font-size: 2rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 1px;
+      font-family: var(--font-heading);
+      font-size: 1.8rem; /* Slightly larger, more elegant title */
+      font-weight: 700;
+      letter-spacing: -1px;
       color: var(--primary-color);
     }
 
     .categories {
       display: flex;
-      gap: 1rem;
+      gap: 1.5rem; /* Increased gap */
     }
 
     .categories button {
-      padding: 0.75rem 1.5rem;
-      background: none;
-      border: 1px solid #ddd;
+      padding: 0.75rem 1.5rem; /* Slightly larger buttons */
+      background-color: transparent;
+      border: 1px solid var(--text-secondary);
       color: var(--text-secondary);
       cursor: pointer;
-      border-radius: 50px;
+      border-radius: 30px; /* More rounded buttons */
       font-size: 1rem;
-      font-weight: 500;
-      transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+      font-weight: 400; /* Lighter font weight */
+      transition: all 0.2s ease-in-out;
     }
 
     .categories button.active,
     .categories button:hover {
-      background: var(--accent-color);
-      color: #fff;
+      background-color: var(--accent-color);
+      color: white;
       border-color: var(--accent-color);
-      transform: translateY(-3px);
     }
 
+    /* Grid Layout */
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 2rem;
-      padding: 3rem 2rem;
-      max-width: 1600px;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Slightly larger min width */
+      gap: 2rem; /* Increased gap */
+      padding: 3rem; /* Increased padding */
+      max-width: 1500px; /* Wider max width */
       margin: 0 auto;
-      transition: grid-template-columns 0.3s ease;
     }
 
     .card {
-      background: var(--card-bg);
+      background-color: var(--card-bg);
       border-radius: var(--border-radius);
       overflow: hidden;
-      box-shadow: 0 4px 6px var(--shadow-color);
-      transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+      box-shadow: var(--shadow-color);
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
       cursor: pointer;
       position: relative;
     }
 
     .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 12px 24px var(--shadow-color);
+      transform: scale(1.04); /* Slightly more pronounced hover scale */
+      box-shadow: 0 10px 20px var(--shadow-color); /* Increased shadow on hover */
     }
 
     .card img {
       width: 100%;
-      height: 200px;
+      height: 100%;
       object-fit: cover;
-      transition: transform 0.3s ease;
+      aspect-ratio: 4 / 5; /* Slightly more vertical aspect ratio */
+      display: block;
+      transition: opacity 0.3s ease-in-out; /* Fade-in effect for images */
     }
 
     .card img:hover {
-      transform: scale(1.05);
+      opacity: 0.95; /* Subtle image hover effect */
     }
 
     .card .info {
-      padding: 1.5rem;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 1.5rem; /* Increased padding */
+      text-align: left; /* Align info text to the left */
     }
 
     .card .info h3 {
-      margin: 0 0 0.75rem;
-      font-size: 1.1rem;
-      line-height: 1.4;
-      font-weight: 500;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
+      margin: 0;
+      font-size: 1.1rem; /* Slightly larger title */
+      font-weight: 600;
+      color: var(--text-primary);
+      line-height: 1.3;
       overflow: hidden;
-      color: var(--primary-color);
+      text-overflow: ellipsis;
+      display: -webkit-box; /* For line clamping */
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
     }
 
     .card .upvotes {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.25rem;
-      padding: 0.25rem 0.5rem;
-      background: rgba(0, 122, 255, 0.1);
-      border-radius: 12px;
-      color: var(--accent-color);
-      font-size: 0.9rem;
+      display: none; /* Still hidden */
     }
 
-    /* Detail overlay */
+    /* Detail Overlay */
     .overlay {
       display: none;
       position: fixed;
@@ -151,12 +155,13 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background: rgba(0, 0, 0, 0.6);
-      backdrop-filter: blur(8px);
+      background-color: var(--overlay-bg);
+      backdrop-filter: blur(15px); /* Stronger blur */
       justify-content: center;
       align-items: center;
       padding: 2rem;
       z-index: 2000;
+      overflow: auto; /* Enable scroll for long detail content */
     }
 
     .overlay.active {
@@ -165,70 +170,80 @@
     }
 
     .detail {
-      background: var(--card-bg);
-      border-radius: 24px;
+      background-color: var(--card-bg);
+      border-radius: 24px; /* More rounded detail view */
       width: 100%;
-      max-width: 800px;
-      max-height: 90vh;
+      max-width: 900px; /* Wider detail view */
+      max-height: 90%; /* Slightly shorter max height to ensure close button is visible */
       overflow-y: auto;
       position: relative;
-      padding: 2.5rem;
+      padding: 3rem; /* Increased padding */
     }
 
     .detail img {
       width: 100%;
-      height: 400px;
+      height: auto;
+      aspect-ratio: 16 / 9;
       object-fit: cover;
       border-radius: 12px;
-      margin-bottom: 1.5rem;
+      margin-bottom: 2rem; /* Increased margin */
+      box-shadow: 0 6px 12px var(--shadow-color); /* Subtle shadow on detail image */
     }
 
     .detail h2 {
-      margin: 0 0 1rem;
-      font-size: 1.75rem;
-      line-height: 1.3;
-      font-weight: 600;
+      font-family: var(--font-heading);
+      margin: 0 0 0.75rem;
+      font-size: 2.2rem; /* Larger detail title */
+      font-weight: 700;
+      line-height: 1.2;
       color: var(--primary-color);
     }
 
     .detail .meta {
       color: var(--text-secondary);
-      font-size: 0.95rem;
-      margin-bottom: 1.5rem;
+      font-size: 1rem; /* Slightly larger meta text */
+      margin-bottom: 2rem; /* Increased margin */
+      display: block; /* Ensure meta takes full width */
+    }
+
+    .detail .meta span {
+      margin-right: 1.5rem; /* Spacing between meta items */
     }
 
     .meter {
-      margin: 1.5rem 0;
+      margin: 2rem 0; /* Increased margin */
     }
 
     .meter label {
       display: block;
       margin-bottom: 0.5rem;
-      font-size: 0.9rem;
+      font-size: 0.95rem;
       color: var(--text-secondary);
     }
 
     meter {
       width: 100%;
-      height: 8px;
+      height: 8px; /* Slightly thicker meter */
       -webkit-appearance: none;
       appearance: none;
-      background: #eee;
+      background-color: #e8e8e8; /* Even lighter meter background */
       border-radius: 4px;
       overflow: hidden;
     }
 
     meter::-webkit-meter-optimum-value {
-      background: linear-gradient(90deg, #ff3b30 0%, #34c759 100%);
+      background-color: var(--accent-color);
     }
 
     .comments {
-      margin-top: 2rem;
+      margin-top: 2.5rem; /* Increased margin */
     }
 
     .comments h3 {
+      font-family: var(--font-heading);
       margin: 0 0 1.5rem;
-      font-size: 1.2rem;
+      font-size: 1.5rem; /* Larger comments title */
+      font-weight: 600;
       color: var(--primary-color);
     }
 
@@ -237,37 +252,41 @@
       padding: 0;
       margin: 0;
       display: grid;
-      gap: 1rem;
+      gap: 1.25rem; /* Increased gap */
     }
 
     .comment-item {
-      padding: 1rem;
-      background: #f5f5f7;
+      padding: 1.25rem; /* Increased padding */
+      background-color: #f2f2f2; /* Even lighter comment background */
       border-radius: 12px;
-      font-size: 0.95rem;
+      font-size: 1rem; /* Slightly larger comment text */
       line-height: 1.5;
+      color: var(--text-primary);
     }
 
     .close-btn {
       position: absolute;
-      top: 1.5rem;
-      right: 1.5rem;
-      width: 40px;
-      height: 40px;
+      top: 2rem; /* Adjusted position */
+      right: 2rem;
+      width: 36px; /* Slightly larger close button */
+      height: 36px;
       border: none;
-      background: #f5f5f7;
+      background-color: rgba(255, 255, 255, 0.8); /* More opaque close button */
       border-radius: 50%;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: background 0.2s;
-      font-size: 1.5rem;
+      transition: background-color 0.2s ease-in-out;
+      font-size: 1.4rem;
       line-height: 1;
+      color: var(--primary-color);
+      opacity: 0.8; /* Slightly less opaque initially */
     }
 
     .close-btn:hover {
-      background: #ebebed;
+      background-color: rgba(255, 255, 255, 1);
+      opacity: 1; /* Fully opaque on hover */
     }
 
     @keyframes fadeIn {
@@ -275,25 +294,83 @@
       to { opacity: 1; }
     }
 
-    /* Sticky Footer */
+    /* Footer */
     footer {
-      background: rgba(255, 255, 255, 0.8);
-      backdrop-filter: blur(10px);
+      background-color: var(--bg-color);
       text-align: center;
-      padding: 1rem;
+      padding: 1.5rem; /* Increased padding */
       font-size: 0.9rem;
       color: var(--text-secondary);
-      box-shadow: 0 -2px 10px var(--shadow-color);
-      position: sticky;
-      bottom: 0;
-      z-index: 1000;
-      border-top: 1px solid rgba(0,0,0,0.05);
+      border-top: 1px solid rgba(0,0,0,0.03);
+    }
+
+    /* Image Loading State */
+    .card img {
+      opacity: 0; /* Initially hidden */
+    }
+
+    .card img.loaded {
+      opacity: 1; /* Fade in when loaded */
+    }
+
+
+    /* Responsive Adjustments */
+    @media (max-width: 768px) {
+      header {
+        padding: 1.5rem;
+        flex-direction: column; /* Stack header elements on mobile */
+        text-align: center;
+      }
+      header h1 {
+        margin-bottom: 0.5rem; /* Add margin below title in mobile header */
+      }
+      .categories {
+        justify-content: center;
+        gap: 0.75rem; /* Smaller gap on mobile */
+      }
+      .categories button {
+        padding: 0.6rem 1.2rem; /* Slightly smaller buttons on mobile */
+        font-size: 0.9rem;
+      }
+      .grid {
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); /* Smaller cards on mobile */
+        padding: 2rem;
+        gap: 1.5rem; /* Smaller gap on mobile */
+      }
+      .detail {
+        padding: 2rem;
+      }
+      .detail img {
+        aspect-ratio: 1 / 1; /* Square detail image on mobile */
+        margin-bottom: 1.5rem;
+      }
+      .detail h2 {
+        font-size: 2rem; /* Slightly smaller detail title on mobile */
+      }
+      .detail .meta {
+        font-size: 0.9rem; /* Smaller meta text on mobile */
+        margin-bottom: 1.5rem;
+      }
+      .comments h3 {
+        font-size: 1.3rem; /* Smaller comments title on mobile */
+      }
+      .comment-item {
+        padding: 1rem; /* Smaller comment padding on mobile */
+        font-size: 0.9rem; /* Smaller comment text on mobile */
+      }
+      .close-btn {
+        top: 1.5rem; /* Adjusted close button position on mobile */
+        right: 1.5rem;
+        width: 32px; /* Slightly smaller close button on mobile */
+        height: 32px;
+        font-size: 1.3rem; /* Smaller close icon on mobile */
+      }
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>Abstract Gallery</h1>
+    <h1>Lumin Gallery</h1>
     <div class="categories">
       <button data-category="HOT" class="active">Hot</button>
       <button data-category="NEW">New</button>
@@ -306,17 +383,17 @@
   <!-- Detail overlay (modal) -->
   <div class="overlay" id="overlay">
     <div class="detail" id="detail">
-      <button class="close-btn" id="closeBtn">&times;</button>
+      <button class="close-btn" id="closeBtn">×</button>
       <img id="detailImage" src="" alt="Thumbnail">
       <h2 id="detailTitle"></h2>
       <p class="meta" id="detailMeta"></p>
       <div class="meter">
-        <label for="sentimentMeter">Aggregate Sentiment:</label>
+        <label for="sentimentMeter">Sentiment Score:</label>
         <meter id="sentimentMeter" min="0" max="100" low="25" high="75" optimum="50" value="0"></meter>
         <span id="sentimentValue"></span>
       </div>
       <div class="comments">
-        <h3>Comments</h3>
+        <h3>Top Comments</h3>
         <ul id="commentsList" class="comment-list"></ul>
       </div>
     </div>
@@ -327,8 +404,7 @@
   </footer>
 
   <script>
-    // Change DATA_URL to your JSON endpoint or embed the JSON data
-    const DATA_URL = 'data.json';
+    const DATA_URL = 'data.json'; // Keep data URL
 
     let allPosts = [];
     let lastUpdated = '';
@@ -339,43 +415,46 @@
         const data = await res.json();
         allPosts = data.posts;
         lastUpdated = data.last_updated;
-        // Update footer with last updated info
         document.getElementById('lastUpdatedFooter').innerText = `Last updated: ${lastUpdated}`;
-        renderGrid('HOT'); // default category
+        renderGrid('HOT');
       } catch (error) {
         console.error('Error fetching data:', error);
+        document.getElementById('grid').innerHTML = '<p style="text-align:center; width:100%;">Failed to load art. Please check your connection.</p>'; // User-friendly error message
       }
     }
 
     function renderGrid(category) {
       const grid = document.getElementById('grid');
       grid.innerHTML = '';
-      // Filter posts by category
       const filtered = allPosts.filter(post => post.category === category);
       if (filtered.length === 0) {
-        grid.innerHTML = '<p style="text-align:center; width:100%;">No posts available.</p>';
+        grid.innerHTML = '<p style="text-align:center; width:100%;">No art available in this category.</p>';
         return;
       }
-      // Calculate max upvotes to scale cards
-      const maxUpvotes = Math.max(...filtered.map(p => p.upvotes));
+
       filtered.forEach(post => {
         const card = document.createElement('div');
         card.className = 'card';
-        const scale = 1 + (post.upvotes / maxUpvotes) * 0.2;
-        card.style.transform = `scale(${scale})`;
         card.innerHTML = `
-          <img src="${post.thumbnail}" alt="Thumbnail">
+          <img src="${post.thumbnail}" alt="${post.title}">
           <div class="info">
             <h3>${post.title}</h3>
-            <p class="upvotes">${post.upvotes} upvotes</p>
           </div>
         `;
+        const imgElement = card.querySelector('img');
+        imgElement.addEventListener('load', () => {
+          imgElement.classList.add('loaded'); // Add loaded class after image is loaded for fade-in
+        });
+        imgElement.addEventListener('error', () => {
+          imgElement.src = 'placeholder-image.png'; // Fallback placeholder image if loading fails
+          imgElement.classList.add('loaded'); // Still mark as loaded to avoid repeated errors
+        });
+
         card.addEventListener('click', () => showDetail(post));
         grid.appendChild(card);
       });
     }
 
-    // Category button events
     document.querySelectorAll('.categories button').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.categories button').forEach(b => b.classList.remove('active'));
@@ -385,13 +464,23 @@
     });
 
     function showDetail(post) {
-      document.getElementById('detailImage').src = post.thumbnail;
+      const detailImage = document.getElementById('detailImage');
+      detailImage.src = post.thumbnail;
+      detailImage.onload = () => {
+        detailImage.classList.add('loaded'); // Fade in detail image
+      };
+      detailImage.onerror = () => {
+        detailImage.src = 'placeholder-detail.png'; // Placeholder for detail image
+        detailImage.classList.add('loaded');
+      };
+
+
       document.getElementById('detailTitle').innerText = post.title;
-      document.getElementById('detailMeta').innerText = `Upvotes: ${post.upvotes} | Date: ${post.date}`;
+      document.getElementById('detailMeta').innerText = `Uploaded: ${post.date} <span>Upvotes: ${post.upvotes}</span>`; // Meta with spans for spacing
       const meter = document.getElementById('sentimentMeter');
       const sentimentVal = post.aggregate_sentiment !== null ? post.aggregate_sentiment : 0;
       meter.value = sentimentVal;
-      document.getElementById('sentimentValue').innerText = sentimentVal ? sentimentVal.toFixed(2) : 'N/A';
+      document.getElementById('sentimentValue').innerText = sentimentVal ? `${sentimentVal.toFixed(0)}/100` : 'N/A';
       const commentsList = document.getElementById('commentsList');
       commentsList.innerHTML = '';
       post.top_comments.forEach(comment => {
@@ -401,13 +490,14 @@
         commentsList.appendChild(li);
       });
       document.getElementById('overlay').classList.add('active');
+      window.scrollTo(0, 0); // Scroll to top of overlay for better UX
     }
 
     document.getElementById('closeBtn').addEventListener('click', () => {
       document.getElementById('overlay').classList.remove('active');
+      document.getElementById('detailImage').classList.remove('loaded'); // Reset detail image opacity for next open
     });
 
-    // Initialize data fetch
     fetchData();
   </script>
 </body>
