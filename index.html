@@ -6,22 +6,30 @@
   <title>Lumin Gallery</title> <!-- App Name: Lumin Gallery -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Nunito+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto+Slab:wght@400;700&family=Nunito+Sans:wght@400;600&display=swap" rel="stylesheet">
   <style>
     :root {
       --primary-color: #222222; /* Deep Charcoal */
-      --accent-color: #FFD700; /* Muted Gold */
+      --accent-color: #FFD700; /* Gold */
       --bg-color: #f8f8f8; /* Very Light Gray */
       --card-bg: #ffffff; /* White */
       --text-primary: var(--primary-color);
-      --text-secondary: #888888; /* Medium Gray */
-      --border-radius: 16px; /* Slightly More Rounded */
-      --shadow-color: rgba(0, 0, 0, 0.06); /* Even Subtler Shadow */
-      --overlay-bg: rgba(15, 15, 15, 0.9); /* Deeper Overlay */
-      --font-heading: 'Playfair Display', serif;
-      --font-body: 'Nunito Sans', sans-serif;
-      --high-upvote-border-color: var(--accent-color); /* Border color for high upvote posts */
+      --text-secondary: #777777; /* Slightly Darker Medium Gray */
+      --border-radius: 12px; /* Slightly Less Rounded */
+      --shadow-color: rgba(0, 0, 0, 0.05); /* Even Subtler Shadow */
+      --overlay-bg: rgba(15, 15, 15, 0.92); /* Slightly More Opaque Overlay */
+      --font-heading: 'Lora', serif; /* Elegant Serif for Headings */
+      --font-subheading: 'Roboto Slab', serif; /* Strong Slab Serif for Sub-headings */
+      --font-body: 'Nunito Sans', sans-serif; /* Clean Sans-serif for Body */
+      --category-font: "Neue Haas Grotesk Text Pro", sans-serif; /* Category Button Font (if you have it locally or linked) */
     }
+
+    /* If you don't have "Neue Haas Grotesk Text Pro" locally, fallback to a system font like Arial or Helvetica */
+    @font-face {
+        font-family: 'Neue Haas Grotesk Text Pro';
+        src: local('Neue Haas Grotesk Text Pro'), local('Helvetica Neue'), local('Arial'), url('path-to-your-font/NeueHaasGroteskTextPro.woff2') format('woff2'); /* Replace 'path-to-your-font/...' with the actual path if you have the font file */
+    }
+
 
     /* Reset & Basic Styling */
     *, *::before, *::after {
@@ -34,7 +42,7 @@
       font-family: var(--font-body);
       background-color: var(--bg-color);
       color: var(--text-primary);
-      line-height: 1.6;
+      line-height: 1.7; /* Slightly increased line height for body text readability */
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
     }
@@ -45,39 +53,40 @@
       position: sticky;
       top: 0;
       z-index: 1000;
-      padding: 2rem 3rem; /* Increased padding */
-      border-bottom: 1px solid rgba(0,0,0,0.03); /* Even lighter border */
+      padding: 2.2rem 3rem; /* Adjusted Header Padding */
+      border-bottom: 1px solid rgba(0,0,0,0.04); /* Even lighter border */
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
 
     header h1 {
-      font-family: var(--font-heading);
-      font-size: 1.8rem; /* Slightly larger, more elegant title */
+      font-family: var(--font-heading); /* Lora for Main Title */
+      font-size: 2rem; /* Slightly Larger Title */
       font-weight: 700;
-      letter-spacing: -1px;
+      letter-spacing: -1.2px; /* Tighter Letter Spacing */
       color: var(--primary-color);
     }
 
     .categories {
       display: flex;
-      gap: 0.5rem; /* Reduced gap for square buttons */
+      gap: 0.6rem; /* Adjusted Category Button Gap */
     }
 
     .categories button {
-      padding: 0.75rem 1rem; /* Adjusted padding for square buttons */
+      padding: 0.8rem 1.2rem; /* Adjusted Category Button Padding */
       background-color: transparent;
       border: 1px solid var(--text-secondary);
       color: var(--text-secondary);
       cursor: pointer;
-      border-radius: 0; /* Square buttons */
-      font-size: 1rem;
-      font-weight: 600; /* Slightly bolder font for square buttons */
-      font-family: "Neue Haas Grotesk Text Pro", sans-serif;
+      border-radius: 0; /* Square Buttons */
+      font-size: 0.95rem; /* Slightly Smaller Category Button Text */
+      font-weight: 600;
+      font-family: var(--category-font), sans-serif; /* Neue Haas Grotesk or fallback */
+      letter-spacing: 0.2px; /* Slight letter spacing for category buttons */
       transition: all 0.2s ease-in-out;
-      text-align: center; /* Center text in square buttons */
-      min-width: 80px; /* Minimum width for square buttons */
+      text-align: center;
+      min-width: 75px; /* Adjusted min-width */
     }
 
     .categories button.active,
@@ -90,10 +99,10 @@
     /* Grid Layout */
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Slightly larger min width */
-      gap: 2rem; /* Increased gap */
-      padding: 3rem; /* Increased padding */
-      max-width: 1500px; /* Wider max width */
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); /* Slightly wider min-width cards */
+      gap: 2.2rem; /* Adjusted Grid Gap */
+      padding: 3.2rem; /* Adjusted Grid Padding */
+      max-width: 1550px; /* Slightly Wider Max Width */
       margin: 0 auto;
     }
 
@@ -108,55 +117,56 @@
     }
 
     .card:hover {
-      transform: scale(1.04); /* Slightly more pronounced hover scale */
-      box-shadow: 0 10px 20px var(--shadow-color); /* Increased shadow on hover */
+      transform: scale(1.03); /* Slightly less hover scale */
+      box-shadow: 0 8px 16px var(--shadow-color); /* Slightly reduced hover shadow */
     }
 
     .card img {
       width: 100%;
       height: 100%;
       object-fit: cover;
-      aspect-ratio: 4 / 5; /* Slightly more vertical aspect ratio */
+      aspect-ratio: 4 / 5;
       display: block;
-      transition: opacity 0.3s ease-in-out; /* Fade-in effect for images */
+      transition: opacity 0.3s ease-in-out;
     }
 
     .card img:hover {
-      opacity: 0.95; /* Subtle image hover effect */
+      opacity: 0.94; /* Slightly more pronounced image hover opacity */
     }
 
     /* High Upvote Border Style */
     .card img.high-upvotes {
-      border: 6px solid var(--high-upvote-border-color); /* Thicker border for high upvote images */
-      border-radius: var(--border-radius); /* Maintain border radius */
-      box-sizing: border-box; /* Include border in element's total width and height */
+      border: 5px solid var(--accent-color); /* Adjusted high upvote border thickness */
+      border-radius: var(--border-radius);
+      box-sizing: border-box;
     }
-
 
     .card .info {
       position: absolute;
       bottom: 0;
       left: 0;
       right: 0;
-      padding: 1.5rem; /* Increased padding */
-      text-align: left; /* Align info text to the left */
+      padding: 1.6rem; /* Adjusted Card Info Padding */
+      text-align: left;
     }
 
     .card .info h3 {
       margin: 0;
-      font-size: 1.1rem; /* Slightly larger title */
+      font-size: 1.15rem; /* Slightly larger card title */
       font-weight: 600;
-      color: white; /* Card Title made WHITE */
+      color: white;
       line-height: 1.3;
       overflow: hidden;
       text-overflow: ellipsis;
-      display: -webkit-box; /* For line clamping */
+      display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
+      font-family: var(--font-subheading); /* Roboto Slab for Card Subheadings */
+      letter-spacing: -0.4px; /* Tighter letter spacing for card titles */
     }
 
     .card .upvotes {
-      display: none; /* Still hidden */
+      display: none;
     }
 
     /* Detail Overlay */
@@ -168,12 +178,12 @@
       right: 0;
       bottom: 0;
       background-color: var(--overlay-bg);
-      backdrop-filter: blur(15px); /* Stronger blur */
+      backdrop-filter: blur(18px); /* Slightly Stronger Blur */
       justify-content: center;
       align-items: center;
-      padding: 2rem;
+      padding: 2.2rem; /* Adjusted Overlay Padding */
       z-index: 2000;
-      overflow: auto; /* Enable scroll for long detail content */
+      overflow: auto;
     }
 
     .overlay.active {
@@ -183,13 +193,13 @@
 
     .detail {
       background-color: var(--card-bg);
-      border-radius: 24px; /* More rounded detail view */
+      border-radius: 20px; /* Slightly less rounded detail view */
       width: 100%;
-      max-width: 900px; /* Wider detail view */
-      max-height: 90%; /* Slightly shorter max height to ensure close button is visible */
+      max-width: 950px; /* Slightly Wider Detail View */
+      max-height: 92%; /* Adjusted max height */
       overflow-y: auto;
       position: relative;
-      padding: 3rem; /* Increased padding */
+      padding: 3.2rem; /* Adjusted Detail Padding */
     }
 
     .detail img {
@@ -197,55 +207,55 @@
       height: auto;
       aspect-ratio: 16 / 9;
       object-fit: cover;
-      border-radius: 12px;
-      margin-bottom: 2rem; /* Increased margin */
-      box-shadow: 0 6px 12px var(--shadow-color); /* Subtle shadow on detail image */
+      border-radius: 10px; /* Slightly less rounded detail image */
+      margin-bottom: 2.2rem; /* Adjusted Detail Image Margin */
+      box-shadow: 0 7px 14px var(--shadow-color); /* Slightly increased detail image shadow */
     }
 
     .detail h2 {
-      font-family: var(--font-heading);
-      margin: 0 0 0.75rem;
-      font-size: 2.2rem; /* Larger detail title */
+      font-family: var(--font-heading); /* Lora for Detail Title */
+      margin: 0 0 0.8rem; /* Adjusted Detail Title Margin */
+      font-size: 2.5rem; /* Larger Detail Title */
       font-weight: 700;
-      line-height: 1.2;
+      line-height: 1.15; /* Tighter Line Height for Detail Title */
+      letter-spacing: -1.5px; /* Even Tighter Letter Spacing for Detail Title */
       color: var(--primary-color);
     }
 
     .detail .meta {
       color: var(--text-secondary);
-      font-size: 1rem; /* Slightly larger meta text */
-      margin-bottom: 2rem; /* Increased margin */
-      display: block; /* Ensure meta takes full width */
+      font-size: 1rem;
+      margin-bottom: 2.2rem; /* Adjusted Detail Meta Margin */
+      display: block;
     }
 
     .detail .meta span {
-      margin-right: 1.5rem; /* Spacing between meta items */
+      margin-right: 1.6rem; /* Adjusted Meta Span Margin */
     }
 
     .meter {
-      margin: 2rem 0; /* Increased margin */
+      margin: 2.2rem 0; /* Adjusted Meter Margin */
     }
 
     .meter label {
       display: block;
-      margin-bottom: 0.5rem;
-      font-size: 0.95rem;
+      margin-bottom: 0.6rem; /* Adjusted Meter Label Margin */
+      font-size: 0.9rem; /* Slightly smaller meter label */
       color: var(--text-secondary);
     }
 
-    /* Progress Bar Styling */
+    /* Progress Bar Styling - No Changes Needed Here (Already Good) */
     progress {
       width: 100%;
-      height: 12px; /* Slightly thicker progress bar */
+      height: 12px;
       -webkit-appearance: none;
       appearance: none;
       border: none;
-      border-radius: 6px; /* Rounded progress bar */
-      background-color: #e0e0e0; /* Light gray track color */
-      overflow: hidden; /* Ensure consistent border-radius */
+      border-radius: 6px;
+      background-color: #e0e0e0;
+      overflow: hidden;
     }
 
-    /* Chrome, Safari */
     progress::-webkit-progress-bar {
       background-color: #e0e0e0;
       border-radius: 6px;
@@ -254,27 +264,27 @@
     progress::-webkit-progress-value {
       background-color: var(--accent-color);
       border-radius: 6px;
-      transition: width 0.4s ease; /* Smooth progress animation */
+      transition: width 0.4s ease;
     }
 
-    /* Firefox */
     progress::-moz-progress-bar {
       background-color: var(--accent-color);
       border-radius: 6px;
-      transition: width 0.4s ease; /* Smooth progress animation */
+      transition: width 0.4s ease;
     }
 
 
     .comments {
-      margin-top: 2.5rem; /* Increased margin */
+      margin-top: 2.8rem; /* Adjusted Comments Margin */
     }
 
     .comments h3 {
-      font-family: var(--font-heading);
-      margin: 0 0 1.5rem;
-      font-size: 1.5rem; /* Larger comments title */
-      font-weight: 600;
+      font-family: var(--font-subheading); /* Roboto Slab for Comments Title */
+      margin: 0 0 1.6rem; /* Adjusted Comments Title Margin */
+      font-size: 1.4rem; /* Slightly smaller comments title */
+      font-weight: 700;
       color: var(--primary-color);
+      letter-spacing: -0.3px; /* Tighter letter spacing for comments title */
     }
 
     .comment-list {
@@ -282,41 +292,41 @@
       padding: 0;
       margin: 0;
       display: grid;
-      gap: 1.25rem; /* Increased gap */
+      gap: 1.4rem; /* Adjusted Comment List Gap */
     }
 
     .comment-item {
-      padding: 1.25rem; /* Increased padding */
-      background-color: #f2f2f2; /* Even lighter comment background */
-      border-radius: 12px;
-      font-size: 1rem; /* Slightly larger comment text */
-      line-height: 1.5;
+      padding: 1.4rem; /* Adjusted Comment Item Padding */
+      background-color: #f2f2f2;
+      border-radius: 10px; /* Slightly less rounded comment item */
+      font-size: 0.95rem; /* Slightly smaller comment text */
+      line-height: 1.6; /* Adjusted comment line height */
       color: var(--text-primary);
-      font-family: 'Playfair Display', serif; /* BETTER FONT for comments */
+      font-family: var(--font-body); /* Nunito Sans for Comments Text (Body font for comments) */
     }
 
     .close-btn {
       position: absolute;
-      top: 2rem; /* Adjusted position */
-      right: 2rem;
-      width: 45px; /* LARGER close button */
-      height: 45px; /* LARGER close button */
+      top: 2.2rem; /* Adjusted Close Button Position */
+      right: 2.2rem;
+      width: 42px; /* Slightly smaller close button */
+      height: 42px; /* Slightly smaller close button */
       border: none;
-      background-color: rgba(255, 255, 255, 0.8); /* More opaque close button */
+      background-color: rgba(255, 255, 255, 0.85); /* Slightly more opaque close button background */
       border-radius: 50%;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: background-color 0.2s ease-in-out;
-      font-size: 1.6rem; /* LARGER close button ICON */
+      transition: background-color 0.2s ease-in-out, opacity 0.2s ease-in-out; /* Added opacity transition */
+      font-size: 1.5rem; /* Slightly smaller close button icon */
       line-height: 1;
       color: var(--primary-color);
-      opacity: 0.8; /* Slightly less opaque initially */
+      opacity: 0.75; /* Slightly less opaque initially */
     }
 
     .close-btn:hover {
-      background-color: rgba(255, 255, 255, 1);
+      background-color: rgba(255, 255, 255, 0.95); /* Slightly more opaque on hover */
       opacity: 1; /* Fully opaque on hover */
     }
 
@@ -329,72 +339,79 @@
     footer {
       background-color: var(--bg-color);
       text-align: center;
-      padding: 1.5rem; /* Increased padding */
-      font-size: 0.9rem;
+      padding: 1.6rem; /* Adjusted Footer Padding */
+      font-size: 0.85rem; /* Slightly smaller footer text */
       color: var(--text-secondary);
-      border-top: 1px solid rgba(0,0,0,0.03);
+      border-top: 1px solid rgba(0,0,0,0.04); /* Even lighter footer border */
     }
 
-    /* Image Loading State */
+    /* Image Loading State - No Changes Needed */
     .card img {
-      opacity: 0; /* Initially hidden */
+      opacity: 0;
     }
 
     .card img.loaded {
-      opacity: 1; /* Fade in when loaded */
+      opacity: 1;
     }
 
 
     /* Responsive Adjustments */
     @media (max-width: 768px) {
       header {
-        padding: 1.5rem;
-        flex-direction: column; /* Stack header elements on mobile */
+        padding: 1.6rem;
+        flex-direction: column;
         text-align: center;
       }
       header h1 {
-        margin-bottom: 0.5rem; /* Add margin below title in mobile header */
+        margin-bottom: 0.6rem;
+        font-size: 1.7rem; /* Slightly smaller mobile header title */
       }
       .categories {
         justify-content: center;
-        gap: 0.75rem; /* Smaller gap on mobile */
+        gap: 0.5rem;
       }
       .categories button {
-        padding: 0.6rem 1.2rem; /* Slightly smaller buttons on mobile */
+        padding: 0.65rem 1rem; /* Smaller mobile category buttons */
         font-size: 0.9rem;
       }
       .grid {
-        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); /* Smaller cards on mobile */
-        padding: 2rem;
-        gap: 1.5rem; /* Smaller gap on mobile */
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); /* Smaller mobile cards */
+        padding: 2.2rem;
+        gap: 1.7rem; /* Smaller mobile grid gap */
       }
       .detail {
-        padding: 2rem;
+        padding: 2.2rem;
       }
       .detail img {
-        aspect-ratio: 1 / 1; /* Square detail image on mobile */
-        margin-bottom: 1.5rem;
+        aspect-ratio: 1 / 1;
+        margin-bottom: 1.7rem;
+        border-radius: 8px; /* Smaller mobile detail image border-radius */
       }
       .detail h2 {
-        font-size: 2rem; /* Slightly smaller detail title on mobile */
+        font-size: 2.1rem; /* Smaller mobile detail title */
+        margin-bottom: 0.6rem;
       }
       .detail .meta {
-        font-size: 0.9rem; /* Smaller meta text on mobile */
-        margin-bottom: 1.5rem;
+        font-size: 0.9rem;
+        margin-bottom: 1.7rem;
       }
       .comments h3 {
-        font-size: 1.3rem; /* Smaller comments title on mobile */
+        font-size: 1.2rem; /* Smaller mobile comments title */
+        margin-bottom: 1.2rem;
+      }
+      .comment-list {
+        gap: 1rem; /* Smaller mobile comment list gap */
       }
       .comment-item {
-        padding: 1rem; /* Smaller comment padding on mobile */
-        font-size: 0.9rem; /* Smaller comment text on mobile */
+        padding: 1rem; /* Smaller mobile comment item padding */
+        font-size: 0.9rem;
       }
       .close-btn {
-        top: 1.5rem; /* Adjusted close button position on mobile */
-        right: 1.5rem;
-        width: 32px; /* Slightly smaller close button on mobile */
-        height: 32px; /* Slightly smaller close button on mobile */
-        font-size: 1.3rem; /* Smaller close icon on mobile */
+        top: 1.7rem; /* Adjusted mobile close button position */
+        right: 1.7rem;
+        width: 30px; /* Even smaller mobile close button */
+        height: 30px; /* Even smaller mobile close button */
+        font-size: 1.2rem; /* Even smaller mobile close icon */
       }
     }
   </style>
@@ -438,7 +455,7 @@
 
     let allPosts = [];
     let lastUpdated = '';
-    let averageUpvotes = 0; // Variable to store average upvotes
+    let averageUpvotes = 0;
 
     async function fetchData() {
       try {
@@ -451,12 +468,12 @@
         // Calculate average upvotes
         const totalUpvotes = allPosts.reduce((sum, post) => sum + post.upvotes, 0);
         averageUpvotes = totalUpvotes / allPosts.length;
-        console.log("Average Upvotes:", averageUpvotes); // Log average upvotes
+        console.log("Average Upvotes:", averageUpvotes);
 
         renderGrid('HOT');
       } catch (error) {
         console.error('Error fetching data:', error);
-        document.getElementById('grid').innerHTML = '<p style="text-align:center; width:100%;">Failed to load art. Please check your connection.</p>'; // User-friendly error message
+        document.getElementById('grid').innerHTML = '<p style="text-align:center; width:100%;">Failed to load art. Please check your connection.</p>';
       }
     }
 
@@ -480,17 +497,16 @@
         `;
         const imgElement = card.querySelector('img');
 
-        // Apply high-upvotes class if upvotes are above average
         if (post.upvotes > averageUpvotes) {
           imgElement.classList.add('high-upvotes');
         }
 
         imgElement.addEventListener('load', () => {
-          imgElement.classList.add('loaded'); // Add loaded class after image is loaded for fade-in
+          imgElement.classList.add('loaded');
         });
         imgElement.addEventListener('error', () => {
-          imgElement.src = 'placeholder-image.jpg'; // Fallback placeholder image if loading fails
-          imgElement.classList.add('loaded'); // Still mark as loaded to avoid repeated errors
+          imgElement.src = 'placeholder-image.jpg';
+          imgElement.classList.add('loaded');
         });
 
         card.addEventListener('click', () => showDetail(post));
@@ -510,26 +526,26 @@
       const detailImage = document.getElementById('detailImage');
       detailImage.src = post.thumbnail;
       detailImage.onload = () => {
-        detailImage.classList.add('loaded'); // Fade in detail image
+        detailImage.classList.add('loaded');
       };
       detailImage.onerror = () => {
-        detailImage.src = 'placeholder-detail.png'; // Placeholder for detail image
+        detailImage.src = 'placeholder-detail.png';
         detailImage.classList.add('loaded');
       };
 
       const detailImageLink = document.getElementById('detailImageLink');
-      detailImageLink.href = post.external_url; // Set link for detail image
+      detailImageLink.href = post.external_url;
 
       document.getElementById('detailTitle').innerText = post.title;
-      document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`; // Meta with spans for spacing and bold upvotes
+      document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`;
 
-      const sentimentBar = document.getElementById('sentimentBar'); // Changed ID to sentimentBar
+      const sentimentBar = document.getElementById('sentimentBar');
       let sentimentVal = post.aggregate_sentiment !== null ? parseFloat(post.aggregate_sentiment) : 0;
       if (isNaN(sentimentVal)) {
         sentimentVal = 0;
         console.warn("Sentiment value is NaN, defaulting to 0.");
       }
-      sentimentBar.value = sentimentVal; // Set value for progress bar
+      sentimentBar.value = sentimentVal;
 
       document.getElementById('sentimentValue').innerText = sentimentVal ? `${sentimentVal.toFixed(0)}/100` : 'N/A';
       const commentsList = document.getElementById('commentsList');
@@ -541,22 +557,20 @@
         commentsList.appendChild(li);
       });
       document.getElementById('overlay').classList.add('active');
-      window.scrollTo(0, 0); // Scroll to top of overlay for better UX
+      window.scrollTo(0, 0);
     }
 
     document.getElementById('closeBtn').addEventListener('click', () => {
       document.getElementById('overlay').classList.remove('active');
-      document.getElementById('detailImage').classList.remove('loaded'); // Reset detail image opacity for next open
+      document.getElementById('detailImage').classList.remove('loaded');
     });
 
-    // Close overlay when clicking outside the detail box
     document.getElementById('overlay').addEventListener('click', function(event) {
-      if (event.target === this) { // 'this' refers to the overlay element
+      if (event.target === this) {
         document.getElementById('overlay').classList.remove('active');
-        document.getElementById('detailImage').classList.remove('loaded'); // Reset detail image opacity for next open
+        document.getElementById('detailImage').classList.remove('loaded');
       }
     });
-
 
     fetchData();
   </script>
