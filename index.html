@@ -343,7 +343,32 @@
       font-size: 0.85rem; /* Slightly smaller footer text */
       color: var(--text-secondary);
       border-top: 1px solid rgba(0,0,0,0.04); /* Even lighter footer border */
+      position: relative; /* For absolute positioning of credit */
     }
+
+    footer p {
+      margin-bottom: 0.5rem; /* Add a little space above the credit */
+    }
+
+    footer .credit {
+      font-size: 0.75rem; /* Even smaller credit text */
+      color: var(--text-secondary);
+      position: absolute; /* Position at the bottom */
+      bottom: 0.5rem;
+      left: 0;
+      right: 0;
+    }
+
+    footer .credit a {
+      color: var(--text-secondary);
+      text-decoration: none; /* Remove underline from link */
+      font-weight: 600; /* Make link text slightly bolder */
+    }
+
+    footer .credit a:hover {
+      text-decoration: underline; /* Add underline on hover for link interaction */
+    }
+
 
     /* Image Loading State - No Changes Needed */
     .card img {
@@ -448,6 +473,9 @@
 
   <footer>
     <p id="lastUpdatedFooter"></p>
+    <div class="credit">
+      Designed and brought to life with finesse by <a href="https://maxcomperatore.com" target="_blank" rel="noopener noreferrer"><u>Max Comperatore </u></a>
+    </div>
   </footer>
 
   <script>
