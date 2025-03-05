@@ -27,9 +27,8 @@
     /* If you don't have "Neue Haas Grotesk Text Pro" locally, fallback to a system font like Arial or Helvetica */
     @font-face {
         font-family: 'Neue Haas Grotesk Text Pro';
-        src: local('Neue Haas Grotesk Text Pro'), local('Helvetica Neue'), local('Arial'), url('path-to-your-font/NeueHaasGroteskTextPro.woff2') format('woff2'); /* Replace 'path-to-your-font/...' with the actual path if you have the font file */
+        src: local('Neue Haas Grotesk Text Pro'), local('Helvetica Neue'), local('Arial'), url('path-to-your-font/NeueHaasGroteskTextPro.woff2') format('woff2');
     }
-
 
     /* Reset & Basic Styling */
     *, *::before, *::after {
@@ -45,6 +44,7 @@
       line-height: 1.7; /* Slightly increased line height for body text readability */
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
+      zoom: 0.9; /* Zoom to 90% by default */
     }
 
     /* Header */
@@ -82,7 +82,7 @@
       border-radius: 0; /* Square Buttons */
       font-size: 0.95rem; /* Slightly Smaller Category Button Text */
       font-weight: 600;
-      font-family: var(--category-font), sans-serif; /* Neue Haas Grotesk or fallback */
+      font-family: var(--category-font), sans-serif;
       letter-spacing: 0.2px; /* Slight letter spacing for category buttons */
       transition: all 0.2s ease-in-out;
       text-align: center;
@@ -244,7 +244,7 @@
       color: var(--text-secondary);
     }
 
-    /* Progress Bar Styling - No Changes Needed Here (Already Good) */
+    /* Progress Bar Styling */
     progress {
       width: 100%;
       height: 12px;
@@ -272,7 +272,6 @@
       border-radius: 6px;
       transition: width 0.4s ease;
     }
-
 
     .comments {
       margin-top: 2.8rem; /* Adjusted Comments Margin */
@@ -302,7 +301,7 @@
       font-size: 0.95rem; /* Slightly smaller comment text */
       line-height: 1.6; /* Adjusted comment line height */
       color: var(--text-primary);
-      font-family: var(--font-body); /* Nunito Sans for Comments Text (Body font for comments) */
+      font-family: var(--font-body);
     }
 
     .close-btn {
@@ -312,22 +311,22 @@
       width: 42px; /* Slightly smaller close button */
       height: 42px; /* Slightly smaller close button */
       border: none;
-      background-color: rgba(255, 255, 255, 0.85); /* Slightly more opaque close button background */
+      background-color: rgba(255, 255, 255, 0.85);
       border-radius: 50%;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: background-color 0.2s ease-in-out, opacity 0.2s ease-in-out; /* Added opacity transition */
-      font-size: 1.5rem; /* Slightly smaller close button icon */
+      transition: background-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+      font-size: 1.5rem;
       line-height: 1;
       color: var(--primary-color);
-      opacity: 0.75; /* Slightly less opaque initially */
+      opacity: 0.75;
     }
 
     .close-btn:hover {
-      background-color: rgba(255, 255, 255, 0.95); /* Slightly more opaque on hover */
-      opacity: 1; /* Fully opaque on hover */
+      background-color: rgba(255, 255, 255, 0.95);
+      opacity: 1;
     }
 
     @keyframes fadeIn {
@@ -342,18 +341,18 @@
       padding: 1.6rem; /* Adjusted Footer Padding */
       font-size: 0.85rem; /* Slightly smaller footer text */
       color: var(--text-secondary);
-      border-top: 1px solid rgba(0,0,0,0.04); /* Even lighter footer border */
-      position: relative; /* For absolute positioning of credit */
+      border-top: 1px solid rgba(0,0,0,0.04);
+      position: relative;
     }
 
     footer p {
-      margin-bottom: 0.5rem; /* Add a little space above the credit */
+      margin-bottom: 0.5rem;
     }
 
     footer .credit {
-      font-size: 0.75rem; /* Even smaller credit text */
+      font-size: 0.75rem;
       color: var(--text-secondary);
-      position: absolute; /* Position at the bottom */
+      position: absolute;
       bottom: 0.5rem;
       left: 0;
       right: 0;
@@ -361,16 +360,15 @@
 
     footer .credit a {
       color: var(--text-secondary);
-      text-decoration: none; /* Remove underline from link */
-      font-weight: 600; /* Make link text slightly bolder */
+      text-decoration: none;
+      font-weight: 600;
     }
 
     footer .credit a:hover {
-      text-decoration: underline; /* Add underline on hover for link interaction */
+      text-decoration: underline;
     }
 
-
-    /* Image Loading State - No Changes Needed */
+    /* Image Loading State */
     .card img {
       opacity: 0;
     }
@@ -378,7 +376,6 @@
     .card img.loaded {
       opacity: 1;
     }
-
 
     /* Responsive Adjustments */
     @media (max-width: 768px) {
@@ -389,20 +386,20 @@
       }
       header h1 {
         margin-bottom: 0.6rem;
-        font-size: 1.7rem; /* Slightly smaller mobile header title */
+        font-size: 1.7rem;
       }
       .categories {
         justify-content: center;
         gap: 0.5rem;
       }
       .categories button {
-        padding: 0.65rem 1rem; /* Smaller mobile category buttons */
+        padding: 0.65rem 1rem;
         font-size: 0.9rem;
       }
       .grid {
-        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); /* Smaller mobile cards */
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
         padding: 2.2rem;
-        gap: 1.7rem; /* Smaller mobile grid gap */
+        gap: 1.7rem;
       }
       .detail {
         padding: 2.2rem;
@@ -410,10 +407,10 @@
       .detail img {
         aspect-ratio: 1 / 1;
         margin-bottom: 1.7rem;
-        border-radius: 8px; /* Smaller mobile detail image border-radius */
+        border-radius: 8px;
       }
       .detail h2 {
-        font-size: 2.1rem; /* Smaller mobile detail title */
+        font-size: 2.1rem;
         margin-bottom: 0.6rem;
       }
       .detail .meta {
@@ -421,22 +418,22 @@
         margin-bottom: 1.7rem;
       }
       .comments h3 {
-        font-size: 1.2rem; /* Smaller mobile comments title */
+        font-size: 1.2rem;
         margin-bottom: 1.2rem;
       }
       .comment-list {
-        gap: 1rem; /* Smaller mobile comment list gap */
+        gap: 1rem;
       }
       .comment-item {
-        padding: 1rem; /* Smaller mobile comment item padding */
+        padding: 1rem;
         font-size: 0.9rem;
       }
       .close-btn {
-        top: 1.7rem; /* Adjusted mobile close button position */
+        top: 1.7rem;
         right: 1.7rem;
-        width: 30px; /* Even smaller mobile close button */
-        height: 30px; /* Even smaller mobile close button */
-        font-size: 1.2rem; /* Even smaller mobile close icon */
+        width: 30px;
+        height: 30px;
+        font-size: 1.2rem;
       }
     }
   </style>
@@ -457,7 +454,9 @@
   <div class="overlay" id="overlay">
     <div class="detail" id="detail">
       <button class="close-btn" id="closeBtn">×</button>
-      <a id="detailImageLink" href="#" target="_blank"> <img id="detailImage" src="" alt="Thumbnail"></a>
+      <a id="detailImageLink" href="#" target="_blank">
+        <img id="detailImage" src="" alt="Thumbnail">
+      </a>
       <h2 id="detailTitle"></h2>
       <p class="meta" id="detailMeta"></p>
       <div class="meter">
