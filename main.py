@@ -1,8 +1,9 @@
 import requests
-import time
 import re
 from datetime import datetime
 from bs4 import BeautifulSoup
+import asyncio
+import aiohttp
 
 # --- Configuration ---
 BASE_URL = "https://www.reddit.com/r/news"
@@ -12,18 +13,14 @@ HEADERS = {
                   "Chrome/110.0.0.0 Safari/537.36"
 }
 
-# Sentiment API settings
 SENTIMENT_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 SENTIMENT_API_KEY = "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"  # Use your secure key!
 
 
-# --- Functions ---
+# --- Synchronous helper functions ---
 
 def fetch_social_preview(url):
-    """
-    Given an external URL, try to fetch the page and parse meta tags (og:image or twitter:image)
-    to extract a social preview image.
-    """
+    """Given an external URL, fetch the page and try to extract a social preview image from meta tags."""
     try:
         r = requests.get(url, headers=HEADERS, timeout=10)
         if r.status_code == 200:
@@ -42,23 +39,19 @@ def fetch_social_preview(url):
 def fetch_posts(sort="hot", limit=10):
     """
     Fetch posts for a given sort type ("hot", "new", or "rising") with a limit.
-    Extract title, external URL, upvotes, timestamp, and thumbnail.
+    Extracts title, external URL, upvotes, timestamp, and thumbnail.
     """
     url = f"{BASE_URL}/{sort}.json?limit={limit}"
     response = requests.get(url, headers=HEADERS)
-
     if response.status_code != 200:
         print(f"Failed to fetch {sort} posts: {response.status_code}")
         return []
 
     data = response.json()
     posts = []
-
     for post in data["data"]["children"]:
         post_data = post["data"]
         external_url = post_data.get("url", "No external URL")
-
-        # First try: use Reddit's preview data for the thumbnail
         thumbnail = None
         if "preview" in post_data:
             try:
@@ -76,7 +69,6 @@ def fetch_posts(sort="hot", limit=10):
             "timestamp": post_data.get("created_utc", 0),
             "thumbnail": thumbnail
         })
-
     return posts
 
 
@@ -86,7 +78,6 @@ def fetch_comments(post_id):
     """
     url = f"{BASE_URL}/comments/{post_id}/.json"
     response = requests.get(url, headers=HEADERS)
-
     if response.status_code != 200:
         print(f"Failed to fetch comments for post {post_id}: {response.status_code}")
         return []
@@ -99,8 +90,7 @@ def fetch_comments(post_id):
                 comments.append(comment["data"]["body"])
     except Exception as e:
         print(f"Error parsing comments for post {post_id}: {e}")
-
-    return comments[:10]  # Limit to 10 comments
+    return comments[:10]
 
 
 def convert_timestamp(timestamp):
@@ -108,22 +98,22 @@ def convert_timestamp(timestamp):
     return datetime.utcfromtimestamp(timestamp).strftime('%m/%d/%Y')
 
 
-def analyze_sentiment(text):
+# --- Asynchronous functions for sentiment analysis ---
+
+async def analyze_sentiment_async(text, session):
     """
     Analyze the sentiment of a given text by calling the external AI sentiment API.
-    Returns a numerical score (0 to 100) or None if analysis fails.
+    Returns a numerical score (0 to 100) or None.
     """
     headers = {
         "Authorization": f"Bearer {SENTIMENT_API_KEY}",
         "Content-Type": "application/json"
     }
-
     prompt = (
         f"Analyze the sentiment of the following text on a scale from 0 to 100, "
         f"where 0 is extremely negative, 50 is neutral, and 100 is extremely positive.\n"
         f"Text: \"{text}\"\nRespond only with the numerical score."
     )
-
     payload = {
         "model": "llama-3.3-70b-versatile",
         "messages": [
@@ -145,79 +135,87 @@ def analyze_sentiment(text):
         "stop": ["\n", "User:"],
         "logit_bias": {}
     }
-
     try:
-        response = requests.post(SENTIMENT_API_URL, headers=headers, json=payload, timeout=30)
-        if response.status_code == 200:
-            result = response.json()
-            content = result["choices"][0]["message"]["content"].strip()
-            try:
-                sentiment_score = float(content)
-            except ValueError:
-                match = re.search(r'\d+(\.\d+)?', content)
-                sentiment_score = float(match.group()) if match else None
-            return sentiment_score
-        else:
-            print("Sentiment API call failed with status:", response.status_code)
+        async with session.post(SENTIMENT_API_URL, headers=headers, json=payload, timeout=30) as response:
+            if response.status == 200:
+                result = await response.json()
+                content = result["choices"][0]["message"]["content"].strip()
+                try:
+                    sentiment_score = float(content)
+                except ValueError:
+                    match = re.search(r'\d+(\.\d+)?', content)
+                    sentiment_score = float(match.group()) if match else None
+                return sentiment_score
+            else:
+                print("Sentiment API call failed with status:", response.status)
     except Exception as e:
         print("Error during sentiment analysis:", e)
     return None
 
 
+async def analyze_comments_sentiments(comments, session):
+    """Concurrently analyze the sentiment for a list of comments."""
+    tasks = [analyze_sentiment_async(comment, session) for comment in comments]
+    return await asyncio.gather(*tasks)
+
+
+async def process_posts(all_posts):
+    """
+    Process all posts: for each post, fetch comments and concurrently analyze their sentiment.
+    Then compute an aggregate sentiment score (average) per post.
+    """
+    async with aiohttp.ClientSession() as session:
+        with open("reddit_news_posts_and_comments.txt", "w", encoding="utf-8") as file:
+            for idx, (sort, post) in enumerate(all_posts, start=1):
+                post_date = convert_timestamp(post["timestamp"])
+                file.write(f"{idx}. [{sort.upper()}] {post['title']}\n")
+                file.write(f"    External URL: {post['external_url']}\n")
+                file.write(f"    Upvotes: {post['upvotes']} | Date: {post_date}\n")
+                file.write(f"    Thumbnail: {post['thumbnail']}\n")
+
+                print(f"{idx}. [{sort.upper()}] {post['title']}")
+                print(f"    External URL: {post['external_url']}")
+                print(f"    Upvotes: {post['upvotes']} | Date: {post_date}")
+                print(f"    Thumbnail: {post['thumbnail']}")
+
+                comments = fetch_comments(post["id"])
+                sentiment_scores = []
+                if comments:
+                    file.write("    Top Comments:\n")
+                    print("    Top Comments:")
+                    for comment in comments:
+                        file.write(f"        - {comment}\n")
+                        print(f"        - {comment}")
+                    # Analyze all comment sentiments concurrently
+                    sentiments = await analyze_comments_sentiments(comments, session)
+                    sentiment_scores = [s for s in sentiments if s is not None]
+                else:
+                    file.write("    No comments found.\n")
+                    print("    No comments found.")
+
+                # Compute aggregate sentiment score for the post
+                if sentiment_scores:
+                    aggregate_sentiment = sum(sentiment_scores) / len(sentiment_scores)
+                    file.write(f"    Aggregate Sentiment Score: {aggregate_sentiment:.2f}\n")
+                    print(f"    Aggregate Sentiment Score: {aggregate_sentiment:.2f}")
+                else:
+                    file.write("    Aggregate Sentiment Score: N/A\n")
+                    print("    Aggregate Sentiment Score: N/A")
+
+                file.write("\n" + "-" * 80 + "\n\n")
+                print("-" * 80)
+        print("\n✅ Saved all posts, comments, and aggregate sentiment analysis to 'reddit_news_posts_and_comments.txt'")
+
+
 def main():
     all_posts = []
-    # Fetch 10 posts from each category: Hot, New, and Rising
     for sort in ["hot", "new", "rising"]:
         print(f"\nFetching {sort.upper()} posts...\n")
         posts = fetch_posts(sort, limit=10)
         all_posts.extend([(sort, post) for post in posts])
 
-    with open("reddit_news_posts_and_comments.txt", "w", encoding="utf-8") as file:
-        for idx, (sort, post) in enumerate(all_posts, start=1):
-            post_date = convert_timestamp(post["timestamp"])
-            file.write(f"{idx}. [{sort.upper()}] {post['title']}\n")
-            file.write(f"    External URL: {post['external_url']}\n")
-            file.write(f"    Upvotes: {post['upvotes']} | Date: {post_date}\n")
-            file.write(f"    Thumbnail: {post['thumbnail']}\n")
-
-            print(f"{idx}. [{sort.upper()}] {post['title']}")
-            print(f"    External URL: {post['external_url']}")
-            print(f"    Upvotes: {post['upvotes']} | Date: {post_date}")
-            print(f"    Thumbnail: {post['thumbnail']}")
-
-            comments = fetch_comments(post["id"])
-            sentiment_scores = []
-
-            if comments:
-                file.write("    Top Comments:\n")
-                print("    Top Comments:")
-                for comment in comments:
-                    file.write(f"        - {comment}\n")
-                    print(f"        - {comment}")
-                    sentiment = analyze_sentiment(comment)
-                    if sentiment is not None:
-                        sentiment_scores.append(sentiment)
-                    # Brief pause between sentiment calls to avoid rate limits
-                    time.sleep(1)
-            else:
-                file.write("    No comments found.\n")
-                print("    No comments found.")
-
-            # Compute aggregate sentiment score for the post if we got any valid scores
-            if sentiment_scores:
-                aggregate_sentiment = sum(sentiment_scores) / len(sentiment_scores)
-                file.write(f"    Aggregate Sentiment Score: {aggregate_sentiment:.2f}\n")
-                print(f"    Aggregate Sentiment Score: {aggregate_sentiment:.2f}")
-            else:
-                file.write("    Aggregate Sentiment Score: N/A\n")
-                print("    Aggregate Sentiment Score: N/A")
-
-            file.write("\n" + "-" * 80 + "\n\n")
-            print("-" * 80)
-            # Pause to avoid Reddit rate-limiting
-            time.sleep(2)
-
-    print("\n✅ Saved all posts, comments, and aggregate sentiment analysis to 'reddit_news_posts_and_comments.txt'")
+    # Process posts asynchronously (concurrent sentiment analysis)
+    asyncio.run(process_posts(all_posts))
 
 
 if __name__ == "__main__":
