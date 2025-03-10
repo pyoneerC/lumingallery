@@ -509,6 +509,11 @@
     let allPosts = [];
     let lastUpdated = '';
     let averageUpvotes = 0;
+    images = [
+            "a.jpg",
+            "b.jpg",
+            "c.jpg",
+    ]
 
     async function fetchData() {
       try {
@@ -561,7 +566,7 @@
           imgElement.classList.add('loaded');
         });
         imgElement.addEventListener('error', () => {
-          imgElement.src = 'placeholder-image.jpg'; // Fallback thumbnail for grid view
+          imgElement.src = images[Math.floor(Math.random() * images.length)];
           imgElement.classList.add('loaded');
         });
 
@@ -585,7 +590,7 @@
         detailImage.classList.add('loaded');
       };
       detailImage.onerror = () => {
-        detailImage.src = 'placeholder-image.jpg'; // Fallback thumbnail for detail view
+        detailImage.src = images[Math.floor(Math.random() * images.length)];
         detailImage.classList.add('loaded');
       };
 
