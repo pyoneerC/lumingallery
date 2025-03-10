@@ -2,22 +2,28 @@ import requests
 import re
 import json
 import random
-from datetime import datetime
-from datetime import timezone
+from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 import asyncio
 import aiohttp
+import praw
 
 # --- Configuration ---
-BASE_URL = "https://www.reddit.com/r/news"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-}
+
+# Reddit configuration (replace with your own credentials)
+REDDIT_CLIENT_ID = "SEcwT_dMJM6cn0UtGM0KAA"
+REDDIT_CLIENT_SECRET = "-QKsbo8B2omRgDcgp6DvFoKKLknTLw"
+REDDIT_USER_AGENT = "Luminggallery/0.0.1"
+SUBREDDIT_NAME = "news"
 
 # Sentiment API settings
 SENTIMENT_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 SENTIMENT_API_KEY = "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"  # Use your secure key!
 
+# Create a PRAW Reddit instance
+reddit = praw.Reddit(client_id=REDDIT_CLIENT_ID,
+                     client_secret=REDDIT_CLIENT_SECRET,
+                     user_agent=REDDIT_USER_AGENT)
 
 # --- Synchronous helper functions ---
 
@@ -27,7 +33,7 @@ def fetch_social_preview(url):
     from meta tags (og:image or twitter:image).
     """
     try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
+        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
         if r.status_code == 200:
             soup = BeautifulSoup(r.text, "html.parser")
             meta_tag = soup.find("meta", property="og:image")
@@ -40,68 +46,58 @@ def fetch_social_preview(url):
         print(f"Error fetching social preview for {url}: {e}")
     return "No social preview available"
 
-
-def fetch_posts(sort="hot", limit=10):
-    """
-    Fetches posts for a given sort (hot, new, or rising).
-    Extracts title, external URL, upvotes, timestamp, and thumbnail.
-    """
-    url = f"{BASE_URL}/{sort}.json?limit={limit}"
-    response = requests.get(url, headers=HEADERS)
-    if response.status_code != 200:
-        print(f"Failed to fetch {sort} posts: {response.status_code}")
-        return []
-
-    data = response.json()
-    posts = []
-    for post in data["data"]["children"]:
-        post_data = post["data"]
-        external_url = post_data.get("url", "No external URL")
-        thumbnail = None
-        if "preview" in post_data:
-            try:
-                thumbnail = post_data["preview"]["images"][0]["source"]["url"]
-            except Exception:
-                thumbnail = None
-        if not thumbnail or not thumbnail.startswith("http"):
-            thumbnail = fetch_social_preview(external_url)
-
-        posts.append({
-            "title": post_data.get("title", "No Title"),
-            "id": post_data.get("id", ""),
-            "external_url": external_url,
-            "upvotes": post_data.get("score", 0),
-            "timestamp": post_data.get("created_utc", 0),
-            "thumbnail": thumbnail
-        })
-    return posts
-
-
-def fetch_comments(post_id):
-    """
-    Fetches up to 10 top-level comments for a given post.
-    """
-    url = f"{BASE_URL}/comments/{post_id}/.json"
-    response = requests.get(url, headers=HEADERS)
-    if response.status_code != 200:
-        print(f"Failed to fetch comments for post {post_id}: {response.status_code}")
-        return []
-
-    data = response.json()
-    comments = []
-    try:
-        for comment in data[1]["data"]["children"]:
-            if "body" in comment["data"]:
-                comments.append(comment["data"]["body"])
-    except Exception as e:
-        print(f"Error parsing comments for post {post_id}: {e}")
-    return comments[:10]
-
-
 def convert_timestamp(timestamp):
     """Converts a Unix timestamp to MM/DD/YYYY format."""
     return datetime.fromtimestamp(timestamp, timezone.utc).strftime('%m/%d/%Y')
 
+def fetch_posts(sort="hot", limit=10):
+    """
+    Fetches posts for a given sort (hot, new, or rising) using PRAW.
+    Extracts title, external URL, upvotes, timestamp, and thumbnail.
+    """
+    subreddit = reddit.subreddit(SUBREDDIT_NAME)
+    posts = []
+    if sort == "hot":
+        submissions = subreddit.hot(limit=limit)
+    elif sort == "new":
+        submissions = subreddit.new(limit=limit)
+    elif sort == "rising":
+        submissions = subreddit.rising(limit=limit)
+    else:
+        submissions = subreddit.hot(limit=limit)
+
+    for submission in submissions:
+        external_url = submission.url if submission.url else "No external URL"
+        thumbnail = submission.thumbnail if submission.thumbnail and submission.thumbnail.startswith("http") else None
+        if not thumbnail:
+            thumbnail = fetch_social_preview(external_url)
+        posts.append({
+            "title": submission.title,
+            "id": submission.id,
+            "external_url": external_url,
+            "upvotes": submission.score,
+            "timestamp": submission.created_utc,
+            "thumbnail": thumbnail
+        })
+    return posts
+
+def fetch_comments(post_id):
+    """
+    Fetches up to 10 top-level comments for a given post using PRAW.
+    """
+    try:
+        submission = reddit.submission(id=post_id)
+        submission.comments.replace_more(limit=0)
+        comments = []
+        for comment in submission.comments:
+            if hasattr(comment, "body"):
+                comments.append(comment.body)
+                if len(comments) >= 10:
+                    break
+        return comments
+    except Exception as e:
+        print(f"Error fetching comments for post {post_id}: {e}")
+    return []
 
 # --- Asynchronous functions ---
 
@@ -151,7 +147,6 @@ async def analyze_sentiment_async(text, session):
         print("Error during sentiment analysis:", e)
     return None
 
-
 async def process_post(sort, post, session):
     """
     Processes a single post: fetches its top comments (via an async-to-thread wrapper),
@@ -177,7 +172,6 @@ async def process_post(sort, post, session):
         "aggregate_sentiment": sentiment
     }
 
-
 async def process_all_posts(all_posts):
     """
     Processes all posts concurrently. For each post, it fetches and processes the comments
@@ -190,7 +184,6 @@ async def process_all_posts(all_posts):
             for sort, post in all_posts
         ]
         return await asyncio.gather(*tasks)
-
 
 def main():
     # Collect posts from each category
@@ -212,7 +205,6 @@ def main():
 
     with open("data.json", "w") as file:
         file.write(output_json)
-
 
 if __name__ == "__main__":
     main()
