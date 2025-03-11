@@ -3,7 +3,7 @@ name: Fetch Reddit Data
 on:
   schedule:
     - cron: '0 */2 * * *'  # Every 2 hours
-  workflow_dispatch:  # Allows manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   fetch-data:
@@ -24,15 +24,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 aiohttp praw
 
-      - name: Update README file
+      - name: Run Data Fetch
         run: python main.py
 
-      - name: Push changes
+      - name: Check for Changes
+        run: ls -la && git status
+
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "pyoneerC/GitHub-Actions-Bot"
+          git config --global user.name "GitHub Actions Bot"
           git config --global user.email "github-actions-bot@pyoneerc.github.io"
           git add .
-          git diff
           git commit -m "Update JSON" -a || echo "No changes to commit"
-          git pull origin ${{ github.ref_name }} --rebase
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git pull origin ${{ github.ref_name }} --rebase || echo "No changes to rebase"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
