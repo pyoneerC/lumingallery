@@ -2,9 +2,30 @@
     "posts": [
         {
             "category": "HOT",
+            "title": "Musk launches appeal to restore $56 billion Tesla payday",
+            "external_url": "https://www.reuters.com/business/autos-transportation/musk-launches-appeal-restore-56-billion-tesla-payday-2025-03-11/",
+            "upvotes": 8086,
+            "date": "03/11/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "> Musk has said that he wants a greater stake in Tesla or he might develop products outside of the company.   \n   \nAh yes, threatening your own company.",
+                "\"I would like you to pay me 56 billion dollars while I am actively tanking the company's value\" is an interesting pitch ...",
+                "They should ask him to name 5 things he did for the company last week.",
+                "Hey guys I\u2019m gonna need that money before I completely destroy the brand with my evil actions",
+                "Has he seen the stock price?",
+                "I highly doubt shareholders would support him now if they were to vote on it again. He's lost the shareholders billions.",
+                "He should not buy a Tesla unless it\u2019s in Canada and he buys two a minute",
+                "He admitted that while running Doge, he is running his companies with \"great difficulty\"\n\nWhy would shareholders reward a CEO who is having \"great difficulty\" running their company?",
+                "Elon, do you little salute again, maybe that will fix things",
+                "Sorry that so few people want to be associated with your swasticars, Elon!"
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "HOT",
             "title": "US to immediately restore intelligence sharing and 'security assistance' to Ukraine",
             "external_url": "https://www.bbc.com/news/live/c51ypekv9xwt",
-            "upvotes": 13093,
+            "upvotes": 19659,
             "date": "03/11/2025",
             "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c309/live/60583a00-fec2-11ef-b50e-9d086302645f.jpg",
             "top_comments": [
@@ -12,41 +33,83 @@
                 "Forgot to add asterisk*, *with terms and conditions applied.*",
                 "So he basically got hundreds of Ukrainians killed for nothing",
                 "Now that intelligence from Ukraine goes straight to Russia during trump\u2019s daily kneel and swallow Putin meetings.",
-                "I don't believe it and any \"assistance\" will likely help Russia.",
                 "I feel like Trump is running this country like a 13 yr old. He hates you today and likes you the next. Nobody signed up for this shitty roller coaster ride.",
+                "I don't believe it and any \"assistance\" will likely help Russia.",
                 "So the deal with the Russians was that Trump would pause intelligence sharing to give them an advantage in Kursk? Well done, Trump!",
                 "I would not be trusting any US intel if I was Ukraine\u00a0",
                 "Oh, is he thankful enough now? Was his shirt nicer? Did X have hiccups for reasons other than Ukraine?\n\nWe\u2019ll see in 3 days when the administration throws them under the bus again.",
-                "You know what would be nice. If he didint waste eastern european lives for some petty politics.  This guy America elected is just a damn scumbag that needs to be gone asap. He wont stop with seeing as foreigners as currency. Sooner or later he will sacrifice democrats to feel good about himself."
+                "I wouldn\u2019t trust any intelligence from the Trump administration"
             ],
             "aggregate_sentiment": 8.0
         },
         {
             "category": "HOT",
+            "title": "Department of Education lays off nearly 50% of its workforce",
+            "external_url": "https://abcnews.go.com/US/department-education-faces-50-layoffs-after-closure-notice/story?id=119690524&utm_source=flipboard&utm_content=user%2Fabc",
+            "upvotes": 3504,
+            "date": "03/12/2025",
+            "thumbnail": "https://i.abcnewsfe.com/a/63d5aa42-9003-48c5-b937-5f4e3fa8c88f/dept-education-1-epa-gmh-250311_1741707004175_hpMain_16x9.jpg?w=1600",
+            "top_comments": [
+                "Woman who's never worked in education and enrolled her own kids in private schools has strong feelings on how little funding should go to programs helping special needs students.",
+                "Everything Trump is doing weakens America, and hurts Americans.",
+                "As a disabled person that benefited from DoE policy to get my high school and college diplomas I worry for the younger generation that will lose access.",
+                "\"Six communications offices are going to be consolidated, they explained, and leases will end in major cities including San Francisco, New York, Cleveland, Boston, Chicago and Dallas.\"\n\nSeem a little targeted to anyone else?",
+                "2024 Election exit data polling shows the higher level of education someone achieves, the more likely they are to vote Democratic. Those without a college degree are most likely to vote Republican\n\n[Source](https://www.nbcnews.com/politics/2024-elections/exit-polls)\n\nIf you check this [source](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment) and sort by states based on percent of people who have a bachelors or higher, the top 10 are blue states and the bottom ten are red states.\n\nTrump said \"I love the uneducated\" because they are his base. Attacks on education are purposeful.",
+                "This is the kind of thing that should set off alarm bells, but somehow it just feels like another day in the slow dismantling of public services. Cutting nearly half a department overnight, with barely a warning, is not streamlining, it is sabotage. Even if you believe the Department of Education is bloated, you do not fix a system by gutting it in a way that leaves staff terrified and scrambling. \n\nPeople do not work well under fear, and a government that rules through uncertainty is more interested in control than competence. The bigger question is what comes next. If this is just the warm-up act for dismantling the department altogether, what does that mean for the millions of students and families who rely on federal education programmes? Anyone cheering this move might want to ask themselves whether they trust their local politicians to handle education funding fairly and effectively because that is where this is headed.",
+                "So this means that I don\u2019t owe any of my student loans and they\u2019re all forgiven since no one is gonna keep a check on them? if only",
+                "You know they\u2019re lying when they say they want to return the responsibilities of these agencies to the states (not that I think that\u2019d be a good idea, mainly because federal agencies set a singular standard from which all Americans benefit) because the smart way to do that would be to slowly phase out the federal agencies while states build up their own agencies to take on the extra responsibility. \n\nThe Trump administration seeks to destroy, not decentralize.",
+                "\u201cI love the poorly educated.\u201d",
+                "I hate how the worst possible news reports don't even get a sigh out of me anymore. Not that I'm accepting this as normal, but at this point my reaction to this headline is just 'of course it is'."
+            ],
+            "aggregate_sentiment": 18.0
+        },
+        {
+            "category": "HOT",
             "title": "Trump has instructed to raise Canadian tariffs on aluminum and steel to 50%",
             "external_url": "https://www.theguardian.com/us-news/live/2025/mar/11/donald-trump-latest-us-politics-news-live?CMP=share_btn_url&page=with%3Ablock-67d042cb8f087aea3a248e0d#block-67d042cb8f087aea3a248e0d",
-            "upvotes": 33433,
+            "upvotes": 36825,
             "date": "03/11/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/b232c427105b597c81b293a786f41bedfdb240c8/0_366_5500_3300/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ad0556ad29952b884781265f9df84cd9",
+            "thumbnail": "https://i.guim.co.uk/img/media/0b0825591c1024786d86f2885a2b0b687e566fbd/0_431_7276_4368/master/7276.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d469fea090bd2490dd7093a76c2aa525",
             "top_comments": [
                 "Sounds like it gonna be another great day on the Stock Market!!!",
                 "I like how he keeps bringing up the dairy one. Negotiated BY HIM, and it only kicks in at a level that has NEVER been met. Those tariffs have never been charged.",
                 "\"Trump said he would \u201cpermanently shut down the automobile manufacturing business in Canada\u201d if the country did not end unspecified tariffs it had placed on US goods:\"\n\nEverything in thr market could be appeased if this moron backs down. \n\nAnd yet, he continues to double down on tariffs. \n\nThis is madness",
-                "Apparently Trump wanted more chaos and uncertainty today. He and his administration have been trying to do at least one ill intentioned thing per day so far.",
                 "It's wild. We were so scared of the first set of tariffs, now I'm just like \"I'm tired boss\" and keep scrolling. Honestly his inability to take a measured approach to anything makes me think it'll sputter out quickly, he'll claim victory and forget tariffs are a thing by summer. Wishful thinking, I know.",
                 "\u201cHe would see the entire world burn just to be the king of ashes\u201d",
-                "Last time he did this, during Trump 1.0, aluminum plants in Kentucky closed, leading to higher unemployment. That county was devastated. Congratulations, Trump, and Trump voters!!!",
+                "Apparently Trump wanted more chaos and uncertainty today. He and his administration have been trying to do at least one ill intentioned thing per day so far.",
                 "Maybe instead of tariffs, we could properly tax billionaires \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+                "Last time he did this, during Trump 1.0, aluminum plants in Kentucky closed, leading to higher unemployment. That county was devastated. Congratulations, Trump, and Trump voters!!!",
                 "My MAGA buddy who owns a metal building construction business is about to find out",
                 "Trump recession is self inflicted. Trump must be rejected."
             ],
-            "aggregate_sentiment": 60.0
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "HOT",
+            "title": "Trump backs off doubling Canadian steel and aluminum tariffs after Ontario suspends electricity surcharge",
+            "external_url": "https://www.cbsnews.com/news/trump-tariffs-canada-steel-aluminum/",
+            "upvotes": 2970,
+            "date": "03/11/2025",
+            "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/11/d3dc91bb-a425-42cb-9d30-0ff10eafaa14/thumbnail/1200x630g2/b57462378b668dd5d145a85b2e321fc0/gettyimages-2203227046.jpg?v=23322f4fbf0a01b337c42258c443e9ac",
+            "top_comments": [
+                "This is the most farcical trade war ever.",
+                "I swear to God this is exhausting. It makes me wish we were back in the pandemic years so I can just make sourdough and not have to hear the word tariff 50x a day.",
+                "So he's not running America so much like ***a*** business, as he is running America like [*his* business](https://www.americanbanker.com/news/banking-on-the-donald).",
+                "They suspended the surcharge as good faith for the meeting this Thursday. That was not a win for the orange bastard.",
+                "His decision making is child-like. Impulsive, personal, ad hoc, transactional. He is a bully who has been handed the reigns of government.",
+                "\"Speak loudly and carry a small dick.\" --The Trump Doctrine\u00a0",
+                "Sundowning embarrassment",
+                "Consistently inconsistent",
+                "Why the fuck is canada backing off",
+                "At least until tomorrow. When he wakes up in his shit filled diaper and decides to tariff  something else because he\u2019s mad."
+            ],
+            "aggregate_sentiment": 4.0
         },
         {
             "category": "HOT",
             "title": "Fear of flying is pushing ticket sales down in the wake of multiple crashes, airlines say",
             "external_url": "https://www.cnn.com/2025/03/11/business/passengers-air-travel-crashes-fear/index.html",
-            "upvotes": 5694,
+            "upvotes": 7576,
             "date": "03/11/2025",
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199796404.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
@@ -54,46 +117,67 @@
                 "Misleading headlines it's not so much \"fear of flying\" as it is \"safety concerns after whistleblowers and deregulation and several accidents\"",
                 " Without proper oversight, it is not the Fear of flying but the fear of crashing. Why would people travel with all the fear and uncertainty in the Russian Vassal State of the USA.",
                 "Elon Musk only flies on Air Force 1 lately.  Must be a sign.",
-                "Yup, I canceled a flight this month after my brother's girlfriend almost died in that recent near miss where Southwest pilot pulled up just in time to avoid a taxiing idiot. Not gonna be a statistic for these assholes.",
                 "With the government cutting a large amount of the people who service the air traffic equipment and knowing the fact that they were already pretty thin in that area, I'm probably not going to fly for a long while myself.",
                 "make trains great again :) i seriously wish USA would build a massive highspeed rail system",
-                "It seems completely rational with the dangerous cuts to the FAA.",
+                "Yup, I canceled a flight this month after my brother's girlfriend almost died in that recent near miss where Southwest pilot pulled up just in time to avoid a taxiing idiot. Not gonna be a statistic for these assholes.",
                 "I think it's more people not traveling because of economic reasons...",
-                "fear of flying, cost of flying, getting disease while flying (measles in Washington Dulles airport now)\n\nI can either drive 15 hrs to a destination or fly (2.5hrs, ~900$)... hmmmmm..... Yes I know that statistically flying is safer.  But, I know I won't get a contagious disease alone in my car too, and I can sanitize my hands after the gaspump."
+                "It seems completely rational with the dangerous cuts to the FAA.",
+                "I just took 6 flights last week ngl the takeoff and landings had me a bit more nervous than usual."
             ],
-            "aggregate_sentiment": 14.0
+            "aggregate_sentiment": 18.0
+        },
+        {
+            "category": "HOT",
+            "title": "Ontario\u2019s Ford suspends U.S. electric surcharge, says Lutnick agrees to trade talks",
+            "external_url": "https://www.cnbc.com/2025/03/11/ontarios-ford-suspends-us-electric-surcharge-says-lutnick-agrees-to-trade-talks.html",
+            "upvotes": 2585,
+            "date": "03/11/2025",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108096026-17385018682025-01-31t194302z_882276599_rc25lca555hn_rtrmadp_0_usa-trump-canada-tariffs.jpeg?v=1741720657&w=1920&h=1080",
+            "top_comments": [
+                "Does anyone else have a headache?",
+                "I seen swings sets with less back and forth",
+                "I still think it's time to invest in solar and batteries for my house.",
+                "I'm seeing some very interesting headlines and reports from Americans to try and control the narrative like this from NBC - [Canada backs down from 25% electricity surcharge after Trump threats](https://www.nbcnews.com/business/economy/trump-canada-doubles-tariffs-national-emergency-electricity-rcna195810)\n\n As a Canadian, let's set the record straight.\n\nWhat really happened was that Canada made Trump blink first. Premier Ford and other Canadian leaders from coast to coast to coast have always asserted that they're willing to negotiate with America. It was America that continued to refuse to negotiate until Canada finally placed reciprocal tariffs and export taxes. \n\nTrump blinked. But American media would have you believe that Canada capitulated. Elbows up! \ud83c\udde8\ud83c\udde6",
+                "I\u2019m so tired of this shit show. Everyone who voted for Trump for economic reasons look real stupid right now",
+                "Pretty sure it\u2019ll be back to tariffs and trade wars by the end of the week.",
+                "We don't want a trade war, as nice as it would be to stick it to him. If they're willing to negotiate then we should try to avoid this as much as possible.\n\nBut our electricity surcharge can be reinstated at any time. If they try and do what they did to Zelenskyy, don't be surprised to see the surcharge back.",
+                "I\u2019m fucking tired of all the big talk and no one actually having the balls to do anything. Fucking EXHAUSTED\u00a0",
+                "Did he not just say on TV all over the place that the tariffs would stay until the US removes its tariffs on Canadian products period.\nFord just did the same thing President Krasnov has been doing \ud83d\ude35\u200d\ud83d\udcab",
+                "This kind of pisses me off. This is going to give Trump what he considers a \"win\"."
+            ],
+            "aggregate_sentiment": 18.0
         },
         {
             "category": "HOT",
             "title": "Seven men arrested in Japan for raping daughters, sharing footage in chat group.",
             "external_url": "https://www.straitstimes.com/asia/east-asia/seven-men-arrested-in-japan-for-raping-daughters-sharing-footage-in-chat-group",
-            "upvotes": 6907,
+            "upvotes": 8395,
             "date": "03/11/2025",
             "thumbnail": "https://cassette.sphdigital.com.sg/image/straitstimes/cbb298abcce5ca7335e17c5dc6540bd83acce49d9a88a567e58400a2045ea275",
             "top_comments": [
                 "Investigative sources revealed that the seven men, aged in their 30s to 50s and living in Aichi Prefecture and elsewhere, stand accused of penetrative sexual assault as well as violations of anti-child prostitution and anti-child pornography laws. Four of the men allegedly filmed the scenes of them sexually assaulting their biological or foster daughters, aged between 6 and 14 at the time, and shared the footage within a social media group, while the other three owned obscene images of underage individuals.\n\nIn the messaging app used by the group, there were comments reading, \"I've trained her since she was 3,\" \"Just telling her, 'If you tell your mom, you wouldn't be able to be with your dad. Can you keep a secret?' worked for me,\" and, \"Because my wife is away on a trip.\" The prefectural police believe that the men continued to sexually abuse their own daughters and others on a regular basis.\n\nIn November last year, one of the men was arrested on suspicion of penetrative sexual assault of an underage person, and a probe of his mobile phone revealed that the group was sharing obscene videos.\n\nIt is thought that the group, comprised of men fond of incest with minors, started exchanging information in around December 2023. The seven suspects came to know each other through another online website, and one of them managed the chat group in question. The police suspect that several other men had joined the group, and are continuing to investigate the case.",
                 "These guys raped their own daughters regularly, youngest girl was six years old.  \nFilmed it and then circulate/share within their own chat group with other men/fathers.   \nHow muthaf\\*\\*king sick can one be to come up with such stuff!",
                 "I cannot even imagine the lifetime of trauma these girls will battle. They deserve the best care and support for the rest of their lives.  I'm not sure what kind of sentencing the Japanese legal system has, but I hope these men rot in prison. I hope every day until the end of their days is full of misery.",
-                "Well that's enough reddit for today.\u00a0",
                 "adblocker blocks the whole entire website. like, nothing at all shows up and the block counter just goes and goes",
+                "Well that's enough reddit for today.\u00a0",
                 "Just looked at the charges for stuff like this in Japan and got pissed off at how light of a sentence they could get",
                 "How do all these sick fucks manage to find and enable each other? Death feels like too easy of a punishment for these degenerates.",
                 "this is making me so distraught. like holy fuck i am heartbroken and angered for the victims. they\u2019re just children, and their \u201cfathers\u201d, that are supposed to support and protect them, took so much away from them for the \u201cfathers\u2019\u201d own benefits.",
                 "I lived in Japan over a decade and I tell people it's awesome, unless you're a girl / woman / female. Then I get down voted. \n\nI'm a guy who heard from every female friend that they've been groped on trains, including foreign friends who have barely been living there. \n\nKind of like TV shows have that cliche episode every year, having a coworker come into work crying from being groped became normal with every new coworker.\u00a0\n\n\nThis is evil as fuck, and it's just a bit of the iceburg tip surfacing.\u00a0",
                 "\"Seven men arrested in Japan for raping daughters, sharing footage in chat group\nThe seven were in the same chat group for incest and paedophilia.\nThe seven were in the same chat group for incest and paedophilia.PHOTO: LIANHE ZAOBAO\nUPDATED Mar 11, 2025, 08:21 PM\n\n\nPolice from Aichi Prefecture in Japan have arrested seven men as of March 11 on suspicion of raping their daughters or stepdaughters and sharing footage of the abuse on social media, reported the Mainichi Shimbun.\n\n\nThe men are in their 30s to 50s.\n\n\nThey are accused of penetrative sexual assault, and violations of anti-child prostitution and anti-child pornography laws, reported the Japanese newspaper.\n\n\n\n\nFour of the men allegedly violated their biological or foster daughters and sent videos of the abuse in a social media group.\n\n\nThe victims were between six and 14 years old at the time.\n\n\nThe other three men allegedly owned obscene images of minors.\n\n\n\n\nThe seven were in the same chat group for incest and paedophilia, and the Aichi police believe they sexually abused their daughters and other children regularly.\n\n\nThey were discovered after one of the men was arrested in November 2024 for suspected penetrative sexual assault of a minor, and a probe of his mobile phone revealed the group were sharing explicit videos.\n\n\nThe group is thought to have started exchanging information around December 2023, reported Mainichi Shimbun.\""
             ],
-            "aggregate_sentiment": 14.0
+            "aggregate_sentiment": 23.0
         },
         {
             "category": "HOT",
             "title": "Texas measles cases grow to 223, mostly among children and teens",
             "external_url": "https://abcnews.go.com/Health/texas-measles-cases-latest/story?id=119663844",
-            "upvotes": 3411,
+            "upvotes": 4243,
             "date": "03/11/2025",
             "thumbnail": "https://i.abcnewsfe.com/a/aebbd8d7-5e11-4f76-ba61-175fae71c515/measles-lubbock-01-gty-jef-250311_1741706139050_hpMain_16x9.jpg?w=1600",
             "top_comments": [
-                "Can you imagine how PISSED these kids are going to be at their parents when they grow old enough to recognize that a terrible childhood illness was completely avoidable?",
                 "Goddamn I hate the anti vaccine cult.",
+                "Can you imagine how PISSED these kids are going to be at their parents when they grow old enough to recognize that a terrible childhood illness was completely avoidable?",
                 "Child abuse in the land of \"pro life\"...",
                 "Im sorry to the children caught in this stupidity. \n\nYou deserve better",
                 "Because the adults are all vaccinated as they grew up in the U.S. when we still generally agreed it was a good idea. Because it is.",
@@ -101,166 +185,130 @@
                 "This is because they aren't vaccinated. Poor children have to face this for no good",
                 "Oh well.  At least eggs are chea... Or my retirement is grea... I mean we are in good standing world wid... \n\nAt least they will die for freedom.",
                 "Red state oWniNg tHe LiBs!!. Ok well, have fun with your new little hobby I guess.",
-                "That's way more than the number of trans athletes supposedly playing the \"wrong\" sport."
+                "These kids might end up with a lot of complications in 7 - 10 years. \n\nBlindness, lung scarring, suppressed immune system, seizures and brain damage in rare cases."
             ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "HOT",
-            "title": "Ontario\u2019s Ford suspends U.S. electric surcharge, says Lutnick agrees to trade talks",
-            "external_url": "https://www.cnbc.com/2025/03/11/ontarios-ford-suspends-us-electric-surcharge-says-lutnick-agrees-to-trade-talks.html",
-            "upvotes": 1516,
-            "date": "03/11/2025",
-            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108096026-17385018682025-01-31t194302z_882276599_rc25lca555hn_rtrmadp_0_usa-trump-canada-tariffs.jpeg?v=1741720657&w=1920&h=1080",
-            "top_comments": [
-                "Does anyone else have a headache?",
-                "I seen swings sets with less back and forth",
-                "I still think it's time to invest in solar and batteries for my house.",
-                "I'm seeing some very interesting headlines and reports from Americans to try and control the narrative like this from NBC - [Canada backs down from 25% electricity surcharge after Trump threats](https://www.nbcnews.com/business/economy/trump-canada-doubles-tariffs-national-emergency-electricity-rcna195810)\n\n As a Canadian, let's set the record straight.\n\nWhat really happened was that Canada made Trump blink first. Premier Ford and other Canadian leaders from coast to coast to coast have always asserted that they're willing to negotiate with America. It was America that continued to refuse to negotiate until Canada finally placed reciprocal tariffs and export taxes. \n\nTrump blinked. But American media would have you believe that Canada capitulated. Elbows up! \ud83c\udde8\ud83c\udde6",
-                "I\u2019m so tired of this shit show. Everyone who voted for Trump for economic reasons look real stupid right now",
-                "We don't want a trade war, as nice as it would be to stick it to him. If they're willing to negotiate then we should try to avoid this as much as possible.\n\nBut our electricity surcharge can be reinstated at any time. If they try and do what they did to Zelenskyy, don't be surprised to see the surcharge back.",
-                "Go Canada go from an American \ud83d\ude2d\u2764\ufe0f",
-                "This kind of pisses me off. This is going to give Trump what he considers a \"win\".",
-                "Did he not just say on TV all over the place that the tariffs would stay until the US removes its tariffs on Canadian products period.\nFord just did the same thing President Krasnov has been doing \ud83d\ude35\u200d\ud83d\udcab",
-                "I\u2019m fucking tired of all the big talk and no one actually having the balls to do anything. Fucking EXHAUSTED\u00a0"
-            ],
-            "aggregate_sentiment": 42.0
-        },
-        {
-            "category": "HOT",
-            "title": "Southwest Airlines shifts to paid baggage policy to lift earnings",
-            "external_url": "https://www.reuters.com/business/aerospace-defense/southwest-airlines-shifts-paid-baggage-policy-lift-earnings-2025-03-11/",
-            "upvotes": 3791,
-            "date": "03/11/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "To lift earnings we are eliminating the competitive advantage that brings people to our airline.",
-                "As someone who has flown Southwest many times, I\u2019ll repeat a comment I made in an earlier thread: Herb Kelleher is twirling in his grave with how this investment group is destroying his airline. Fuck these people.",
-                "Southwest Fares for me were usually around the same price or slightly more expensive than Delta/United/American etc.. but when you added in a free checked bag for a round trip flight they often ended up cheaper. \n\nIf they go to a $35+ baggage fee I will have zero reason to fly on Southwest ever again unless their flight prices come down (which I doubt).",
-                "> The policy shift suggests a growing influence of activist investor Elliott Investment Management at the airline. The hedge fund, whose nominees hold five of 15 board seats, had criticized Southwest's leadership for not charging a fee for checking bags like other airlines to boost its revenue.\n\nMotherfucking hedge funds, leeching off of society while generating nothing of real value for us.",
-                "In the email they sent announcing this, they rolled out multiple anti-passenger changes at the same time:\n\n* Paid checked bags\n* Flight credit expiration\n* Lower earn ratio on rapid reward points\n* No more free changes on Basic (though oddly you can still cancel and get a flight credit, so the key difference here is inconvenience)\n\nI'm going to bet the checked bags portion of this was the preplanned \"we heard you\" piece that can be easily carved out while they keep all the rest of the changes. Then they'll reintroduce the checked bag change later and there won't be nearly as much furor as the outrage was already spent once on this issue.\n\nMy company flies exclusively Southwest. I've taken hundreds of legs with them. I suspect that will change now.",
-                "SW will file bankruptcy and/or be acquired within the next 10 years.",
-                "As an employee this makes me incredibly sad",
-                "\u201cLast year, it said while charging for bags could bring in $1.5 billion in additional revenue every year, it would cost the airline $1.8 billion in lost market share.\u201d lmao they already did the homework and determined this will hurt them more than help them, and yet they\u2019re doing it anyway. The enshittification is inevitable.",
-                "The whole reason I flew SW was because of that free bag policy. Made going to and from conventions easier, even if it meant having to do layovers.\n\nNow if costs are going to be about the same, no point in going SW if it means I can just do direct flights from the competition.",
-                "Time to cancel that Southwest Rapid Rewards VISA"
-            ],
-            "aggregate_sentiment": 18.0
-        },
-        {
-            "category": "HOT",
-            "title": "Ukraine agrees to accept US 30-day ceasefire proposal",
-            "external_url": "https://www.reuters.com/world/europe/moscow-drone-attack-latest-russian-capital-targeted-by-ukraine-2025-03-11/",
-            "upvotes": 1389,
-            "date": "03/11/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Russia to break it and blame Ukraine. And trump to agree....",
-                "\"return of forcibly transferred Ukrainian children\"\nYeah no way Russia is accepting this",
-                "Russia either won't accept, or will break it. And Trump is in for a reality check. Betting 1 Tesla stock",
-                "Ukraine will do whatever is best for them, but any ultimate peace treaty that doesn't include security guarantees for Ukraine is just a pause button to give Russia a few years to rebuild their military before launching a third invasion.",
-                "Governing 30 days at a time",
-                "I suspect that Ukraine only agreed to this because they knew Russia wouldn't.",
-                "Russia will literally break this on day 28",
-                "Russian Ceasefire, take 25: and, action.",
-                "Russia will break it, say Ukraine broke it, then Trump will use the accusation as a reason to hurt Ukraine.",
-                "The only ceasefire will be Ukraine ceasing to fire on the Russian troops still shooting them. But another example of who is the bad guy can't hurt I guess. Not like the orange idiot will accept it even if he sees it with his own eyes."
-            ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 67.0
         },
         {
             "category": "HOT",
             "title": "USDA cuts more than $1bn in local food purchases for schools, food banks",
             "external_url": "https://www.theguardian.com/us-news/2025/mar/11/usda-cuts-food-banks-schools",
-            "upvotes": 1062,
+            "upvotes": 2284,
             "date": "03/11/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/f7d65400d1ba74235801ee05719cb624494f599d/0_433_7726_4638/master/7726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ffb661736c0d25470ff69c089150c88",
             "top_comments": [
                 "Because the kids aren't the priority anymore. Duh!",
                 "What's that quote I see going around, \"Republicans will deny food for 100 people out of concern 1 may not actually need it.\"",
                 "From the article:\n\n\nMillions of children could lose free school meals as food costs rise, warns School Nutrition Association president\n\n\nAbout $660m of those funds were contained in the Local\u00a0Food\u00a0for Schools Cooperative Agreement Program, which provided funds to schools and child care facilities but is now being eliminated.\n\n\nMeanwhile, short-staffed school nutrition teams, striving to improve menus and expand scratch-cooking, would be saddled with time-consuming and costly paperwork created by new government inefficiencies.\u201d",
-                "Every day I am more horrified than the day before. Half of me wants to stop being on the Internet outright, and the other half wants to keep reading to know what hell I need to prepare for.",
+                "Remember that the food being purchased isn't some foreign food. It's US food that was being purchased. US farmers/ranchers/etc will lose income over this.",
                 "I just saw this. Feeding kids is \"woke\" now\n\n\nhttps://www.reddit.com/r/facepalm/comments/1i88jud/woke_is_giving_food_to_low_income_people/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
-                "And that money is going back to tax payers?\n\nOh wait, the GOP plans on adding $4 trillion more to the debt to pay for tax cuts for those making over $350K a year. \n\nWhy do millionaires and billionaires need these handouts, but school kids do not??",
                 "So, it\u2019s now \u201cFarmers, nevermind\u2026we were kidding. No fun for you\u201d or anyone else.\u00a0",
-                "When you're so evil you let your own people starve.  Nice job republicans.  Are the right people being hurt yet?",
-                "Are we great again yet?",
-                "Republicans are pure evil, nothing less. These are children ffs."
+                "And that money is going back to tax payers?\n\nOh wait, the GOP plans on adding $4 trillion more to the debt to pay for tax cuts for those making over $350K a year. \n\nWhy do millionaires and billionaires need these handouts, but school kids do not??",
+                "Every day I am more horrified than the day before. Half of me wants to stop being on the Internet outright, and the other half wants to keep reading to know what hell I need to prepare for.",
+                "This isn't just for the children, \n\nThese programs are also an important subsidy for US food producers. Just what they need now that everybody is putting tariffs against American goods.",
+                "How Christian of them? WWJD?"
             ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "HOT",
-            "title": "Alex Jones says Infowars reporter Jamie White was fatally shot near Texas home",
-            "external_url": "https://www.the-independent.com/news/world/americas/crime/jamie-white-infowars-murder-alex-jones-b2712630.html",
-            "upvotes": 15299,
-            "date": "03/11/2025",
-            "thumbnail": "https://static.the-independent.com/2025/03/11/02/jamie-white.jpg?width=1200&height=800&crop=1200:800",
-            "top_comments": [
-                "by the way: Is Alex Jones still pretending to be broke in order to escape the just punishment for mocking the victims with his lies?",
-                ">Nevertheless, he said: \"I lay all of this squarely at the feet of these DAs and of the Soros crime syndicate, and of the Democratic Party.\u201d\n\nSo much for the \"wait for all the facts to come out\" side. They won't even wait for the body to get cold to sacrifice the memory of one of their own to the altar of owning the libs.",
-                "[removed]",
-                "[removed]",
-                "Jamie Whites murder was a hoax by the deep state. He, his family and the other people involved are just crisis actors. Let's make a buncha podcasts making millions off arguing this and just insist Alex Jones is crazy.\n\nGive him a taste of his own.",
-                "[removed]",
-                "the very first line under the title\n\n\"Police have not yet confirmed the identity of the victim fatally shot late Sunday night\"",
-                "I am fortunate enough to never have heard of this person.",
-                "[removed]",
-                "It's his fault he got shot. If he didn't want to get shot, he shouldn't have been dressed like that. His body had a way of shutting down that bullet. Totally the victims fault."
-            ],
-            "aggregate_sentiment": 50.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "NEW",
-            "title": "Ukraine-Russia latest: Ukraine ready to accept 30-day ceasefire, as US resumes military assistance",
-            "external_url": "https://www.bbc.co.uk/news/live/c51ypekv9xwt",
-            "upvotes": 35,
-            "date": "03/11/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c309/live/60583a00-fec2-11ef-b50e-9d086302645f.jpg",
+            "title": "Department of Education lays off nearly 50% of its workforce",
+            "external_url": "https://abcnews.go.com/US/department-education-faces-50-layoffs-after-closure-notice/story?id=119690524&utm_source=flipboard&utm_content=user%2Fabc",
+            "upvotes": 3503,
+            "date": "03/12/2025",
+            "thumbnail": "https://i.abcnewsfe.com/a/63d5aa42-9003-48c5-b937-5f4e3fa8c88f/dept-education-1-epa-gmh-250311_1741707004175_hpMain_16x9.jpg?w=1600",
             "top_comments": [
-                "Ukraine \ud83c\uddfa\ud83c\udde6 is cowards . They need the keep fighting."
+                "Woman who's never worked in education and enrolled her own kids in private schools has strong feelings on how little funding should go to programs helping special needs students.",
+                "Everything Trump is doing weakens America, and hurts Americans.",
+                "As a disabled person that benefited from DoE policy to get my high school and college diplomas I worry for the younger generation that will lose access.",
+                "\"Six communications offices are going to be consolidated, they explained, and leases will end in major cities including San Francisco, New York, Cleveland, Boston, Chicago and Dallas.\"\n\nSeem a little targeted to anyone else?",
+                "2024 Election exit data polling shows the higher level of education someone achieves, the more likely they are to vote Democratic. Those without a college degree are most likely to vote Republican\n\n[Source](https://www.nbcnews.com/politics/2024-elections/exit-polls)\n\nIf you check this [source](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment) and sort by states based on percent of people who have a bachelors or higher, the top 10 are blue states and the bottom ten are red states.\n\nTrump said \"I love the uneducated\" because they are his base. Attacks on education are purposeful.",
+                "This is the kind of thing that should set off alarm bells, but somehow it just feels like another day in the slow dismantling of public services. Cutting nearly half a department overnight, with barely a warning, is not streamlining, it is sabotage. Even if you believe the Department of Education is bloated, you do not fix a system by gutting it in a way that leaves staff terrified and scrambling. \n\nPeople do not work well under fear, and a government that rules through uncertainty is more interested in control than competence. The bigger question is what comes next. If this is just the warm-up act for dismantling the department altogether, what does that mean for the millions of students and families who rely on federal education programmes? Anyone cheering this move might want to ask themselves whether they trust their local politicians to handle education funding fairly and effectively because that is where this is headed.",
+                "So this means that I don\u2019t owe any of my student loans and they\u2019re all forgiven since no one is gonna keep a check on them? if only",
+                "You know they\u2019re lying when they say they want to return the responsibilities of these agencies to the states (not that I think that\u2019d be a good idea, mainly because federal agencies set a singular standard from which all Americans benefit) because the smart way to do that would be to slowly phase out the federal agencies while states build up their own agencies to take on the extra responsibility. \n\nThe Trump administration seeks to destroy, not decentralize.",
+                "\u201cI love the poorly educated.\u201d",
+                "I hate how the worst possible news reports don't even get a sigh out of me anymore. Not that I'm accepting this as normal, but at this point my reaction to this headline is just 'of course it is'."
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 62.0
+        },
+        {
+            "category": "NEW",
+            "title": "Woman pleads guilty in cross-burning hoax during Colorado Springs mayoral campaign",
+            "external_url": "https://apnews.com/article/cross-burning-hoax-colorado-springs-black-mayor-41837df8bd251ef5eedf819acc00d696",
+            "upvotes": 100,
+            "date": "03/11/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "'It was just a prank bro.' \n\nHilarious.",
+                "> Prosecutors say that after staging the cross burning, a photo and video of it were sent to media and civic organizations making it seem like an attack on Mobolade. [the mayoral candidate]\n\n> According to the plea agreement, the conspiracy\u2019s goal was to interfere in the campaign of Mobolade\u2019s opponent and create the belief that Mobolade was being discouraged from running because of his race. West was dependent on one of the other three people charged, Derrick Bernard, for employment and housing and agreed to participate to curry favor with him, the document said.\n\n> Lawyers for Bernard and the third person charged, Ashley Blackcloud, said in court filings that the government\u2019s evidence shows they were trying to help Mobolade win by generating outrage. They argued that the actions were a kind of political theater, which they say is free speech protected by the First Amendment.\n\n*sigh* \n\nWe all know racism exists in this country, nobody has to pull stunts like this to make it look worse than it is.\n\nArmchair lawyers, what do you think of the \"Free Speech\" defense?",
+                "So many of these things end up being hoaxes.",
+                "The springs keeping it classy as always"
+            ],
+            "aggregate_sentiment": 90.0
+        },
+        {
+            "category": "NEW",
+            "title": "Musk launches appeal to restore $56 billion Tesla payday",
+            "external_url": "https://www.reuters.com/business/autos-transportation/musk-launches-appeal-restore-56-billion-tesla-payday-2025-03-11/",
+            "upvotes": 8092,
+            "date": "03/11/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "> Musk has said that he wants a greater stake in Tesla or he might develop products outside of the company.   \n   \nAh yes, threatening your own company.",
+                "\"I would like you to pay me 56 billion dollars while I am actively tanking the company's value\" is an interesting pitch ...",
+                "They should ask him to name 5 things he did for the company last week.",
+                "Hey guys I\u2019m gonna need that money before I completely destroy the brand with my evil actions",
+                "Has he seen the stock price?",
+                "I highly doubt shareholders would support him now if they were to vote on it again. He's lost the shareholders billions.",
+                "He should not buy a Tesla unless it\u2019s in Canada and he buys two a minute",
+                "He admitted that while running Doge, he is running his companies with \"great difficulty\"\n\nWhy would shareholders reward a CEO who is having \"great difficulty\" running their company?",
+                "Elon, do you little salute again, maybe that will fix things",
+                "Sorry that so few people want to be associated with your swasticars, Elon!"
+            ],
+            "aggregate_sentiment": 38.0
         },
         {
             "category": "NEW",
             "title": "Scholars stranded in America and abroad amid funding freeze of State Department programs",
             "external_url": "https://apnews.com/article/fulbright-scholars-stipends-frozen-indefinitely-9da042b5e0bda70fb1c76105564c71f4",
-            "upvotes": 66,
+            "upvotes": 304,
             "date": "03/11/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
                 "In less than eight-weeks, Trump has destroyed everything we've fought and died for since the founding of our nation. It's never going to be the same again.",
-                "Why would any country trust us ever again? All that's left to use us, manipulate us. But never trust."
+                "> \u201cIt was very scary, I would say, not just because I am lost in another country,\u201d she said. \u201cWe don\u2019t know if we will ever get another stipend here, and if they have enough money to buy our tickets home. So there are a lot of things that are not clear and not certain.\u201d\n\n\u201cIf these do-gooder scholars are so good and so smart, why are they stranded in bumfuckistan?\u201d\n\n- MAGA, as they cut the legs from underneath aid workers",
+                "Why would any country trust us ever again? All that's left to use us, manipulate us. But never trust.",
+                "Many young scholars from all over the world apply for and receive Fulbright Scholarships.  They are often totally dependent on the scholarship money for food, rent, etc.  Cut off means stranded.  These students are usually the cream of the cream who could never study or travel abroad without this kind of support. Shame on US!",
+                "Scholars? Now you know why the Orange sexual predator loves uneducated people.\u00a0"
             ],
-            "aggregate_sentiment": 4.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "NEW",
             "title": "Trump backs off doubling Canadian steel and aluminum tariffs after Ontario suspends electricity surcharge",
             "external_url": "https://www.cbsnews.com/news/trump-tariffs-canada-steel-aluminum/",
-            "upvotes": 512,
+            "upvotes": 2970,
             "date": "03/11/2025",
             "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/11/d3dc91bb-a425-42cb-9d30-0ff10eafaa14/thumbnail/1200x630g2/b57462378b668dd5d145a85b2e321fc0/gettyimages-2203227046.jpg?v=23322f4fbf0a01b337c42258c443e9ac",
             "top_comments": [
                 "This is the most farcical trade war ever.",
+                "I swear to God this is exhausting. It makes me wish we were back in the pandemic years so I can just make sourdough and not have to hear the word tariff 50x a day.",
                 "So he's not running America so much like ***a*** business, as he is running America like [*his* business](https://www.americanbanker.com/news/banking-on-the-donald).",
                 "They suspended the surcharge as good faith for the meeting this Thursday. That was not a win for the orange bastard.",
                 "His decision making is child-like. Impulsive, personal, ad hoc, transactional. He is a bully who has been handed the reigns of government.",
-                "Consistently inconsistent",
-                "I swear to God this is exhausting. It makes me wish we were back in the pandemic years so I can just make sourdough and not have to hear the word tariff 50x a day.",
                 "\"Speak loudly and carry a small dick.\" --The Trump Doctrine\u00a0",
-                "It's a shame. It would have been interesting if they left it on and stood up to the schoolyard bully rather than giving in. The announcement that he could \"make a different decision\" just continues his bullying tactics.",
-                "He is the one who blinked.",
-                "In his disease addled brain he thinks this is a win."
+                "Sundowning embarrassment",
+                "Consistently inconsistent",
+                "Why the fuck is canada backing off",
+                "At least until tomorrow. When he wakes up in his shit filled diaper and decides to tariff  something else because he\u2019s mad."
             ],
-            "aggregate_sentiment": 12.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "NEW",
             "title": "Ontario\u2019s Ford suspends U.S. electric surcharge, says Lutnick agrees to trade talks",
             "external_url": "https://www.cnbc.com/2025/03/11/ontarios-ford-suspends-us-electric-surcharge-says-lutnick-agrees-to-trade-talks.html",
-            "upvotes": 1516,
+            "upvotes": 2583,
             "date": "03/11/2025",
             "thumbnail": "https://image.cnbcfm.com/api/v1/image/108096026-17385018682025-01-31t194302z_882276599_rc25lca555hn_rtrmadp_0_usa-trump-canada-tariffs.jpeg?v=1741720657&w=1920&h=1080",
             "top_comments": [
@@ -269,49 +317,53 @@
                 "I still think it's time to invest in solar and batteries for my house.",
                 "I'm seeing some very interesting headlines and reports from Americans to try and control the narrative like this from NBC - [Canada backs down from 25% electricity surcharge after Trump threats](https://www.nbcnews.com/business/economy/trump-canada-doubles-tariffs-national-emergency-electricity-rcna195810)\n\n As a Canadian, let's set the record straight.\n\nWhat really happened was that Canada made Trump blink first. Premier Ford and other Canadian leaders from coast to coast to coast have always asserted that they're willing to negotiate with America. It was America that continued to refuse to negotiate until Canada finally placed reciprocal tariffs and export taxes. \n\nTrump blinked. But American media would have you believe that Canada capitulated. Elbows up! \ud83c\udde8\ud83c\udde6",
                 "I\u2019m so tired of this shit show. Everyone who voted for Trump for economic reasons look real stupid right now",
+                "Pretty sure it\u2019ll be back to tariffs and trade wars by the end of the week.",
                 "We don't want a trade war, as nice as it would be to stick it to him. If they're willing to negotiate then we should try to avoid this as much as possible.\n\nBut our electricity surcharge can be reinstated at any time. If they try and do what they did to Zelenskyy, don't be surprised to see the surcharge back.",
-                "Go Canada go from an American \ud83d\ude2d\u2764\ufe0f",
-                "This kind of pisses me off. This is going to give Trump what he considers a \"win\".",
+                "I\u2019m fucking tired of all the big talk and no one actually having the balls to do anything. Fucking EXHAUSTED\u00a0",
                 "Did he not just say on TV all over the place that the tariffs would stay until the US removes its tariffs on Canadian products period.\nFord just did the same thing President Krasnov has been doing \ud83d\ude35\u200d\ud83d\udcab",
-                "I\u2019m fucking tired of all the big talk and no one actually having the balls to do anything. Fucking EXHAUSTED\u00a0"
+                "This kind of pisses me off. This is going to give Trump what he considers a \"win\"."
             ],
-            "aggregate_sentiment": 18.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "NEW",
             "title": "DOJ official says she was fired after opposing the restoration of Mel Gibson's gun rights",
             "external_url": "https://www.nbcnews.com/politics/justice-department/doj-official-says-was-fired-opposing-restoration-mel-gibsons-gun-right-rcna195287",
-            "upvotes": 518,
+            "upvotes": 1383,
             "date": "03/11/2025",
             "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250310-mel-gibson-2017-ac-1159p-48e9a8.jpg",
             "top_comments": [
                 "Mel Gibson ruined Mel Gibson movies for me, the cunt",
                 "This is also the administration that is going after colleges for supposed anti-semitism",
-                "Trump is weaponizing government power and having a persons livelihood taken away to give guns back to a piece of shit that committed domestic violence\u2026\n\nMel Gibson beat the shit out of his ex and her young daughter. There are photos, voice recordings, broken teeth, and massive bruises to prove it.",
-                "Is Mel Gibson going to kill somebody?",
+                "Trump is weaponizing government power and having a persons livelihood taken away to give guns back to a piece of shit racist that 100% committed domestic violence\u2026\n\nMel Gibson beat the shit out of his ex and her young daughter. There are photos, voice recordings, broken teeth, and massive bruises to prove it.\n\nAll that said Mel Gibson is also a total racist that hates people of color and especially Jews. \n\nHere\u2019s a great quote/excerpt from a voicemail he left his ex btw.\n\n\u201cYou go out in public and it\u2019s a f***ing embarrassment to me. You look like a f***ing b**** on heat and if you get raped by a pack of n***ers it will be your fault.\u201d",
+                "A raging alcoholic with a gun.\n\n\nGod bless America\u00a0",
                 "Mel Gibson is a fucking whacko.\u00a0",
-                "Having a personal relationship with a 34 times convicted criminal, who defrauded a childrens cancer charity and brags about sexually assaulting women should be a sufficient basis to deny the recommendation\u00a0"
+                "Is Mel Gibson going to kill somebody?",
+                "So much for Trump trying to fight \u201cantisemitism\u201d",
+                "Having a personal relationship with a 34 times convicted criminal, who defrauded a childrens cancer charity and brags about sexually assaulting women should be a sufficient basis to deny the recommendation\u00a0",
+                "This is an attack on the Brady bill. People will be in court using Smell Gibbon as a reason to have their rights restored. \n\nExactly what we need.  A bunch of dudes with anger and resentment issues getting their gun rights back.",
+                "I really have no desire to watch his movies because of this. I mean, I didn\u2019t watch them before, but now I really don\u2019t want to.\n\nSame with his other \u201cambassadors\u201d to Hollywood Jon Voight and Sylvester Stallone."
             ],
-            "aggregate_sentiment": 37.0
+            "aggregate_sentiment": 0.0
         },
         {
             "category": "NEW",
             "title": "USDA cuts more than $1bn in local food purchases for schools, food banks",
             "external_url": "https://www.theguardian.com/us-news/2025/mar/11/usda-cuts-food-banks-schools",
-            "upvotes": 1067,
+            "upvotes": 2287,
             "date": "03/11/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/f7d65400d1ba74235801ee05719cb624494f599d/0_433_7726_4638/master/7726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ffb661736c0d25470ff69c089150c88",
             "top_comments": [
                 "Because the kids aren't the priority anymore. Duh!",
                 "What's that quote I see going around, \"Republicans will deny food for 100 people out of concern 1 may not actually need it.\"",
                 "From the article:\n\n\nMillions of children could lose free school meals as food costs rise, warns School Nutrition Association president\n\n\nAbout $660m of those funds were contained in the Local\u00a0Food\u00a0for Schools Cooperative Agreement Program, which provided funds to schools and child care facilities but is now being eliminated.\n\n\nMeanwhile, short-staffed school nutrition teams, striving to improve menus and expand scratch-cooking, would be saddled with time-consuming and costly paperwork created by new government inefficiencies.\u201d",
-                "Every day I am more horrified than the day before. Half of me wants to stop being on the Internet outright, and the other half wants to keep reading to know what hell I need to prepare for.",
+                "Remember that the food being purchased isn't some foreign food. It's US food that was being purchased. US farmers/ranchers/etc will lose income over this.",
                 "I just saw this. Feeding kids is \"woke\" now\n\n\nhttps://www.reddit.com/r/facepalm/comments/1i88jud/woke_is_giving_food_to_low_income_people/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
-                "And that money is going back to tax payers?\n\nOh wait, the GOP plans on adding $4 trillion more to the debt to pay for tax cuts for those making over $350K a year. \n\nWhy do millionaires and billionaires need these handouts, but school kids do not??",
                 "So, it\u2019s now \u201cFarmers, nevermind\u2026we were kidding. No fun for you\u201d or anyone else.\u00a0",
-                "When you're so evil you let your own people starve.  Nice job republicans.  Are the right people being hurt yet?",
-                "Are we great again yet?",
-                "Republicans are pure evil, nothing less. These are children ffs."
+                "And that money is going back to tax payers?\n\nOh wait, the GOP plans on adding $4 trillion more to the debt to pay for tax cuts for those making over $350K a year. \n\nWhy do millionaires and billionaires need these handouts, but school kids do not??",
+                "Every day I am more horrified than the day before. Half of me wants to stop being on the Internet outright, and the other half wants to keep reading to know what hell I need to prepare for.",
+                "This isn't just for the children, \n\nThese programs are also an important subsidy for US food producers. Just what they need now that everybody is putting tariffs against American goods.",
+                "How Christian of them? WWJD?"
             ],
             "aggregate_sentiment": 12.0
         },
@@ -319,143 +371,164 @@
             "category": "NEW",
             "title": "Tornado crosses over local TV station in Central Florida during a live broadcast",
             "external_url": "https://www.denver7.com/weather/tornado-crosses-over-local-tv-station-in-central-florida-during-a-live-broadcast",
-            "upvotes": 61,
+            "upvotes": 99,
             "date": "03/11/2025",
             "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/61ce8ca/2147483647/strip/true/crop/2098x1101+0+165/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fbe%2F59%2Febdd8e534cbaa4c2341fb24dc9d5%2Fscreenshot-2025-03-11-at-9-07-17-am.png",
             "top_comments": [
                 "EF2 hit Orlando. No injuries were reported at the station. Some nearby homes were damaged.",
                 "How perfect that it's a Fox affiliate. \n\nI grew up in tornado country, and to this day I remember one of the tornado safety videos they made us watch in grade school. Some guy has a camcorder and is filming as his entire family stands in front of a glass sliding door looking out onto a lake. You can see the tornado only a few houses down, and the guy just calmly says, \"There goes Bob's boat!\" Still cracks me up all these years later.",
-                "Even the weather hates florida's guts."
+                "Even the weather hates florida's guts.",
+                "Somehow I read that as Toronto and was impressed"
             ],
-            "aggregate_sentiment": 42.0
-        },
-        {
-            "category": "NEW",
-            "title": "US should restart shuttered coal units, Interior Secretary tells Bloomberg",
-            "external_url": "https://www.reuters.com/business/energy/us-should-restart-shuttered-coal-units-interior-secretary-tells-bloomberg-2025-03-10/",
-            "upvotes": 241,
-            "date": "03/11/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Of course. Why not restart outdated tech that is more expensive, causes more pollution, and requires us to import the necessary resource from Canada, a country we just started a trade war with.\n\nThats a master plan.",
-                "Heard him talking on CNBC,\u00a0going on about how we can still enjoy \u201c95%\u201d of our federally protected land.\u00a0\n\nWhat a piece of shit.",
-                "\"We can stop death by regulation\" \n\nand, presumably, restart death by black lung, toxic chemical exposure, and more-frequent climate-related disasters.",
-                "Utilities don't want to restart coal. Many are decommissioned and cannot be recovered.",
-                "The children yearn for the mines",
-                "I just watched a youtube video that depicted coal when it was carted to every home with coal fired boilers.\n\nI realized that this drove the demand back then. A lot of people used coal to heat their homes. Now, we have electricity and gas heat.\n\nHow can they justify opening coal mines without new coal demand?\n\nBy creating demand themselves.\n\nSoviet Trump demands more coal to be used. Better start a coal demand quota.",
-                "Socialized Coal by people who think socialism is the devil",
-                "Im glad my city blew up our last remaining coal plant recently.\u00a0",
-                "We should also bring back the pony express.",
-                "It's just a coal plant, Michael. How hard is it to start up again?"
-            ],
-            "aggregate_sentiment": 6.0
+            "aggregate_sentiment": 70.0
         },
         {
             "category": "NEW",
             "title": "Poland arrests Ukrainian woman convicted of selling 56 human kidneys",
             "external_url": "https://www.reuters.com/world/europe/poland-arrests-ukrainian-woman-convicted-selling-56-human-kidneys-2025-03-11/",
-            "upvotes": 271,
+            "upvotes": 475,
             "date": "03/11/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
                 "God forbid women have a hobby",
                 "She was already on Interpol's list since 2020",
-                "Don\u2019t sell any kidneys on the way to the parking lot!",
-                "I bet she is a non-donor.",
                 "I knew this urban myth was real...",
-                "thats at least 28 crimes.",
-                "They were just lying around.",
+                "I bet she is a non-donor.",
+                "Don\u2019t sell any kidneys on the way to the parking lot!",
                 "Give away one kidney, you're selfless.\nGive away two kidneys, you're a hero.\nGive away three kidneys, you're put on a list",
-                "*The woman was convicted for participation in an international organised criminal group that illegally collected tissues and organs from people from 2017 to 2019 and sold them on the black market, Petkowska added.*\n\nOne further reminder of de-humainzation. More and more we are bits and pieces and not revered whole beings with body and perhaps soul. What's worse is that there's a set price on each part of us.",
-                "that one person in example in math class"
+                "They were just lying around.",
+                "that one person in example in math class",
+                "thats at least 28 crimes.",
+                "*The woman was convicted for participation in an international organised criminal group that illegally collected tissues and organs from people from 2017 to 2019 and sold them on the black market, Petkowska added.*\n\nOne further reminder of de-humainzation. More and more we are bits and pieces and not revered whole beings with body and perhaps soul. What's worse is that there's a set price on each part of us."
             ],
-            "aggregate_sentiment": 60.0
+            "aggregate_sentiment": 8.0
         },
         {
-            "category": "NEW",
-            "title": "Ukraine agrees to accept US 30-day ceasefire proposal",
-            "external_url": "https://www.reuters.com/world/europe/moscow-drone-attack-latest-russian-capital-targeted-by-ukraine-2025-03-11/",
-            "upvotes": 1390,
-            "date": "03/11/2025",
-            "thumbnail": "No social preview available",
+            "category": "RISING",
+            "title": "Department of Education lays off nearly 50% of its workforce",
+            "external_url": "https://abcnews.go.com/US/department-education-faces-50-layoffs-after-closure-notice/story?id=119690524&utm_source=flipboard&utm_content=user%2Fabc",
+            "upvotes": 3520,
+            "date": "03/12/2025",
+            "thumbnail": "https://i.abcnewsfe.com/a/63d5aa42-9003-48c5-b937-5f4e3fa8c88f/dept-education-1-epa-gmh-250311_1741707004175_hpMain_16x9.jpg?w=1600",
             "top_comments": [
-                "Russia to break it and blame Ukraine. And trump to agree....",
-                "\"return of forcibly transferred Ukrainian children\"\nYeah no way Russia is accepting this",
-                "Russia either won't accept, or will break it. And Trump is in for a reality check. Betting 1 Tesla stock",
-                "Ukraine will do whatever is best for them, but any ultimate peace treaty that doesn't include security guarantees for Ukraine is just a pause button to give Russia a few years to rebuild their military before launching a third invasion.",
-                "Governing 30 days at a time",
-                "I suspect that Ukraine only agreed to this because they knew Russia wouldn't.",
-                "Russia will literally break this on day 28",
-                "Russian Ceasefire, take 25: and, action.",
-                "Russia will break it, say Ukraine broke it, then Trump will use the accusation as a reason to hurt Ukraine.",
-                "The only ceasefire will be Ukraine ceasing to fire on the Russian troops still shooting them. But another example of who is the bad guy can't hurt I guess. Not like the orange idiot will accept it even if he sees it with his own eyes."
+                "Woman who's never worked in education and enrolled her own kids in private schools has strong feelings on how little funding should go to programs helping special needs students.",
+                "Everything Trump is doing weakens America, and hurts Americans.",
+                "As a disabled person that benefited from DoE policy to get my high school and college diplomas I worry for the younger generation that will lose access.",
+                "\"Six communications offices are going to be consolidated, they explained, and leases will end in major cities including San Francisco, New York, Cleveland, Boston, Chicago and Dallas.\"\n\nSeem a little targeted to anyone else?",
+                "2024 Election exit data polling shows the higher level of education someone achieves, the more likely they are to vote Democratic. Those without a college degree are most likely to vote Republican\n\n[Source](https://www.nbcnews.com/politics/2024-elections/exit-polls)\n\nIf you check this [source](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment) and sort by states based on percent of people who have a bachelors or higher, the top 10 are blue states and the bottom ten are red states.\n\nTrump said \"I love the uneducated\" because they are his base. Attacks on education are purposeful.",
+                "This is the kind of thing that should set off alarm bells, but somehow it just feels like another day in the slow dismantling of public services. Cutting nearly half a department overnight, with barely a warning, is not streamlining, it is sabotage. Even if you believe the Department of Education is bloated, you do not fix a system by gutting it in a way that leaves staff terrified and scrambling. \n\nPeople do not work well under fear, and a government that rules through uncertainty is more interested in control than competence. The bigger question is what comes next. If this is just the warm-up act for dismantling the department altogether, what does that mean for the millions of students and families who rely on federal education programmes? Anyone cheering this move might want to ask themselves whether they trust their local politicians to handle education funding fairly and effectively because that is where this is headed.",
+                "So this means that I don\u2019t owe any of my student loans and they\u2019re all forgiven since no one is gonna keep a check on them? if only",
+                "You know they\u2019re lying when they say they want to return the responsibilities of these agencies to the states (not that I think that\u2019d be a good idea, mainly because federal agencies set a singular standard from which all Americans benefit) because the smart way to do that would be to slowly phase out the federal agencies while states build up their own agencies to take on the extra responsibility. \n\nThe Trump administration seeks to destroy, not decentralize.",
+                "\u201cI love the poorly educated.\u201d",
+                "I hate how the worst possible news reports don't even get a sigh out of me anymore. Not that I'm accepting this as normal, but at this point my reaction to this headline is just 'of course it is'."
             ],
-            "aggregate_sentiment": 40.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "RISING",
             "title": "Trump backs off doubling Canadian steel and aluminum tariffs after Ontario suspends electricity surcharge",
             "external_url": "https://www.cbsnews.com/news/trump-tariffs-canada-steel-aluminum/",
-            "upvotes": 510,
+            "upvotes": 2971,
             "date": "03/11/2025",
             "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/11/d3dc91bb-a425-42cb-9d30-0ff10eafaa14/thumbnail/1200x630g2/b57462378b668dd5d145a85b2e321fc0/gettyimages-2203227046.jpg?v=23322f4fbf0a01b337c42258c443e9ac",
             "top_comments": [
                 "This is the most farcical trade war ever.",
+                "I swear to God this is exhausting. It makes me wish we were back in the pandemic years so I can just make sourdough and not have to hear the word tariff 50x a day.",
                 "So he's not running America so much like ***a*** business, as he is running America like [*his* business](https://www.americanbanker.com/news/banking-on-the-donald).",
                 "They suspended the surcharge as good faith for the meeting this Thursday. That was not a win for the orange bastard.",
                 "His decision making is child-like. Impulsive, personal, ad hoc, transactional. He is a bully who has been handed the reigns of government.",
-                "Consistently inconsistent",
-                "I swear to God this is exhausting. It makes me wish we were back in the pandemic years so I can just make sourdough and not have to hear the word tariff 50x a day.",
                 "\"Speak loudly and carry a small dick.\" --The Trump Doctrine\u00a0",
-                "It's a shame. It would have been interesting if they left it on and stood up to the schoolyard bully rather than giving in. The announcement that he could \"make a different decision\" just continues his bullying tactics.",
-                "He is the one who blinked.",
-                "In his disease addled brain he thinks this is a win."
+                "Sundowning embarrassment",
+                "Consistently inconsistent",
+                "Why the fuck is canada backing off",
+                "At least until tomorrow. When he wakes up in his shit filled diaper and decides to tariff  something else because he\u2019s mad."
             ],
-            "aggregate_sentiment": 20.0
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
+            "title": "Musk launches appeal to restore $56 billion Tesla payday",
+            "external_url": "https://www.reuters.com/business/autos-transportation/musk-launches-appeal-restore-56-billion-tesla-payday-2025-03-11/",
+            "upvotes": 8083,
+            "date": "03/11/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "> Musk has said that he wants a greater stake in Tesla or he might develop products outside of the company.   \n   \nAh yes, threatening your own company.",
+                "\"I would like you to pay me 56 billion dollars while I am actively tanking the company's value\" is an interesting pitch ...",
+                "They should ask him to name 5 things he did for the company last week.",
+                "Hey guys I\u2019m gonna need that money before I completely destroy the brand with my evil actions",
+                "Has he seen the stock price?",
+                "I highly doubt shareholders would support him now if they were to vote on it again. He's lost the shareholders billions.",
+                "He should not buy a Tesla unless it\u2019s in Canada and he buys two a minute",
+                "He admitted that while running Doge, he is running his companies with \"great difficulty\"\n\nWhy would shareholders reward a CEO who is having \"great difficulty\" running their company?",
+                "Elon, do you little salute again, maybe that will fix things",
+                "Sorry that so few people want to be associated with your swasticars, Elon!"
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
+            "title": "Scholars stranded in America and abroad amid funding freeze of State Department programs",
+            "external_url": "https://apnews.com/article/fulbright-scholars-stipends-frozen-indefinitely-9da042b5e0bda70fb1c76105564c71f4",
+            "upvotes": 307,
+            "date": "03/11/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "In less than eight-weeks, Trump has destroyed everything we've fought and died for since the founding of our nation. It's never going to be the same again.",
+                "> \u201cIt was very scary, I would say, not just because I am lost in another country,\u201d she said. \u201cWe don\u2019t know if we will ever get another stipend here, and if they have enough money to buy our tickets home. So there are a lot of things that are not clear and not certain.\u201d\n\n\u201cIf these do-gooder scholars are so good and so smart, why are they stranded in bumfuckistan?\u201d\n\n- MAGA, as they cut the legs from underneath aid workers",
+                "Why would any country trust us ever again? All that's left to use us, manipulate us. But never trust.",
+                "Many young scholars from all over the world apply for and receive Fulbright Scholarships.  They are often totally dependent on the scholarship money for food, rent, etc.  Cut off means stranded.  These students are usually the cream of the cream who could never study or travel abroad without this kind of support. Shame on US!",
+                "Scholars? Now you know why the Orange sexual predator loves uneducated people.\u00a0"
+            ],
+            "aggregate_sentiment": 14.0
         },
         {
             "category": "RISING",
             "title": "DOJ official says she was fired after opposing the restoration of Mel Gibson's gun rights",
             "external_url": "https://www.nbcnews.com/politics/justice-department/doj-official-says-was-fired-opposing-restoration-mel-gibsons-gun-right-rcna195287",
-            "upvotes": 514,
+            "upvotes": 1377,
             "date": "03/11/2025",
             "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250310-mel-gibson-2017-ac-1159p-48e9a8.jpg",
             "top_comments": [
                 "Mel Gibson ruined Mel Gibson movies for me, the cunt",
                 "This is also the administration that is going after colleges for supposed anti-semitism",
-                "Trump is weaponizing government power and having a persons livelihood taken away to give guns back to a piece of shit that committed domestic violence\u2026\n\nMel Gibson beat the shit out of his ex and her young daughter. There are photos, voice recordings, broken teeth, and massive bruises to prove it.",
-                "Is Mel Gibson going to kill somebody?",
+                "Trump is weaponizing government power and having a persons livelihood taken away to give guns back to a piece of shit racist that 100% committed domestic violence\u2026\n\nMel Gibson beat the shit out of his ex and her young daughter. There are photos, voice recordings, broken teeth, and massive bruises to prove it.\n\nAll that said Mel Gibson is also a total racist that hates people of color and especially Jews. \n\nHere\u2019s a great quote/excerpt from a voicemail he left his ex btw.\n\n\u201cYou go out in public and it\u2019s a f***ing embarrassment to me. You look like a f***ing b**** on heat and if you get raped by a pack of n***ers it will be your fault.\u201d",
+                "A raging alcoholic with a gun.\n\n\nGod bless America\u00a0",
                 "Mel Gibson is a fucking whacko.\u00a0",
-                "Having a personal relationship with a 34 times convicted criminal, who defrauded a childrens cancer charity and brags about sexually assaulting women should be a sufficient basis to deny the recommendation\u00a0"
+                "Is Mel Gibson going to kill somebody?",
+                "So much for Trump trying to fight \u201cantisemitism\u201d",
+                "Having a personal relationship with a 34 times convicted criminal, who defrauded a childrens cancer charity and brags about sexually assaulting women should be a sufficient basis to deny the recommendation\u00a0",
+                "This is an attack on the Brady bill. People will be in court using Smell Gibbon as a reason to have their rights restored. \n\nExactly what we need.  A bunch of dudes with anger and resentment issues getting their gun rights back.",
+                "I really have no desire to watch his movies because of this. I mean, I didn\u2019t watch them before, but now I really don\u2019t want to.\n\nSame with his other \u201cambassadors\u201d to Hollywood Jon Voight and Sylvester Stallone."
             ],
-            "aggregate_sentiment": 37.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "RISING",
             "title": "USDA cuts more than $1bn in local food purchases for schools, food banks",
             "external_url": "https://www.theguardian.com/us-news/2025/mar/11/usda-cuts-food-banks-schools",
-            "upvotes": 1067,
+            "upvotes": 2290,
             "date": "03/11/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/f7d65400d1ba74235801ee05719cb624494f599d/0_433_7726_4638/master/7726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ffb661736c0d25470ff69c089150c88",
             "top_comments": [
                 "Because the kids aren't the priority anymore. Duh!",
                 "What's that quote I see going around, \"Republicans will deny food for 100 people out of concern 1 may not actually need it.\"",
                 "From the article:\n\n\nMillions of children could lose free school meals as food costs rise, warns School Nutrition Association president\n\n\nAbout $660m of those funds were contained in the Local\u00a0Food\u00a0for Schools Cooperative Agreement Program, which provided funds to schools and child care facilities but is now being eliminated.\n\n\nMeanwhile, short-staffed school nutrition teams, striving to improve menus and expand scratch-cooking, would be saddled with time-consuming and costly paperwork created by new government inefficiencies.\u201d",
-                "Every day I am more horrified than the day before. Half of me wants to stop being on the Internet outright, and the other half wants to keep reading to know what hell I need to prepare for.",
+                "Remember that the food being purchased isn't some foreign food. It's US food that was being purchased. US farmers/ranchers/etc will lose income over this.",
                 "I just saw this. Feeding kids is \"woke\" now\n\n\nhttps://www.reddit.com/r/facepalm/comments/1i88jud/woke_is_giving_food_to_low_income_people/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
-                "And that money is going back to tax payers?\n\nOh wait, the GOP plans on adding $4 trillion more to the debt to pay for tax cuts for those making over $350K a year. \n\nWhy do millionaires and billionaires need these handouts, but school kids do not??",
                 "So, it\u2019s now \u201cFarmers, nevermind\u2026we were kidding. No fun for you\u201d or anyone else.\u00a0",
-                "When you're so evil you let your own people starve.  Nice job republicans.  Are the right people being hurt yet?",
-                "Are we great again yet?",
-                "Republicans are pure evil, nothing less. These are children ffs."
+                "And that money is going back to tax payers?\n\nOh wait, the GOP plans on adding $4 trillion more to the debt to pay for tax cuts for those making over $350K a year. \n\nWhy do millionaires and billionaires need these handouts, but school kids do not??",
+                "Every day I am more horrified than the day before. Half of me wants to stop being on the Internet outright, and the other half wants to keep reading to know what hell I need to prepare for.",
+                "This isn't just for the children, \n\nThese programs are also an important subsidy for US food producers. Just what they need now that everybody is putting tariffs against American goods.",
+                "How Christian of them? WWJD?"
             ],
-            "aggregate_sentiment": 18.0
+            "aggregate_sentiment": 12.0
         },
         {
             "category": "RISING",
             "title": "Fear of flying is pushing ticket sales down in the wake of multiple crashes, airlines say",
             "external_url": "https://www.cnn.com/2025/03/11/business/passengers-air-travel-crashes-fear/index.html",
-            "upvotes": 5691,
+            "upvotes": 7574,
             "date": "03/11/2025",
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199796404.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
@@ -463,25 +536,25 @@
                 "Misleading headlines it's not so much \"fear of flying\" as it is \"safety concerns after whistleblowers and deregulation and several accidents\"",
                 " Without proper oversight, it is not the Fear of flying but the fear of crashing. Why would people travel with all the fear and uncertainty in the Russian Vassal State of the USA.",
                 "Elon Musk only flies on Air Force 1 lately.  Must be a sign.",
-                "Yup, I canceled a flight this month after my brother's girlfriend almost died in that recent near miss where Southwest pilot pulled up just in time to avoid a taxiing idiot. Not gonna be a statistic for these assholes.",
                 "With the government cutting a large amount of the people who service the air traffic equipment and knowing the fact that they were already pretty thin in that area, I'm probably not going to fly for a long while myself.",
                 "make trains great again :) i seriously wish USA would build a massive highspeed rail system",
-                "It seems completely rational with the dangerous cuts to the FAA.",
+                "Yup, I canceled a flight this month after my brother's girlfriend almost died in that recent near miss where Southwest pilot pulled up just in time to avoid a taxiing idiot. Not gonna be a statistic for these assholes.",
                 "I think it's more people not traveling because of economic reasons...",
-                "fear of flying, cost of flying, getting disease while flying (measles in Washington Dulles airport now)\n\nI can either drive 15 hrs to a destination or fly (2.5hrs, ~900$)... hmmmmm..... Yes I know that statistically flying is safer.  But, I know I won't get a contagious disease alone in my car too, and I can sanitize my hands after the gaspump."
+                "It seems completely rational with the dangerous cuts to the FAA.",
+                "I just took 6 flights last week ngl the takeoff and landings had me a bit more nervous than usual."
             ],
-            "aggregate_sentiment": 87.0
+            "aggregate_sentiment": 67.0
         },
         {
             "category": "RISING",
             "title": "Texas measles cases grow to 223, mostly among children and teens",
             "external_url": "https://abcnews.go.com/Health/texas-measles-cases-latest/story?id=119663844",
-            "upvotes": 3402,
+            "upvotes": 4236,
             "date": "03/11/2025",
             "thumbnail": "https://i.abcnewsfe.com/a/aebbd8d7-5e11-4f76-ba61-175fae71c515/measles-lubbock-01-gty-jef-250311_1741706139050_hpMain_16x9.jpg?w=1600",
             "top_comments": [
-                "Can you imagine how PISSED these kids are going to be at their parents when they grow old enough to recognize that a terrible childhood illness was completely avoidable?",
                 "Goddamn I hate the anti vaccine cult.",
+                "Can you imagine how PISSED these kids are going to be at their parents when they grow old enough to recognize that a terrible childhood illness was completely avoidable?",
                 "Child abuse in the land of \"pro life\"...",
                 "Im sorry to the children caught in this stupidity. \n\nYou deserve better",
                 "Because the adults are all vaccinated as they grew up in the U.S. when we still generally agreed it was a good idea. Because it is.",
@@ -489,15 +562,15 @@
                 "This is because they aren't vaccinated. Poor children have to face this for no good",
                 "Oh well.  At least eggs are chea... Or my retirement is grea... I mean we are in good standing world wid... \n\nAt least they will die for freedom.",
                 "Red state oWniNg tHe LiBs!!. Ok well, have fun with your new little hobby I guess.",
-                "That's way more than the number of trans athletes supposedly playing the \"wrong\" sport."
+                "These kids might end up with a lot of complications in 7 - 10 years. \n\nBlindness, lung scarring, suppressed immune system, seizures and brain damage in rare cases."
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 18.0
         },
         {
             "category": "RISING",
             "title": "US to immediately restore intelligence sharing and 'security assistance' to Ukraine",
             "external_url": "https://www.bbc.com/news/live/c51ypekv9xwt",
-            "upvotes": 13111,
+            "upvotes": 19652,
             "date": "03/11/2025",
             "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c309/live/60583a00-fec2-11ef-b50e-9d086302645f.jpg",
             "top_comments": [
@@ -505,20 +578,20 @@
                 "Forgot to add asterisk*, *with terms and conditions applied.*",
                 "So he basically got hundreds of Ukrainians killed for nothing",
                 "Now that intelligence from Ukraine goes straight to Russia during trump\u2019s daily kneel and swallow Putin meetings.",
-                "I don't believe it and any \"assistance\" will likely help Russia.",
                 "I feel like Trump is running this country like a 13 yr old. He hates you today and likes you the next. Nobody signed up for this shitty roller coaster ride.",
+                "I don't believe it and any \"assistance\" will likely help Russia.",
                 "So the deal with the Russians was that Trump would pause intelligence sharing to give them an advantage in Kursk? Well done, Trump!",
                 "I would not be trusting any US intel if I was Ukraine\u00a0",
                 "Oh, is he thankful enough now? Was his shirt nicer? Did X have hiccups for reasons other than Ukraine?\n\nWe\u2019ll see in 3 days when the administration throws them under the bus again.",
-                "You know what would be nice. If he didint waste eastern european lives for some petty politics.  This guy America elected is just a damn scumbag that needs to be gone asap. He wont stop with seeing as foreigners as currency. Sooner or later he will sacrifice democrats to feel good about himself."
+                "I wouldn\u2019t trust any intelligence from the Trump administration"
             ],
-            "aggregate_sentiment": 20.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "RISING",
             "title": "Ontario\u2019s Ford suspends U.S. electric surcharge, says Lutnick agrees to trade talks",
             "external_url": "https://www.cnbc.com/2025/03/11/ontarios-ford-suspends-us-electric-surcharge-says-lutnick-agrees-to-trade-talks.html",
-            "upvotes": 1523,
+            "upvotes": 2586,
             "date": "03/11/2025",
             "thumbnail": "https://image.cnbcfm.com/api/v1/image/108096026-17385018682025-01-31t194302z_882276599_rc25lca555hn_rtrmadp_0_usa-trump-canada-tariffs.jpeg?v=1741720657&w=1920&h=1080",
             "top_comments": [
@@ -527,74 +600,14 @@
                 "I still think it's time to invest in solar and batteries for my house.",
                 "I'm seeing some very interesting headlines and reports from Americans to try and control the narrative like this from NBC - [Canada backs down from 25% electricity surcharge after Trump threats](https://www.nbcnews.com/business/economy/trump-canada-doubles-tariffs-national-emergency-electricity-rcna195810)\n\n As a Canadian, let's set the record straight.\n\nWhat really happened was that Canada made Trump blink first. Premier Ford and other Canadian leaders from coast to coast to coast have always asserted that they're willing to negotiate with America. It was America that continued to refuse to negotiate until Canada finally placed reciprocal tariffs and export taxes. \n\nTrump blinked. But American media would have you believe that Canada capitulated. Elbows up! \ud83c\udde8\ud83c\udde6",
                 "I\u2019m so tired of this shit show. Everyone who voted for Trump for economic reasons look real stupid right now",
+                "Pretty sure it\u2019ll be back to tariffs and trade wars by the end of the week.",
                 "We don't want a trade war, as nice as it would be to stick it to him. If they're willing to negotiate then we should try to avoid this as much as possible.\n\nBut our electricity surcharge can be reinstated at any time. If they try and do what they did to Zelenskyy, don't be surprised to see the surcharge back.",
-                "Go Canada go from an American \ud83d\ude2d\u2764\ufe0f",
-                "This kind of pisses me off. This is going to give Trump what he considers a \"win\".",
+                "I\u2019m fucking tired of all the big talk and no one actually having the balls to do anything. Fucking EXHAUSTED\u00a0",
                 "Did he not just say on TV all over the place that the tariffs would stay until the US removes its tariffs on Canadian products period.\nFord just did the same thing President Krasnov has been doing \ud83d\ude35\u200d\ud83d\udcab",
-                "I\u2019m fucking tired of all the big talk and no one actually having the balls to do anything. Fucking EXHAUSTED\u00a0"
+                "This kind of pisses me off. This is going to give Trump what he considers a \"win\"."
             ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "Jury awards $120 million to two men wrongfully convicted of 2003 murder",
-            "external_url": "https://www.cbsnews.com/chicago/news/wrongful-conviction-verdict-jury-120-million-john-fulton-anthony-mitchell/",
-            "upvotes": 674,
-            "date": "03/11/2025",
-            "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/11/73a21bee-9577-4457-8634-883a83f21fbd/thumbnail/1200x630/bc133372ad8a38311f08b0446e79eacb/screenshot-2025-03-11-095924.jpg?v=23322f4fbf0a01b337c42258c443e9ac",
-            "top_comments": [
-                "thats paid for with tax dollars. when civilians get sued, their own wages and/or property(s) are subject to  payment. why do civilians also have to pay for police fuck ups?",
-                "Statement that supposedly pro law and order people love to make mockly: \"There are no guilty people in prison\".\n\n\nSo much of the Innocence Projects has shown that there are a lot of innocent people in prison.\u00a0",
-                "They really need to start connecting these payments to the pension funds of both police and local prosecutions: Perhaps there'd be far less coercion and tampering with evidence if there actually existed some consequences for doing so.",
-                "*John Fulton and Anthony Mitchell both spent more than 16 years in prison before their convictions were overturned in 2019, and prosecutors wound up dropping all charges against them in the murder of 18-year-old Christopher Collazo.*\n\nWhat happened in 2003 was not racist enough; now the city of Chicago is appealing the Federal Courts finding of 120m award for the mistaken convictions/imprisonment",
-                "If y\u2019all are interested, a person who was on the jury for this case did an AMA a little while ago on r/ama",
-                "Dont spend it all in one place",
-                "Tbh for that amount in 20 years, lock me up please\u00a0"
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "RISING",
-            "title": "Girl Scouts sued over alleged heavy metals, pesticides in cookies",
-            "external_url": "https://www.reuters.com/legal/girl-scouts-sued-over-alleged-heavy-metals-pesticides-cookies-2025-03-11/",
-            "upvotes": 957,
-            "date": "03/11/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Since girl scouts are making the claim that these are normal things to find or at normal levels, id be curious to see how the other big cookie brands compare when tested \n\nAlso they mention other lawsuits of a similar nature in the past but don\u2019t mention the outcome of those lawsuits in this article. Which seems relevant",
-                "Oh please, not the thin mints...\n\n[Clicks Article]\n\nI need to see a doctor.",
-                "I've long suspected Girl Scout cookies were a one-way ticket to midnight.",
-                ">She said she would not have bought the cookies or \"would have paid substantially less\" had Girl Scouts disclosed the presence of \"dangerous toxins.\"\n\nIt's okay to poison me, but you have to give me a discount if you do?",
-                "I guess the Thin Mints can be renamed Heavy Mints. Or maybe Quicksilver Mints? \ud83e\udd14\u00a0",
-                "\u201cIt said heavy metals occur naturally in soil, with trace amounts not a safety issue, while glyphosate is found \u201cnearly everywhere\u201d in the food chain. Girl Scouts also said its bakers are committed to complying with all food safety standards.\u201d\n\nWhich is true \u2026  don\u2019t want heavy metals in the food supply , maybe it\u2019s time to do something about pollution.. As for glyphosate, maybe sue Bayer ,since they are the manufacturer..   \n\nsomebody must have not gotten the cookies they ordered",
-                "Should I be scared about the empty package in my trash from last night? Or about the 2 unopened packages on my counter?",
-                "It\u2019s worth anything they want to put in it for the peanut butter ones",
-                "I didn't dig real deep, but the initial info I find from the referenced study is... vague. Gives a low end of mercury of .02ppb (the limit is 2ppb) but then an amount of lead that is double the limit with no low range. Are there typos, is it a bad study, what's the deal here?",
-                "Well, fuck.  I 100% threw myself a \"cookie party\" on Saturday and had a whole box of Thin Mints instead of real food that day...\n\nAt least it was a delicious death."
-            ],
-            "aggregate_sentiment": 60.0
-        },
-        {
-            "category": "RISING",
-            "title": "U.S. Department of Education\u2019s Office for Civil Rights Sends Letters to 60 Universities Under Investigation for Antisemitic Discrimination and Harassment",
-            "external_url": "https://www.cnn.com/2025/03/10/us/department-of-education-warning-universities-title-vi-antisemitism/index.html",
-            "upvotes": 618,
-            "date": "03/11/2025",
-            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/ap24341776031813.jpg?c=16x9&q=w_800,c_fill",
-            "top_comments": [
-                "There is some irony that this is being done via the DEpartment of Education, which they want to shut down, and under the auspices of Title VI of the Civil Rights Act, which they want to get rid of.",
-                "Oh, good! They\u2019re gonna go after Nazis too, right?\n\nRight?",
-                "\"wtf we hate antisemitism now!\" -dude who handed the country over to someone who gave a sieg heil on national television",
-                "Full list of colleges:\n\nAmerican University \nArizona State University \nBoston University \nBrown University \nCalifornia State University, Sacramento \nChapman University \nColumbia University \nCornell University \nDrexel University \nEastern Washington University \nEmerson College \nGeorge Mason University \nHarvard University \nIllinois Wesleyan University \nIndiana University, Bloomington \nJohns Hopkins University \nLafayette College \nLehigh University \nMiddlebury College \nMuhlenberg College \nNorthwestern University \nOhio State University \nPacific Lutheran University     \nPomona College \nPortland State University \nPrinceton University \nRutgers University \nRutgers University-Newark\nSanta Monica College \nSarah Lawrence College \nStanford University \nState University of New York Binghamton \nState University of New York Rockland \nState University of New York, Purchase \nSwarthmore College \nTemple University \nThe New School \nTufts University \nTulane University \nUnion College \nUniversity of California Davis \nUniversity of California San Diego \nUniversity of California Santa Barbara \nUniversity of California, Berkeley\nUniversity of Cincinnati \nUniversity of Hawaii at Manoa \nUniversity of Massachusetts Amherst \nUniversity of Michigan \nUniversity of Minnesota, Twin Cities \nUniversity of North Carolina \nUniversity of South Florida \nUniversity of Southern California \nUniversity of Tampa \nUniversity of Tennessee \nUniversity of Virginia \nUniversity of Washington-Seattle \nUniversity of Wisconsin, Madison \nWellesley College \nWhitman College \nYale University",
-                "I remember complaints from the felon about how dems weaponize the govt. Now we have the DOE weapon in place intent on threatening education.",
-                "Reminder that the executive order that Trump signed \u201ccombating antisemitism\u201d was EO 14188. I am sure that\u2019s just a coincidence.",
-                "Protesting the actions of the Israeli government is not anti-semitic.",
-                "Super credible that Nazis are making accusations about antisemitism. \n\nConservatives think us Jews are their tools to exploit to push their degenerate fascist agenda.",
-                "Damn...USF made the list.  Yikes.",
-                "Nice. Under Trump\u2019s direction the department of education is kicking off a new DEI initiative.\n\nWhose bingo card was this on?"
-            ],
-            "aggregate_sentiment": 8.0
+            "aggregate_sentiment": 42.0
         }
     ],
-    "last_updated": "03/11/2025 22:20:27 UTC"
+    "last_updated": "03/12/2025 01:45:37 UTC"
 }
