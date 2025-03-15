@@ -7,6 +7,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto+Slab:wght@400;700&family=Nunito+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
   <style>
     :root {
       --primary-color: #222222; /* Deep Charcoal */
@@ -25,9 +27,9 @@
     }
 
     @font-face {
-        font-family: 'Neue Haas Grotesk Text Pro';
-        src: local('Neue Haas Grotesk Text Pro'), local('Helvetica Neue'), local('Arial'),
-             url('path-to-your-font/NeueHaasGroteskTextPro.woff2') format('woff2');
+      font-family: 'Neue Haas Grotesk Text Pro';
+      src: local('Neue Haas Grotesk Text Pro'), local('Helvetica Neue'), local('Arial'),
+      url('path-to-your-font/NeueHaasGroteskTextPro.woff2') format('woff2');
     }
 
     *, *::before, *::after {
@@ -44,6 +46,7 @@
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       zoom: 0.9;
+      overflow-x: hidden; /* Prevent horizontal scrollbar during animations */
     }
 
     /* Header */
@@ -121,7 +124,16 @@
       transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
       cursor: pointer;
       position: relative;
+      opacity: 1; /* GSAP Removed: Initially hidden for animation */
+      transform: translateY(0); /* GSAP Removed: Start position for animation */
     }
+
+    .card.animate-in {
+      opacity: 1;
+      transform: translateY(0);
+      transition: opacity 0.5s ease-out, transform 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Bouncy ease */
+    }
+
 
     .card:hover {
       transform: scale(1.03);
@@ -155,6 +167,7 @@
       right: 0;
       padding: 1.6rem;
       text-align: left;
+      background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%); /* Gradient overlay */
     }
 
     .card .info h3 {
@@ -207,6 +220,14 @@
       overflow-y: auto;
       position: relative;
       padding: 3.2rem;
+      transform: scale(1); /* GSAP Removed: Start scale for detail animation */
+      opacity: 1;
+      transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.3s ease-out;
+    }
+
+    .overlay.active .detail {
+      transform: scale(1);
+      opacity: 1;
     }
 
     .detail img {
@@ -360,24 +381,52 @@
     footer {
       background-color: var(--bg-color);
       text-align: center;
-      padding: 1.6rem;
+      padding: 2.2rem 1.6rem; /* Increased footer padding */
       font-size: 0.85rem;
       color: var(--text-secondary);
       border-top: 1px solid rgba(0,0,0,0.04);
       position: relative;
+      display: flex; /* Footer flex layout */
+      flex-direction: column;
+      align-items: center;
+      justify-content: center; /* Center content vertically */
     }
 
     footer p {
-      margin-bottom: 0.5rem;
+      margin-bottom: 1rem; /* Increased margin for text */
+    }
+
+    footer .support-btn {
+      display: inline-flex; /* Make it inline-flex for icon alignment */
+      align-items: center; /* Vertically align icon and text */
+      justify-content: center; /* Center content horizontally */
+      padding: 1rem 2rem; /* Increased padding for button */
+      background-color: var(--accent-color);
+      color: var(--primary-color); /* Dark text for contrast */
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 1rem; /* Slightly larger font size */
+      transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transitions */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+
+    }
+
+    footer .support-btn:hover {
+      background-color: #e6c200; /* Slightly darker gold on hover */
+      transform: scale(1.05); /* Scale up on hover */
+    }
+
+    footer .support-btn i {
+      margin-right: 0.75rem; /* Space between icon and text */
+      color: var(--primary-color); /* Icon color to match text */
     }
 
     footer .credit {
       font-size: 0.75rem;
       color: var(--text-secondary);
-      position: absolute;
-      bottom: 0.5rem;
-      left: 0;
-      right: 0;
+      position: static; /* No longer absolute positioned */
+      margin-top: 1rem; /* Add margin to separate from support button */
     }
 
     footer .credit a {
@@ -456,191 +505,202 @@
         height: 30px;
         font-size: 1.2rem;
       }
+
+      footer {
+        padding: 2rem 1rem; /* Adjust footer padding for mobile */
+      }
+      footer .support-btn {
+        padding: 0.8rem 1.5rem; /* Adjust support button padding for mobile */
+        font-size: 0.9rem;
+      }
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Lumin Gallery</h1>
-    <div class="categories">
-      <button data-category="HOT" class="active">Hot</button>
-      <button data-category="NEW">New</button>
-      <button data-category="RISING">Rising</button>
+<header>
+  <h1 id="headerTitle">Lumin Gallery</h1>
+  <div class="categories" id="categoriesButtons">
+    <button data-category="HOT" class="active">Hot</button>
+    <button data-category="NEW">New</button>
+    <button data-category="RISING">Rising</button>
+  </div>
+</header>
+
+<!-- Loader -->
+<div id="loader">Loading art...</div>
+
+<div class="grid" id="grid"></div>
+
+<!-- Detail overlay (modal) -->
+<div class="overlay" id="overlay">
+  <div class="detail" id="detail">
+    <button class="close-btn" id="closeBtn">×</button>
+    <a id="detailImageLink" href="#" target="_blank">
+      <img id="detailImage" src="" alt="Thumbnail" loading="lazy">
+    </a>
+    <h2 id="detailTitle"></h2>
+    <p class="meta" id="detailMeta"></p>
+    <!-- Social Sharing Button -->
+    <button id="copyLinkBtn">Copy Link</button>
+    <div class="meter">
+      <label for="sentimentBar">Sentiment Score:</label>
+      <progress id="sentimentBar" value="0" max="100"></progress> <span id="sentimentValue"></span>
     </div>
-  </header>
-
-  <!-- Loader -->
-  <div id="loader">Loading news...</div>
-
-  <div class="grid" id="grid"></div>
-
-  <!-- Detail overlay (modal) -->
-  <div class="overlay" id="overlay">
-    <div class="detail" id="detail">
-      <button class="close-btn" id="closeBtn">×</button>
-      <a id="detailImageLink" href="#" target="_blank">
-        <img id="detailImage" src="" alt="Thumbnail" loading="lazy">
-      </a>
-      <h2 id="detailTitle"></h2>
-      <p class="meta" id="detailMeta"></p>
-      <!-- Social Sharing Button -->
-      <button id="copyLinkBtn">Copy Link</button>
-      <div class="meter">
-        <label for="sentimentBar">Sentiment Score:</label>
-        <progress id="sentimentBar" value="0" max="100"></progress> <span id="sentimentValue"></span>
-      </div>
-      <div class="comments">
-        <h3>Top Comments</h3>
-        <ul id="commentsList" class="comment-list"></ul>
-      </div>
+    <div class="comments">
+      <h3>Top Comments</h3>
+      <ul id="commentsList" class="comment-list"></ul>
     </div>
   </div>
+</div>
 
-  <footer>
-    <p id="lastUpdatedFooter"></p>
-    <div class="credit">
-      Designed and brought to life with finesse by <a href="https://ko-fi.com/maxcomperatore" target="_blank" rel="noopener noreferrer"><u>Max Comperatore </u></a>
-    </div>
-  </footer>
+<footer>
+  <p id="lastUpdatedFooter"></p>
+  <a href="https://ko-fi.com/maxcomperatore" target="_blank" rel="noopener noreferrer" class="support-btn" id="supportButton">
+    <i class="fa-solid fa-coffee" style="color: var(--primary-color);"></i> Support the Gallery
+  </a>
+  <div class="credit">
+    Designed and brought to life with finesse by <a href="https://ko-fi.com/maxcomperatore" target="_blank" rel="noopener noreferrer"><u>Max Comperatore </u></a>
+  </div>
+</footer>
 
-  <script>
-    const DATA_URL = 'data.json'; // Keep data URL
+<script>
+  const DATA_URL = 'data.json'; // Keep data URL
 
-    let allPosts = [];
-    let lastUpdated = '';
-    let averageUpvotes = 0;
-    images = [
-            "a.jpg",
-            "b.jpg",
-            "c.jpg",
-    ]
+  let allPosts = [];
+  let lastUpdated = '';
+  let averageUpvotes = 0;
+  images = [
+    "a.jpg",
+    "b.jpg",
+    "c.jpg",
+  ];
 
-    async function fetchData() {
-      try {
-        const res = await fetch(DATA_URL);
-        const data = await res.json();
-        allPosts = data.posts;
-        lastUpdated = data.last_updated;
-        document.getElementById('lastUpdatedFooter').innerText = `Last updated: ${lastUpdated}`;
+  async function fetchData() {
+    try {
+      const res = await fetch(DATA_URL);
+      const data = await res.json();
+      allPosts = data.posts;
+      lastUpdated = data.last_updated;
+      document.getElementById('lastUpdatedFooter').innerText = `Last updated: ${lastUpdated}`;
 
-        // Calculate average upvotes
-        const totalUpvotes = allPosts.reduce((sum, post) => sum + post.upvotes, 0);
-        averageUpvotes = totalUpvotes / allPosts.length;
-        console.log("Average Upvotes:", averageUpvotes);
+      // Calculate average upvotes
+      const totalUpvotes = allPosts.reduce((sum, post) => sum + post.upvotes, 0);
+      averageUpvotes = totalUpvotes / allPosts.length;
+      console.log("Average Upvotes:", averageUpvotes);
 
-        renderGrid('HOT');
-      } catch (error) {
-        console.error('Error fetching data:', error);
-        document.getElementById('grid').innerHTML = '<p style="text-align:center; width:100%;">Failed to load art. Please check your connection.</p>';
-      } finally {
-        // Hide loader regardless of success or failure
-        document.getElementById('loader').style.display = 'none';
-      }
+      renderGrid('HOT');
+    } catch (error) {
+      console.error('Error fetching data:', error);
+      document.getElementById('grid').innerHTML = '<p style="text-align:center; width:100%;">Failed to load art. Please check your connection.</p>';
+    } finally {
+      // Hide loader regardless of success or failure
+      document.getElementById('loader').style.display = 'none';
+    }
+  }
+
+  function renderGrid(category) {
+    const grid = document.getElementById('grid');
+    grid.innerHTML = '';
+    const filtered = allPosts.filter(post => post.category === category);
+    if (filtered.length === 0) {
+      grid.innerHTML = '<p style="text-align:center; width:100%;">No art available in this category.</p>';
+      return;
     }
 
-    function renderGrid(category) {
-      const grid = document.getElementById('grid');
-      grid.innerHTML = '';
-      const filtered = allPosts.filter(post => post.category === category);
-      if (filtered.length === 0) {
-        grid.innerHTML = '<p style="text-align:center; width:100%;">No art available in this category.</p>';
-        return;
-      }
-
-      filtered.forEach(post => {
-        const card = document.createElement('div');
-        card.className = 'card';
-        card.innerHTML = `
+    filtered.forEach((post, index) => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
           <img src="${post.thumbnail}" alt="${post.title}" loading="lazy">
           <div class="info">
             <h3>${post.title}</h3>
           </div>
         `;
-        const imgElement = card.querySelector('img');
+      const imgElement = card.querySelector('img');
 
-        if (post.upvotes > averageUpvotes) {
-          imgElement.classList.add('high-upvotes');
-        }
-
-        imgElement.addEventListener('load', () => {
-          imgElement.classList.add('loaded');
-        });
-        imgElement.addEventListener('error', () => {
-          imgElement.src = images[Math.floor(Math.random() * images.length)];
-          imgElement.classList.add('loaded');
-        });
-
-        card.addEventListener('click', () => showDetail(post));
-        grid.appendChild(card);
-      });
-    }
-
-    document.querySelectorAll('.categories button').forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('.categories button').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        renderGrid(btn.getAttribute('data-category'));
-      });
-    });
-
-    function showDetail(post) {
-      const detailImage = document.getElementById('detailImage');
-      detailImage.src = post.thumbnail;
-      detailImage.onload = () => {
-        detailImage.classList.add('loaded');
-      };
-      detailImage.onerror = () => {
-        detailImage.src = images[Math.floor(Math.random() * images.length)];
-        detailImage.classList.add('loaded');
-      };
-
-      const detailImageLink = document.getElementById('detailImageLink');
-      detailImageLink.href = post.external_url;
-
-      document.getElementById('detailTitle').innerText = post.title;
-      document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`;
-
-      // Social sharing button event: copy external_url to clipboard
-      document.getElementById('copyLinkBtn').onclick = () => {
-        navigator.clipboard.writeText(post.external_url)
-          .then(() => alert('Link copied to clipboard!'))
-          .catch(err => console.error('Error copying link: ', err));
-      };
-
-      const sentimentBar = document.getElementById('sentimentBar');
-      let sentimentVal = post.aggregate_sentiment !== null ? parseFloat(post.aggregate_sentiment) : 0;
-      if (isNaN(sentimentVal)) {
-        sentimentVal = 0;
-        console.warn("Sentiment value is NaN, defaulting to 0.");
+      if (post.upvotes > averageUpvotes) {
+        imgElement.classList.add('high-upvotes');
       }
-      sentimentBar.value = sentimentVal;
 
-      document.getElementById('sentimentValue').innerText = sentimentVal ? `${sentimentVal.toFixed(0)}/100` : 'N/A';
-      const commentsList = document.getElementById('commentsList');
-      commentsList.innerHTML = '';
-      post.top_comments.forEach(comment => {
-        const li = document.createElement('li');
-        li.className = 'comment-item';
-        li.innerText = comment;
-        commentsList.appendChild(li);
+      imgElement.addEventListener('load', () => {
+        imgElement.classList.add('loaded');
       });
-      document.getElementById('overlay').classList.add('active');
-      window.scrollTo(0, 0);
-    }
+      imgElement.addEventListener('error', () => {
+        imgElement.src = images[Math.floor(Math.random() * images.length)];
+        imgElement.classList.add('loaded');
+      });
 
-    document.getElementById('closeBtn').addEventListener('click', () => {
+      card.addEventListener('click', () => showDetail(post));
+      grid.appendChild(card);
+    });
+  }
+
+  document.querySelectorAll('.categories button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.categories button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderGrid(btn.getAttribute('data-category'));
+    });
+  });
+
+  function showDetail(post) {
+    const detailImage = document.getElementById('detailImage');
+    detailImage.src = post.thumbnail;
+    detailImage.onload = () => {
+      detailImage.classList.add('loaded');
+    };
+    detailImage.onerror = () => {
+      detailImage.src = images[Math.floor(Math.random() * images.length)];
+      detailImage.classList.add('loaded');
+    };
+
+    const detailImageLink = document.getElementById('detailImageLink');
+    detailImageLink.href = post.external_url;
+
+    document.getElementById('detailTitle').innerText = post.title;
+    document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`;
+
+    // Social sharing button event: copy external_url to clipboard
+    document.getElementById('copyLinkBtn').onclick = () => {
+      navigator.clipboard.writeText(post.external_url)
+              .then(() => alert('Link copied to clipboard!'))
+              .catch(err => console.error('Error copying link: ', err));
+    };
+
+    const sentimentBar = document.getElementById('sentimentBar');
+    let sentimentVal = post.aggregate_sentiment !== null ? parseFloat(post.aggregate_sentiment) : 0;
+    if (isNaN(sentimentVal)) {
+      sentimentVal = 0;
+      console.warn("Sentiment value is NaN, defaulting to 0.");
+    }
+    sentimentBar.value = sentimentVal;
+
+    document.getElementById('sentimentValue').innerText = sentimentVal ? `${sentimentVal.toFixed(0)}/100` : 'N/A';
+    const commentsList = document.getElementById('commentsList');
+    commentsList.innerHTML = '';
+    post.top_comments.forEach(comment => {
+      const li = document.createElement('li');
+      li.className = 'comment-item';
+      li.innerText = comment;
+      commentsList.appendChild(li);
+    });
+    document.getElementById('overlay').classList.add('active');
+    window.scrollTo(0, 0);
+  }
+
+  document.getElementById('closeBtn').addEventListener('click', () => {
+    document.getElementById('overlay').classList.remove('active');
+    document.getElementById('detailImage').classList.remove('loaded');
+  });
+
+  document.getElementById('overlay').addEventListener('click', function(event) {
+    if (event.target === this) {
       document.getElementById('overlay').classList.remove('active');
       document.getElementById('detailImage').classList.remove('loaded');
-    });
+    }
+  });
 
-    document.getElementById('overlay').addEventListener('click', function(event) {
-      if (event.target === this) {
-        document.getElementById('overlay').classList.remove('active');
-        document.getElementById('detailImage').classList.remove('loaded');
-      }
-    });
-
-    fetchData();
-  </script>
+  fetchData();
+</script>
 </body>
 </html>
