@@ -588,7 +588,7 @@
       const data = await res.json();
       allPosts = data.posts;
       lastUpdated = data.last_updated;
-      document.getElementById('lastUpdatedFooter').innerText = `Last updated: ${lastUpdated}`;
+      document.getElementById('lastUpdatedFooter').innerText = `Last updated: ${lastUpdated}` + " (updates every 4 hours!)";
 
       // Calculate average upvotes
       const totalUpvotes = allPosts.reduce((sum, post) => sum + post.upvotes, 0);
