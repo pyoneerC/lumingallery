@@ -734,6 +734,11 @@
     gsap.fromTo(detail, { scale: 0.92, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.5, ease: "expo.out" });
 
     window.scrollTo(0, 0);
+    // Ensure scroll position is reset to top when overlay opens
+    if (overlay.classList.contains('active')) {
+      window.scrollTo(0, 0);
+      detail.scrollTop = 0; // Add this line to reset the detail modal's scroll
+    }
   }
 
   document.getElementById('closeBtn').addEventListener('click', () => {
