@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Lumin Gallery</title> <!-- App Name: Lumin Gallery -->
+  <title>Lumin Gallery - News Feed</title> <!-- App Name: Lumin Gallery - News Feed -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto+Slab:wght@400;700&family=Nunito+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -21,9 +21,9 @@
       --text-primary: var(--primary-color);
       --text-secondary: #777777; /* Slightly Darker Medium Gray */
       --border-radius: 12px; /* Slightly Less Rounded */
-      --shadow-color: rgba(0, 0, 0, 0.05); /* Even Subtler Shadow */
+      --shadow-color: rgba(0, 0, 0, 0.07); /* Slightly Stronger Shadow */
       --overlay-bg: rgba(15, 15, 15, 0.92); /* Slightly More Opaque Overlay */
-      --font-heading: 'Lora', serif; /* Elegant Serif for Headings */
+      --font-heading: 'Roboto Slab', serif; /* Stronger Heading Font for Newsy Feel */
       --font-subheading: 'Roboto Slab', serif; /* Strong Slab Serif for Sub-headings */
       --font-body: 'Nunito Sans', sans-serif; /* Clean Sans-serif for Body */
       --category-font: "Neue Haas Grotesk Text Pro", sans-serif; /* Category Button Font */
@@ -49,7 +49,7 @@
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       zoom: 1;
-      overflow-x: hidden; /* Prevent horizontal scrollbar during animations */
+      overflow-x: hidden;
     }
 
     /* Header */
@@ -67,9 +67,9 @@
 
     header h1 {
       font-family: var(--font-heading);
-      font-size: 2rem;
+      font-size: 2.3rem; /* Slightly larger title */
       font-weight: 700;
-      letter-spacing: -1.2px;
+      letter-spacing: -1px;
       color: var(--primary-color);
       opacity: 0;
       transform: translateY(-20px);
@@ -77,25 +77,25 @@
 
     .categories {
       display: flex;
-      gap: 0.6rem;
+      gap: 0.8rem; /* Slightly wider category gap */
       opacity: 0;
       transform: translateY(-20px);
     }
 
     .categories button {
-      padding: 0.8rem 1.2rem;
-      background-color: transparent;
+      padding: 0.7rem 1.1rem; /* Slightly smaller button padding */
+      background-color: var(--card-bg); /* White category buttons */
       border: 1px solid var(--text-secondary);
       color: var(--text-secondary);
       cursor: pointer;
-      border-radius: 0;
-      font-size: 0.95rem;
+      border-radius: 6px; /* Slightly rounded category buttons */
+      font-size: 0.9rem;
       font-weight: 600;
       font-family: var(--category-font), sans-serif;
-      letter-spacing: 0.2px;
+      letter-spacing: 0.1px;
       transition: all 0.2s ease-in-out;
       text-align: center;
-      min-width: 75px;
+      min-width: 65px;
       opacity: 0;
       transform: translateY(-10px);
     }
@@ -103,7 +103,7 @@
     .categories button.active,
     .categories button:hover {
       background-color: var(--accent-color);
-      color: white;
+      color: var(--primary-color); /* Dark text on active/hover */
       border-color: var(--accent-color);
     }
 
@@ -118,9 +118,9 @@
     /* Grid Layout */
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-      gap: 2.2rem;
-      padding: 3.2rem;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Slightly smaller min-width for columns */
+      gap: 1.8rem; /* Slightly smaller grid gap */
+      padding: 2.8rem; /* Slightly reduced grid padding */
       max-width: 1550px;
       margin: 0 auto;
     }
@@ -130,22 +130,24 @@
       border-radius: var(--border-radius);
       overflow: hidden;
       box-shadow: var(--shadow-color);
-      transition: transform 0.3s ease-out, box-shadow 0.3s ease-out; /* Smoother transition */
+      transition: transform 0.25s ease-out, box-shadow 0.25s ease-out; /* Faster transition */
       cursor: pointer;
       position: relative;
       opacity: 0;
-      transform: translateY(30px);
+      transform: translateY(25px); /* Slightly less initial Y transform */
+      border: 1px solid rgba(0,0,0,0.02); /* Subtle border for cards */
     }
 
     .card.animate-in {
       opacity: 1;
       transform: translateY(0);
-      transition: opacity 0.6s ease-out, transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* More pronounced bouncy effect */
+      transition: opacity 0.5s ease-out, transform 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Bouncy ease */
     }
 
     .card:hover {
-      transform: scale(1.04); /* Slightly more scale on hover */
-      box-shadow: 0 10px 20px var(--shadow-color); /* More shadow on hover */
+      transform: scale(1.03);
+      box-shadow: 0 8px 16px var(--shadow-color);
+      border: 1px solid rgba(0,0,0,0.05); /* Slightly stronger border on hover */
     }
 
     .card img {
@@ -154,16 +156,16 @@
       object-fit: cover;
       aspect-ratio: 4 / 5;
       display: block;
-      transition: opacity 0.3s ease-in-out;
+      transition: opacity 0.25s ease-in-out; /* Faster image opacity transition */
     }
 
     .card img:hover {
-      opacity: 0.94;
+      opacity: 0.92; /* Slightly more opacity on hover */
     }
 
     /* High Upvote Border Style */
     .card img.high-upvotes {
-      border: 5px solid var(--accent-color);
+      border: 4px solid var(--accent-color); /* Slightly thinner high upvote border */
       border-radius: var(--border-radius);
       box-sizing: border-box;
     }
@@ -173,24 +175,24 @@
       bottom: 0;
       left: 0;
       right: 0;
-      padding: 1.6rem;
+      padding: 1.4rem; /* Slightly smaller info padding */
       text-align: left;
-      background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%); /* Gradient overlay */
+      background: linear-gradient(0deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%); /* Slightly less intense gradient */
     }
 
     .card .info h3 {
       margin: 0;
-      font-size: 1.15rem;
+      font-size: 1.1rem; /* Slightly smaller title font size */
       font-weight: 600;
       color: white;
-      line-height: 1.3;
+      line-height: 1.2;
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       font-family: var(--font-subheading);
-      letter-spacing: -0.4px;
+      letter-spacing: -0.3px;
     }
 
     .card .upvotes {
@@ -216,21 +218,22 @@
 
     .overlay.active {
       display: flex;
-      animation: fadeIn 0.4s ease-out; /* Slightly slower fade-in */
+      animation: fadeIn 0.35s ease-out; /* Slightly faster overlay fade-in */
     }
 
     .detail {
       background-color: var(--card-bg);
-      border-radius: 20px;
+      border-radius: 18px; /* Slightly less rounded detail panel */
       width: 100%;
-      max-width: 950px;
-      max-height: 92%;
+      max-width: 980px; /* Slightly wider detail panel */
+      max-height: 94%; /* Slightly taller detail panel */
       overflow-y: auto;
       position: relative;
-      padding: 3.2rem;
-      transform: scale(0.9); /* Start scale for detail animation */
+      padding: 2.8rem; /* Slightly reduced detail padding */
+      transform: scale(0.92); /* Slightly less initial scale */
       opacity: 0;
-      transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.4s ease-out; /* More pronounced detail entrance */
+      transition: transform 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.35s ease-out; /* Faster detail entrance */
+      box-shadow: 0 12px 24px var(--shadow-color); /* Stronger shadow for detail panel */
     }
 
     .overlay.active .detail {
@@ -243,98 +246,99 @@
       height: auto;
       aspect-ratio: 16 / 9;
       object-fit: cover;
-      border-radius: 10px;
-      margin-bottom: 2.2rem;
-      box-shadow: 0 7px 14px var(--shadow-color);
+      border-radius: 8px; /* Slightly less rounded detail image */
+      margin-bottom: 2rem; /* Slightly reduced detail image margin */
+      box-shadow: 0 6px 12px var(--shadow-color); /* Slightly less shadow for detail image */
     }
 
     .detail h2 {
       font-family: var(--font-heading);
-      margin: 0 0 0.8rem;
-      font-size: 2.5rem;
+      margin: 0 0 0.7rem; /* Slightly reduced title margin */
+      font-size: 2.3rem; /* Slightly smaller detail title */
       font-weight: 700;
-      line-height: 1.15;
-      letter-spacing: -1.5px;
+      line-height: 1.1;
+      letter-spacing: -1.2px;
       color: var(--primary-color);
     }
 
     .detail .meta {
       color: var(--text-secondary);
-      font-size: 1rem;
-      margin-bottom: 2.2rem;
+      font-size: 0.95rem; /* Slightly smaller meta font size */
+      margin-bottom: 2rem; /* Slightly reduced meta margin */
       display: block;
     }
 
     .detail .meta span {
-      margin-right: 1.6rem;
+      margin-right: 1.4rem; /* Slightly reduced meta span margin */
     }
 
     /* Social Sharing Button */
     #copyLinkBtn {
-      padding: 0.5rem 1rem;
-      margin-bottom: 1.2rem;
+      padding: 0.4rem 0.9rem; /* Slightly smaller share button padding */
+      margin-bottom: 1rem; /* Slightly reduced share button margin */
       background-color: var(--accent-color);
-      color: white;
+      color: var(--primary-color); /* Dark text for share button */
       border: none;
-      border-radius: 6px;
+      border-radius: 5px; /* Slightly less rounded share button */
       cursor: pointer;
-      font-size: 0.9rem;
+      font-size: 0.85rem; /* Slightly smaller share button font size */
       transition: background-color 0.2s ease;
+      font-weight: 600;
     }
     #copyLinkBtn:hover {
       background-color: #e6c200;
     }
 
     .meter {
-      margin: 2.2rem 0;
+      margin: 2rem 0; /* Slightly reduced meter margin */
     }
 
     .meter label {
       display: block;
-      margin-bottom: 0.6rem;
-      font-size: 0.9rem;
+      margin-bottom: 0.5rem; /* Slightly reduced meter label margin */
+      font-size: 0.85rem; /* Slightly smaller meter label font size */
       color: var(--text-secondary);
     }
 
     progress {
       width: 100%;
-      height: 12px;
+      height: 10px; /* Slightly thinner progress bar */
       -webkit-appearance: none;
       appearance: none;
       border: none;
-      border-radius: 6px;
+      border-radius: 5px; /* Slightly less rounded progress bar */
       background-color: #e0e0e0;
       overflow: hidden;
     }
 
     progress::-webkit-progress-bar {
       background-color: #e0e0e0;
-      border-radius: 6px;
+      border-radius: 5px;
     }
 
     progress::-webkit-progress-value {
       background-color: var(--accent-color);
-      border-radius: 6px;
-      transition: width 0.4s ease;
+      border-radius: 5px;
+      transition: width 0.35s ease; /* Slightly faster progress bar transition */
     }
 
     progress::-moz-progress-bar {
       background-color: var(--accent-color);
-      border-radius: 6px;
-      transition: width 0.4s ease;
+      border-radius: 5px;
+      transition: width 0.35s ease;
     }
 
     .comments {
-      margin-top: 2.8rem;
+      margin-top: 2.4rem; /* Slightly reduced comments margin */
     }
 
     .comments h3 {
       font-family: var(--font-subheading);
-      margin: 0 0 1.6rem;
-      font-size: 1.4rem;
+      margin: 0 0 1.4rem; /* Slightly reduced comments title margin */
+      font-size: 1.3rem; /* Slightly smaller comments title font size */
       font-weight: 700;
       color: var(--primary-color);
-      letter-spacing: -0.3px;
+      letter-spacing: -0.2px;
     }
 
     .comment-list {
@@ -342,41 +346,41 @@
       padding: 0;
       margin: 0;
       display: grid;
-      gap: 1.4rem;
+      gap: 1.2rem; /* Slightly smaller comment list gap */
     }
 
     .comment-item {
-      padding: 1.4rem;
+      padding: 1.2rem; /* Slightly smaller comment item padding */
       background-color: #f2f2f2;
-      border-radius: 10px;
-      font-size: 0.95rem;
-      line-height: 1.6;
+      border-radius: 8px; /* Slightly less rounded comment items */
+      font-size: 0.9rem; /* Slightly smaller comment font size */
+      line-height: 1.5;
       color: var(--text-primary);
       font-family: "Short Stack", cursive;
     }
 
     .close-btn {
       position: absolute;
-      top: 2.2rem;
-      right: 2.2rem;
-      width: 42px;
-      height: 42px;
+      top: 1.6rem; /* Slightly adjusted close button position */
+      right: 1.6rem;
+      width: 36px; /* Slightly smaller close button size */
+      height: 36px;
       border: none;
-      background-color: rgba(255, 255, 255, 0.85);
+      background-color: var(--accent-color); /* Accent color for close button */
       border-radius: 50%;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
       transition: background-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-      font-size: 1.5rem;
+      font-size: 1.3rem; /* Slightly smaller close button font size */
       line-height: 1;
-      color: var(--primary-color);
-      opacity: 0.75;
+      color: var(--bg-color); /* Light color for close button icon */
+      opacity: 0.8;
     }
 
     .close-btn:hover {
-      background-color: rgba(255, 255, 255, 0.95);
+      background-color: #e6c200; /* Slightly darker gold on hover */
       opacity: 1;
     }
 
@@ -389,52 +393,52 @@
     footer {
       background-color: var(--bg-color);
       text-align: center;
-      padding: 2.2rem 1.6rem; /* Increased footer padding */
-      font-size: 0.85rem;
+      padding: 2rem 1.6rem;
+      font-size: 0.8rem; /* Slightly smaller footer font size */
       color: var(--text-secondary);
       border-top: 1px solid rgba(0,0,0,0.04);
       position: relative;
-      display: flex; /* Footer flex layout */
+      display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center; /* Center content vertically */
+      justify-content: center;
     }
 
     footer p {
-      margin-bottom: 1rem; /* Increased margin for text */
+      margin-bottom: 0.8rem; /* Slightly reduced footer text margin */
     }
 
     footer .support-btn {
-      display: inline-flex; /* Make it inline-flex for icon alignment */
-      align-items: center; /* Vertically align icon and text */
-      justify-content: center; /* Center content horizontally */
-      padding: 1rem 2rem; /* Increased padding for button */
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.9rem 1.8rem; /* Slightly smaller support button padding */
       background-color: var(--accent-color);
-      color: var(--primary-color); /* Dark text for contrast */
+      color: var(--primary-color);
       text-decoration: none;
-      border-radius: 8px;
+      border-radius: 7px; /* Slightly less rounded support button */
       font-weight: 700;
-      font-size: 1rem; /* Slightly larger font size */
-      transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transitions */
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+      font-size: 0.9rem; /* Slightly smaller support button font size */
+      transition: background-color 0.25s ease, transform 0.25s ease; /* Faster support button transition */
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08); /* Slightly less shadow for support button */
 
     }
 
     footer .support-btn:hover {
-      background-color: #e6c200; /* Slightly darker gold on hover */
-      transform: scale(1.05); /* Scale up on hover */
+      background-color: #e6c200;
+      transform: scale(1.04);
     }
 
     footer .support-btn i {
-      margin-right: 0.75rem; /* Space between icon and text */
-      color: var(--primary-color); /* Icon color to match text */
+      margin-right: 0.6rem; /* Slightly reduced support button icon margin */
+      color: var(--primary-color);
     }
 
     footer .credit {
-      font-size: 0.75rem;
+      font-size: 0.7rem; /* Slightly smaller credit font size */
       color: var(--text-secondary);
-      position: static; /* No longer absolute positioned */
-      margin-top: 1rem; /* Add margin to separate from support button */
+      position: static;
+      margin-top: 0.8rem; /* Slightly reduced credit margin */
     }
 
     footer .credit a {
@@ -458,68 +462,73 @@
 
     @media (max-width: 768px) {
       header {
-        padding: 1.6rem;
+        padding: 1.4rem;
         flex-direction: column;
         text-align: center;
       }
       header h1 {
-        margin-bottom: 0.6rem;
-        font-size: 1.7rem;
+        margin-bottom: 0.5rem;
+        font-size: 1.6rem;
       }
       .categories {
         justify-content: center;
-        gap: 0.5rem;
+        gap: 0.4rem;
       }
       .categories button {
-        padding: 0.65rem 1rem;
-        font-size: 0.9rem;
+        padding: 0.55rem 0.9rem;
+        font-size: 0.8rem;
       }
       .grid {
-        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
-        padding: 2.2rem;
-        gap: 1.7rem;
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        padding: 1.8rem;
+        gap: 1.4rem;
+      }
+      .card {
+        border-radius: 10px;
       }
       .detail {
-        padding: 2.2rem;
+        padding: 1.8rem;
+        border-radius: 16px;
       }
       .detail img {
         aspect-ratio: 1 / 1;
-        margin-bottom: 1.7rem;
-        border-radius: 8px;
+        margin-bottom: 1.4rem;
+        border-radius: 7px;
       }
       .detail h2 {
-        font-size: 2.1rem;
-        margin-bottom: 0.6rem;
+        font-size: 1.9rem;
+        margin-bottom: 0.5rem;
       }
       .detail .meta {
-        font-size: 0.9rem;
-        margin-bottom: 1.7rem;
+        font-size: 0.8rem;
+        margin-bottom: 1.4rem;
       }
       .comments h3 {
-        font-size: 1.2rem;
-        margin-bottom: 1.2rem;
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
       }
       .comment-list {
-        gap: 1rem;
+        gap: 0.9rem;
       }
       .comment-item {
-        padding: 1rem;
-        font-size: 0.9rem;
+        padding: 0.9rem;
+        font-size: 0.8rem;
+        border-radius: 7px;
       }
       .close-btn {
-        top: 1.7rem;
-        right: 1.7rem;
-        width: 30px;
-        height: 30px;
-        font-size: 1.2rem;
+        top: 1.4rem;
+        right: 1.4rem;
+        width: 28px;
+        height: 28px;
+        font-size: 1rem;
       }
 
       footer {
-        padding: 2rem 1rem; /* Adjust footer padding for mobile */
+        padding: 1.6rem 1rem;
       }
       footer .support-btn {
-        padding: 0.8rem 1.5rem; /* Adjust support button padding for mobile */
-        font-size: 0.9rem;
+        padding: 0.7rem 1.3rem;
+        font-size: 0.8rem;
       }
     }
   </style>
@@ -535,14 +544,14 @@
 </header>
 
 <!-- Loader -->
-<div id="loader">Loading art...</div>
+<div id="loader">Loading art news...</div>
 
 <div class="grid" id="grid"></div>
 
 <!-- Detail overlay (modal) -->
 <div class="overlay" id="overlay">
   <div class="detail" id="detail">
-    <button class="close-btn" id="closeBtn">×</button>
+    <button class="close-btn" id="closeBtn"><i class="fa-solid fa-xmark"></i></button>
     <a id="detailImageLink" href="#" target="_blank">
       <img id="detailImage" src="" alt="Thumbnail" loading="lazy">
     </a>
@@ -599,12 +608,11 @@
       console.log("Average Upvotes:", averageUpvotes);
 
       renderGrid('HOT');
-      animateHeader(); // Animate header elements on load
+      animateHeader();
     } catch (error) {
       console.error('Error fetching data:', error);
-      document.getElementById('grid').innerHTML = '<p style="text-align:center; width:100%;">Failed to load art. Please check your connection.</p>';
+      document.getElementById('grid').innerHTML = '<p style="text-align:center; width:100%;">Failed to load art news. Please check your connection.</p>';
     } finally {
-      // Hide loader regardless of success or failure
       document.getElementById('loader').style.display = 'none';
     }
   }
@@ -624,7 +632,7 @@
     grid.innerHTML = '';
     const filtered = allPosts.filter(post => post.category === category);
     if (filtered.length === 0) {
-      grid.innerHTML = '<p style="text-align:center; width:100%;">No art available in this category.</p>';
+      grid.innerHTML = '<p style="text-align:center; width:100%;">No art news available in this category.</p>';
       return;
     }
 
@@ -654,7 +662,7 @@
       card.addEventListener('click', () => showDetail(post));
       grid.appendChild(card);
 
-      gsap.fromTo(card, { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 1, delay: 0.2 + index * 0.06, ease: "expo.out", onComplete: () => {
+      gsap.fromTo(card, { opacity: 0, y: 25 }, { opacity: 1, y: 0, duration: 0.9, delay: 0.2 + index * 0.05, ease: "expo.out", onComplete: () => {
           card.classList.add('animate-in');
         }});
     });
@@ -667,9 +675,9 @@
 
       gsap.to(".card.animate-in", {
         opacity: 0,
-        y: 30,
-        duration: 0.5,
-        stagger: 0.05,
+        y: 25,
+        duration: 0.4,
+        stagger: 0.04,
         ease: "power2.in",
         onComplete: () => {
           renderGrid(btn.getAttribute('data-category'));
@@ -695,7 +703,6 @@
     document.getElementById('detailTitle').innerText = post.title;
     document.getElementById('detailMeta').innerHTML = `Uploaded: ${post.date} <span><strong>Upvotes:</strong> ${post.upvotes}</span>`;
 
-    // Social sharing button event: copy external_url to clipboard
     document.getElementById('copyLinkBtn').onclick = () => {
       navigator.clipboard.writeText(post.external_url)
               .then(() => alert('Link copied to clipboard!'))
@@ -720,12 +727,11 @@
       commentsList.appendChild(li);
     });
 
-    // Animate Overlay and Detail appearance
     const overlay = document.getElementById('overlay');
     const detail = document.querySelector('#detail');
 
     overlay.classList.add('active');
-    gsap.fromTo(detail, { scale: 0.9, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.6, ease: "expo.out" });
+    gsap.fromTo(detail, { scale: 0.92, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.5, ease: "expo.out" });
 
     window.scrollTo(0, 0);
   }
@@ -734,7 +740,7 @@
     const overlay = document.getElementById('overlay');
     const detail = document.querySelector('#detail');
 
-    gsap.to(detail, { scale: 0.9, opacity: 0, duration: 0.4, ease: "power2.in", onComplete: () => {
+    gsap.to(detail, { scale: 0.92, opacity: 0, duration: 0.35, ease: "power2.in", onComplete: () => {
         overlay.classList.remove('active');
         document.getElementById('detailImage').classList.remove('loaded');
       }});
@@ -745,7 +751,7 @@
       const overlay = document.getElementById('overlay');
       const detail = document.querySelector('#detail');
 
-      gsap.to(detail, { scale: 0.9, opacity: 0, duration: 0.4, ease: "power2.in", onComplete: () => {
+      gsap.to(detail, { scale: 0.92, opacity: 0, duration: 0.35, ease: "power2.in", onComplete: () => {
           overlay.classList.remove('active');
           document.getElementById('detailImage').classList.remove('loaded');
         }});
