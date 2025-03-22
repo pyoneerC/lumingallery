@@ -2,9 +2,30 @@
     "posts": [
         {
             "category": "HOT",
+            "title": "DoorDash will let users buy now, pay later for fast food, a possible worrying sign for the economy",
+            "external_url": "https://www.cnn.com/2025/03/21/business/doordash-klarna-buy-now-pay-later-partnership/index.html",
+            "upvotes": 7537,
+            "date": "03/21/2025",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150322619.jpg?c=16x9&q=w_800,c_fill",
+            "top_comments": [
+                "So, does that mean that McDonald's is going to send the Pinkertons after that sweet cheeseburger cash?",
+                "The year is 2032. I am in a debtor's prison after using Doordash to buy a burrito on credit at 600% interest. They say I can't leave until I hand-mine enough lithium the keep Elon's personal hovercar in the stratosphere for another year.",
+                "I know you can't save people from themselves but no one should be paying interest on a cheeseburger.",
+                "I don't see this ending well at all",
+                "Is this the 2025 version of strippers buying McMansions in the Big Short?",
+                "Wimpy is getting his hamberder!",
+                "Trump shutting down the Consumer Financial Protection Bureau, DoorDash becomes a pay-day lender...",
+                "\"I'll gladly pay you Tuesday for a hamburger today.\" \n\nJ. Wellington Wimpy just so happens to be a character created during, oh, The Great Depression.",
+                "Or a much more worrying sign for Door Dash",
+                "If you need to finance $20 you\u2019re seriously fucked"
+            ],
+            "aggregate_sentiment": 82.0
+        },
+        {
+            "category": "HOT",
             "title": "Musk group offers $100 to Wisconsin voters ahead of pivotal state Supreme Court election",
             "external_url": "https://www.cnbc.com/2025/03/21/musk-group-offers-100-to-wisconsin-voters-ahead-of-pivotal-state-supreme-court-election.html",
-            "upvotes": 16153,
+            "upvotes": 25889,
             "date": "03/21/2025",
             "thumbnail": "https://image.cnbcfm.com/api/v1/image/108057782-1730819740490-gettyimages-2182402967-AFP_36LH6F6.jpeg?v=1730819836&w=1920&h=1080",
             "top_comments": [
@@ -15,17 +36,59 @@
                 "I would ask how any of this is legal, but apparently everything is legal if no one challenges you on it. He did this during the general election and got away with zero consequences. And got his guy elected. And now that they\u2019re talking about deporting protesters, I don\u2019t know what the fuck we\u2019re supposed to do.",
                 "Elon musk is a domestic terrorist",
                 "The fact he needs to pay people for their vote suggests that the candidate he supports has no other positive qualifications and cannot win an election based on their merits.",
+                "So it sounds like they're paying folks $100 to sign a petition about the upcoming election, which I'm assuming (cynically) is their way of tricking people into voting the way they want.  \n\nReminds me of that time Michael Moore put out an offer to college students that he'd buy them a clean pair of underwear if they registered to vote.  Didn't tell them how to vote, just to register.  And of course the justice system jumped on that with both feet.  Musk is going to get away with this, of course.",
                 "Want to do something about it and make your voice heard?\n\nCALL THE WISCONSIN ELECTIONS COMMISSION\n\n608 266 8005\n\nDemand an investigation into this and explain how disgusted you are!",
-                "The illegal tech bro immigrant from south africa is continuing to steal american jobs and destroy democracy.",
-                "So it sounds like they're paying folks $100 to sign a petition about the upcoming election, which I'm assuming (cynically) is their way of tricking people into voting the way they want.  \n\nReminds me of that time Michael Moore put out an offer to college students that he'd buy them a clean pair of underwear if they registered to vote.  Didn't tell them how to vote, just to register.  And of course the justice system jumped on that with both feet.  Musk is going to get away with this, of course."
+                "He's such a moron. Gets all teary eyed and wondering why so many people hate him, and then he keeps doing stuff like this.\n\nZero sympathy for him."
             ],
-            "aggregate_sentiment": 67.0
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "HOT",
+            "title": "Tate brothers say they have left US to return to Romania",
+            "external_url": "https://www.bbc.com/news/articles/cvgw0w7147vo",
+            "upvotes": 10352,
+            "date": "03/21/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/b0f8/live/bb82fd20-06b0-11f0-81c7-9f6a3af0eba6.jpg",
+            "top_comments": [
+                "selfies w/ pizza box or it never happened",
+                ">\"Innocent men don't run. They clear their name in court.\"\n\nThis guy literally fled to Romania to escape rape charges in the uk.\n\nWhat a fucking dog dong.",
+                "And nothing of value was lost. Fuck these twats",
+                "They're going back for their court appearance, which was part of the agreement to relax their travel restrictions. That said, I was half-expecting Trump to harbour them.",
+                "The only place they should be going is prison. They should never have been allowed to travel here in the first place. Edit: it's also disgusting this dude still has ten MILLION Twitter followers.",
+                "If I never heard about the Tate brothers again it would make my life better",
+                "[removed]",
+                "Remember, trump wasted time rallying to free these rapists. Time he was supposed to be spending serving the American people. Instead he was fighting for rapists.",
+                "He seems to really take interest in Romania. Wonder if its the secret location of his missing chin.",
+                "Bring back oubliettes."
+            ],
+            "aggregate_sentiment": 82.0
+        },
+        {
+            "category": "HOT",
+            "title": "U.S. to revoke legal status of more than a half-million migrants, urges them to self deport",
+            "external_url": "https://www.cbsnews.com/news/u-s-to-revoke-legal-status-of-over-a-half-million-migrants-chnv/",
+            "upvotes": 2458,
+            "date": "03/21/2025",
+            "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/03/21/f77a5737-9f4d-4bf8-8759-61e97e11ba39/thumbnail/1200x630/732b2e545fbc7cfb3cc1d7a3177155cc/gettyimages-2206282830.jpg?v=9e5c48f1b04ac2a564e8a4c51250ac89",
+            "top_comments": [
+                "\"We don't mind the ones who do it legally\"",
+                "But I thought they just hated the people here illegally? They kept saying that they were cool with immigrants as long as they do it legally. Were they just lying to mask their racism? Naw...",
+                "They are so shit at deporting illegal immigrants that they go to legal ones",
+                "This isn\u2019t isolated to legal migrants. This will end up being some kind of convoluted blanket order just like the aliens act.",
+                "Let\u2019s start with Elon Musk.",
+                "Is Melania on that list \ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14",
+                "Watch Trump revoke legal status for all non-Native Americans thinking that he's covered.",
+                "I feel obliged to point out that Elon Musk and Melanie both worked illegally in the US and on that basis should also be deported.",
+                "An article the other day noted that most of Trump\u2019s immigration policy is currently targeting those who are here legally, but on \u201cborrowed time\u201d due to asylum seeking or refugee status. That is a rapid way to get numbers. The numbers from that policy, and the videos of illegal immigrants being treated inhumanly feeds his sociopath base.\n\nIt should be noted, a lot of posts have been saying, \u201cIs this what you voted for!?\u201d In regards to Cubans seeing Cubans being deported and such. You need to understand: This IS exactly what they voted for. Legal immigrants do not give a shit about their brethren who are not legal. All they see are \u201cillegals\u201d being kicked out of THEIR country that they \u201cearned\u201d. The fact that most MAGA folks would gladly see these same \u201clegal\u201d immigrants kicked out of THEIR country does not even register: Everyone thinks they are one of the \u201cgood ones\u201d when it comes to hating immigrants.",
+                "So much for going after illegal and criminals.  I mean we all knew this was the plan but once again the paper defense of maga not being racist pieces of shit is failing. Funny enough this will also help with ranking the economy by the stable genius\u2019s who have no fucking clue how even basic economics works."
+            ],
+            "aggregate_sentiment": 12.0
         },
         {
             "category": "HOT",
             "title": "Anti-Vaxx Mom Whose Daughter Died From Measles Says Disease 'Wasn't That Bad'",
             "external_url": "https://www.latintimes.com/anti-vaxx-mom-whose-daughter-died-measles-says-disease-wasnt-that-bad-578871",
-            "upvotes": 30235,
+            "upvotes": 35114,
             "date": "03/21/2025",
             "thumbnail": "https://d.latintimes.com/en/full/571807/measles-texas.jpg",
             "top_comments": [
@@ -36,80 +99,59 @@
                 "Had some absolute idiot on another thread arguing that a parents opinion on their child's medical care is as valuable as a doctors and like just no, giving birth does not magically imbue you with extra knowledge or critical thinking skills.",
                 "# 'Wasn't That Bad'\n\nfor me",
                 "It\u2019s beyond sad when political bias and an almost religious fervor towards conspiracy theory makes you belittle even the death of your own child.\n\nEdit: spelling",
+                "How do you reason with people who will watch their kids die to \u201cown the libs\u201d.",
                 "God this country fucking sucks right now.",
-                "\u201cparents are all still sitting there saying they would rather have this than the MMR vaccination because they\u2019ve seen so much injury\u201d\n\nThese people are so brainwashed.",
-                "How do you reason with people who will watch their kids die to \u201cown the libs\u201d."
+                ">Hailing from the Mennonite community\n\nTIL if your kid dies due to neglect, you can just claim that your mythological beliefs are more important than the kids life."
             ],
             "aggregate_sentiment": 8.0
         },
         {
             "category": "HOT",
-            "title": "Tate brothers say they have left US to return to Romania",
-            "external_url": "https://www.bbc.com/news/articles/cvgw0w7147vo",
-            "upvotes": 3137,
-            "date": "03/21/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/a674/live/0847a3c0-066d-11f0-97d3-37df2b293ed1.jpg",
-            "top_comments": [
-                "selfies w/ pizza box or it never happened",
-                "And nothing of value was lost. Fuck these twats",
-                "They're going back for their court appearance, which was part of the agreement to relax their travel restrictions. That said, I was half-expecting Trump to harbour them.",
-                ">\"Innocent men don't run. They clear their name in court.\"\n\nThis guy literally fled to Romania to escape rape charges in the uk.\n\nWhat a fucking dog dong.",
-                "The only place they should be going is prison. They should never have been allowed to travel here in the first place. Edit: it's also disgusting this dude still has ten MILLION Twitter followers.",
-                "The only news I want to read about these two is that they're dead",
-                "If I never heard about the Tate brothers again it would make my life better",
-                "He seems to really take interest in Romania. Wonder if its the secret location of his missing chin.",
-                "PSA\n\nNo matter how bad your blue balls are guys, once you hit these guys in your doomscrolling on TikTok, you need to put your phone in a box and go eat some Cheerios.",
-                "are chin implants cheaper in Romania or something?"
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "HOT",
             "title": "Tesla owners are trading in their EVs at record levels, Edmunds says",
             "external_url": "https://www.cnbc.com/2025/03/20/tesla-owners-are-trading-in-their-evs-at-record-levels-edmunds-says.html",
-            "upvotes": 11097,
+            "upvotes": 13683,
             "date": "03/21/2025",
             "thumbnail": "https://image.cnbcfm.com/api/v1/image/108114358-1741726193117-gettyimages-2203994536-AFP_36ZN8YB.jpeg?v=1742510993&w=1920&h=1080",
             "top_comments": [
                 "People trading in their Teslas hurts Elon, because even if the brand doesn\u2019t collapse, it\u2019ll be harder to sell new models because the used surplus will be so huge that the prices will collapse fast on new releases, nobody is going to buy a new model on release year when they can just buy the last years model for a portion of the price when the demand sinks that low. \n\nAnd that\u2019s *if* the company manages to persist into the future.",
                 "The people I know who bought Teslas were well off yuppies, liberal and who cared about the environment (mean that in the best way possible). \u00a0Teslas are not cheap and the people who bought them did so instead of something like a BMW or Range Rover. \u00a0I myself was considering one before I went for a BMW. \u00a0\n\nTesla was like the Apple brand of the car world.\u00a0\n\nAnd Elon just antagonized that entire base. \u00a0Those same folks are embarrassed by their purchase now.\u00a0",
-                "I had one of the first 600 Tesla Model Ys. With taxes, etc., it came out to a pretty penny (north of $60k). It was a fun, engaging car and whoo boy that acceleration was bonkers.\n\nThen the reality set in. I kept trying to push through the inconveniences but damned if they didn\u2019t add up quickly. To whit:\n\n1.) A software update meant to improve the positional accuracy of the map bricked - get this - the A/C system. In the summer. It was literally a guessing game whether the A/C would turn on when I got in the car. Persisted for about 3 months before a patch was rolled out.\n\n2.) The vaunted heat pump quit twice, once in winter (as we were moving across the country). Only a threat of litigation got the service center to replace the unit. Replacing it took the service center nearly a week.\n\n3.) A simple windshield replacement was needed after a rock caused a crack that started spreading. I scheduled service (soonest I could get a spot was 4 weeks out) which got delayed an additional whole month because \u201cOur glass guy is sick,\u201d and yet another whole month because \u201cWe don\u2019t have glass.\u201d\n\n4.) At 4 years of ownership, it was found that elements of the sub-frame were developing soon-to-be catastrophic cracks. No, I didn\u2019t rally race it. Yes, I was religious about washing road salt off of it in wintertime. The upper control arm bushing was also \u201cshredded\u201d according to Firestone.\n\nAfter #4 happened, I drove to a dealership that literal same day and traded it in.",
                 "Tesla served its original purpose:  making EV's more commonplace.  It's time for them to either go away or fix themselves.",
+                "I had one of the first 600 Tesla Model Ys. With taxes, etc., it came out to a pretty penny (north of $60k). It was a fun, engaging car and whoo boy that acceleration was bonkers.\n\nThen the reality set in. I kept trying to push through the inconveniences but damned if they didn\u2019t add up quickly. To whit:\n\n1.) A software update meant to improve the positional accuracy of the map bricked - get this - the A/C system. In the summer. It was literally a guessing game whether the A/C would turn on when I got in the car. Persisted for about 3 months before a patch was rolled out.\n\n2.) The vaunted heat pump quit twice, once in winter (as we were moving across the country). Only a threat of litigation got the service center to replace the unit. Replacing it took the service center nearly a week.\n\n3.) A simple windshield replacement was needed after a rock caused a crack that started spreading. I scheduled service (soonest I could get a spot was 4 weeks out) which got delayed an additional whole month because \u201cOur glass guy is sick,\u201d and yet another whole month because \u201cWe don\u2019t have glass.\u201d\n\n4.) At 4 years of ownership, it was found that elements of the sub-frame were developing soon-to-be catastrophic cracks. No, I didn\u2019t rally race it. Yes, I was religious about washing road salt off of it in wintertime. The upper control arm bushing was also \u201cshredded\u201d according to Firestone.\n\nAfter #4 happened, I drove to a dealership that literal same day and traded it in.",
+                "Gotta do it now before it becomes illegal",
                 "I forgot who in particular said it, but some industry person once said that the best indicator of a downturn of a brand is to take a look at the resale numbers. So inventory rise, and how steep the asking price is. You get those two together - and it's not always merely a supply surge issue - there is something in the underlying that there is no recovering from. \n\nGranted, it would be by far in Tesla's own interest to dump Musk, but the problem won't go away until Musk divests entirely. It must be shown that Musk can not benefit from their own successes - especially one that funded Trump directly.",
                 "\"Hi there, Honest Don Trump here for Musk Motors, or MAGA motors as I like to call it.\n\nWe've got a fire sale a-brewin' and prices are falling faster than Titanic tickets after the iceberg.\n\nWe're located right off the mall, in front of that big white house where I'm standing.\n\nDid I tell you the dashboard looks real neat?\"",
-                "Gotta do it now before it becomes illegal",
-                "Poorly ran company without leadership or any quality control standards on their products. Actively dangerous auto driver system linked to dozens of deaths.\u00a0\n\nNo idea why anyone would want to own a Tesla right now. They\u2019re like BlackBerry. They\u2019re product is only popular because it was first, not because it\u2019s the best.\u00a0",
                 "Yep, my wife and I just traded her model 3 for a Lucid sedan. We would have 100% stayed with Tesla if not for Mr Dyed Hair Plugs Laminated Face.  Anything I can do to bring about his destruction, I am here for.  This is the start of the class wars.  Choose a side.",
+                "Poorly ran company without leadership or any quality control standards on their products. Actively dangerous auto driver system linked to dozens of deaths.\u00a0\n\nNo idea why anyone would want to own a Tesla right now. They\u2019re like BlackBerry. They\u2019re product is only popular because it was first, not because it\u2019s the best.\u00a0",
                 "We traded ours in, it was completely paid off (and was bought before Elon went completely asshole), we originally planned to just keep it because selling it doesn\u2019t do anything to Tesla to get rid of it, since they already had the money.\n\nbut when they charged an outrageous $200 per issue to diagnose and didn\u2019t even fix the issue with the GPS we felt it was time and switched to a different EV."
             ],
-            "aggregate_sentiment": 4.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "HOT",
-            "title": "Woman accused of drowning dog in Orlando airport bathroom so she could board plane",
-            "external_url": "https://www.nbcmiami.com/news/local/woman-accused-of-drowning-dog-in-orlando-airport-bathroom-so-she-could-board-plane/3572415/",
-            "upvotes": 2160,
+            "title": "\u2018It's a huge problem': Man says he was shot at while driving Tesla in Lowell",
+            "external_url": "https://www.nbcboston.com/news/local/its-a-huge-problem-man-says-he-was-shot-at-while-driving-tesla-in-lowell/3664545/",
+            "upvotes": 1731,
             "date": "03/21/2025",
-            "thumbnail": "https://media.nbcmiami.com/2025/03/032025-alison-lawrence-orlando-international-airport-dog-drowning.png?resize=1200%2C675&quality=85&strip=all",
+            "thumbnail": "https://media.nbcboston.com/2025/03/Tesla-shot-032025.jpg?quality=85&strip=all&resize=1200%2C675",
             "top_comments": [
-                "A true psychopath. There was zero reason to kill the poor dog. She could have left him in the stall and someone would surely have rescued him. \n\nAlso, she is a stupid psychopath. She left the collar with identifying information on the deceased dog. It\u2019s like she truly didn\u2019t think twice about this or even see anything wrong with it. It\u2019s terrifying, really.",
-                "how could she simultaneously be so willing to bring that dog on her trip as she is to kill it ??\n\nhow can both extremes coexist within minutes ??",
-                "I just dont get why she could not have taken his collar off and then just leave him in the bathroom OR let him run free and pretend it wasnt her dog. she had so many other options than drowning him in the bathroom. I...cant even imagine doing that and I am not even a pet owner. ( I grew up with my mom bringing random animals home, lol, so as an adult I said no pets)",
-                "How can you care for a living thing for NINE YEARS and then callously end its life?? How difficult would it have been to board the poor thing at a doggie day care for a few days and change your flight to leave later in the day or the next day? \n\nIf she could do this to HER own dog, what else is she capable of? I really hope she doesn\u2019t have a job working with the general public or have children/grandchildren of her own \ud83d\ude33",
-                "Some people see pets as life, a partner and companion, probably a friend.\n\nSome people see pets as a fucking accessory.",
-                "Whatever her prison sentence is, it won't be enough.",
-                "Can we have her end like Ramsey?",
-                "I truly wish I didn't read this. I didn't want to end up feeling depressed again.\n\nFucking bitch.",
-                "What in the actual fuck. I hope she gets a maximum sentence for this and the inmates of the prison she goes to learn of what she did and make her life there a living nightmare. That poor dog, nobody deserves to die like that, let alone an innocent animal at the hands of someone that animal probably trusted and looked up to. I sat here just staring at this post for several minutes just trying to process how anyone could be so heartless",
-                "but why drown it? leaving it behind would have been so much simpler"
+                "Yeah, but\u2026Lowell. \n\nThat\u2019s like saying you saw a neon sign in Las Vegas.",
+                "Gonna have to drive around in a Lincoln Continental.\n\nNo one has ever been shot at in a Lincoln Continental.",
+                "Lowell Massachusetts...\n\nEven with everything going on with Tesla now, my gut guess is still that has more to do with road rage than the car he is driving.",
+                "Idk man but I feel like you can get shot at in Lowell without driving a Tesla \ud83d\ude02\ud83d\ude02",
+                "Review the footage from the tesla cams.",
+                "What was the Tesla wearing?",
+                "There\u2019s like a 99% chance this guy didn\u2019t just get randomly shot at because he\u2019s driving a Tesla. It\u2019s probably road rage. Lowell traffic sucks, driving in Lowell sucks, and people in Lowell suck, but they don\u2019t really give a fuck what car you\u2019re driving.",
+                "That's a Lowell issue, not a Tesla issue. \n\nI live in Texas and have never been to Lowell, Mass or anywhere near it and I know about Lowell's reputation.",
+                "So was he shot at cuz he was driving a Tesla? Or was he shot at cuz he was in a neighborhood that he shouldn\u2019t have been in?",
+                "Yeah I doubt this is a Tesla issue and more of a wrong neighborhood wrong time issue.\n\nI live 45 mins from Milwaukee, WI, my entire family is from the Mil and a good chunk still live there or in surrounding suburbs and everyone knows there is certain areas to avoid no matter what demographic you are because those areas have a ridiculous crime rate and bullets don't discriminate.\n\nTesla/Elon simps will flip any script to play the victim as long as they get attention."
             ],
-            "aggregate_sentiment": 0.0
+            "aggregate_sentiment": 55.0
         },
         {
             "category": "HOT",
             "title": "Russian energy giant Gazprom suffers $13.1 billion loss in 2024",
             "external_url": "https://kyivindependent.com/russian-energy-giant-gazprom-suffers-13-1-billion-loss-in-2024/",
-            "upvotes": 2961,
+            "upvotes": 3716,
             "date": "03/21/2025",
             "thumbnail": "https://assets.kyivindependent.com/content/images/2024/09/upd_GettyImages-1240297857.jpg",
             "top_comments": [
@@ -117,114 +159,244 @@
                 "Don\u2019t worry, Trump will bail them out soon.",
                 "It's nice to hear some good news for once.",
                 "More. More. More. Plummet baby plummet.",
-                "I\u2019m sure Trumplethinskin has a plan to help",
                 "The financial picture of this giant company is complicated by several factors. One is that it had an increased income tax imposed on it, by Putin to fund his war. Second, it lost money on shares It owns in a subsidiary. Third who knows what is a valid exchange rate of converting ruble losses to dollar losses. The exchange rate is managed and manipulated by the Kremlin. So, it\u2019s hard to know the true pounding Gazprom is taking, other than that it is suffering.",
-                "That\u2019s some r/upliftingnews!",
+                "I\u2019m sure Trumplethinskin has a plan to help",
                 "Gotta pump those numbers up. Those are rookie numbers.",
+                "That\u2019s some r/upliftingnews!",
                 "Lucky russia,  the social security programs cuts in the U.S.  can cover for  that. Visionary Orange is always one step ahead to leep his master vladdy happy",
                 "US... Ha! Those are rookie numbers."
             ],
-            "aggregate_sentiment": 18.0
+            "aggregate_sentiment": 67.0
+        },
+        {
+            "category": "HOT",
+            "title": "Man who took pressure cooker bomb into hospital jailed for life",
+            "external_url": "https://news.sky.com/story/nurse-who-took-bomb-into-hospital-and-plotted-attack-on-raf-base-jailed-for-life-13333247",
+            "upvotes": 1519,
+            "date": "03/21/2025",
+            "thumbnail": "https://e3.365dm.com/25/03/1600x900/skynews-farooq-cps_6863329.jpg?20250321162645",
+            "top_comments": [
+                "A patient outside was able to talk him down and convinced him to turn himself in. That's amazing.",
+                "\"The device would have been twice as powerful as those used by the 2013 Boston Marathon bombers.\"\n\nHoly fucking shit.\n\nThank God for Nathan Newby. He saved the lives of many, literal newborns among them.",
+                "Decided it would be a good idea to try and kill people who choose a career that saves people\u2019s lives. \n\nTells you all you need to know",
+                "> Farooq was arrested outside the **maternity** ward of St James's Hospital after revealing a gun and saying that he \"felt like killing everyone\".\n\nHoly shit, throw away the key.",
+                "Damn, DJ Khaled really fell off\u2026",
+                "Dude needs some under eye cream real bad",
+                "They always try to attack the most defenseless and innocent, in order to cause the most pain. Notice how he scrapped the idea of going to an RAF base. \n\nFucking pathetic.",
+                "Didn\u2019t this happen in Breaking bad",
+                "Seems like a good decision to put him away. That\u2019s mega-fucked to hit a hospital.",
+                "Well he\u2019s got the face for it. Asshole."
+            ],
+            "aggregate_sentiment": 82.0
         },
         {
             "category": "HOT",
             "title": "American officials closing Canadian access to library in Stanstead, Que.",
             "external_url": "https://www.ctvnews.ca/montreal/article/us-authorities-closing-canadian-access-to-library-that-straddles-quebec-vermont-border/",
-            "upvotes": 2120,
+            "upvotes": 2676,
             "date": "03/21/2025",
             "thumbnail": "https://www.ctvnews.ca/resizer/v2/R3BW4KRUTVCXHIP526PDZDKJXA.jpg?smart=true&auth=a1e503f4b523056772dd554959709a1884b852d7d20a71f6a076bbe4e0aa8630&width=1200&height=630",
             "top_comments": [
                 "\"In January, Homeland Security Secretary Kristi Noem visited the library, stepping over the tape on the Canadian side of the building and\u00a0[referring to Canada as the \u201c51st state\u201d multiple times](https://www.ctvnews.ca/montreal/article/dhs-secretary-kristi-noem-accused-of-referring-to-canada-as-51st-state-at-quebec-vermont-border/), the library\u2019s executive director, Deborah Bishop, told CTV News in an interview earlier this month.\u00a0\"\n\nThis dog-killing bitch is the fucking worst",
                 "Subtle symbolism, it ain\u2019t.",
-                "\"It\u2019s not clear why the change was made.\"\n\n\nYeah.  Its clear.  It's because we elected the most defective personality in our public square to the most powerful office in our country and he's on a vengance tour and is using internet meme levels of judgement to hassle people he's got grievances with and will burn down everything to win those \"battles\".",
                 "they are not closing it DESPITE it being a \"symbol of harmony and cooperation.\" They are closing it BECAUSE it's a symbol of harmony and cooperation",
+                "\"It\u2019s not clear why the change was made.\"\n\n\nYeah.  Its clear.  It's because we elected the most defective personality in our public square to the most powerful office in our country and he's on a vengance tour and is using internet meme levels of judgement to hassle people he's got grievances with and will burn down everything to win those \"battles\".",
                 "Next there will be a barbed wire fence going through town, guarded 24/7 by heavily armed guards. \n\nThe town used to symbolize the cooperation and peace between our two countries.",
                 "Every day since January 20 something happens to chip away at the greatness that used to be the US. Loyalty, relationships, integrity all sucked into the black hole of Trump\u2019s retribution tour and complete focus on money.",
                 "So Canada owns the building, but the entrance is on the US side, am I reading that right?  \n\nSounds like Canada has a chance to have fun with this. Forbid Americans from crossing the tape line, and build open an entrance on their side of the building and continue using their side of the library.  \n\nLooking at the map of that general area, there's several buildings, including some houses, that straddle the line. Canada should forbid Americans from using any part of any of those buildings that's on their land.  \n\nThere's also [this livestock farm ](https://www.google.com/maps/@45.0149476,-72.6728427,118m/)that would probably be unhappy about losing half a field, half a house, and an entire out building of some sort.  \n\nI'm sure there's many more instances along the border they could be petty about.",
                 "Lol. The US is a fucking shithole country. Good job America.",
                 "As an American, i am embarrassed by this. Im sorry Canada. \ud83d\ude1e",
-                "This is a fast descent into hell in the name of nationalism. Division, cruelty, denigrating treatment of friends and families. This is a playbook written in the 1930\u2019s and edited for the 21st century. This does not end well."
+                "They\u2019re really doing it because they called out Kristi Noem for being an ass when she visited recently."
             ],
-            "aggregate_sentiment": 18.0
+            "aggregate_sentiment": 22.0
         },
         {
-            "category": "HOT",
-            "title": "Elon Musk meets with defence officials in Pentagon visit",
-            "external_url": "https://www.bbc.co.uk/news/articles/c0mw7wr0gp9o",
-            "upvotes": 914,
-            "date": "03/21/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6e3/live/59824480-065d-11f0-8c34-4f174fb5fd08.jpg",
+            "category": "NEW",
+            "title": "US to import eggs from Turkey and South Korea to ease prices",
+            "external_url": "https://www.bbc.com/news/articles/c743g135vj9o",
+            "upvotes": 77,
+            "date": "03/22/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/2eb2/live/7b390f80-069b-11f0-ab19-cd63e1c90c04.jpg",
             "top_comments": [
-                "Oh look a guy not elected into any office or any form of government, working our government. Nice.",
-                "Reminder that Musk couldn't pass a background check so he got clearance without one via EO, and that Tesla's entire existence depends on the Chinese market.",
-                "Reminder this guy calls for coups and imprisonment of our PM in the UK, has demeaned pretty much every US ally, has strong historical links to Russia (Check where he tried to source rockets from in the early days of SpaceX) , has been discussing Ukraine directly with Putin and regurgitates Russian propaganda as the worlds most followed social media shitfluencer.",
-                "*\"How disgraceful it is that the discredited media can make up such lies.\"*\n\n  \nPot-bellied Trump calling the kettle black.",
-                "the greediest man in the world is being given unfettered access to everything. he's not part of the government, nobody voted for him, he just bought his way in. \n\n  \nthis is insanity. the hypocrisy of this is mind boggling, I thought the GOP claimed to be conservative and traditionalists.",
-                "I literally don\u2019t understand why everyone is just rolling over to allow this to happen.\n\n*What. The. Actual. Fuck.*",
-                "What the everloving fuck does Elon know about military defense",
-                "Let\u2019s hope they put together a whole fake presentation to keep this fucker in the dark.\u00a0",
-                "You maga shit heads are doing catastrophic damage.  I don't mind if you guys hara-kiri yourselves, but you are taking out the whole country and our allies.",
-                ">Musk's visit to the Pentagon is drawing scrutiny over potential conflicts of interest.\n\n\n>Starlink and SpaceX, two of Musk's companies, have contracts with the defence department. Tesla, his electric vehicle company, has two facilities in Shanghai, China.\n\n\nThank you to the man or woman who leaked info on the visit."
+                "Don't think I've ever had turkey eggs.",
+                "That\u2019s pretty ridiculous considering that Mexico is right next door and has absolutely no issue with any egg shortage whatsoever?",
+                "Would be really funny if Turkey and South Korea imposed tariffs on eggs",
+                "No word on HOW this will help prices. But who cares it makes a nice headline. \n\n  \nOh and $400 million for farmer relief? Glad we DOGE'd all those socialist programs and cut off the entitled folks!",
+                "These eggs better not be brown eggs or they're going straight to Guantanamo Bay.",
+                "By the time it gets to market here they need to rename them century eggs",
+                "And right now I\u2019m dealing with a salmonella issue. Earlier today I stared at the carton of eggs I bought a few weeks ago\u2026.accusingly\u2026.\n\nSo\u2026how exactly are highly perishable items like eggs being shipped from overseas? And how in the world can the price point work for most people\u2026unless there is like, no regulation regarding how they are to be kept fresh from point a to point b. \n\nHence the salmonella question...",
+                "So global trade is good again? (/s for conservatives)",
+                "What\u2019s the transport costs?",
+                "Why do eggs from Turkey and South Korea sound sketchy as all hell to me?"
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
+            "title": "Woman charged with drowning pet dog in Florida airport bathroom",
+            "external_url": "https://www.theguardian.com/us-news/2025/mar/21/alison-lawrence-drowned-dog-florida-airport",
+            "upvotes": 68,
+            "date": "03/21/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/3d4dec2df73cc74bb12f27cc24ef88d076e15304/51_0_5082_3051/master/5082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb950f6ecdc907ba1e393941459333b4",
+            "top_comments": [
+                "> A woman who was told she could not bring her dog aboard her international flight drowned the animal in the bathroom of a Florida airport, according to authorities.\n\nShe drowned her pet, then stuffed its body in a trash can so she wasn't inconvenienced by missing her flight. Holy crap, talk about extreme emotional callousness. I hope they absolutely nail her with any and all charges they can make stick. I don't think just aggravated animal abuse is enough.",
+                "She left the dog in the trash with her ID info on microchip, shot records, collar, dog vest.",
+                "I mean, that's quite the choice.  Could have just left it tied up somewhere, even if you deemed having a dog was too inconvenient in that moment.  Or the ol' \"Sorry, could you watch my dog for a minute, I'll be right back\" and then board your plane.",
+                "What (and I cannot emphasize this enough) the fuck?",
+                "she's about to set a new standard in \"crimes that get you fucked the fuck up in prison\"",
+                "The worst part is that she could have just abandoned the dog and boarded her flight, but decided to kill it instead? Legit, just walking up to a stranger and asking them to watch her dog for a second and just dipping out would have made more sense\u2026or like putting it in the restroom and leaving it in there\u2026but she made a decision to drown the dog??? Wtf.",
+                "Absolutely heartbreaking, that poor dog.  The person he trusts most killing him violently.  He must have been so scared.  She better get prison time",
+                "Why do stories on this sub get deleted and posted again so often?",
+                "welp. enough reddit for me tonight. bye. Fuck that human for doing this evil.",
+                "Jfc what is wrong with humanity??? \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f"
             ],
             "aggregate_sentiment": 8.0
         },
         {
-            "category": "HOT",
-            "title": "Man who took pressure cooker bomb into hospital jailed for life",
-            "external_url": "https://news.sky.com/story/nurse-who-took-bomb-into-hospital-and-plotted-attack-on-raf-base-jailed-for-life-13333247",
-            "upvotes": 741,
+            "category": "NEW",
+            "title": "Columbia agrees to government demands in bid to restore funding",
+            "external_url": "https://www.reuters.com/world/us/columbia-research-takes-immediate-hit-trump-funding-cuts-2025-03-21/",
+            "upvotes": 121,
             "date": "03/21/2025",
-            "thumbnail": "https://e3.365dm.com/25/03/1600x900/skynews-farooq-cps_6863329.jpg?20250321162645",
+            "thumbnail": "No social preview available",
             "top_comments": [
-                "A patient outside was able to talk him down and convinced him to turn himself in. That's amazing.",
-                "> Farooq was arrested outside the **maternity** ward of St James's Hospital after revealing a gun and saying that he \"felt like killing everyone\".\n\nHoly shit, throw away the key.",
-                "Decided it would be a good idea to try and kill people who choose a career that saves people\u2019s lives. \n\nTells you all you need to know",
-                "\"The device would have been twice as powerful as those used by the 2013 Boston Marathon bombers.\"\n\nHoly fucking shit.\n\nThank God for Nathan Newby. He saved the lives of many, literal newborns among them.",
-                "Damn, DJ Khaled really fell off\u2026",
-                "Well he\u2019s got the face for it. Asshole.",
-                "A good candidate for the current regime",
-                "Dude needs some under eye cream real bad",
-                "IDF soldiers should meet the same fate....",
-                "[removed]"
+                "At least the silver lining in this miserable timeline is quickly exposing just how many spineless cowards are amongst us.",
+                "There's no point in capitulating to the demands of this government. They don't have any honor and will pull the rug on anything they don't like regardless of what is agreed to.\n\nIt's also not a good look to cave to a fascist regime.",
+                "MAGA hates the college educated. It doesn't matter what Columbia does. The Trump administration will just find something else to hold money over.",
+                "\u201cHires special officers that are allowed to make on campus arrests\u201d \n\nAmerica sure loves their freedom.",
+                "Turns out the Ivory Tower was just as much of a facade as the Shining City on the Hill.",
+                "\"The New York-based university, acquiescing to the demands in a memo released on Friday, laid out plans to ban face masks on campus, empower security officers to remove or arrest individuals, and place a new official in charge of the department that offers courses on the Middle East.\"\n\n\nImagine losing 400 million because you allow students to wear face maks...",
+                "I really hope the other universities and colleges grow a spine and challenge trump in court ..",
+                "Columbia has an almost $15BN endowment. The worst kind of cowards.",
+                "Blackmail apparently works",
+                "They should sue the administration not cave in. WTF, COLUMBIA!"
             ],
-            "aggregate_sentiment": 0.0
+            "aggregate_sentiment": 22.0
         },
         {
-            "category": "HOT",
-            "title": "\u2018It's a huge problem': Man says he was shot at while driving Tesla in Lowell",
-            "external_url": "https://www.nbcboston.com/news/local/its-a-huge-problem-man-says-he-was-shot-at-while-driving-tesla-in-lowell/3664545/",
-            "upvotes": 534,
+            "category": "NEW",
+            "title": "U.S. to revoke legal status of more than a half-million migrants, urges them to self deport",
+            "external_url": "https://www.cbsnews.com/news/u-s-to-revoke-legal-status-of-over-a-half-million-migrants-chnv/",
+            "upvotes": 2443,
             "date": "03/21/2025",
-            "thumbnail": "https://media.nbcboston.com/2025/03/Tesla-shot-032025.jpg?quality=85&strip=all&resize=1200%2C675",
+            "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/03/21/f77a5737-9f4d-4bf8-8759-61e97e11ba39/thumbnail/1200x630/732b2e545fbc7cfb3cc1d7a3177155cc/gettyimages-2206282830.jpg?v=9e5c48f1b04ac2a564e8a4c51250ac89",
             "top_comments": [
-                "Yeah, but\u2026Lowell. \n\nThat\u2019s like saying you saw a neon sign in Las Vegas.",
-                "Gonna have to drive around in a Lincoln Continental.\n\nNo one has ever been shot at in a Lincoln Continental.",
-                "Lowell Massachusetts...\n\nEven with everything going on with Tesla now, my gut guess is still that has more to do with road rage than the car he is driving.",
-                "Idk man but I feel like you can get shot at in Lowell without driving a Tesla \ud83d\ude02\ud83d\ude02",
-                "That's a Lowell issue, not a Tesla issue. \n\nI live in Texas and have never been to Lowell, Mass or anywhere near it and I know about Lowell's reputation.",
-                "Review the footage from the tesla cams.",
-                "What was the Tesla wearing?",
-                "So was he shot at cuz he was driving a Tesla? Or was he shot at cuz he was in a neighborhood that he shouldn\u2019t have been in?",
-                "Tbf, you would still be shot either way if you\u2019re in Lowell",
-                "Yeah I doubt this is a Tesla issue and more of a wrong neighborhood wrong time issue.\n\nI live 45 mins from Milwaukee, WI, my entire family is from the Mil and a good chunk still live there or in surrounding suburbs and everyone knows there is certain areas to avoid no matter what demographic you are because those areas have a ridiculous crime rate and bullets don't discriminate.\n\nTesla/Elon simps will flip any script to play the victim as long as they get attention."
+                "\"We don't mind the ones who do it legally\"",
+                "But I thought they just hated the people here illegally? They kept saying that they were cool with immigrants as long as they do it legally. Were they just lying to mask their racism? Naw...",
+                "They are so shit at deporting illegal immigrants that they go to legal ones",
+                "This isn\u2019t isolated to legal migrants. This will end up being some kind of convoluted blanket order just like the aliens act.",
+                "Let\u2019s start with Elon Musk.",
+                "Is Melania on that list \ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14",
+                "Watch Trump revoke legal status for all non-Native Americans thinking that he's covered.",
+                "I feel obliged to point out that Elon Musk and Melanie both worked illegally in the US and on that basis should also be deported.",
+                "An article the other day noted that most of Trump\u2019s immigration policy is currently targeting those who are here legally, but on \u201cborrowed time\u201d due to asylum seeking or refugee status. That is a rapid way to get numbers. The numbers from that policy, and the videos of illegal immigrants being treated inhumanly feeds his sociopath base.\n\nIt should be noted, a lot of posts have been saying, \u201cIs this what you voted for!?\u201d In regards to Cubans seeing Cubans being deported and such. You need to understand: This IS exactly what they voted for. Legal immigrants do not give a shit about their brethren who are not legal. All they see are \u201cillegals\u201d being kicked out of THEIR country that they \u201cearned\u201d. The fact that most MAGA folks would gladly see these same \u201clegal\u201d immigrants kicked out of THEIR country does not even register: Everyone thinks they are one of the \u201cgood ones\u201d when it comes to hating immigrants.",
+                "So much for going after illegal and criminals.  I mean we all knew this was the plan but once again the paper defense of maga not being racist pieces of shit is failing. Funny enough this will also help with ranking the economy by the stable genius\u2019s who have no fucking clue how even basic economics works."
             ],
-            "aggregate_sentiment": 28.0
+            "aggregate_sentiment": null
+        },
+        {
+            "category": "NEW",
+            "title": "Woman killed during conjugal prison visit in CA",
+            "external_url": "https://www.latimes.com/california/story/2025-03-19/prisoner-wife-strangled-conjugal-visit",
+            "upvotes": 334,
+            "date": "03/21/2025",
+            "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/34ae215/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F82%2F521f41be44ef88f97209a1519c66%2F1342724-me-cdcr-prison-program-16-brv.jpg",
+            "top_comments": [
+                "According to [this article](https://ktla.com/news/local-news/woman-killed-during-conjugal-visit-with-infamous-california-murderer-officials-say/?nxsparam=1), the coroner said she was strangled to death. They\u2019re waiting on a full report from the prison to charge him.",
+                "This article is poorly written. While it says that she was killed by her husband, it also says that he reported that she had passed out and that they didn't have enough information to make a decision on charging him with anything. So... did he kill her? Did she have some kind of medical emergency? If the warden can't answer that, why is it being reported as a murder?",
+                "Why does a man who has killed 4 men and has no chance of parole get to have \"conjugal visits??\"  And no doubt he will plead \"rough sex,\" as a defense if he bothers with it.",
+                "The notion that men, even the most dangerous criminals, are entitled to sex, is very strange to me.",
+                "How is that even a news article? There is very little information about it.",
+                "The will probably do away with conjugal visits now. Thanks asshole got fucking it up for everyone else.",
+                "Add on a few more life sentences?",
+                "I mean he had nothing left to lose at that point, probably did something he always wanted to do",
+                "This man was convicted with 4 murders...he killed 4 people.\nBut he was still allowed overnight, conjugal visits with his wife. And she died, in his care. Only in the great state of California.",
+                "vast include hospital wise fuzzy ghost sink lock plants reminiscent"
+            ],
+            "aggregate_sentiment": 42.0
+        },
+        {
+            "category": "NEW",
+            "title": "Man found with a live turtle concealed in his pants by TSA at a New Jersey airport",
+            "external_url": "https://apnews.com/article/turtle-pants-airport-tsa-newark-airport-pennsylvania-f55bd62d33530e9cfd26488e230ad8df",
+            "upvotes": 128,
+            "date": "03/21/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Is that a live turtle in your pants or are you just happy to see me?",
+                "Should have bit his dick off",
+                "A shell of a good time.",
+                "Mitch McConnell sure is getting adventurous in his old age...",
+                "A 'support' turtle no doubt.\u00a0",
+                "Are you happy to visit New Jersey or is that a turtle in your pants?",
+                "Not AGAIN!!\n\n\n(oops... nope.  Dated March 11, 2025 )",
+                "Now I have to know why. What are the rest of us missing?",
+                "This is the same story from last week. Since it was at Newark, I did check the link to see if it was a repost or it happened again.",
+                "Thank god, I thought they were going to say it was in his ass. That\u2019s the level of what it requires for me to be thankful while reading the news nowadays."
+            ],
+            "aggregate_sentiment": 20.0
+        },
+        {
+            "category": "NEW",
+            "title": "New Yorkers scramble for free eggs",
+            "external_url": "https://apnews.com/article/new-york-egg-giveaway-bird-flu-c2b5e5d4f6623f37a81ad4d5ad8793f3",
+            "upvotes": 86,
+            "date": "03/21/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "People are going after those eggs like they're crack.",
+                "Can I interest you in an egg in these trying times?",
+                "New Facebook Marketplace listing\n\n\n1 dozen organic eggs.\u00a0 Asking $12.\u00a0 No low ballers.\u00a0 I know what I got.",
+                "Do not, my friends, become addicted to eggs.  They will take hold of you, and you will resent their absence.",
+                "People used to egg houses. Can you imagine eggs being so plentiful that you could just throw a dozen away?",
+                "Can't you just... like... not eat eggs?  For a little while?  Why are americans like this?",
+                "America is going through psychosis. Check back with us later.",
+                "The newspaper should have sponsored it just so they could use that headline!",
+                "One thing I will say for the egg crisis is that it has been wonderfully generative of many eggscellent puns. Or is that a play on words? Anyway, you know what I mean.",
+                "The article said someone waited for 2 hours, no thank you."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
+            "title": "DoorDash will let users buy now, pay later for fast food, a possible worrying sign for the economy",
+            "external_url": "https://www.cnn.com/2025/03/21/business/doordash-klarna-buy-now-pay-later-partnership/index.html",
+            "upvotes": 7538,
+            "date": "03/21/2025",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150322619.jpg?c=16x9&q=w_800,c_fill",
+            "top_comments": [
+                "So, does that mean that McDonald's is going to send the Pinkertons after that sweet cheeseburger cash?",
+                "The year is 2032. I am in a debtor's prison after using Doordash to buy a burrito on credit at 600% interest. They say I can't leave until I hand-mine enough lithium the keep Elon's personal hovercar in the stratosphere for another year.",
+                "I know you can't save people from themselves but no one should be paying interest on a cheeseburger.",
+                "I don't see this ending well at all",
+                "Is this the 2025 version of strippers buying McMansions in the Big Short?",
+                "Wimpy is getting his hamberder!",
+                "Trump shutting down the Consumer Financial Protection Bureau, DoorDash becomes a pay-day lender...",
+                "\"I'll gladly pay you Tuesday for a hamburger today.\" \n\nJ. Wellington Wimpy just so happens to be a character created during, oh, The Great Depression.",
+                "Or a much more worrying sign for Door Dash",
+                "If you need to finance $20 you\u2019re seriously fucked"
+            ],
+            "aggregate_sentiment": null
         },
         {
             "category": "NEW",
             "title": "Heathrow flights to resume as police investigate 'catastrophic' fire which cut power to Europe's busiest airport",
             "external_url": "https://www.abc.net.au/news/2025-03-22/heathrow-airport-flight-updates-after-fire/105084144",
-            "upvotes": 15,
+            "upvotes": 205,
             "date": "03/21/2025",
             "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29159852e06243f60920345f3274bf7b?impolicy=wcms_watermark_news&cropH=855&cropW=1521&xPos=168&yPos=176&width=862&height=485&imformat=generic",
-            "top_comments": [],
-            "aggregate_sentiment": null
+            "top_comments": [
+                "It would not surprise me in the least to hear that a russian asset was used to start this fire. It highlights just how exposed the UK (and other European countries) are to attacks like this one.",
+                "probably putins orders. . .",
+                "*A Heathrow Airport spokesperson apologised for the inconvenience caused by the fire and said its priority was to repatriate passengers whose flights were diverted.*\u00a0\n\n\"Inconvenience\" or more like plan-shattering and awfully distressing."
+            ],
+            "aggregate_sentiment": 12.0
         },
         {
             "category": "NEW",
             "title": "\u2018It's a huge problem': Man says he was shot at while driving Tesla in Lowell",
             "external_url": "https://www.nbcboston.com/news/local/its-a-huge-problem-man-says-he-was-shot-at-while-driving-tesla-in-lowell/3664545/",
-            "upvotes": 535,
+            "upvotes": 1727,
             "date": "03/21/2025",
             "thumbnail": "https://media.nbcboston.com/2025/03/Tesla-shot-032025.jpg?quality=85&strip=all&resize=1200%2C675",
             "top_comments": [
@@ -232,245 +404,118 @@
                 "Gonna have to drive around in a Lincoln Continental.\n\nNo one has ever been shot at in a Lincoln Continental.",
                 "Lowell Massachusetts...\n\nEven with everything going on with Tesla now, my gut guess is still that has more to do with road rage than the car he is driving.",
                 "Idk man but I feel like you can get shot at in Lowell without driving a Tesla \ud83d\ude02\ud83d\ude02",
-                "That's a Lowell issue, not a Tesla issue. \n\nI live in Texas and have never been to Lowell, Mass or anywhere near it and I know about Lowell's reputation.",
                 "Review the footage from the tesla cams.",
                 "What was the Tesla wearing?",
+                "There\u2019s like a 99% chance this guy didn\u2019t just get randomly shot at because he\u2019s driving a Tesla. It\u2019s probably road rage. Lowell traffic sucks, driving in Lowell sucks, and people in Lowell suck, but they don\u2019t really give a fuck what car you\u2019re driving.",
+                "That's a Lowell issue, not a Tesla issue. \n\nI live in Texas and have never been to Lowell, Mass or anywhere near it and I know about Lowell's reputation.",
                 "So was he shot at cuz he was driving a Tesla? Or was he shot at cuz he was in a neighborhood that he shouldn\u2019t have been in?",
-                "Tbf, you would still be shot either way if you\u2019re in Lowell",
                 "Yeah I doubt this is a Tesla issue and more of a wrong neighborhood wrong time issue.\n\nI live 45 mins from Milwaukee, WI, my entire family is from the Mil and a good chunk still live there or in surrounding suburbs and everyone knows there is certain areas to avoid no matter what demographic you are because those areas have a ridiculous crime rate and bullets don't discriminate.\n\nTesla/Elon simps will flip any script to play the victim as long as they get attention."
-            ],
-            "aggregate_sentiment": 12.0
-        },
-        {
-            "category": "NEW",
-            "title": "Tate brothers say they have left US to return to Romania",
-            "external_url": "https://www.bbc.com/news/articles/cvgw0w7147vo",
-            "upvotes": 3136,
-            "date": "03/21/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/a674/live/0847a3c0-066d-11f0-97d3-37df2b293ed1.jpg",
-            "top_comments": [
-                "selfies w/ pizza box or it never happened",
-                "And nothing of value was lost. Fuck these twats",
-                "They're going back for their court appearance, which was part of the agreement to relax their travel restrictions. That said, I was half-expecting Trump to harbour them.",
-                ">\"Innocent men don't run. They clear their name in court.\"\n\nThis guy literally fled to Romania to escape rape charges in the uk.\n\nWhat a fucking dog dong.",
-                "The only place they should be going is prison. They should never have been allowed to travel here in the first place. Edit: it's also disgusting this dude still has ten MILLION Twitter followers.",
-                "The only news I want to read about these two is that they're dead",
-                "If I never heard about the Tate brothers again it would make my life better",
-                "He seems to really take interest in Romania. Wonder if its the secret location of his missing chin.",
-                "PSA\n\nNo matter how bad your blue balls are guys, once you hit these guys in your doomscrolling on TikTok, you need to put your phone in a box and go eat some Cheerios.",
-                "are chin implants cheaper in Romania or something?"
-            ],
-            "aggregate_sentiment": 42.0
-        },
-        {
-            "category": "NEW",
-            "title": "JPMorgan makes changes to its diversity programs, memo says",
-            "external_url": "https://www.reuters.com/business/finance/jpmorgan-makes-changes-its-diversity-programs-memo-says-2025-03-21/",
-            "upvotes": 85,
-            "date": "03/21/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Corporate DEI was always more focused on branding and image rather than HR.  They\u2019re simply changing the marketing strategy to what they think the public currently likes.",
-                "What people think DEI is:\n\n> Well gosh I'm sorry you've worked really hard but this immigrant with no qualifications applied for the job so I'm going to have to fire you because DEI.\n\nWhat DEI is:\n\n> Well, shoot. I wanted to hire my useless nephew and make my employees cover for him and take the fall for his failures, but 3 other people with actual qualifications applied so I have to pick one of those or I'm going to have trouble with our DEI policy. My brother's going to be pissed.\n\nWhat most companies implement:\n\n> \"Look just make all employees watch this 20 minute video and answer a quiz so we can get some points with the liberals. Don't make any meaningful changes to hiring policy. Also, my cousin's got a company that makes these videos so if you can buy his training package that'd be nice.\"",
-                "I've decided that people who are anti DEI are just pro nepo baby.",
-                "the country is healing"
             ],
             "aggregate_sentiment": 22.0
         },
         {
-            "category": "NEW",
-            "title": "Man who took pressure cooker bomb into hospital jailed for life",
-            "external_url": "https://news.sky.com/story/nurse-who-took-bomb-into-hospital-and-plotted-attack-on-raf-base-jailed-for-life-13333247",
-            "upvotes": 747,
+            "category": "RISING",
+            "title": "U.S. to revoke legal status of more than a half-million migrants, urges them to self deport",
+            "external_url": "https://www.cbsnews.com/news/u-s-to-revoke-legal-status-of-over-a-half-million-migrants-chnv/",
+            "upvotes": 2452,
             "date": "03/21/2025",
-            "thumbnail": "https://e3.365dm.com/25/03/1600x900/skynews-farooq-cps_6863329.jpg?20250321162645",
+            "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/03/21/f77a5737-9f4d-4bf8-8759-61e97e11ba39/thumbnail/1200x630/732b2e545fbc7cfb3cc1d7a3177155cc/gettyimages-2206282830.jpg?v=9e5c48f1b04ac2a564e8a4c51250ac89",
             "top_comments": [
-                "A patient outside was able to talk him down and convinced him to turn himself in. That's amazing.",
-                "> Farooq was arrested outside the **maternity** ward of St James's Hospital after revealing a gun and saying that he \"felt like killing everyone\".\n\nHoly shit, throw away the key.",
-                "Decided it would be a good idea to try and kill people who choose a career that saves people\u2019s lives. \n\nTells you all you need to know",
-                "\"The device would have been twice as powerful as those used by the 2013 Boston Marathon bombers.\"\n\nHoly fucking shit.\n\nThank God for Nathan Newby. He saved the lives of many, literal newborns among them.",
-                "Damn, DJ Khaled really fell off\u2026",
-                "Well he\u2019s got the face for it. Asshole.",
-                "A good candidate for the current regime",
-                "Dude needs some under eye cream real bad",
-                "IDF soldiers should meet the same fate....",
-                "[removed]"
+                "\"We don't mind the ones who do it legally\"",
+                "But I thought they just hated the people here illegally? They kept saying that they were cool with immigrants as long as they do it legally. Were they just lying to mask their racism? Naw...",
+                "They are so shit at deporting illegal immigrants that they go to legal ones",
+                "This isn\u2019t isolated to legal migrants. This will end up being some kind of convoluted blanket order just like the aliens act.",
+                "Let\u2019s start with Elon Musk.",
+                "Is Melania on that list \ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14",
+                "Watch Trump revoke legal status for all non-Native Americans thinking that he's covered.",
+                "I feel obliged to point out that Elon Musk and Melanie both worked illegally in the US and on that basis should also be deported.",
+                "An article the other day noted that most of Trump\u2019s immigration policy is currently targeting those who are here legally, but on \u201cborrowed time\u201d due to asylum seeking or refugee status. That is a rapid way to get numbers. The numbers from that policy, and the videos of illegal immigrants being treated inhumanly feeds his sociopath base.\n\nIt should be noted, a lot of posts have been saying, \u201cIs this what you voted for!?\u201d In regards to Cubans seeing Cubans being deported and such. You need to understand: This IS exactly what they voted for. Legal immigrants do not give a shit about their brethren who are not legal. All they see are \u201cillegals\u201d being kicked out of THEIR country that they \u201cearned\u201d. The fact that most MAGA folks would gladly see these same \u201clegal\u201d immigrants kicked out of THEIR country does not even register: Everyone thinks they are one of the \u201cgood ones\u201d when it comes to hating immigrants.",
+                "So much for going after illegal and criminals.  I mean we all knew this was the plan but once again the paper defense of maga not being racist pieces of shit is failing. Funny enough this will also help with ranking the economy by the stable genius\u2019s who have no fucking clue how even basic economics works."
             ],
             "aggregate_sentiment": 8.0
         },
         {
-            "category": "NEW",
-            "title": "Measles cases linked to outbreak in Texas reach 309, surpassing nationwide total in 2024",
-            "external_url": "https://abcnews.go.com/Health/measles-cases-linked-outbreak-texas-reach-309-surpassing/story?id=120019612",
-            "upvotes": 470,
+            "category": "RISING",
+            "title": "DoorDash will let users buy now, pay later for fast food, a possible worrying sign for the economy",
+            "external_url": "https://www.cnn.com/2025/03/21/business/doordash-klarna-buy-now-pay-later-partnership/index.html",
+            "upvotes": 7544,
             "date": "03/21/2025",
-            "thumbnail": "https://i.abcnewsfe.com/a/2bd4b7ed-c6eb-488a-b2ea-bc68edd2402a/measles-vaccine-ap-jt-250311_1741733496689_hpMain_16x9.jpg?w=1600",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150322619.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
-                "Don\u2019t worry.  I heard it\u2019s not that bad, even if you die.",
-                "I feel bad for the kids.\n\nThey didn\u2019t even really get a choice to be vaccinated or not.",
-                "I wonder if RFK Jr. has found any super-resistant kids, yet?",
-                "This disease spread brought to you by the Republican party who wants to take us kicking and screaming back to the Dark Ages.",
-                "This update adds 30 new cases to the number of reported cases in Texas associated with the outbreak. Tuesday\u2019s update added 20 new cases, last Friday\u2019s update added 36 cases, and last Tuesday\u2019s added 25.",
-                "Take Notice World: this is what happens when you let actual morons, malignant or otherwise, make decisions. Learn from our idiotic mistakes.",
-                "And the parents have no liability for this? How many kids got sick with measles after spending time in the same place with the children who died?  Did any of THOSE people die?\n\nVaccines SAVE LIVES.  Why are all these morons risking KILLING their children?",
-                "I declare Texas new state nickname is \"the Plague state\".",
-                "There will be less cases if we stop testing for it\n\n-RFK jr, probably",
-                "This is natural selection, right? Mother nature conjured up measles which we found a successful vaccine for, then people chose to not have it."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Elon Musk meets with defence officials in Pentagon visit",
-            "external_url": "https://www.bbc.co.uk/news/articles/c0mw7wr0gp9o",
-            "upvotes": 912,
-            "date": "03/21/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6e3/live/59824480-065d-11f0-8c34-4f174fb5fd08.jpg",
-            "top_comments": [
-                "Oh look a guy not elected into any office or any form of government, working our government. Nice.",
-                "Reminder that Musk couldn't pass a background check so he got clearance without one via EO, and that Tesla's entire existence depends on the Chinese market.",
-                "Reminder this guy calls for coups and imprisonment of our PM in the UK, has demeaned pretty much every US ally, has strong historical links to Russia (Check where he tried to source rockets from in the early days of SpaceX) , has been discussing Ukraine directly with Putin and regurgitates Russian propaganda as the worlds most followed social media shitfluencer.",
-                "*\"How disgraceful it is that the discredited media can make up such lies.\"*\n\n  \nPot-bellied Trump calling the kettle black.",
-                "the greediest man in the world is being given unfettered access to everything. he's not part of the government, nobody voted for him, he just bought his way in. \n\n  \nthis is insanity. the hypocrisy of this is mind boggling, I thought the GOP claimed to be conservative and traditionalists.",
-                "I literally don\u2019t understand why everyone is just rolling over to allow this to happen.\n\n*What. The. Actual. Fuck.*",
-                "What the everloving fuck does Elon know about military defense",
-                "Let\u2019s hope they put together a whole fake presentation to keep this fucker in the dark.\u00a0",
-                "You maga shit heads are doing catastrophic damage.  I don't mind if you guys hara-kiri yourselves, but you are taking out the whole country and our allies.",
-                ">Musk's visit to the Pentagon is drawing scrutiny over potential conflicts of interest.\n\n\n>Starlink and SpaceX, two of Musk's companies, have contracts with the defence department. Tesla, his electric vehicle company, has two facilities in Shanghai, China.\n\n\nThank you to the man or woman who leaked info on the visit."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "U.S. officials cracking down on people trying to bring valuable eggs across the border",
-            "external_url": "https://www.cbc.ca/news/world/us-border-fentanyl-eggs-1.7486369",
-            "upvotes": 544,
-            "date": "03/21/2025",
-            "thumbnail": "https://i.cbc.ca/1.7486505.1742325730!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/egg-prices.jpg?im=Resize%3D620",
-            "top_comments": [
-                "Begun, the egg wars have.",
-                "I want to show this headline to someone 10 years ago.",
-                "This comes after Trump promised the price of eggs would drop, but instead increased by 60% in his first month in office. \n\nAfter repeatedly threatening to annex Greenland, going so far as to state that Greenland would become American \"one way or another\" during his Congressional address which was met with cheers of pure jubilation, the American government has asked Denmark for eggs. Denmark said no. Then they asked Finland. Finland said no. They have also asked the Netherlands and Sweden too. Now they're asking Lithuania. \n\nAs I type this I'm enjoying scrambled eggs for breakfast, bought 30 eggs for $7 cad.",
-                "I tried this, but they are practically impossible to hide up your butt. I wasted so many eggs before finally abandoning the effort.",
-                "If only there was ways to negociate and reduce the barrier of trade between countries so that people wouldn't have to smuggle legal consumer goods...\n\n  \nThere must not be enough tarrifs in place and not enough threats to our commercial partners...\n\n/s",
-                "Probably the work of the Sonora Egg Cartel and their rarely seen leader Paco \u201cThe Eggman\u201d Villalopez\u2026coo coo ka choo.",
-                "So he's begging for eggs and also stopping the importation of eggs. He is a perfect storm of stupid and evil.\u00a0",
-                "Remember when we were all panic about oil running out??? The irony",
-                "Yeah, eggs are legal, but they ain\u2019t a hundred percent legal. I mean, you can\u2019t just walk into a restaurant, order an egg and start eating away. You\u2019re only supposed to eat eggs in your home or certain designated places.",
-                "CBP says importing raw/fresh eggs into the United States is prohibited due to concerns about diseases such as bird flu and the Virulent Newcastle disease (VND)."
+                "So, does that mean that McDonald's is going to send the Pinkertons after that sweet cheeseburger cash?",
+                "The year is 2032. I am in a debtor's prison after using Doordash to buy a burrito on credit at 600% interest. They say I can't leave until I hand-mine enough lithium the keep Elon's personal hovercar in the stratosphere for another year.",
+                "I know you can't save people from themselves but no one should be paying interest on a cheeseburger.",
+                "I don't see this ending well at all",
+                "Is this the 2025 version of strippers buying McMansions in the Big Short?",
+                "Wimpy is getting his hamberder!",
+                "Trump shutting down the Consumer Financial Protection Bureau, DoorDash becomes a pay-day lender...",
+                "\"I'll gladly pay you Tuesday for a hamburger today.\" \n\nJ. Wellington Wimpy just so happens to be a character created during, oh, The Great Depression.",
+                "Or a much more worrying sign for Door Dash",
+                "If you need to finance $20 you\u2019re seriously fucked"
             ],
             "aggregate_sentiment": 60.0
         },
         {
-            "category": "NEW",
-            "title": "Woman accused of drowning dog in Orlando airport bathroom so she could board plane",
-            "external_url": "https://www.nbcmiami.com/news/local/woman-accused-of-drowning-dog-in-orlando-airport-bathroom-so-she-could-board-plane/3572415/",
-            "upvotes": 2163,
+            "category": "RISING",
+            "title": "Heathrow flights to resume as police investigate 'catastrophic' fire which cut power to Europe's busiest airport",
+            "external_url": "https://www.abc.net.au/news/2025-03-22/heathrow-airport-flight-updates-after-fire/105084144",
+            "upvotes": 208,
             "date": "03/21/2025",
-            "thumbnail": "https://media.nbcmiami.com/2025/03/032025-alison-lawrence-orlando-international-airport-dog-drowning.png?resize=1200%2C675&quality=85&strip=all",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29159852e06243f60920345f3274bf7b?impolicy=wcms_watermark_news&cropH=855&cropW=1521&xPos=168&yPos=176&width=862&height=485&imformat=generic",
             "top_comments": [
-                "A true psychopath. There was zero reason to kill the poor dog. She could have left him in the stall and someone would surely have rescued him. \n\nAlso, she is a stupid psychopath. She left the collar with identifying information on the deceased dog. It\u2019s like she truly didn\u2019t think twice about this or even see anything wrong with it. It\u2019s terrifying, really.",
-                "how could she simultaneously be so willing to bring that dog on her trip as she is to kill it ??\n\nhow can both extremes coexist within minutes ??",
-                "I just dont get why she could not have taken his collar off and then just leave him in the bathroom OR let him run free and pretend it wasnt her dog. she had so many other options than drowning him in the bathroom. I...cant even imagine doing that and I am not even a pet owner. ( I grew up with my mom bringing random animals home, lol, so as an adult I said no pets)",
-                "How can you care for a living thing for NINE YEARS and then callously end its life?? How difficult would it have been to board the poor thing at a doggie day care for a few days and change your flight to leave later in the day or the next day? \n\nIf she could do this to HER own dog, what else is she capable of? I really hope she doesn\u2019t have a job working with the general public or have children/grandchildren of her own \ud83d\ude33",
-                "Some people see pets as life, a partner and companion, probably a friend.\n\nSome people see pets as a fucking accessory.",
-                "Whatever her prison sentence is, it won't be enough.",
-                "Can we have her end like Ramsey?",
-                "I truly wish I didn't read this. I didn't want to end up feeling depressed again.\n\nFucking bitch.",
-                "What in the actual fuck. I hope she gets a maximum sentence for this and the inmates of the prison she goes to learn of what she did and make her life there a living nightmare. That poor dog, nobody deserves to die like that, let alone an innocent animal at the hands of someone that animal probably trusted and looked up to. I sat here just staring at this post for several minutes just trying to process how anyone could be so heartless",
-                "but why drown it? leaving it behind would have been so much simpler"
+                "It would not surprise me in the least to hear that a russian asset was used to start this fire. It highlights just how exposed the UK (and other European countries) are to attacks like this one.",
+                "probably putins orders. . .",
+                "*A Heathrow Airport spokesperson apologised for the inconvenience caused by the fire and said its priority was to repatriate passengers whose flights were diverted.*\u00a0\n\n\"Inconvenience\" or more like plan-shattering and awfully distressing."
             ],
             "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Musk group offers $100 to Wisconsin voters ahead of pivotal state Supreme Court election",
-            "external_url": "https://www.cnbc.com/2025/03/21/musk-group-offers-100-to-wisconsin-voters-ahead-of-pivotal-state-supreme-court-election.html",
-            "upvotes": 16180,
-            "date": "03/21/2025",
-            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108057782-1730819740490-gettyimages-2182402967-AFP_36LH6F6.jpeg?v=1730819836&w=1920&h=1080",
-            "top_comments": [
-                "George Soros should do the exact same thing so this practice will get banned in one nanosecond.",
-                "$100 dollars in exchange for your freedom, great deal",
-                "So he's offering bribes....which is illegal.",
-                "Imagine if Democrats paid for votes.\n\nIt would be the end of the world with the MAGA cult. \n\nNone stop 24/7 news coverage of the end of the republic. \n\nBut when Trump and crew do it, perfectly fine.",
-                "I would ask how any of this is legal, but apparently everything is legal if no one challenges you on it. He did this during the general election and got away with zero consequences. And got his guy elected. And now that they\u2019re talking about deporting protesters, I don\u2019t know what the fuck we\u2019re supposed to do.",
-                "Elon musk is a domestic terrorist",
-                "The fact he needs to pay people for their vote suggests that the candidate he supports has no other positive qualifications and cannot win an election based on their merits.",
-                "Want to do something about it and make your voice heard?\n\nCALL THE WISCONSIN ELECTIONS COMMISSION\n\n608 266 8005\n\nDemand an investigation into this and explain how disgusted you are!",
-                "The illegal tech bro immigrant from south africa is continuing to steal american jobs and destroy democracy.",
-                "So it sounds like they're paying folks $100 to sign a petition about the upcoming election, which I'm assuming (cynically) is their way of tricking people into voting the way they want.  \n\nReminds me of that time Michael Moore put out an offer to college students that he'd buy them a clean pair of underwear if they registered to vote.  Didn't tell them how to vote, just to register.  And of course the justice system jumped on that with both feet.  Musk is going to get away with this, of course."
-            ],
-            "aggregate_sentiment": 0.0
-        },
-        {
-            "category": "RISING",
-            "title": "Tate brothers say they have left US to return to Romania",
-            "external_url": "https://www.bbc.com/news/articles/cvgw0w7147vo",
-            "upvotes": 3133,
-            "date": "03/21/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/a674/live/0847a3c0-066d-11f0-97d3-37df2b293ed1.jpg",
-            "top_comments": [
-                "selfies w/ pizza box or it never happened",
-                "And nothing of value was lost. Fuck these twats",
-                "They're going back for their court appearance, which was part of the agreement to relax their travel restrictions. That said, I was half-expecting Trump to harbour them.",
-                ">\"Innocent men don't run. They clear their name in court.\"\n\nThis guy literally fled to Romania to escape rape charges in the uk.\n\nWhat a fucking dog dong.",
-                "The only place they should be going is prison. They should never have been allowed to travel here in the first place. Edit: it's also disgusting this dude still has ten MILLION Twitter followers.",
-                "The only news I want to read about these two is that they're dead",
-                "If I never heard about the Tate brothers again it would make my life better",
-                "He seems to really take interest in Romania. Wonder if its the secret location of his missing chin.",
-                "PSA\n\nNo matter how bad your blue balls are guys, once you hit these guys in your doomscrolling on TikTok, you need to put your phone in a box and go eat some Cheerios.",
-                "are chin implants cheaper in Romania or something?"
-            ],
-            "aggregate_sentiment": 8.0
         },
         {
             "category": "RISING",
             "title": "Measles cases linked to outbreak in Texas reach 309, surpassing nationwide total in 2024",
             "external_url": "https://abcnews.go.com/Health/measles-cases-linked-outbreak-texas-reach-309-surpassing/story?id=120019612",
-            "upvotes": 466,
+            "upvotes": 1040,
             "date": "03/21/2025",
             "thumbnail": "https://i.abcnewsfe.com/a/2bd4b7ed-c6eb-488a-b2ea-bc68edd2402a/measles-vaccine-ap-jt-250311_1741733496689_hpMain_16x9.jpg?w=1600",
             "top_comments": [
                 "Don\u2019t worry.  I heard it\u2019s not that bad, even if you die.",
                 "I feel bad for the kids.\n\nThey didn\u2019t even really get a choice to be vaccinated or not.",
-                "I wonder if RFK Jr. has found any super-resistant kids, yet?",
-                "This disease spread brought to you by the Republican party who wants to take us kicking and screaming back to the Dark Ages.",
                 "This update adds 30 new cases to the number of reported cases in Texas associated with the outbreak. Tuesday\u2019s update added 20 new cases, last Friday\u2019s update added 36 cases, and last Tuesday\u2019s added 25.",
+                "I wonder if RFK Jr. has found any super-resistant kids, yet?",
                 "Take Notice World: this is what happens when you let actual morons, malignant or otherwise, make decisions. Learn from our idiotic mistakes.",
+                "This disease spread brought to you by the Republican party who wants to take us kicking and screaming back to the Dark Ages.",
                 "And the parents have no liability for this? How many kids got sick with measles after spending time in the same place with the children who died?  Did any of THOSE people die?\n\nVaccines SAVE LIVES.  Why are all these morons risking KILLING their children?",
+                "RFK Jr might be dumber than Trump and Musk which is really fucking impressive.",
                 "I declare Texas new state nickname is \"the Plague state\".",
-                "There will be less cases if we stop testing for it\n\n-RFK jr, probably",
-                "This is natural selection, right? Mother nature conjured up measles which we found a successful vaccine for, then people chose to not have it."
-            ],
-            "aggregate_sentiment": 12.0
-        },
-        {
-            "category": "RISING",
-            "title": "Musk group offers $100 to Wisconsin voters ahead of pivotal state Supreme Court election",
-            "external_url": "https://www.cnbc.com/2025/03/21/musk-group-offers-100-to-wisconsin-voters-ahead-of-pivotal-state-supreme-court-election.html",
-            "upvotes": 16181,
-            "date": "03/21/2025",
-            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108057782-1730819740490-gettyimages-2182402967-AFP_36LH6F6.jpeg?v=1730819836&w=1920&h=1080",
-            "top_comments": [
-                "George Soros should do the exact same thing so this practice will get banned in one nanosecond.",
-                "$100 dollars in exchange for your freedom, great deal",
-                "So he's offering bribes....which is illegal.",
-                "Imagine if Democrats paid for votes.\n\nIt would be the end of the world with the MAGA cult. \n\nNone stop 24/7 news coverage of the end of the republic. \n\nBut when Trump and crew do it, perfectly fine.",
-                "I would ask how any of this is legal, but apparently everything is legal if no one challenges you on it. He did this during the general election and got away with zero consequences. And got his guy elected. And now that they\u2019re talking about deporting protesters, I don\u2019t know what the fuck we\u2019re supposed to do.",
-                "Elon musk is a domestic terrorist",
-                "The fact he needs to pay people for their vote suggests that the candidate he supports has no other positive qualifications and cannot win an election based on their merits.",
-                "Want to do something about it and make your voice heard?\n\nCALL THE WISCONSIN ELECTIONS COMMISSION\n\n608 266 8005\n\nDemand an investigation into this and explain how disgusted you are!",
-                "The illegal tech bro immigrant from south africa is continuing to steal american jobs and destroy democracy.",
-                "So it sounds like they're paying folks $100 to sign a petition about the upcoming election, which I'm assuming (cynically) is their way of tricking people into voting the way they want.  \n\nReminds me of that time Michael Moore put out an offer to college students that he'd buy them a clean pair of underwear if they registered to vote.  Didn't tell them how to vote, just to register.  And of course the justice system jumped on that with both feet.  Musk is going to get away with this, of course."
+                "There will be less cases if we stop testing for it\n\n-RFK jr, probably"
             ],
             "aggregate_sentiment": 22.0
         },
         {
             "category": "RISING",
+            "title": "Tate brothers say they have left US to return to Romania",
+            "external_url": "https://www.bbc.com/news/articles/cvgw0w7147vo",
+            "upvotes": 10356,
+            "date": "03/21/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/b0f8/live/bb82fd20-06b0-11f0-81c7-9f6a3af0eba6.jpg",
+            "top_comments": [
+                "selfies w/ pizza box or it never happened",
+                ">\"Innocent men don't run. They clear their name in court.\"\n\nThis guy literally fled to Romania to escape rape charges in the uk.\n\nWhat a fucking dog dong.",
+                "And nothing of value was lost. Fuck these twats",
+                "They're going back for their court appearance, which was part of the agreement to relax their travel restrictions. That said, I was half-expecting Trump to harbour them.",
+                "The only place they should be going is prison. They should never have been allowed to travel here in the first place. Edit: it's also disgusting this dude still has ten MILLION Twitter followers.",
+                "If I never heard about the Tate brothers again it would make my life better",
+                "[removed]",
+                "Remember, trump wasted time rallying to free these rapists. Time he was supposed to be spending serving the American people. Instead he was fighting for rapists.",
+                "He seems to really take interest in Romania. Wonder if its the secret location of his missing chin.",
+                "Bring back oubliettes."
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
             "title": "\u2018It's a huge problem': Man says he was shot at while driving Tesla in Lowell",
             "external_url": "https://www.nbcboston.com/news/local/its-a-huge-problem-man-says-he-was-shot-at-while-driving-tesla-in-lowell/3664545/",
-            "upvotes": 537,
+            "upvotes": 1727,
             "date": "03/21/2025",
             "thumbnail": "https://media.nbcboston.com/2025/03/Tesla-shot-032025.jpg?quality=85&strip=all&resize=1200%2C675",
             "top_comments": [
@@ -478,41 +523,62 @@
                 "Gonna have to drive around in a Lincoln Continental.\n\nNo one has ever been shot at in a Lincoln Continental.",
                 "Lowell Massachusetts...\n\nEven with everything going on with Tesla now, my gut guess is still that has more to do with road rage than the car he is driving.",
                 "Idk man but I feel like you can get shot at in Lowell without driving a Tesla \ud83d\ude02\ud83d\ude02",
-                "That's a Lowell issue, not a Tesla issue. \n\nI live in Texas and have never been to Lowell, Mass or anywhere near it and I know about Lowell's reputation.",
                 "Review the footage from the tesla cams.",
                 "What was the Tesla wearing?",
+                "There\u2019s like a 99% chance this guy didn\u2019t just get randomly shot at because he\u2019s driving a Tesla. It\u2019s probably road rage. Lowell traffic sucks, driving in Lowell sucks, and people in Lowell suck, but they don\u2019t really give a fuck what car you\u2019re driving.",
+                "That's a Lowell issue, not a Tesla issue. \n\nI live in Texas and have never been to Lowell, Mass or anywhere near it and I know about Lowell's reputation.",
                 "So was he shot at cuz he was driving a Tesla? Or was he shot at cuz he was in a neighborhood that he shouldn\u2019t have been in?",
-                "Tbf, you would still be shot either way if you\u2019re in Lowell",
                 "Yeah I doubt this is a Tesla issue and more of a wrong neighborhood wrong time issue.\n\nI live 45 mins from Milwaukee, WI, my entire family is from the Mil and a good chunk still live there or in surrounding suburbs and everyone knows there is certain areas to avoid no matter what demographic you are because those areas have a ridiculous crime rate and bullets don't discriminate.\n\nTesla/Elon simps will flip any script to play the victim as long as they get attention."
             ],
-            "aggregate_sentiment": 42.0
+            "aggregate_sentiment": 12.0
+        },
+        {
+            "category": "RISING",
+            "title": "Woman killed during conjugal prison visit in CA",
+            "external_url": "https://www.latimes.com/california/story/2025-03-19/prisoner-wife-strangled-conjugal-visit",
+            "upvotes": 333,
+            "date": "03/21/2025",
+            "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/34ae215/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F82%2F521f41be44ef88f97209a1519c66%2F1342724-me-cdcr-prison-program-16-brv.jpg",
+            "top_comments": [
+                "According to [this article](https://ktla.com/news/local-news/woman-killed-during-conjugal-visit-with-infamous-california-murderer-officials-say/?nxsparam=1), the coroner said she was strangled to death. They\u2019re waiting on a full report from the prison to charge him.",
+                "This article is poorly written. While it says that she was killed by her husband, it also says that he reported that she had passed out and that they didn't have enough information to make a decision on charging him with anything. So... did he kill her? Did she have some kind of medical emergency? If the warden can't answer that, why is it being reported as a murder?",
+                "Why does a man who has killed 4 men and has no chance of parole get to have \"conjugal visits??\"  And no doubt he will plead \"rough sex,\" as a defense if he bothers with it.",
+                "The notion that men, even the most dangerous criminals, are entitled to sex, is very strange to me.",
+                "How is that even a news article? There is very little information about it.",
+                "The will probably do away with conjugal visits now. Thanks asshole got fucking it up for everyone else.",
+                "Add on a few more life sentences?",
+                "I mean he had nothing left to lose at that point, probably did something he always wanted to do",
+                "This man was convicted with 4 murders...he killed 4 people.\nBut he was still allowed overnight, conjugal visits with his wife. And she died, in his care. Only in the great state of California.",
+                "vast include hospital wise fuzzy ghost sink lock plants reminiscent"
+            ],
+            "aggregate_sentiment": 50.0
         },
         {
             "category": "RISING",
             "title": "West Virginia couple sentenced to maximum of decades in prison for abusing adopted children",
             "external_url": "https://apnews.com/article/west-virginia-forced-labor-children-neglect-72e0bc45c85ed7dcce3fd55379e9843a",
-            "upvotes": 532,
+            "upvotes": 808,
             "date": "03/21/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
                 "\"The couple, who are white, adopted the five Black siblings while living in Minnesota\"\n\n.... guess they wanted black slaves uh.....  so disgusting.\n\n\"the couple blamed their real estate agent \u201cfor not finding a place isolated enough,\u201d\"\n\nWell that's creepy.",
                 "This is what stuck out at me from the article:\n\n> \u201cThese are farm people that do farm chores,\u201d Plants said.\n\nYet:\n\n> The oldest girl and boy shared a room, were forced to sleep on the floor and used the same bucket for the bathroom while the other held up a sheet for privacy from the home\u2019s security cameras, according to testimony.\n\nIf they were such unsophisticated \"farm people\" who can't provide basic modern amenities such as indoor plumbing and a toilet, how the hell did they manage a video surveilance system? Strangely, they will be treated with more care by the prison system than they afforded their children. I hope they rot.",
+                ">\"And may God have mercy on your souls. Because this court will not.\u201d\n\nThere are still people out there that are doing and saying the right things. Like this judge.",
                 " The missing part of that headline is \u201cBLACK\u201d adopted children. They felt that enslaving their adopted black children was ok to do.",
                 "Adopted children should still have a social worker and welfare checks especially if home schooled.\nLaws need to be changed asap.",
                 "It\u2019s so sad what people do to children",
                 "wait wait wait... were they drag queens? no? *really*? hmmph\n\nr/StillNotADragQueen",
-                ">\"And may God have mercy on your souls. Because this court will not.\u201d\n\nThere are still people out there that are doing and saying the right things. Like this judge.",
                 "When you realize sex trafficking and abuse is mostly done by people the children (victims) know, and not some boogeyman illegal immigrant sex trafficker, it changes your entire perspective on how we should be fighting child abuse in America.",
                 "The judge didn't hold back, wow.",
                 "Good. Maximum punishment should be mandatory for crimes against children. I\u2019d be happy with life no parole. There\u2019s no rehabilitation for people who hurt children."
             ],
-            "aggregate_sentiment": 42.0
+            "aggregate_sentiment": 0.0
         },
         {
             "category": "RISING",
             "title": "Russian energy giant Gazprom suffers $13.1 billion loss in 2024",
             "external_url": "https://kyivindependent.com/russian-energy-giant-gazprom-suffers-13-1-billion-loss-in-2024/",
-            "upvotes": 2966,
+            "upvotes": 3718,
             "date": "03/21/2025",
             "thumbnail": "https://assets.kyivindependent.com/content/images/2024/09/upd_GettyImages-1240297857.jpg",
             "top_comments": [
@@ -520,99 +586,36 @@
                 "Don\u2019t worry, Trump will bail them out soon.",
                 "It's nice to hear some good news for once.",
                 "More. More. More. Plummet baby plummet.",
-                "I\u2019m sure Trumplethinskin has a plan to help",
                 "The financial picture of this giant company is complicated by several factors. One is that it had an increased income tax imposed on it, by Putin to fund his war. Second, it lost money on shares It owns in a subsidiary. Third who knows what is a valid exchange rate of converting ruble losses to dollar losses. The exchange rate is managed and manipulated by the Kremlin. So, it\u2019s hard to know the true pounding Gazprom is taking, other than that it is suffering.",
-                "That\u2019s some r/upliftingnews!",
+                "I\u2019m sure Trumplethinskin has a plan to help",
                 "Gotta pump those numbers up. Those are rookie numbers.",
+                "That\u2019s some r/upliftingnews!",
                 "Lucky russia,  the social security programs cuts in the U.S.  can cover for  that. Visionary Orange is always one step ahead to leep his master vladdy happy",
                 "US... Ha! Those are rookie numbers."
             ],
-            "aggregate_sentiment": 20.0
-        },
-        {
-            "category": "RISING",
-            "title": "Elon Musk meets with defence officials in Pentagon visit",
-            "external_url": "https://www.bbc.co.uk/news/articles/c0mw7wr0gp9o",
-            "upvotes": 915,
-            "date": "03/21/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6e3/live/59824480-065d-11f0-8c34-4f174fb5fd08.jpg",
-            "top_comments": [
-                "Oh look a guy not elected into any office or any form of government, working our government. Nice.",
-                "Reminder that Musk couldn't pass a background check so he got clearance without one via EO, and that Tesla's entire existence depends on the Chinese market.",
-                "Reminder this guy calls for coups and imprisonment of our PM in the UK, has demeaned pretty much every US ally, has strong historical links to Russia (Check where he tried to source rockets from in the early days of SpaceX) , has been discussing Ukraine directly with Putin and regurgitates Russian propaganda as the worlds most followed social media shitfluencer.",
-                "*\"How disgraceful it is that the discredited media can make up such lies.\"*\n\n  \nPot-bellied Trump calling the kettle black.",
-                "the greediest man in the world is being given unfettered access to everything. he's not part of the government, nobody voted for him, he just bought his way in. \n\n  \nthis is insanity. the hypocrisy of this is mind boggling, I thought the GOP claimed to be conservative and traditionalists.",
-                "I literally don\u2019t understand why everyone is just rolling over to allow this to happen.\n\n*What. The. Actual. Fuck.*",
-                "What the everloving fuck does Elon know about military defense",
-                "Let\u2019s hope they put together a whole fake presentation to keep this fucker in the dark.\u00a0",
-                "You maga shit heads are doing catastrophic damage.  I don't mind if you guys hara-kiri yourselves, but you are taking out the whole country and our allies.",
-                ">Musk's visit to the Pentagon is drawing scrutiny over potential conflicts of interest.\n\n\n>Starlink and SpaceX, two of Musk's companies, have contracts with the defence department. Tesla, his electric vehicle company, has two facilities in Shanghai, China.\n\n\nThank you to the man or woman who leaked info on the visit."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "Tesla owners are trading in their EVs at record levels, Edmunds says",
-            "external_url": "https://www.cnbc.com/2025/03/20/tesla-owners-are-trading-in-their-evs-at-record-levels-edmunds-says.html",
-            "upvotes": 11104,
-            "date": "03/21/2025",
-            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108114358-1741726193117-gettyimages-2203994536-AFP_36ZN8YB.jpeg?v=1742510993&w=1920&h=1080",
-            "top_comments": [
-                "People trading in their Teslas hurts Elon, because even if the brand doesn\u2019t collapse, it\u2019ll be harder to sell new models because the used surplus will be so huge that the prices will collapse fast on new releases, nobody is going to buy a new model on release year when they can just buy the last years model for a portion of the price when the demand sinks that low. \n\nAnd that\u2019s *if* the company manages to persist into the future.",
-                "The people I know who bought Teslas were well off yuppies, liberal and who cared about the environment (mean that in the best way possible). \u00a0Teslas are not cheap and the people who bought them did so instead of something like a BMW or Range Rover. \u00a0I myself was considering one before I went for a BMW. \u00a0\n\nTesla was like the Apple brand of the car world.\u00a0\n\nAnd Elon just antagonized that entire base. \u00a0Those same folks are embarrassed by their purchase now.\u00a0",
-                "I had one of the first 600 Tesla Model Ys. With taxes, etc., it came out to a pretty penny (north of $60k). It was a fun, engaging car and whoo boy that acceleration was bonkers.\n\nThen the reality set in. I kept trying to push through the inconveniences but damned if they didn\u2019t add up quickly. To whit:\n\n1.) A software update meant to improve the positional accuracy of the map bricked - get this - the A/C system. In the summer. It was literally a guessing game whether the A/C would turn on when I got in the car. Persisted for about 3 months before a patch was rolled out.\n\n2.) The vaunted heat pump quit twice, once in winter (as we were moving across the country). Only a threat of litigation got the service center to replace the unit. Replacing it took the service center nearly a week.\n\n3.) A simple windshield replacement was needed after a rock caused a crack that started spreading. I scheduled service (soonest I could get a spot was 4 weeks out) which got delayed an additional whole month because \u201cOur glass guy is sick,\u201d and yet another whole month because \u201cWe don\u2019t have glass.\u201d\n\n4.) At 4 years of ownership, it was found that elements of the sub-frame were developing soon-to-be catastrophic cracks. No, I didn\u2019t rally race it. Yes, I was religious about washing road salt off of it in wintertime. The upper control arm bushing was also \u201cshredded\u201d according to Firestone.\n\nAfter #4 happened, I drove to a dealership that literal same day and traded it in.",
-                "Tesla served its original purpose:  making EV's more commonplace.  It's time for them to either go away or fix themselves.",
-                "I forgot who in particular said it, but some industry person once said that the best indicator of a downturn of a brand is to take a look at the resale numbers. So inventory rise, and how steep the asking price is. You get those two together - and it's not always merely a supply surge issue - there is something in the underlying that there is no recovering from. \n\nGranted, it would be by far in Tesla's own interest to dump Musk, but the problem won't go away until Musk divests entirely. It must be shown that Musk can not benefit from their own successes - especially one that funded Trump directly.",
-                "\"Hi there, Honest Don Trump here for Musk Motors, or MAGA motors as I like to call it.\n\nWe've got a fire sale a-brewin' and prices are falling faster than Titanic tickets after the iceberg.\n\nWe're located right off the mall, in front of that big white house where I'm standing.\n\nDid I tell you the dashboard looks real neat?\"",
-                "Gotta do it now before it becomes illegal",
-                "Poorly ran company without leadership or any quality control standards on their products. Actively dangerous auto driver system linked to dozens of deaths.\u00a0\n\nNo idea why anyone would want to own a Tesla right now. They\u2019re like BlackBerry. They\u2019re product is only popular because it was first, not because it\u2019s the best.\u00a0",
-                "Yep, my wife and I just traded her model 3 for a Lucid sedan. We would have 100% stayed with Tesla if not for Mr Dyed Hair Plugs Laminated Face.  Anything I can do to bring about his destruction, I am here for.  This is the start of the class wars.  Choose a side.",
-                "We traded ours in, it was completely paid off (and was bought before Elon went completely asshole), we originally planned to just keep it because selling it doesn\u2019t do anything to Tesla to get rid of it, since they already had the money.\n\nbut when they charged an outrageous $200 per issue to diagnose and didn\u2019t even fix the issue with the GPS we felt it was time and switched to a different EV."
-            ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 12.0
         },
         {
             "category": "RISING",
             "title": "U.S. officials cracking down on people trying to bring valuable eggs across the border",
             "external_url": "https://www.cbc.ca/news/world/us-border-fentanyl-eggs-1.7486369",
-            "upvotes": 543,
+            "upvotes": 993,
             "date": "03/21/2025",
             "thumbnail": "https://i.cbc.ca/1.7486505.1742325730!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/egg-prices.jpg?im=Resize%3D620",
             "top_comments": [
-                "Begun, the egg wars have.",
                 "I want to show this headline to someone 10 years ago.",
-                "This comes after Trump promised the price of eggs would drop, but instead increased by 60% in his first month in office. \n\nAfter repeatedly threatening to annex Greenland, going so far as to state that Greenland would become American \"one way or another\" during his Congressional address which was met with cheers of pure jubilation, the American government has asked Denmark for eggs. Denmark said no. Then they asked Finland. Finland said no. They have also asked the Netherlands and Sweden too. Now they're asking Lithuania. \n\nAs I type this I'm enjoying scrambled eggs for breakfast, bought 30 eggs for $7 cad.",
+                "Begun, the egg wars have.",
                 "I tried this, but they are practically impossible to hide up your butt. I wasted so many eggs before finally abandoning the effort.",
+                "This comes after Trump promised the price of eggs would drop, but instead increased by 60% in his first month in office. \n\nAfter repeatedly threatening to annex Greenland, going so far as to state that Greenland would become American \"one way or another\" during his Congressional address which was met with cheers of pure jubilation, the American government has asked Denmark for eggs. Denmark said no. Then they asked Finland. Finland said no. They have also asked the Netherlands and Sweden too. Now they're asking Lithuania. \n\nAs I type this I'm enjoying scrambled eggs for breakfast, bought 30 eggs for $7 cad.",
                 "If only there was ways to negociate and reduce the barrier of trade between countries so that people wouldn't have to smuggle legal consumer goods...\n\n  \nThere must not be enough tarrifs in place and not enough threats to our commercial partners...\n\n/s",
                 "Probably the work of the Sonora Egg Cartel and their rarely seen leader Paco \u201cThe Eggman\u201d Villalopez\u2026coo coo ka choo.",
+                "CBP says importing raw/fresh eggs into the United States is prohibited due to concerns about diseases such as bird flu and the Virulent Newcastle disease (VND).",
                 "So he's begging for eggs and also stopping the importation of eggs. He is a perfect storm of stupid and evil.\u00a0",
-                "Remember when we were all panic about oil running out??? The irony",
                 "Yeah, eggs are legal, but they ain\u2019t a hundred percent legal. I mean, you can\u2019t just walk into a restaurant, order an egg and start eating away. You\u2019re only supposed to eat eggs in your home or certain designated places.",
-                "CBP says importing raw/fresh eggs into the United States is prohibited due to concerns about diseases such as bird flu and the Virulent Newcastle disease (VND)."
+                "What, precisely, is the crime of bringing eggs over the border?"
             ],
-            "aggregate_sentiment": 50.0
-        },
-        {
-            "category": "RISING",
-            "title": "Woman accused of drowning dog in Orlando airport bathroom so she could board plane",
-            "external_url": "https://www.nbcmiami.com/news/local/woman-accused-of-drowning-dog-in-orlando-airport-bathroom-so-she-could-board-plane/3572415/",
-            "upvotes": 2159,
-            "date": "03/21/2025",
-            "thumbnail": "https://media.nbcmiami.com/2025/03/032025-alison-lawrence-orlando-international-airport-dog-drowning.png?resize=1200%2C675&quality=85&strip=all",
-            "top_comments": [
-                "A true psychopath. There was zero reason to kill the poor dog. She could have left him in the stall and someone would surely have rescued him. \n\nAlso, she is a stupid psychopath. She left the collar with identifying information on the deceased dog. It\u2019s like she truly didn\u2019t think twice about this or even see anything wrong with it. It\u2019s terrifying, really.",
-                "how could she simultaneously be so willing to bring that dog on her trip as she is to kill it ??\n\nhow can both extremes coexist within minutes ??",
-                "I just dont get why she could not have taken his collar off and then just leave him in the bathroom OR let him run free and pretend it wasnt her dog. she had so many other options than drowning him in the bathroom. I...cant even imagine doing that and I am not even a pet owner. ( I grew up with my mom bringing random animals home, lol, so as an adult I said no pets)",
-                "How can you care for a living thing for NINE YEARS and then callously end its life?? How difficult would it have been to board the poor thing at a doggie day care for a few days and change your flight to leave later in the day or the next day? \n\nIf she could do this to HER own dog, what else is she capable of? I really hope she doesn\u2019t have a job working with the general public or have children/grandchildren of her own \ud83d\ude33",
-                "Some people see pets as life, a partner and companion, probably a friend.\n\nSome people see pets as a fucking accessory.",
-                "Whatever her prison sentence is, it won't be enough.",
-                "Can we have her end like Ramsey?",
-                "I truly wish I didn't read this. I didn't want to end up feeling depressed again.\n\nFucking bitch.",
-                "What in the actual fuck. I hope she gets a maximum sentence for this and the inmates of the prison she goes to learn of what she did and make her life there a living nightmare. That poor dog, nobody deserves to die like that, let alone an innocent animal at the hands of someone that animal probably trusted and looked up to. I sat here just staring at this post for several minutes just trying to process how anyone could be so heartless",
-                "but why drown it? leaving it behind would have been so much simpler"
-            ],
-            "aggregate_sentiment": 0.0
+            "aggregate_sentiment": 38.0
         }
     ],
-    "last_updated": "03/21/2025 20:09:15 UTC"
+    "last_updated": "03/22/2025 00:39:20 UTC"
 }
