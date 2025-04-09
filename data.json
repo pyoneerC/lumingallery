@@ -2,206 +2,327 @@
     "posts": [
         {
             "category": "HOT",
+            "title": "China orders its banks to reduce US dollar purchases.",
+            "external_url": "https://www.reuters.com/world/china/chinas-central-bank-asks-state-lenders-reduce-dollar-purchases-sources-say-2025-04-09/",
+            "upvotes": 13040,
+            "date": "04/09/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "There goes the infinite money hack the federal budget depends on. How long before the entire government collapses due to a total lack of funds?",
+                "Things are looking good, MAGA. It looks like you're going to get what you wanted. The rest of the world will be just fine without you.",
+                "So I have a question what happens when all that US debt that China has bought up over the last 20 years or so what happens if they want to cash it in.",
+                "And 10yr treasure bonds above 4.5%.\n\nChina said fuck this tit for tat tariff bullshit.  They are using all their tools.",
+                "All this because we won't just tax billionaires",
+                "Turns out you don\u2019t have the cards, Donald.",
+                "Wow, this is going much quicker than I expected. I thought we'd have to go through the recession before we had to print money. Looks like this is a speed run.",
+                "When the bond and dollar fail, what happens?",
+                "Economic pressure is not going to work against China. They felt the impacts of the trade war that Trump started in 2018 and continued under Biden and started to quickly de-couple themselves from the dollar and critical imports. The increased tariffs will hurt everyone globally, but the ones that'll feel the impacts most both short-term and long-term are Americans.",
+                "This shit just got real.  If muthafuckas start dumping the dollar, we are fucked."
+            ],
+            "aggregate_sentiment": 38.0
+        },
+        {
+            "category": "HOT",
             "title": "Trump tariffs spark US government debt sell-off",
             "external_url": "https://www.bbc.com/news/articles/c5yrr0e7499o",
-            "upvotes": 6103,
+            "upvotes": 19355,
             "date": "04/09/2025",
             "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/4e4c/live/1d4d0e70-1533-11f0-bc17-dfa4f8dfee61.jpg",
             "top_comments": [
                 "Trump said if I voted for Kamala the economy would be in ruin. And I gotta say, he clocked it right. I voted for her and the economy is in shambles.",
-                "Donald Trump has broken his own record as the worst president of All time.\n\nHe has betrayed the American people including his voters who were hoping that the prices would go down.",
                 "Don\u2019t forget - Trump is only able to do this because Republicans refuse to rein him in. This is a Republican problem.\u00a0",
+                "Donald Trump has broken his own record as the worst president of All time.\n\nHe has betrayed the American people including his voters who were hoping that the prices would go down.",
+                "Fucking Christ if US bonds go off a cliff, what else is left. That shit is supposed to be a gold standard in investment.",
                 "*Some analysts suggested that America's central bank - the US Federal Reserve - might be forced to step in if turbulence continues, in a move reminiscent of the Bank of England's emergency action in 2022 following Liz Truss's mini-Budget.*\n\n*\u201dWe see no other option for the Fed but to step in with emergency purchases of US Treasuries to stabilise the bond market,\" said George Saravelos, global head of FX research at Deutsche Bank.*\n\nLoL, all the pro-Trump \u201csound money\u201d folks railed against exactly this during the quantitative easing of 2008+. Now they\u2019ll turn around on a dime and be all for it. Anything to defend the Trump regime.\n\nQuacks, every last one of them.",
                 "China has a LOT or Treasuries to offload - no interest rate cuts",
-                "Fucking Christ if US bonds go off a cliff, what else is left. That shit is supposed to be a gold standard in investment.",
+                "The GOP budget resolution adds 5 trillion to the debt ceiling. People are understanding USA has no intention on paying off its debt. That's 5 trillion uncollected taxes from the rich. To put it in easier to understand numbers: 5,000,000,000,000/150,000,000 taxpayers = about $32,000 debt increase per person who filed taxes last year. The tariffs are a smokescreen and we are getting robbed.",
+                "For the MAGA people, Trump could burn your house down and shit in your mouth and you'd thank him for the warmth and what he ate beforehand.",
                 "MAGA loves him even though they literally will be go broke and in dept :3",
-                "Why is the DOW and Nasdaq still green? The investors all daft?",
-                "Okay I can\u2019t have my 401k, Roth AND my bond ladder fucked. Can they just pick one? \ud83d\ude13",
-                "Oh great. More winning."
+                "I am not informed enough to understand how one person has that much power in the United States.\n\nCongress is currently talking about limiting the President's power over tariffs and my reaction is... why didn't they have power over this to begin with?\n\nHow can we not cancel $10k in student loans without congressional approval, but the President can trigger a great depression and global recession without congressional approval?"
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": null
+        },
+        {
+            "category": "HOT",
+            "title": "Trump announces 90 day tariff pause",
+            "external_url": "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html",
+            "upvotes": 5449,
+            "date": "04/09/2025",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108129074-1744205767394-gettyimages-2208184612-_s019698_miuhqrg1.jpeg?v=1744205822&w=1920&h=1080",
+            "top_comments": [
+                "Can you imagine working at customs this week",
+                "This market manipulation is so fucking obvious its insane. Insider trading to levels never before seen.",
+                "This is open corruption. They release the news on tariffs to short the market, then pause them so they can sell them.\n\nrinse and repeat. They aren't even trying to hide it now.\n\nffs",
+                "Trump timed his comment so his rich friends get richer on the market.",
+                "These tariffs are supposed to bring good manufacturing jobs back to the USA. Why is he putting a pause on that? Doesn't he care about our jobs? /s",
+                "If we ever get this country back, one of the first things we need to do is strip the presdiency of having this much power.",
+                "It's just market manipulation. It would be amazing to see who bought a ton of stock right before he announced this \"pause\".",
+                "What a god damn shitshow",
+                "What happened to \"I know what the hell I'm doing\" and \"everyone is kissing my ass\"?",
+                "This whole thing feels planned."
+            ],
+            "aggregate_sentiment": null
+        },
+        {
+            "category": "HOT",
+            "title": "US to announce new tariffs on pharmaceutical imports",
+            "external_url": "https://www.bbc.com/news/articles/cedyylj1v32o",
+            "upvotes": 4765,
+            "date": "04/09/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/5c43/live/3c6964d0-1537-11f0-bc17-dfa4f8dfee61.jpg",
+            "top_comments": [
+                ">India supplies nearly half of all US generics, or cheaper versions of popular drugs, saving the country billions in healthcare costs.\n\nThe news just keeps getting better, doesn't it?",
+                "He REALLY is trying to tank the market, isn't he",
+                "All I want to do is live, work, and enjoy a little bit of time I have on this planet. But I can barely afford the meds I need to live now and its gonna go up? Fuck this dude. All I did was contract an autoimmune disease as a fucking child and now I'm forced to be in debt for the rest of my life? Fuck this guy, fuck his voters, fuck his followers. You are the evil ones.\u00a0",
+                "The party of \"keep them sick and let them die\".",
+                "More expensive healthcare for people that can't afford it sounds like good policy. They just need to wait another 7 years until factories open up in the US so they can get cheap drugs again\u00a0",
+                "Guess we need to get a much bigger fan again",
+                "realize there are posting rules, but true headlines would read \u2018Republicans to announce \u2026\u2019  They need to own this and we need to remind them every chance we have",
+                "A lot of Americans about to lose their feet.",
+                "Every time the stocks start ticking up he announces another move to try to get it back in the red. The trump administration is intentionally tanking the economy and they should all be removed from office for this treason",
+                "I cant wrap my head around it. They are cutting the medicaid/medicare budget while simultaneously raising the cost of drugs. Which in turn will cost the programs more money. It just doesn't make sense."
+            ],
+            "aggregate_sentiment": 90.0
         },
         {
             "category": "HOT",
             "title": "European Union approves first set of retaliatory tariffs on U.S. imports",
             "external_url": "https://www.cnbc.com/2025/04/09/european-union-approves-first-set-of-retaliatory-tariffs-on-us-imports.html",
-            "upvotes": 2598,
+            "upvotes": 4304,
             "date": "04/09/2025",
             "thumbnail": "https://image.cnbcfm.com/api/v1/image/108126463-1743765627495-gettyimages-2198947496-_ha_0099_eetz0vnk.jpeg?v=1743765677&w=1920&h=1080",
             "top_comments": [
                 "Important to note that these are *not* in response to Trump's blanket tariffs on the whole world from last week; that comes later. These are just in response to his steel and aluminum tariffs from last month.",
                 "Good. So who does he claim is calling and kissing his fat, diapered ass? Lies again you say?",
                 "> The 27-nation bloc had\u00a0warned\u00a0it would act to protect European business and consumers after U.S. President Donald Trump imposed 25% duties on the metals.\n\u201cThe EU considers US tariffs unjustified and damaging, causing economic harm to both sides, as well\u00a0as the global economy. The EU has stated its clear preference to find negotiated outcomes with the\u00a0US, which would be balanced and mutually beneficial,\u201d the European Commission said.\n\n I'm too old to drink and dance through another great recession. Our government is going to wreck our economy, and some people will still clap.",
-                "Didn\u2019t Trump say they were calling him and kissing his ass? Lmao.\u00a0",
                 "Time for EU to enact their anti coercion legislation. \u00a0It was created for this .",
+                "Didn\u2019t Trump say they were calling him and kissing his ass? Lmao.\u00a0",
+                "This is what tariffs should look like. Reasonably thought out, weighed, and measured.\n\nOr you can just wake up, shit your Depends, and decide that you're going to do a 1000% markup on Belgian chocolate or whatever the fuck we're doing these days...",
                 "ChEsS NoT cHeCkErs. Fuck republicans.",
-                "This is what tariffs should look like. Reasonably thought out, weighed, and measured. \n\nOr you can just wake up, shit your Depends and decide that you're going to do a 1000% markup on Belgian chocolate or whatever the fuck we're doing these days...",
-                "You reap what you sow, America. \n\n\nThis is just the first set. More will come if the EU decides on that.",
                 "The Trump Taxes are already costing Americans $2 billion per day",
+                "But, but, but, the Trump administration swore that all these other countries, besides China, were cowering in fear and fighting to see who would be first in line to negotiate away their existing tarrifa and trade imbalances... /s",
                 "It\u2019s good to see how many of these are targeted toward Trump\u2019s key demographics. Not that other industries will get off untouched, but the creators of this monster deserve to feel the pinch hardest:"
             ],
-            "aggregate_sentiment": 8.0
+            "aggregate_sentiment": 67.0
         },
         {
             "category": "HOT",
-            "title": "US to announce new tariffs on pharmaceutical imports",
-            "external_url": "https://www.bbc.com/news/articles/cedyylj1v32o",
-            "upvotes": 938,
+            "title": "Dow surges 2,000 points, Nasdaq jumps 8% after Trump signals a 90-day pause on some tariffs",
+            "external_url": "https://www.cnbc.com/2025/04/08/stock-market-today-live-updates-.html",
+            "upvotes": 1247,
             "date": "04/09/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/5c43/live/3c6964d0-1537-11f0-bc17-dfa4f8dfee61.jpg",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108129399-1744224488918-108129399-17442233882025-04-09t182555z_1576829729_rc2iuda41xcc_rtrmadp_0_usa-stocks.jpg?v=1744228854&w=1920&h=1080",
             "top_comments": [
-                ">India supplies nearly half of all US generics, or cheaper versions of popular drugs, saving the country billions in healthcare costs.\n\nThe news just keeps getting better, doesn't it?",
-                "He REALLY is trying to tank the market, isn't he",
-                "More expensive healthcare for people that can't afford it sounds like good policy. They just need to wait another 7 years until factories open up in the US so they can get cheap drugs again\u00a0",
-                "A lot of Americans about to lose their feet.",
-                "realize there are posting rules, but true headlines would read \u2018Republicans to announce \u2026\u2019  They need to own this and we need to remind them every chance we have",
-                "Guess we need to get a much bigger fan again",
-                "Watch my in-laws now finally lose it. They are in their early 80s and their medications are keeping them alive they are going to absolutely be pissed at this.",
-                "This is like watching a badly scripted movie, but you watch till the end just to see how much worse it can get",
-                "The party of \"keep them sick and let them die\".",
-                "All I want to do is live, work, and enjoy a little bit of time I have on this planet. But I can barely afford the meds I need to live now and its gonna go up? Fuck this dude. All I did was contract an autoimmune disease as a fucking child and now I'm forced to be in debt for the rest of my life? Fuck this guy, fuck his voters, fuck his followers. You are the evil ones.\u00a0"
+                "This shit is so manipulated\n\n\nThe broligarchs are making hundreds of billions with insider trading here\n\n\nShort the market before announcing new tariffs, and buy before announcing negotiations & pauses",
+                "Now every market acts like crypto",
+                "He's manipulating markets and telling his private signal chat when to buy/sell",
+                "So is it legal to manipulate stocks now ???",
+                "I wonder how many of his sycophants bought this morning, knowing this was coming.",
+                "It is still an increase on tariffs, just not as bad for 90 days. Of course, who knows what he will think tomorrow or the day after that.",
+                "Let\u2019s not pretend he did anything beneficial except recoup some losses he created",
+                "He seems to make things up as he goes .",
+                "So what was accomplished here? Are factories flooding back into the United States?",
+                "A whole lot of insiders got much much richer off of this market manipulation. \n\nI guess the entire plan is to keep doing things like this until mid-terms. President, Congressmen and Bros get richer. They lose their seats to Democrats and then Democrats get blamed for the failing economy. And that leads right back to electing another Republican to \u201cfix\u201d something that they broke."
             ],
-            "aggregate_sentiment": 38.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "HOT",
             "title": "Japan, Canada agree to cooperate on market stability",
             "external_url": "https://www.reuters.com/markets/japan-canada-agree-cooperate-market-stability-2025-04-09/",
-            "upvotes": 1023,
+            "upvotes": 2276,
             "date": "04/09/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "Shhhh Maga ... the grownups are talking. EU please join the conversation.",
                 "Trump is going to do wonders for world peace. Everyone will unite in hating us.\n\nI hear China, Japan, and South Korea are having some of the most productive talks they\u2019ve had in decades.",
+                "Shhhh Maga ... the grownups are talking. EU please join the conversation.",
                 "Honestly well America continues to shoot itself in the dick, I think there is a pretty good opportunity for Canada to take its place as the leader here. \n\nWe should be calling every country and trying to make a deal with them. \n\nWe just need to make sure we have sensible leadership to guide our way through it all.",
                 "Canada/EU/UK/Australia/S.Korea/Japan alliance sounds good to me",
                 "Shit imagine the rest of the world comes together and a new era of global cooperation (without America of course) leads humanity to a new golden age.",
                 "How do we not get that if we snub the whole world the whole world will cooperate to snub us?",
+                "I wonder what it's like to live in a country with adult leaders \n\nOr heck, just leaders period",
                 "Does that mean that we get Switch 2's after all?",
-                "Well they make good guitars, cars and video games",
                 "Why the hell is the USA doing a heel-turn? Can someone please call the script writer and let them know this season sucks.\n\nJohn Cena is doing it better. Can we get the wrestling writers appointments to the cabinet.",
-                "It\u2019s funny thinking back on past American disaster movies where America unites the world to face a global crisis, take Independence Day for example.\n\n\nWe got the unity part right, except, we\u2019re the bad guys. And they\u2019re uniting against us."
-            ],
-            "aggregate_sentiment": 60.0
-        },
-        {
-            "category": "HOT",
-            "title": "Microsoft 'not moving forward' with $1B Licking County data center plans right now",
-            "external_url": "https://abc6onyourside.com/news/local/microsoft-backs-off-1b-licking-county-data-center-plans",
-            "upvotes": 5832,
-            "date": "04/09/2025",
-            "thumbnail": "https://abc6onyourside.com/resources/media2/16x9/1024/986/0x68/90/9d937b81-ae3b-42c7-bc66-acfc0aacf3a7-AP25028129857071.jpg",
-            "top_comments": [
-                "All the Trump supporters in Ohio trying to find a reason why this is good now.",
-                "More jobs lost.  More investment drying up.\n\nThanks Donald.  I see your tariffs are really, really working.\n\nBut then again Ohio, you voted for this, huh.",
-                "This is all so predictable.\n\nEven if the aim of these tariffs was to bring back more factories to the US, the way this is being done could never achieve that.\n\nNobody in their right mind is going to spend billions in capex right now to bring their supply chain back on shore only to have Trump himself or the next administration change its mind. It takes years to rework supply chains and build infrastructure and you need the government helping with the investment in the form of subsidies, tax breaks, training initiatives, R&D and on and on with an actual plan over 5-10 years.\n\nThis is just one moron engaging in a pissing contest with the entire world because he thinks he is a genius.",
-                "Smart....\n\n\"We are taking the appropriate steps to ensure the land at two of our   \nsites can be used for farming and are following through with our   \ndevelopment agreements to fund roadway and utility upgrades. We will   \ncontinue to invest in and collaborate with local organizations to   \nsupport digital skills development, restoration efforts, and to   \nstrengthen the communities in Licking County for future generations.\u201d\n\nThis is great selling point if they decide to move forward somewhere else in the future.",
-                "Smart move. Conserve cash. Wait for the craziness to pass",
-                "Trump Tax (tariffs) causing the Trump Recession.",
-                "The global economy will come to a complete stop. Corporations are going to sit on cash while they wait for the tariffs to end.\n\nWhy buy something at 200% of the price if it's temporary?",
-                "Microsoft has been pushing AI at the marketing level but they're actually aware of the lack of uptake, massive cost, and low return beyond its utility as a marketing term. I think it was Microsoft who put out the paper about Gen ai making employees dumber.",
-                "Keeping it in limbo. \n\n\u201cA spokesperson for Microsoft told ABC6 that the company will continue owning the land in Licking County but could not confirm any timeline of if or when any future projects on the properties might move forward.\u201c",
-                "First intel pulls out and now Microsoft. My city is getting screwed over"
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "HOT",
-            "title": "Canada hits back at US car tariffs with reciprocal measures",
-            "external_url": "https://www.bbc.com/news/articles/cedyyll7467o",
-            "upvotes": 756,
-            "date": "04/09/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/c43a/live/1b76a720-153b-11f0-a421-69fb502f5991.jpg",
-            "top_comments": [
-                "Trump and Putin's legacies are secure. They are both the biggest, most worthless pieces of shit in the world.",
-                "I don't think Canada, EU, Japan and China are talking behind the scenes AT ALL.\n\nThey are all just dumb peasants and will fold any day now. \n\n/s",
-                "Good. Love to see it. Fuck maga America. \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
-                "The rest of the world should refuse to buy or sell anything to the US while this guy's in office.",
-                "If the whole world gangs up on Trump we could absolutely destroy the US economy. \u00a0 Work together people to save us from agent orange\u00a0"
-            ],
-            "aggregate_sentiment": 28.0
-        },
-        {
-            "category": "HOT",
-            "title": "Mississippi libraries ordered to delete academic research in response to state laws",
-            "external_url": "https://mississippitoday.org/2025/04/08/mississippi-libraries-ordered-to-delete-academic-research-in-response-to-state-laws/",
-            "upvotes": 2562,
-            "date": "04/09/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Doing everything they possibly can to suppress us, don't let them win",
-                "No wonder why Mississippi is rated as 50th out of all 50 US states on educational metrics. Brain-dead right-wing nut jobs keeping themselves purposely ignorant. Talk about self-sabotage.",
-                "In case anyone is confused, they\u2019re just removing access to academic research. Thankfully, Mississippi isn\u2019t \u201cdeleting\u201d their great wealth of knowledge. *cough*",
-                "just push it to a sever in another jurisdiction",
-                "Delete controversial materials, control the narrative and/or create your own alternate information, IS right out of the dictator's play book..\n\n\n\nOnce again America is becoming the very thing we fought against, went to wars over and died for to prevent. Those deaths are meaning less and less every day.\n\n\nedit word\n\n.",
-                "This sounds like a bunch of nazi crap. They can\u2019t even cite the laws they are using to \u2018discern\u2019 which books to burn.. I mean research to delete. I\u2019m not saying they ARE Nazis, But I do think the Nazis would be proud of them right about now.",
-                "This is literally one of the first steps Nazi Germany took. I am not exaggerating.",
-                "As the great Phil Ochs once sang:\n\n\"Here's to the land\nYou've torn out the heart of,\nMississippi find yourself\u00a0\nanother country to be part of\"",
-                "Mississippi is an easy target. They start with an audience that won't fuss too much and slowly move West and North. Deleting academic research in response to state laws will lead to suppression of knowledge, scientific progress, and undermining the principles of academic freedom and open inquiry.\u00a0This is the start. What they want is no interference.  Libraries, post offices, and Legion halls are the common places for voting and organizing in small towns and rural communities. Especially in retirement counties where transportation and mobility are challenged. That's why eliminating mail-in ballots is so dangerous. It silences a whole lotta people. We must not be complacent. We can't just say, \"Oh, look what they did in...!\" The outcome will result in further untold and unfathomable disasters.",
-                "This is why Mississippi had typos and spelling errors in their state tax overhaul bill"
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "HOT",
-            "title": "'Time for you to abandon the United States': Asylum seekers who used app being told to leave",
-            "external_url": "https://www.cbc.ca/news/world/us-migration-app-removals-1.7504556",
-            "upvotes": 16427,
-            "date": "04/08/2025",
-            "thumbnail": "https://i.cbc.ca/1.7504565.1744118021!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trump-immigration.jpg?im=Resize%3D620",
-            "top_comments": [
-                "I was told by someone that I was making a \u201cbig deal\u201d over the Mass Deportations Now signs at his rallies.",
-                ">Time for you to abandon the United States\n\nGood advice for everyone, honestly.",
-                "The asylum seeker issue is proof that Republicans do not actually support legal immigration. They think that being an \"illegal immigrant\" is an innate quality, closely tied to your ethnicity and the color of your skin, not simply the lack of immigration paperwork.\n\nSeeking asylum in the US is legal. You may disagree with the law, but these people were following the law. They are not illegal immigrants. They are legal immigrants following a process that you don't like. The same was true of the Haitian immigrants that JD Vance made up those disgusting lies about. It has always been racism and xenophobia.",
-                "Calling it now, the rhetoric is gonna switch from \u201cIf you\u2019re a citizen who\u2019s **here lawfully** you have nothing to fear\u201d to \u201cif you\u2019re a **lawful citizen** you have nothing to fear\u201d so they could deport anyone who engages in \u2018terrorist activities\u2019 like protesting against Israel. The change\u2019ll happen so fast it\u2019ll make your head spin.",
-                "Note that everyone using this app was in the country *legally* - the language used by the administration repeatedly attempts to imply otherwise, but the entire point was to create a legal path for asylum seekers.",
-                "... US abandons refugees. Abdicates global leadership. Shoots self in face with tariff cannon. Genius.\u00a0",
-                "\"Time for you to abandon the United States\" -- Now, there's a piece of advice I can get behind. I'd only apply it to literally everyone in the world rather than only people with a skin color that isn't white.",
-                "900,000 is an astounding number of people being asked to leave the country.",
-                "1883: \"Give me your tired, your poor,\nYour huddled masses yearning to breathe free.\"\n\n2025: Screw you.",
-                "This is exactly what causes more \"illegal immigration\" - the US creates a pathway, people use that pathway, then someone uses that collected data to punish the folks who were trying to do right. \n\nNext time the US comes and says, \"here's how to do it legally,\" why would anyone listen?"
+                "Well they make good guitars, cars and video games"
             ],
             "aggregate_sentiment": 22.0
         },
         {
             "category": "HOT",
-            "title": "UnitedHealth shareholders withdraw effort to force transparency on coverage denials",
-            "external_url": "https://www.healthcaredive.com/news/unitedhealth-shareholders-withdraw-proposal-healthcare-delays-denials/744582/",
-            "upvotes": 328,
+            "title": "Trump sued by Democrat he removed from US civil rights agency",
+            "external_url": "https://www.reuters.com/legal/trump-sued-by-democrat-he-removed-us-civil-rights-agency-2025-04-09/",
+            "upvotes": 1552,
             "date": "04/09/2025",
-            "thumbnail": "https://imgproxy.divecdn.com/gp7-9yDSiCZQoGHBzNxfophsasMnSZtZnJ8p0ayp8-U/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bml0ZWRfaGVhbHRoX2dyb3VwLmpwZWc=.webp",
+            "thumbnail": "No social preview available",
             "top_comments": [
-                "I guess their fifteen minutes of fear have elapsed and it's back to fucking over people who pay to be protected.",
-                "Guess I'll withdraw transparency next time I see someone gunning down a UnitedHealth CEO",
-                "Medicare for all. Then universal healthcare. \n\nEveryone needs to understand how many layers of FOR PROFIT corporations there are in the US healthcare system. And that while Medicare spend 4% on administration, many insurance companies spend up to 40%. \n\nThe best part is our overall healthcare will improve, because ours is lousy compared to the top 20 countries with universal healthcare.",
-                "yep. no surprise here, as soon as the attention drops it's right back to screwing you over. Coincidentally I just had a physical which is supposed to be paid for, but for some reason the new status quo is that if you talk to your NP or physician about something out of the ordinary ( even if the damn Doc brings it  up themselves), or what could be expected, you are on the hook for a new charge that insurance won't pay for. Insanity.",
-                "\"People who want to make money choose money over doing it right.\"",
-                "it's more profitable to deny care or delay it until the patient dies or gets frustrated and gives up.",
-                "Someone PLEASE post their exec page on twitter. XD",
-                "Guess it's time to turn the Luig-signal on",
-                "Tell your banks that if you have any of their stock in your portfolio to sell it all",
-                "Gifts from trump are repaid 2-fold.  UHC get ready."
+                "not like trump has money to pay out a suit anyways\u00a0",
+                "Another cut and dried case against him that will like go absolutely nowhere any time soon."
             ],
-            "aggregate_sentiment": 8.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "HOT",
-            "title": "Man pleads guilty to trying to kill Brett Kavanaugh at judge\u2019s home",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/08/brett-kavanaugh-man-pleads-guilty",
-            "upvotes": 2753,
+            "title": "Kash Patel removed as acting ATF director, replaced by Army Secretary",
+            "external_url": "https://www.reuters.com/world/us/kash-patel-removed-acting-atf-director-replaced-by-army-secretary-sources-say-2025-04-09/",
+            "upvotes": 583,
             "date": "04/09/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/344a253cdd4d7ebd9a98e0f929ed33a140d341af/899_699_4579_2750/master/4579.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d24942203e3c3058a05f6ff5f0fb046a",
+            "thumbnail": "No social preview available",
             "top_comments": [
-                "*He later told investigators that he was thinking about how to give his life \u201ca purpose\u201d when he decided to kill Kavanaugh.*\n\nThe events leading up to his attempt seem like those of a lower budget crime movie, except that his thoughts or intentions would never make it onto the screen... just his direct actions... he flies across the country, lands at Dulles, gets a cab, and tells the driver to go to Kavanaugh's home, calls his sister from the back seat to say he loves her, and then thinks about a suicidal death....",
-                "I remember this. He got all the way to Kavanaugh\u2018s house and then called his sister to confess. She called the cops. Why go to all that trouble just to confess at the last moment?",
-                "\"Trying\"\n\nI mean, he didn't try. He planned but then changed his mind and turned himself in when he got close. But he never tried, at least not how I think other native English speakers use that word to mean.",
-                "This happened in 2022",
-                "The Supreme Court just said they were willing to consider the idea that due process is optional. I know this happened years ago, but my opinion about it is different in light of the fact that Supreme Court didn't IMMEDIATELY decide 9-0 that gulags are bad.",
-                "[removed]",
-                "I\u2019m not here to judge",
-                "I hope he gets as lenient a sentence as possible, although I'd bet on them throwing the book at him.",
-                "He was just a tourist",
-                "Well that\u2019s the problem you get when you place people above the law. No judge or politician should get a lifelong appointment, they need to be subject to the same laws as everyone else. Bret belongs in jail, not in the grave."
+                "Wait. So, is the Army Secretary holding both roles? So ATF and a branch of the military report to the same person?\n\n\nI'm not sure that makes me feel all warm and fuzzy...",
+                "Guys, this administration is a cornucopia of shit.\u00a0",
+                "Patel is not fit to run anything.",
+                "Oh naur, again. Anyway....\n\nCan't wait to see if this man was corrupt. It's usually why these firings occur.\n\nThat or we get the news he wouldn't bend the knee.",
+                "I completely forgot he was pretending to do two jobs he was grossly unqualified for.",
+                "If he could only be removed as director of anything",
+                "Another token spent. When is Vance gonna remarry?",
+                "I\u2019m beginning to think there\u2019s a bit of chaos going on within this current administration\u2026",
+                "How many Scaramuccis did he last?",
+                "Second amendment people on the right would be very upset right now if they could read."
+            ],
+            "aggregate_sentiment": 28.0
+        },
+        {
+            "category": "HOT",
+            "title": "Canada hits back at US car tariffs with reciprocal measures",
+            "external_url": "https://www.bbc.com/news/articles/cedyyll7467o",
+            "upvotes": 1249,
+            "date": "04/09/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/c43a/live/1b76a720-153b-11f0-a421-69fb502f5991.jpg",
+            "top_comments": [
+                "Trump and Putin's legacies are secure. They are both the biggest, most worthless pieces of shit in the world.",
+                "Good. Love to see it. Fuck maga America. \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+                "The rest of the world should refuse to buy or sell anything to the US while this guy's in office.",
+                "I don't think Canada, EU, Japan and China are talking behind the scenes AT ALL.\n\nThey are all just dumb peasants and will fold any day now. \n\n/s",
+                "Canada called Washington's bluff on car tariffs. They should've done this ages ago.",
+                "If the whole world gangs up on Trump we could absolutely destroy the US economy. \u00a0 Work together people to save us from agent orange\u00a0",
+                "Canada doesn\u2019t have the cards",
+                "Canada shoots itself in the face again."
+            ],
+            "aggregate_sentiment": 0.0
+        },
+        {
+            "category": "NEW",
+            "title": "Kash Patel removed as acting ATF director, replaced by Army Secretary",
+            "external_url": "https://www.reuters.com/world/us/kash-patel-removed-acting-atf-director-replaced-by-army-secretary-sources-say-2025-04-09/",
+            "upvotes": 580,
+            "date": "04/09/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Wait. So, is the Army Secretary holding both roles? So ATF and a branch of the military report to the same person?\n\n\nI'm not sure that makes me feel all warm and fuzzy...",
+                "Guys, this administration is a cornucopia of shit.\u00a0",
+                "Patel is not fit to run anything.",
+                "Oh naur, again. Anyway....\n\nCan't wait to see if this man was corrupt. It's usually why these firings occur.\n\nThat or we get the news he wouldn't bend the knee.",
+                "I completely forgot he was pretending to do two jobs he was grossly unqualified for.",
+                "If he could only be removed as director of anything",
+                "Another token spent. When is Vance gonna remarry?",
+                "I\u2019m beginning to think there\u2019s a bit of chaos going on within this current administration\u2026",
+                "How many Scaramuccis did he last?",
+                "Second amendment people on the right would be very upset right now if they could read."
+            ],
+            "aggregate_sentiment": 38.0
+        },
+        {
+            "category": "NEW",
+            "title": "Dow surges 2,000 points, Nasdaq jumps 8% after Trump signals a 90-day pause on some tariffs",
+            "external_url": "https://www.cnbc.com/2025/04/08/stock-market-today-live-updates-.html",
+            "upvotes": 1251,
+            "date": "04/09/2025",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108129399-1744224488918-108129399-17442233882025-04-09t182555z_1576829729_rc2iuda41xcc_rtrmadp_0_usa-stocks.jpg?v=1744228854&w=1920&h=1080",
+            "top_comments": [
+                "This shit is so manipulated\n\n\nThe broligarchs are making hundreds of billions with insider trading here\n\n\nShort the market before announcing new tariffs, and buy before announcing negotiations & pauses",
+                "Now every market acts like crypto",
+                "He's manipulating markets and telling his private signal chat when to buy/sell",
+                "So is it legal to manipulate stocks now ???",
+                "I wonder how many of his sycophants bought this morning, knowing this was coming.",
+                "It is still an increase on tariffs, just not as bad for 90 days. Of course, who knows what he will think tomorrow or the day after that.",
+                "Let\u2019s not pretend he did anything beneficial except recoup some losses he created",
+                "He seems to make things up as he goes .",
+                "So what was accomplished here? Are factories flooding back into the United States?",
+                "A whole lot of insiders got much much richer off of this market manipulation. \n\nI guess the entire plan is to keep doing things like this until mid-terms. President, Congressmen and Bros get richer. They lose their seats to Democrats and then Democrats get blamed for the failing economy. And that leads right back to electing another Republican to \u201cfix\u201d something that they broke."
+            ],
+            "aggregate_sentiment": 28.0
+        },
+        {
+            "category": "NEW",
+            "title": "Trump announces 90 day tariff pause",
+            "external_url": "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html",
+            "upvotes": 5450,
+            "date": "04/09/2025",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108129074-1744205767394-gettyimages-2208184612-_s019698_miuhqrg1.jpeg?v=1744205822&w=1920&h=1080",
+            "top_comments": [
+                "Can you imagine working at customs this week",
+                "This market manipulation is so fucking obvious its insane. Insider trading to levels never before seen.",
+                "This is open corruption. They release the news on tariffs to short the market, then pause them so they can sell them.\n\nrinse and repeat. They aren't even trying to hide it now.\n\nffs",
+                "Trump timed his comment so his rich friends get richer on the market.",
+                "These tariffs are supposed to bring good manufacturing jobs back to the USA. Why is he putting a pause on that? Doesn't he care about our jobs? /s",
+                "If we ever get this country back, one of the first things we need to do is strip the presdiency of having this much power.",
+                "It's just market manipulation. It would be amazing to see who bought a ton of stock right before he announced this \"pause\".",
+                "What a god damn shitshow",
+                "What happened to \"I know what the hell I'm doing\" and \"everyone is kissing my ass\"?",
+                "This whole thing feels planned."
+            ],
+            "aggregate_sentiment": 5.0
+        },
+        {
+            "category": "NEW",
+            "title": "Prisoner in Arizona serving 16 consecutive life sentences is accused of killing three inmates",
+            "external_url": "https://www.nbcnews.com/news/us-news/prisoner-arizona-serving-16-consecutive-life-sentences-accused-killing-rcna200304",
+            "upvotes": 478,
+            "date": "04/09/2025",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250408-tucson-arizona-state-prison-complex-google-maps-ac-834p-c86e37.jpg",
+            "top_comments": [
+                "What's he got to lose at this point?",
+                "\"What are you gonna do, imprison me?\"\n\n-man imprisoned",
+                "A guy who's never getting out: *that's* your first-round draft pick for jail-house enforcer.",
+                "So, 19 consecutive life sentences?",
+                "The question i have is why was he put in the same pod as those chomos??  Staff HAD to know how that would pan out.",
+                "What's the difference between 16 and 19 life sentences from a practical standpoint?",
+                "We should probably keep him away from all those people...",
+                ">'Preliminary reports suggest that inmate Wassenaar acted with intent to harm the three men'\n\nShit, this guy's history is fucked up. Serves 16 life sentences and still whacks three more inmates? That's some dark shit right there... And we're paying for him to live like this?",
+                "If only there had been signs he was dangerous..",
+                "19 consecutive life sentences!"
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
+            "title": "Oil prices plummet on China's retaliation against US tariffs",
+            "external_url": "https://www.reuters.com/business/energy/oil-slides-nearly-4-us-kicks-off-104-tariffs-china-2025-04-09/",
+            "upvotes": 516,
+            "date": "04/09/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Can\u2019t wait for gas prices to plummet, just need to go buy a new work shirt for 180 dollars",
+                "Well, he *did* promise to bring gas prices down. His base will see this is proof-positive that he's a genius.",
+                "Oil glut is worse for Trump personally than stock market crash.\n\nWas concerning to see rupture of Keystone pipeline yesterday, but if crude keeps dragging $60/barrel, frankly I'll expect more 'random' outages down the road, that 'happen to' goose-up oil prices...\n\nIt's a dirty, dirty business.",
+                "And when will we see this price reflected at the pumps?\n\nI see. Adding Hell to my weather app.",
+                "Gas prices won\u2019t go down, the companies will just increase their profits.",
+                "On the plus side, if you can't sell your oil you're not going to open up new wells. This is a small win for the environment anyway\u2026",
+                "Can\u2019t wait to pay a few dollars fewer on gas in my vehicle that now costs tens of thousands more due to tariffs.",
+                "Rising consumer costs will nullify  any benefit ,",
+                "Oil price plummeting is great, putler must be eating his office's rug.",
+                "Let's find out which countries decide to play this on-again-off-again lying tariff game to bully them into falling in line."
+            ],
+            "aggregate_sentiment": 28.0
+        },
+        {
+            "category": "NEW",
+            "title": "China orders its banks to reduce US dollar purchases.",
+            "external_url": "https://www.reuters.com/world/china/chinas-central-bank-asks-state-lenders-reduce-dollar-purchases-sources-say-2025-04-09/",
+            "upvotes": 13062,
+            "date": "04/09/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "There goes the infinite money hack the federal budget depends on. How long before the entire government collapses due to a total lack of funds?",
+                "Things are looking good, MAGA. It looks like you're going to get what you wanted. The rest of the world will be just fine without you.",
+                "So I have a question what happens when all that US debt that China has bought up over the last 20 years or so what happens if they want to cash it in.",
+                "And 10yr treasure bonds above 4.5%.\n\nChina said fuck this tit for tat tariff bullshit.  They are using all their tools.",
+                "All this because we won't just tax billionaires",
+                "Turns out you don\u2019t have the cards, Donald.",
+                "Wow, this is going much quicker than I expected. I thought we'd have to go through the recession before we had to print money. Looks like this is a speed run.",
+                "When the bond and dollar fail, what happens?",
+                "Economic pressure is not going to work against China. They felt the impacts of the trade war that Trump started in 2018 and continued under Biden and started to quickly de-couple themselves from the dollar and critical imports. The increased tariffs will hurt everyone globally, but the ones that'll feel the impacts most both short-term and long-term are Americans.",
+                "This shit just got real.  If muthafuckas start dumping the dollar, we are fucked."
             ],
             "aggregate_sentiment": 42.0
         },
@@ -209,232 +330,211 @@
             "category": "NEW",
             "title": "US egg giant Cal-Maine says government is investigating price increases",
             "external_url": "https://www.cnn.com/2025/04/09/business/egg-prices-antitrust-cal-maine-foods/index.html",
-            "upvotes": 19,
+            "upvotes": 640,
             "date": "04/09/2025",
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/ap25098806555550.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
                 "whats to investigate? we all fucking know why",
-                "[deleted]",
-                "If people don\u2019t want eggs they wouldn\u2019t buy them at that those prices. Clear communist overreach"
+                "What government? Who is even left at this point?",
+                "Ohhh I see the plan now.\n\nTariff other nations to generate revenue for the US government as an excuse to cut income taxes.\n\nAs inflation rises, begin implementing Price caps while claiming the price increases that the caps are stopping are Anti-American. Now prices cant go up.\n\nCompanies begin losing tons of money, stocks decline rapidly. Billionaires buy the stocks cheap and then the Price caps are removed.\n\nNow a select few own the vaste majority of America, can set prices however they like, and pay no taxes. Meanwhile they fund propoganda campaigns to keep Trump or his family in charge of the White House. They also lobby the house and senate to be quiet and follow orders.\n\n\nAmerica is now a full on dystopian MegaCorp-Republic.",
+                "Egg prices are going to be the least of the publics concerns soon lol. Dementia in the oval office is going to make everything balloon to 500% its normal prices",
+                "Government is investigating how to force sell Cal-Maine to Musk",
+                "They\u2019re going to blame the woke egg quotas.  Ever wonder why there\u2019s so many brown eggs?  It\u2019s the Democrat Egg Initiative (DEI) funneling money to CCP shell companies.  There\u2019s no bird \u201cflu\u201d, that\u2019s just an excuse to raise prices and poach the paychecks of hard working Americans.  But now the truth is starting to come out, so \u201cthey\u201d are scrambling to put together this sham \u201cinvestigation\u201d to distract us.",
+                "Government says their prices aren\u2019t high enough",
+                "It was inflation under Biden, it's price fixing under Orange Man, duh!",
+                "This is the thing you're looking at for price gouging? THIS? *THIS??*",
+                "They will investigate anything that does not go their way or they don't like. Hence intimidating a fired DOJ witness at home."
             ],
-            "aggregate_sentiment": 18.0
+            "aggregate_sentiment": 12.0
         },
         {
             "category": "NEW",
             "title": "Trump sued by Democrat he removed from US civil rights agency",
             "external_url": "https://www.reuters.com/legal/trump-sued-by-democrat-he-removed-us-civil-rights-agency-2025-04-09/",
-            "upvotes": 91,
+            "upvotes": 1546,
             "date": "04/09/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "not like trump has money to pay out a suit anyways\u00a0"
+                "not like trump has money to pay out a suit anyways\u00a0",
+                "Another cut and dried case against him that will like go absolutely nowhere any time soon."
             ],
             "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "UnitedHealth shareholders withdraw effort to force transparency on coverage denials",
-            "external_url": "https://www.healthcaredive.com/news/unitedhealth-shareholders-withdraw-proposal-healthcare-delays-denials/744582/",
-            "upvotes": 338,
-            "date": "04/09/2025",
-            "thumbnail": "https://imgproxy.divecdn.com/gp7-9yDSiCZQoGHBzNxfophsasMnSZtZnJ8p0ayp8-U/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bml0ZWRfaGVhbHRoX2dyb3VwLmpwZWc=.webp",
-            "top_comments": [
-                "I guess their fifteen minutes of fear have elapsed and it's back to fucking over people who pay to be protected.",
-                "Guess I'll withdraw transparency next time I see someone gunning down a UnitedHealth CEO",
-                "Medicare for all. Then universal healthcare. \n\nEveryone needs to understand how many layers of FOR PROFIT corporations there are in the US healthcare system. And that while Medicare spend 4% on administration, many insurance companies spend up to 40%. \n\nThe best part is our overall healthcare will improve, because ours is lousy compared to the top 20 countries with universal healthcare.",
-                "yep. no surprise here, as soon as the attention drops it's right back to screwing you over. Coincidentally I just had a physical which is supposed to be paid for, but for some reason the new status quo is that if you talk to your NP or physician about something out of the ordinary ( even if the damn Doc brings it  up themselves), or what could be expected, you are on the hook for a new charge that insurance won't pay for. Insanity.",
-                "\"People who want to make money choose money over doing it right.\"",
-                "it's more profitable to deny care or delay it until the patient dies or gets frustrated and gives up.",
-                "Someone PLEASE post their exec page on twitter. XD",
-                "Guess it's time to turn the Luig-signal on",
-                "Tell your banks that if you have any of their stock in your portfolio to sell it all",
-                "Gifts from trump are repaid 2-fold.  UHC get ready."
-            ],
-            "aggregate_sentiment": 8.0
         },
         {
             "category": "NEW",
             "title": "US to announce new tariffs on pharmaceutical imports",
             "external_url": "https://www.bbc.com/news/articles/cedyylj1v32o",
-            "upvotes": 938,
+            "upvotes": 4769,
             "date": "04/09/2025",
             "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/5c43/live/3c6964d0-1537-11f0-bc17-dfa4f8dfee61.jpg",
             "top_comments": [
                 ">India supplies nearly half of all US generics, or cheaper versions of popular drugs, saving the country billions in healthcare costs.\n\nThe news just keeps getting better, doesn't it?",
                 "He REALLY is trying to tank the market, isn't he",
-                "More expensive healthcare for people that can't afford it sounds like good policy. They just need to wait another 7 years until factories open up in the US so they can get cheap drugs again\u00a0",
-                "A lot of Americans about to lose their feet.",
-                "realize there are posting rules, but true headlines would read \u2018Republicans to announce \u2026\u2019  They need to own this and we need to remind them every chance we have",
-                "Guess we need to get a much bigger fan again",
-                "Watch my in-laws now finally lose it. They are in their early 80s and their medications are keeping them alive they are going to absolutely be pissed at this.",
-                "This is like watching a badly scripted movie, but you watch till the end just to see how much worse it can get",
+                "All I want to do is live, work, and enjoy a little bit of time I have on this planet. But I can barely afford the meds I need to live now and its gonna go up? Fuck this dude. All I did was contract an autoimmune disease as a fucking child and now I'm forced to be in debt for the rest of my life? Fuck this guy, fuck his voters, fuck his followers. You are the evil ones.\u00a0",
                 "The party of \"keep them sick and let them die\".",
-                "All I want to do is live, work, and enjoy a little bit of time I have on this planet. But I can barely afford the meds I need to live now and its gonna go up? Fuck this dude. All I did was contract an autoimmune disease as a fucking child and now I'm forced to be in debt for the rest of my life? Fuck this guy, fuck his voters, fuck his followers. You are the evil ones.\u00a0"
+                "More expensive healthcare for people that can't afford it sounds like good policy. They just need to wait another 7 years until factories open up in the US so they can get cheap drugs again\u00a0",
+                "Guess we need to get a much bigger fan again",
+                "realize there are posting rules, but true headlines would read \u2018Republicans to announce \u2026\u2019  They need to own this and we need to remind them every chance we have",
+                "A lot of Americans about to lose their feet.",
+                "Every time the stocks start ticking up he announces another move to try to get it back in the red. The trump administration is intentionally tanking the economy and they should all be removed from office for this treason",
+                "I cant wrap my head around it. They are cutting the medicaid/medicare budget while simultaneously raising the cost of drugs. Which in turn will cost the programs more money. It just doesn't make sense."
             ],
-            "aggregate_sentiment": 85.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "NEW",
             "title": "Kidnapping and conspiracy charges are dropped against college students in \u2018Catch a Predator\u2019 fad",
             "external_url": "https://apnews.com/article/catch-a-predator-tiktok-students-arrested-massachusetts-b5a749edd733e0a6d6c0a15e8c5e9910",
-            "upvotes": 40,
+            "upvotes": 312,
             "date": "04/09/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "They should all be in prison. Not only did they completely lie and say she was presented as underage (she wasn\u2019t she was presented as 18), but they also tried trapping him in the house and beating the shit out of him.\nGarbage pieces of shit.",
                 ">Brainard still faces a charge of witness intimidation stemming from the encounter. Carroll also still faces a charge of assault and battery with a dangerous weapon.\n\nThere's still pending charges regarding the alleged assault.",
-                "If they matched on tinder, unless the girl was representing herself as underage, which is a violation of the TOS, there would be no indication that he would have any reason to think she was under 18, right? I feel like besides criminal assault charges he might be owed some money on top of everything else. \n\nFuck this TikTok assholes. There\u2019s nothing wrong with a 22 year old dating an 18 year old.",
+                "If they matched on tinder, unless the girl was representing herself as underage, which is a violation of the TOS, there would be no indication that he would have any reason to think she was under 18, right? I feel like besides criminal assault charges he might be owed some money on top of everything else. \n\nFuck these TikTok assholes. There\u2019s nothing wrong with a 22 year old dating an 18 year old.\n\nEdit: a word.",
+                "They should all be in prison. Not only did they completely lie and say she was presented as underage (she wasn\u2019t she was presented as 18), but they also tried trapping him in the house and beating the shit out of him.\nGarbage pieces of shit.",
                 "Honestly kinda glad they got in trouble for this stupid \"Catch a Predator\" crap, that shit's dangerous.",
-                "I\u2019m not saying 22 yo\u2019s should be trying to bang 17 yo\u2019s. But that could easily basically be a college senior and a college freshman. \n\nHonestly they\u2019re really pushing the definition of a \u201cpedo\u201d here. \n\nI\u2019d be shocked if at least one of these kids don\u2019t have parents who probably have a similar age discrepancy when they started seeing each other. \n\nReally feels like we\u2019ve overcorrected for not taking CSA seriously when you see something like this. Again, it\u2019s not ideal, but it\u2019s far from some 35 yo going after little kids."
+                "I\u2019m not saying 22 yo\u2019s should be trying to bang 17 yo\u2019s. But that could easily basically be a college senior and a college freshman. \n\nHonestly they\u2019re really pushing the definition of a \u201cpedo\u201d here. \n\nI\u2019d be shocked if at least one of these kids don\u2019t have parents who probably have a similar age discrepancy when they started seeing each other. \n\nReally feels like we\u2019ve overcorrected for not taking CSA seriously when you see something like this. Again, it\u2019s not ideal, but it\u2019s far from some 35 yo going after little kids.",
+                "Sounds like looking for an excuse for a lynching.",
+                "One of the people involved in that was my co worker that\u2019s fucking wild",
+                "Would be nice to see so many men vocal about SA charges as they are for these \ud83d\ude29"
             ],
-            "aggregate_sentiment": 42.0
+            "aggregate_sentiment": 28.0
         },
         {
-            "category": "NEW",
-            "title": "Japan to sell more rice reserves as prices soar",
-            "external_url": "https://www.france24.com/en/live-news/20250409-japan-to-sell-more-rice-reserves-as-prices-soar",
-            "upvotes": 150,
+            "category": "RISING",
+            "title": "Kash Patel removed as acting ATF director, replaced by Army Secretary",
+            "external_url": "https://www.reuters.com/world/us/kash-patel-removed-acting-atf-director-replaced-by-army-secretary-sources-say-2025-04-09/",
+            "upvotes": 586,
             "date": "04/09/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "The part about the tourists eating rice and making this worse I don't understand",
-                "Doesn't Japan also export most of their rice, as they're able to get better prices for it versus what they can get domestically?",
-                "The Trump Taxes are already costing Americans $2 billion per day"
+                "Wait. So, is the Army Secretary holding both roles? So ATF and a branch of the military report to the same person?\n\n\nI'm not sure that makes me feel all warm and fuzzy...",
+                "Guys, this administration is a cornucopia of shit.\u00a0",
+                "Patel is not fit to run anything.",
+                "Oh naur, again. Anyway....\n\nCan't wait to see if this man was corrupt. It's usually why these firings occur.\n\nThat or we get the news he wouldn't bend the knee.",
+                "I completely forgot he was pretending to do two jobs he was grossly unqualified for.",
+                "If he could only be removed as director of anything",
+                "Another token spent. When is Vance gonna remarry?",
+                "I\u2019m beginning to think there\u2019s a bit of chaos going on within this current administration\u2026",
+                "How many Scaramuccis did he last?",
+                "Second amendment people on the right would be very upset right now if they could read."
             ],
-            "aggregate_sentiment": 14.0
+            "aggregate_sentiment": 38.0
         },
         {
-            "category": "NEW",
-            "title": "Trump tariffs spark US government debt sell-off",
-            "external_url": "https://www.bbc.com/news/articles/c5yrr0e7499o",
-            "upvotes": 6078,
+            "category": "RISING",
+            "title": "Trump sued by Democrat he removed from US civil rights agency",
+            "external_url": "https://www.reuters.com/legal/trump-sued-by-democrat-he-removed-us-civil-rights-agency-2025-04-09/",
+            "upvotes": 1547,
             "date": "04/09/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/4e4c/live/1d4d0e70-1533-11f0-bc17-dfa4f8dfee61.jpg",
+            "thumbnail": "No social preview available",
             "top_comments": [
-                "Trump said if I voted for Kamala the economy would be in ruin. And I gotta say, he clocked it right. I voted for her and the economy is in shambles.",
-                "Donald Trump has broken his own record as the worst president of All time.\n\nHe has betrayed the American people including his voters who were hoping that the prices would go down.",
-                "Don\u2019t forget - Trump is only able to do this because Republicans refuse to rein him in. This is a Republican problem.\u00a0",
-                "*Some analysts suggested that America's central bank - the US Federal Reserve - might be forced to step in if turbulence continues, in a move reminiscent of the Bank of England's emergency action in 2022 following Liz Truss's mini-Budget.*\n\n*\u201dWe see no other option for the Fed but to step in with emergency purchases of US Treasuries to stabilise the bond market,\" said George Saravelos, global head of FX research at Deutsche Bank.*\n\nLoL, all the pro-Trump \u201csound money\u201d folks railed against exactly this during the quantitative easing of 2008+. Now they\u2019ll turn around on a dime and be all for it. Anything to defend the Trump regime.\n\nQuacks, every last one of them.",
-                "China has a LOT or Treasuries to offload - no interest rate cuts",
-                "Fucking Christ if US bonds go off a cliff, what else is left. That shit is supposed to be a gold standard in investment.",
-                "MAGA loves him even though they literally will be go broke and in dept :3",
-                "Why is the DOW and Nasdaq still green? The investors all daft?",
-                "Okay I can\u2019t have my 401k, Roth AND my bond ladder fucked. Can they just pick one? \ud83d\ude13",
-                "Oh great. More winning."
+                "not like trump has money to pay out a suit anyways\u00a0",
+                "Another cut and dried case against him that will like go absolutely nowhere any time soon."
             ],
             "aggregate_sentiment": 22.0
         },
         {
-            "category": "NEW",
-            "title": "Japan, Canada agree to cooperate on market stability",
-            "external_url": "https://www.reuters.com/markets/japan-canada-agree-cooperate-market-stability-2025-04-09/",
-            "upvotes": 1024,
+            "category": "RISING",
+            "title": "China orders its banks to reduce US dollar purchases.",
+            "external_url": "https://www.reuters.com/world/china/chinas-central-bank-asks-state-lenders-reduce-dollar-purchases-sources-say-2025-04-09/",
+            "upvotes": 13059,
             "date": "04/09/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "Shhhh Maga ... the grownups are talking. EU please join the conversation.",
-                "Trump is going to do wonders for world peace. Everyone will unite in hating us.\n\nI hear China, Japan, and South Korea are having some of the most productive talks they\u2019ve had in decades.",
-                "Honestly well America continues to shoot itself in the dick, I think there is a pretty good opportunity for Canada to take its place as the leader here. \n\nWe should be calling every country and trying to make a deal with them. \n\nWe just need to make sure we have sensible leadership to guide our way through it all.",
-                "Canada/EU/UK/Australia/S.Korea/Japan alliance sounds good to me",
-                "Shit imagine the rest of the world comes together and a new era of global cooperation (without America of course) leads humanity to a new golden age.",
-                "How do we not get that if we snub the whole world the whole world will cooperate to snub us?",
-                "Does that mean that we get Switch 2's after all?",
-                "Well they make good guitars, cars and video games",
-                "Why the hell is the USA doing a heel-turn? Can someone please call the script writer and let them know this season sucks.\n\nJohn Cena is doing it better. Can we get the wrestling writers appointments to the cabinet.",
-                "It\u2019s funny thinking back on past American disaster movies where America unites the world to face a global crisis, take Independence Day for example.\n\n\nWe got the unity part right, except, we\u2019re the bad guys. And they\u2019re uniting against us."
+                "There goes the infinite money hack the federal budget depends on. How long before the entire government collapses due to a total lack of funds?",
+                "Things are looking good, MAGA. It looks like you're going to get what you wanted. The rest of the world will be just fine without you.",
+                "So I have a question what happens when all that US debt that China has bought up over the last 20 years or so what happens if they want to cash it in.",
+                "And 10yr treasure bonds above 4.5%.\n\nChina said fuck this tit for tat tariff bullshit.  They are using all their tools.",
+                "All this because we won't just tax billionaires",
+                "Turns out you don\u2019t have the cards, Donald.",
+                "Wow, this is going much quicker than I expected. I thought we'd have to go through the recession before we had to print money. Looks like this is a speed run.",
+                "When the bond and dollar fail, what happens?",
+                "Economic pressure is not going to work against China. They felt the impacts of the trade war that Trump started in 2018 and continued under Biden and started to quickly de-couple themselves from the dollar and critical imports. The increased tariffs will hurt everyone globally, but the ones that'll feel the impacts most both short-term and long-term are Americans.",
+                "This shit just got real.  If muthafuckas start dumping the dollar, we are fucked."
             ],
-            "aggregate_sentiment": 80.0
-        },
-        {
-            "category": "NEW",
-            "title": "The International Monetary Fund reaches a preliminary deal with Argentina on a $20 billion bailout",
-            "external_url": "https://www.ctvnews.ca/world/article/the-international-monetary-fund-reaches-a-preliminary-deal-with-argentina-on-a-20-billion-bailout/",
-            "upvotes": 118,
-            "date": "04/09/2025",
-            "thumbnail": "https://www.ctvnews.ca/resizer/v2/QAVT4UBXR3W4WE7QTUMZOUKWFM.jpg?smart=true&auth=9410426cfb137fc23360ab60196c4f1b120f4848e3d8f396fea1f003b474b7fe&width=1200&height=630",
-            "top_comments": [
-                "Was this the jackass that gave president musk the chainsaw?",
-                ">The International Monetary Fund on Tuesday said it has reached a preliminary, staff-level agreement with cash-strapped Argentina on a US$20 billion bailout, providing a welcome reprieve to libertarian President Javier Milei as he seeks to overturn the country\u2019s old economic order.\n\nWhy would a libertarian accept a handout?",
-                "thought they were doing better economically.",
-                "Milei talks a big game, loves to stand at CPAC with Elon and all the right wingers, but still needs to ask the IMF for money. What a hypocrite."
-            ],
-            "aggregate_sentiment": 40.0
-        },
-        {
-            "category": "NEW",
-            "title": "Canada hits back at US car tariffs with reciprocal measures",
-            "external_url": "https://www.bbc.com/news/articles/cedyyll7467o",
-            "upvotes": 757,
-            "date": "04/09/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/c43a/live/1b76a720-153b-11f0-a421-69fb502f5991.jpg",
-            "top_comments": [
-                "Trump and Putin's legacies are secure. They are both the biggest, most worthless pieces of shit in the world.",
-                "I don't think Canada, EU, Japan and China are talking behind the scenes AT ALL.\n\nThey are all just dumb peasants and will fold any day now. \n\n/s",
-                "Good. Love to see it. Fuck maga America. \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
-                "The rest of the world should refuse to buy or sell anything to the US while this guy's in office.",
-                "If the whole world gangs up on Trump we could absolutely destroy the US economy. \u00a0 Work together people to save us from agent orange\u00a0"
-            ],
-            "aggregate_sentiment": 12.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "RISING",
-            "title": "UnitedHealth shareholders withdraw effort to force transparency on coverage denials",
-            "external_url": "https://www.healthcaredive.com/news/unitedhealth-shareholders-withdraw-proposal-healthcare-delays-denials/744582/",
-            "upvotes": 327,
+            "title": "Trump announces 90 day tariff pause",
+            "external_url": "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html",
+            "upvotes": 5455,
             "date": "04/09/2025",
-            "thumbnail": "https://imgproxy.divecdn.com/gp7-9yDSiCZQoGHBzNxfophsasMnSZtZnJ8p0ayp8-U/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bml0ZWRfaGVhbHRoX2dyb3VwLmpwZWc=.webp",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108129074-1744205767394-gettyimages-2208184612-_s019698_miuhqrg1.jpeg?v=1744205822&w=1920&h=1080",
             "top_comments": [
-                "I guess their fifteen minutes of fear have elapsed and it's back to fucking over people who pay to be protected.",
-                "Guess I'll withdraw transparency next time I see someone gunning down a UnitedHealth CEO",
-                "Medicare for all. Then universal healthcare. \n\nEveryone needs to understand how many layers of FOR PROFIT corporations there are in the US healthcare system. And that while Medicare spend 4% on administration, many insurance companies spend up to 40%. \n\nThe best part is our overall healthcare will improve, because ours is lousy compared to the top 20 countries with universal healthcare.",
-                "yep. no surprise here, as soon as the attention drops it's right back to screwing you over. Coincidentally I just had a physical which is supposed to be paid for, but for some reason the new status quo is that if you talk to your NP or physician about something out of the ordinary ( even if the damn Doc brings it  up themselves), or what could be expected, you are on the hook for a new charge that insurance won't pay for. Insanity.",
-                "\"People who want to make money choose money over doing it right.\"",
-                "it's more profitable to deny care or delay it until the patient dies or gets frustrated and gives up.",
-                "Someone PLEASE post their exec page on twitter. XD",
-                "Guess it's time to turn the Luig-signal on",
-                "Tell your banks that if you have any of their stock in your portfolio to sell it all",
-                "Gifts from trump are repaid 2-fold.  UHC get ready."
+                "Can you imagine working at customs this week",
+                "This market manipulation is so fucking obvious its insane. Insider trading to levels never before seen.",
+                "This is open corruption. They release the news on tariffs to short the market, then pause them so they can sell them.\n\nrinse and repeat. They aren't even trying to hide it now.\n\nffs",
+                "Trump timed his comment so his rich friends get richer on the market.",
+                "These tariffs are supposed to bring good manufacturing jobs back to the USA. Why is he putting a pause on that? Doesn't he care about our jobs? /s",
+                "If we ever get this country back, one of the first things we need to do is strip the presdiency of having this much power.",
+                "It's just market manipulation. It would be amazing to see who bought a ton of stock right before he announced this \"pause\".",
+                "What a god damn shitshow",
+                "What happened to \"I know what the hell I'm doing\" and \"everyone is kissing my ass\"?",
+                "This whole thing feels planned."
             ],
-            "aggregate_sentiment": 14.0
+            "aggregate_sentiment": 5.0
+        },
+        {
+            "category": "RISING",
+            "title": "Dow surges 2,000 points, Nasdaq jumps 8% after Trump signals a 90-day pause on some tariffs",
+            "external_url": "https://www.cnbc.com/2025/04/08/stock-market-today-live-updates-.html",
+            "upvotes": 1246,
+            "date": "04/09/2025",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108129399-1744224488918-108129399-17442233882025-04-09t182555z_1576829729_rc2iuda41xcc_rtrmadp_0_usa-stocks.jpg?v=1744228854&w=1920&h=1080",
+            "top_comments": [
+                "This shit is so manipulated\n\n\nThe broligarchs are making hundreds of billions with insider trading here\n\n\nShort the market before announcing new tariffs, and buy before announcing negotiations & pauses",
+                "Now every market acts like crypto",
+                "He's manipulating markets and telling his private signal chat when to buy/sell",
+                "So is it legal to manipulate stocks now ???",
+                "I wonder how many of his sycophants bought this morning, knowing this was coming.",
+                "It is still an increase on tariffs, just not as bad for 90 days. Of course, who knows what he will think tomorrow or the day after that.",
+                "Let\u2019s not pretend he did anything beneficial except recoup some losses he created",
+                "He seems to make things up as he goes .",
+                "So what was accomplished here? Are factories flooding back into the United States?",
+                "A whole lot of insiders got much much richer off of this market manipulation. \n\nI guess the entire plan is to keep doing things like this until mid-terms. President, Congressmen and Bros get richer. They lose their seats to Democrats and then Democrats get blamed for the failing economy. And that leads right back to electing another Republican to \u201cfix\u201d something that they broke."
+            ],
+            "aggregate_sentiment": 28.0
         },
         {
             "category": "RISING",
             "title": "Japan, Canada agree to cooperate on market stability",
             "external_url": "https://www.reuters.com/markets/japan-canada-agree-cooperate-market-stability-2025-04-09/",
-            "upvotes": 1029,
+            "upvotes": 2275,
             "date": "04/09/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "Shhhh Maga ... the grownups are talking. EU please join the conversation.",
                 "Trump is going to do wonders for world peace. Everyone will unite in hating us.\n\nI hear China, Japan, and South Korea are having some of the most productive talks they\u2019ve had in decades.",
+                "Shhhh Maga ... the grownups are talking. EU please join the conversation.",
                 "Honestly well America continues to shoot itself in the dick, I think there is a pretty good opportunity for Canada to take its place as the leader here. \n\nWe should be calling every country and trying to make a deal with them. \n\nWe just need to make sure we have sensible leadership to guide our way through it all.",
                 "Canada/EU/UK/Australia/S.Korea/Japan alliance sounds good to me",
                 "Shit imagine the rest of the world comes together and a new era of global cooperation (without America of course) leads humanity to a new golden age.",
                 "How do we not get that if we snub the whole world the whole world will cooperate to snub us?",
+                "I wonder what it's like to live in a country with adult leaders \n\nOr heck, just leaders period",
                 "Does that mean that we get Switch 2's after all?",
-                "Well they make good guitars, cars and video games",
                 "Why the hell is the USA doing a heel-turn? Can someone please call the script writer and let them know this season sucks.\n\nJohn Cena is doing it better. Can we get the wrestling writers appointments to the cabinet.",
-                "It\u2019s funny thinking back on past American disaster movies where America unites the world to face a global crisis, take Independence Day for example.\n\n\nWe got the unity part right, except, we\u2019re the bad guys. And they\u2019re uniting against us."
+                "Well they make good guitars, cars and video games"
             ],
-            "aggregate_sentiment": 62.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "RISING",
             "title": "European Union approves first set of retaliatory tariffs on U.S. imports",
             "external_url": "https://www.cnbc.com/2025/04/09/european-union-approves-first-set-of-retaliatory-tariffs-on-us-imports.html",
-            "upvotes": 2601,
+            "upvotes": 4306,
             "date": "04/09/2025",
             "thumbnail": "https://image.cnbcfm.com/api/v1/image/108126463-1743765627495-gettyimages-2198947496-_ha_0099_eetz0vnk.jpeg?v=1743765677&w=1920&h=1080",
             "top_comments": [
                 "Important to note that these are *not* in response to Trump's blanket tariffs on the whole world from last week; that comes later. These are just in response to his steel and aluminum tariffs from last month.",
                 "Good. So who does he claim is calling and kissing his fat, diapered ass? Lies again you say?",
                 "> The 27-nation bloc had\u00a0warned\u00a0it would act to protect European business and consumers after U.S. President Donald Trump imposed 25% duties on the metals.\n\u201cThe EU considers US tariffs unjustified and damaging, causing economic harm to both sides, as well\u00a0as the global economy. The EU has stated its clear preference to find negotiated outcomes with the\u00a0US, which would be balanced and mutually beneficial,\u201d the European Commission said.\n\n I'm too old to drink and dance through another great recession. Our government is going to wreck our economy, and some people will still clap.",
-                "Didn\u2019t Trump say they were calling him and kissing his ass? Lmao.\u00a0",
                 "Time for EU to enact their anti coercion legislation. \u00a0It was created for this .",
+                "Didn\u2019t Trump say they were calling him and kissing his ass? Lmao.\u00a0",
+                "This is what tariffs should look like. Reasonably thought out, weighed, and measured.\n\nOr you can just wake up, shit your Depends, and decide that you're going to do a 1000% markup on Belgian chocolate or whatever the fuck we're doing these days...",
                 "ChEsS NoT cHeCkErs. Fuck republicans.",
-                "This is what tariffs should look like. Reasonably thought out, weighed, and measured. \n\nOr you can just wake up, shit your Depends and decide that you're going to do a 1000% markup on Belgian chocolate or whatever the fuck we're doing these days...",
-                "You reap what you sow, America. \n\n\nThis is just the first set. More will come if the EU decides on that.",
                 "The Trump Taxes are already costing Americans $2 billion per day",
+                "But, but, but, the Trump administration swore that all these other countries, besides China, were cowering in fear and fighting to see who would be first in line to negotiate away their existing tarrifa and trade imbalances... /s",
                 "It\u2019s good to see how many of these are targeted toward Trump\u2019s key demographics. Not that other industries will get off untouched, but the creators of this monster deserve to feel the pinch hardest:"
             ],
             "aggregate_sentiment": 22.0
@@ -443,144 +543,63 @@
             "category": "RISING",
             "title": "US to announce new tariffs on pharmaceutical imports",
             "external_url": "https://www.bbc.com/news/articles/cedyylj1v32o",
-            "upvotes": 923,
+            "upvotes": 4760,
             "date": "04/09/2025",
             "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/5c43/live/3c6964d0-1537-11f0-bc17-dfa4f8dfee61.jpg",
             "top_comments": [
                 ">India supplies nearly half of all US generics, or cheaper versions of popular drugs, saving the country billions in healthcare costs.\n\nThe news just keeps getting better, doesn't it?",
                 "He REALLY is trying to tank the market, isn't he",
-                "More expensive healthcare for people that can't afford it sounds like good policy. They just need to wait another 7 years until factories open up in the US so they can get cheap drugs again\u00a0",
-                "A lot of Americans about to lose their feet.",
-                "realize there are posting rules, but true headlines would read \u2018Republicans to announce \u2026\u2019  They need to own this and we need to remind them every chance we have",
-                "Guess we need to get a much bigger fan again",
-                "Watch my in-laws now finally lose it. They are in their early 80s and their medications are keeping them alive they are going to absolutely be pissed at this.",
-                "This is like watching a badly scripted movie, but you watch till the end just to see how much worse it can get",
+                "All I want to do is live, work, and enjoy a little bit of time I have on this planet. But I can barely afford the meds I need to live now and its gonna go up? Fuck this dude. All I did was contract an autoimmune disease as a fucking child and now I'm forced to be in debt for the rest of my life? Fuck this guy, fuck his voters, fuck his followers. You are the evil ones.\u00a0",
                 "The party of \"keep them sick and let them die\".",
-                "All I want to do is live, work, and enjoy a little bit of time I have on this planet. But I can barely afford the meds I need to live now and its gonna go up? Fuck this dude. All I did was contract an autoimmune disease as a fucking child and now I'm forced to be in debt for the rest of my life? Fuck this guy, fuck his voters, fuck his followers. You are the evil ones.\u00a0"
+                "More expensive healthcare for people that can't afford it sounds like good policy. They just need to wait another 7 years until factories open up in the US so they can get cheap drugs again\u00a0",
+                "Guess we need to get a much bigger fan again",
+                "realize there are posting rules, but true headlines would read \u2018Republicans to announce \u2026\u2019  They need to own this and we need to remind them every chance we have",
+                "A lot of Americans about to lose their feet.",
+                "Every time the stocks start ticking up he announces another move to try to get it back in the red. The trump administration is intentionally tanking the economy and they should all be removed from office for this treason",
+                "I cant wrap my head around it. They are cutting the medicaid/medicare budget while simultaneously raising the cost of drugs. Which in turn will cost the programs more money. It just doesn't make sense."
             ],
-            "aggregate_sentiment": 12.0
+            "aggregate_sentiment": 18.0
+        },
+        {
+            "category": "RISING",
+            "title": "Oil prices plummet on China's retaliation against US tariffs",
+            "external_url": "https://www.reuters.com/business/energy/oil-slides-nearly-4-us-kicks-off-104-tariffs-china-2025-04-09/",
+            "upvotes": 514,
+            "date": "04/09/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Can\u2019t wait for gas prices to plummet, just need to go buy a new work shirt for 180 dollars",
+                "Well, he *did* promise to bring gas prices down. His base will see this is proof-positive that he's a genius.",
+                "Oil glut is worse for Trump personally than stock market crash.\n\nWas concerning to see rupture of Keystone pipeline yesterday, but if crude keeps dragging $60/barrel, frankly I'll expect more 'random' outages down the road, that 'happen to' goose-up oil prices...\n\nIt's a dirty, dirty business.",
+                "And when will we see this price reflected at the pumps?\n\nI see. Adding Hell to my weather app.",
+                "Gas prices won\u2019t go down, the companies will just increase their profits.",
+                "On the plus side, if you can't sell your oil you're not going to open up new wells. This is a small win for the environment anyway\u2026",
+                "Can\u2019t wait to pay a few dollars fewer on gas in my vehicle that now costs tens of thousands more due to tariffs.",
+                "Rising consumer costs will nullify  any benefit ,",
+                "Oil price plummeting is great, putler must be eating his office's rug.",
+                "Let's find out which countries decide to play this on-again-off-again lying tariff game to bully them into falling in line."
+            ],
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "RISING",
             "title": "Canada hits back at US car tariffs with reciprocal measures",
             "external_url": "https://www.bbc.com/news/articles/cedyyll7467o",
-            "upvotes": 759,
+            "upvotes": 1250,
             "date": "04/09/2025",
             "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/c43a/live/1b76a720-153b-11f0-a421-69fb502f5991.jpg",
             "top_comments": [
                 "Trump and Putin's legacies are secure. They are both the biggest, most worthless pieces of shit in the world.",
-                "I don't think Canada, EU, Japan and China are talking behind the scenes AT ALL.\n\nThey are all just dumb peasants and will fold any day now. \n\n/s",
                 "Good. Love to see it. Fuck maga America. \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
                 "The rest of the world should refuse to buy or sell anything to the US while this guy's in office.",
-                "If the whole world gangs up on Trump we could absolutely destroy the US economy. \u00a0 Work together people to save us from agent orange\u00a0"
+                "I don't think Canada, EU, Japan and China are talking behind the scenes AT ALL.\n\nThey are all just dumb peasants and will fold any day now. \n\n/s",
+                "Canada called Washington's bluff on car tariffs. They should've done this ages ago.",
+                "If the whole world gangs up on Trump we could absolutely destroy the US economy. \u00a0 Work together people to save us from agent orange\u00a0",
+                "Canada doesn\u2019t have the cards",
+                "Canada shoots itself in the face again."
             ],
-            "aggregate_sentiment": 28.0
-        },
-        {
-            "category": "RISING",
-            "title": "Trump tariffs spark US government debt sell-off",
-            "external_url": "https://www.bbc.com/news/articles/c5yrr0e7499o",
-            "upvotes": 6095,
-            "date": "04/09/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/4e4c/live/1d4d0e70-1533-11f0-bc17-dfa4f8dfee61.jpg",
-            "top_comments": [
-                "Trump said if I voted for Kamala the economy would be in ruin. And I gotta say, he clocked it right. I voted for her and the economy is in shambles.",
-                "Donald Trump has broken his own record as the worst president of All time.\n\nHe has betrayed the American people including his voters who were hoping that the prices would go down.",
-                "Don\u2019t forget - Trump is only able to do this because Republicans refuse to rein him in. This is a Republican problem.\u00a0",
-                "*Some analysts suggested that America's central bank - the US Federal Reserve - might be forced to step in if turbulence continues, in a move reminiscent of the Bank of England's emergency action in 2022 following Liz Truss's mini-Budget.*\n\n*\u201dWe see no other option for the Fed but to step in with emergency purchases of US Treasuries to stabilise the bond market,\" said George Saravelos, global head of FX research at Deutsche Bank.*\n\nLoL, all the pro-Trump \u201csound money\u201d folks railed against exactly this during the quantitative easing of 2008+. Now they\u2019ll turn around on a dime and be all for it. Anything to defend the Trump regime.\n\nQuacks, every last one of them.",
-                "China has a LOT or Treasuries to offload - no interest rate cuts",
-                "Fucking Christ if US bonds go off a cliff, what else is left. That shit is supposed to be a gold standard in investment.",
-                "MAGA loves him even though they literally will be go broke and in dept :3",
-                "Why is the DOW and Nasdaq still green? The investors all daft?",
-                "Okay I can\u2019t have my 401k, Roth AND my bond ladder fucked. Can they just pick one? \ud83d\ude13",
-                "Oh great. More winning."
-            ],
-            "aggregate_sentiment": 38.0
-        },
-        {
-            "category": "RISING",
-            "title": "Mississippi libraries ordered to delete academic research in response to state laws",
-            "external_url": "https://mississippitoday.org/2025/04/08/mississippi-libraries-ordered-to-delete-academic-research-in-response-to-state-laws/",
-            "upvotes": 2558,
-            "date": "04/09/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Doing everything they possibly can to suppress us, don't let them win",
-                "No wonder why Mississippi is rated as 50th out of all 50 US states on educational metrics. Brain-dead right-wing nut jobs keeping themselves purposely ignorant. Talk about self-sabotage.",
-                "In case anyone is confused, they\u2019re just removing access to academic research. Thankfully, Mississippi isn\u2019t \u201cdeleting\u201d their great wealth of knowledge. *cough*",
-                "just push it to a sever in another jurisdiction",
-                "Delete controversial materials, control the narrative and/or create your own alternate information, IS right out of the dictator's play book..\n\n\n\nOnce again America is becoming the very thing we fought against, went to wars over and died for to prevent. Those deaths are meaning less and less every day.\n\n\nedit word\n\n.",
-                "This sounds like a bunch of nazi crap. They can\u2019t even cite the laws they are using to \u2018discern\u2019 which books to burn.. I mean research to delete. I\u2019m not saying they ARE Nazis, But I do think the Nazis would be proud of them right about now.",
-                "This is literally one of the first steps Nazi Germany took. I am not exaggerating.",
-                "As the great Phil Ochs once sang:\n\n\"Here's to the land\nYou've torn out the heart of,\nMississippi find yourself\u00a0\nanother country to be part of\"",
-                "Mississippi is an easy target. They start with an audience that won't fuss too much and slowly move West and North. Deleting academic research in response to state laws will lead to suppression of knowledge, scientific progress, and undermining the principles of academic freedom and open inquiry.\u00a0This is the start. What they want is no interference.  Libraries, post offices, and Legion halls are the common places for voting and organizing in small towns and rural communities. Especially in retirement counties where transportation and mobility are challenged. That's why eliminating mail-in ballots is so dangerous. It silences a whole lotta people. We must not be complacent. We can't just say, \"Oh, look what they did in...!\" The outcome will result in further untold and unfathomable disasters.",
-                "This is why Mississippi had typos and spelling errors in their state tax overhaul bill"
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "3 dead, at least 3 injured after Spotsylvania County shooting, search for suspect active",
-            "external_url": "https://wjla.com/news/local/fredericksburg-heavy-police-spotsylvania-county-presence-incident-report-deputies-old-greenwich-crime-injuries-incident-shot-sheriffs-office-crime",
-            "upvotes": 240,
-            "date": "04/09/2025",
-            "thumbnail": "https://wjla.com/resources/media2/16x9/1200/986/0x13/90/042af9ad-2a4d-4a21-b1f7-de2bc2b8af34-Untitleddesign1.png",
-            "top_comments": [
-                "You know I got really confused because not 24 hours ago there was an article about the same county in Virginia where a 3rd grader brought a gun to school and it discharged.  I wondered at first if it was related.",
-                "Considering where the crime occurred and how it was carried out, this feels like an ex or a family member situation. Though, the fact there were two shooters makes it more likely to be a targeted hit. The footage of the shooters shows what appear to be thin males. The fact they walked through a community with their long rifles out feels like something a bunch of teenagers would do because they think that's how cool assassins would do it.",
-                "All these shootings and we never do anything to stop easy access to firearms",
-                "It's a feature, not a bug. Those poor people.",
-                "If only there was a way to prevent it...",
-                "my heart goes out to the Spotsylvanian people!!! i hope you guys deal with Count Dracula shortly",
-                "More guns keeping us safe. MAKE AMERICA KNIFE EACH OTHER AGAIN 2028!!!",
-                "~~The article calls it an \u201cillegal gun sale\u201d gone wrong (turned into a robbery).~~\n\n~~The thing is, it\u2019s Virginia.~~\n\n~~The only thing \u201cillegal\u201d about it was the ages of the people involved (need to be 18 for long guns, and 21 for handguns).  Well, at least until it went sideways and turned into murder.~~\n\n~~Other than that, there is no law requiring background checks or even paperwork for private sale of firearms.~~\n\n~~There *are* penalties if one knowingly transfers a firearm to someone restricted from possessing it, but there is no onus on the seller to research that beforehand.~~\n\n**Edit:  Wait, wait just looked it up, SB70 changed the law in 2021.**\n\nSince then, VA requires background checks for private sales, and they must be between VA residents.",
-                "Everyone involved was like 16-20 years old. How fucking pointless.",
-                "Not like anything will be done to prevent this in the future."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "RISING",
-            "title": "Microsoft 'not moving forward' with $1B Licking County data center plans right now",
-            "external_url": "https://abc6onyourside.com/news/local/microsoft-backs-off-1b-licking-county-data-center-plans",
-            "upvotes": 5824,
-            "date": "04/09/2025",
-            "thumbnail": "https://abc6onyourside.com/resources/media2/16x9/1024/986/0x68/90/9d937b81-ae3b-42c7-bc66-acfc0aacf3a7-AP25028129857071.jpg",
-            "top_comments": [
-                "All the Trump supporters in Ohio trying to find a reason why this is good now.",
-                "More jobs lost.  More investment drying up.\n\nThanks Donald.  I see your tariffs are really, really working.\n\nBut then again Ohio, you voted for this, huh.",
-                "This is all so predictable.\n\nEven if the aim of these tariffs was to bring back more factories to the US, the way this is being done could never achieve that.\n\nNobody in their right mind is going to spend billions in capex right now to bring their supply chain back on shore only to have Trump himself or the next administration change its mind. It takes years to rework supply chains and build infrastructure and you need the government helping with the investment in the form of subsidies, tax breaks, training initiatives, R&D and on and on with an actual plan over 5-10 years.\n\nThis is just one moron engaging in a pissing contest with the entire world because he thinks he is a genius.",
-                "Smart....\n\n\"We are taking the appropriate steps to ensure the land at two of our   \nsites can be used for farming and are following through with our   \ndevelopment agreements to fund roadway and utility upgrades. We will   \ncontinue to invest in and collaborate with local organizations to   \nsupport digital skills development, restoration efforts, and to   \nstrengthen the communities in Licking County for future generations.\u201d\n\nThis is great selling point if they decide to move forward somewhere else in the future.",
-                "Smart move. Conserve cash. Wait for the craziness to pass",
-                "Trump Tax (tariffs) causing the Trump Recession.",
-                "The global economy will come to a complete stop. Corporations are going to sit on cash while they wait for the tariffs to end.\n\nWhy buy something at 200% of the price if it's temporary?",
-                "Microsoft has been pushing AI at the marketing level but they're actually aware of the lack of uptake, massive cost, and low return beyond its utility as a marketing term. I think it was Microsoft who put out the paper about Gen ai making employees dumber.",
-                "Keeping it in limbo. \n\n\u201cA spokesperson for Microsoft told ABC6 that the company will continue owning the land in Licking County but could not confirm any timeline of if or when any future projects on the properties might move forward.\u201c",
-                "First intel pulls out and now Microsoft. My city is getting screwed over"
-            ],
-            "aggregate_sentiment": 40.0
-        },
-        {
-            "category": "RISING",
-            "title": "'Time for you to abandon the United States': Asylum seekers who used app being told to leave",
-            "external_url": "https://www.cbc.ca/news/world/us-migration-app-removals-1.7504556",
-            "upvotes": 16431,
-            "date": "04/08/2025",
-            "thumbnail": "https://i.cbc.ca/1.7504565.1744118021!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trump-immigration.jpg?im=Resize%3D620",
-            "top_comments": [
-                "I was told by someone that I was making a \u201cbig deal\u201d over the Mass Deportations Now signs at his rallies.",
-                ">Time for you to abandon the United States\n\nGood advice for everyone, honestly.",
-                "The asylum seeker issue is proof that Republicans do not actually support legal immigration. They think that being an \"illegal immigrant\" is an innate quality, closely tied to your ethnicity and the color of your skin, not simply the lack of immigration paperwork.\n\nSeeking asylum in the US is legal. You may disagree with the law, but these people were following the law. They are not illegal immigrants. They are legal immigrants following a process that you don't like. The same was true of the Haitian immigrants that JD Vance made up those disgusting lies about. It has always been racism and xenophobia.",
-                "Calling it now, the rhetoric is gonna switch from \u201cIf you\u2019re a citizen who\u2019s **here lawfully** you have nothing to fear\u201d to \u201cif you\u2019re a **lawful citizen** you have nothing to fear\u201d so they could deport anyone who engages in \u2018terrorist activities\u2019 like protesting against Israel. The change\u2019ll happen so fast it\u2019ll make your head spin.",
-                "Note that everyone using this app was in the country *legally* - the language used by the administration repeatedly attempts to imply otherwise, but the entire point was to create a legal path for asylum seekers.",
-                "... US abandons refugees. Abdicates global leadership. Shoots self in face with tariff cannon. Genius.\u00a0",
-                "\"Time for you to abandon the United States\" -- Now, there's a piece of advice I can get behind. I'd only apply it to literally everyone in the world rather than only people with a skin color that isn't white.",
-                "900,000 is an astounding number of people being asked to leave the country.",
-                "1883: \"Give me your tired, your poor,\nYour huddled masses yearning to breathe free.\"\n\n2025: Screw you.",
-                "This is exactly what causes more \"illegal immigration\" - the US creates a pathway, people use that pathway, then someone uses that collected data to punish the folks who were trying to do right. \n\nNext time the US comes and says, \"here's how to do it legally,\" why would anyone listen?"
-            ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 0.0
         }
     ],
-    "last_updated": "04/09/2025 16:10:58 UTC"
+    "last_updated": "04/09/2025 20:09:47 UTC"
 }
