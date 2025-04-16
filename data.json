@@ -2,9 +2,72 @@
     "posts": [
         {
             "category": "HOT",
+            "title": "NY immigrants are seeing a grim email in their inboxes: \u2018It is time for you to leave\u2019",
+            "external_url": "https://gothamist.com/news/ny-immigrants-are-seeing-a-grim-email-in-their-inboxes-it-is-time-for-you-to-leave?utm_source=firefox-newtab-en-us",
+            "upvotes": 4375,
+            "date": "04/16/2025",
+            "thumbnail": "https://api-prod.gothamist.com/images/350733/fill-1200x650|format-webp|webpquality-85/",
+            "top_comments": [
+                "They are running ads in Spanish radio stations in Texas also. The ads are Newman (or whatever her name is) from the DHS telling people to leave.",
+                "Wonder how many Puerto Ricans are going to get round up and deported to El Salvador for being \"illegal\".",
+                "*give me your tired, your poor, your huddled masses yearning to breathe free*\n\nNo- actually\n>\u201cIt is time for you to leave the United States,\u201d the mass email from the U.S. Department of Homeland Security advises, including this warning: \u201cDo not attempt to remain in the United States \u2014 the federal government will find you.\u201d\n\nWell ain't that a kick in the teeth.",
+                "If you have citizenship or are in another group the email doesn\u2019t apply to, does that even matter?\nDetainees are not being given a chance to prove that in court.  They don\u2019t even get to call a lawyer or family.  Without them giving due process, we are all at risk.",
+                "\"It's not about racism, is about enforcing the law.\" -\u00a0 every racist ever.",
+                "This is dystopian as hell to witness as a non-American.",
+                "Come on Congress. Get off your ass and do something.",
+                "The whole city is immigrants though.",
+                "\"It's time for you to learn about the second amendment\"",
+                "I wonder how the native Americans would define \u201cimmigrants\u201d to their country\u2026"
+            ],
+            "aggregate_sentiment": 12.0
+        },
+        {
+            "category": "HOT",
+            "title": "Students at Pentagon schools sue Hegseth over book bans on race and gender",
+            "external_url": "https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans",
+            "upvotes": 8296,
+            "date": "04/15/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/caaae65eb27630f687c14b7d9959ff71cd2535b1/0_132_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d47af90949621427408888e44f34624",
+            "top_comments": [
+                "\"We do not want someone who does not know how to read books to tell us what we can and can not read. \"\n\n  \nA solid moral argument.",
+                "This administration has important things to do, like repealing the definition of \"Showerhead\" (see [section 2](https://www.whitehouse.gov/presidential-actions/2025/04/maintaining-acceptable-water-pressure-in-showerheads/)) presumably because the current definition of a showerhead is too woke for Republicans.",
+                "Hegseth wanted to do a book burn, but they were to scared of his flammability to proceed. From the liquor. Because he\u2019s a white nationalist alcoholic. And a rapist.\u00a0",
+                "There are schools at the pentagon?",
+                "I spent most of my young life in these schools and graduated at one.  It takes big balls to do what they're doing because in our (the students/military dependents) lives, our actions reflect on our military sponsor (mom or dad in service)  In that community, you don't rock the boat because it could impact your parent/s career.  It shouldn't, but especially under this administration you can bet that Trump will end the military family member's career over this.",
+                "Hegseth responded \"Something, something, lethality, something something War fighters, something, something mission...\" Then smiled, flexed, and pretended to do really bad pushups.",
+                "The last book Hegseth finished, he failed to color inside the lines.",
+                "*There's more than one way to burn a book. -Ray Bradbury*",
+                "From weekend anchor to Secretary of Defense. Only in Trump's America.",
+                "Keep the pressure up! No rest till 2029!"
+            ],
+            "aggregate_sentiment": 0.0
+        },
+        {
+            "category": "HOT",
+            "title": "Notorious internet messageboard 4chan has been hacked",
+            "external_url": "https://www.reuters.com/technology/cybersecurity/notorious-internet-messageboard-4chan-has-been-hacked-posts-claim-2025-04-15/",
+            "upvotes": 2066,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "\"The user then pointed Reuters to an unrelated, explicit four-minute video montage. A request for further information was followed by a link to a different video with similar content.\"\n\n\nNot sure what they expected",
+                "The QA board, which is known for popularizing soyjacks, got shut down indefinitely after beefing with the site. They made a new site, nicknamed the sharty. Turns out 4chan hasn't been updated since 2014. \n\nThe guy did it by uploading a pdf onto a board that allowed it that executed some stuff in PHP at the end and made him a master level user.",
+                "What ive read so far is basically they didnt upgrade anything since moot left and they got pwned by an pdf file with embedded ghostscript.",
+                "Must have been [The hacker known as 4chan](https://youtu.be/HMZaS94LF5U?si=RWPrqEQ7fWk_OZcc)",
+                "Get the kid from IT to install Adobe Reader, fixes everything.",
+                "So, this is how 4chan ends?\n\nNot with a Thunder, but with a shart?\n\nFitting.",
+                "Seems like the only thing they\u2019ve accomplished in the last 10 years is adding a captcha system that\u2019s incredibly shit and drives away real people.\n\nI doubt they\u2019d even be able to figure out how to fix anything, idk how they got put in charge of 4chan.",
+                "Just who is this \"Four Chan?\"",
+                "I'm guessing, it was done for the lulz",
+                "I\u2019m hearing the hacker was behind 7 proxies, they\u2019re never catching him"
+            ],
+            "aggregate_sentiment": 28.0
+        },
+        {
+            "category": "HOT",
             "title": "Ice deports Venezuelan teen despite reportedly knowing he was not a target",
             "external_url": "https://www.theguardian.com/us-news/2025/apr/15/merwil-gutierrez-venezuelan-teen-deported-el-salvador",
-            "upvotes": 41714,
+            "upvotes": 44134,
             "date": "04/15/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/ee360365a30b84e756e6cd505a06b458cdacf009/0_61_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be7ae080843db1eb7019eb2e247be2f1",
             "top_comments": [
@@ -23,30 +86,9 @@
         },
         {
             "category": "HOT",
-            "title": "Students at Pentagon schools sue Hegseth over book bans on race and gender",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans",
-            "upvotes": 5765,
-            "date": "04/15/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/caaae65eb27630f687c14b7d9959ff71cd2535b1/0_132_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d47af90949621427408888e44f34624",
-            "top_comments": [
-                "\"We do not want someone who does not know how to read books to tell us what we can and can not read. \"\n\n  \nA solid moral argument.",
-                "This administration has important things to do, like repealing the definition of \"Showerhead\" (see [section 2](https://www.whitehouse.gov/presidential-actions/2025/04/maintaining-acceptable-water-pressure-in-showerheads/)) presumably because the current definition of a showerhead is too woke for Republicans.",
-                "Hegseth wanted to do a book burn, but they were to scared of his flammability to proceed. From the liquor. Because he\u2019s a white nationalist alcoholic. And a rapist.\u00a0",
-                "There are schools at the pentagon?",
-                "I spent most of my young life in these schools and graduated at one.  It takes big balls to do what they're doing because in our (the students/military dependents) lives, our actions reflect on our military sponsor (mom or dad in service)  In that community, you don't rock the boat because it could impact your parent/s career.  It shouldn't, but especially under this administration you can bet that Trump will end the military family member's career over this.",
-                "Hegseth responded \"Something, something, lethality, something something War fighters, something, something mission...\" Then smiled, flexed, and pretended to do really bad pushups.",
-                "*There's more than one way to burn a book. -Ray Bradbury*",
-                "From weekend anchor to Secretary of Defense. Only in Trump's America.",
-                "Keep the pressure up! No rest till 2029!",
-                "I was hoping they\u2019d do this. He\u2019s breaking our constitution."
-            ],
-            "aggregate_sentiment": 18.0
-        },
-        {
-            "category": "HOT",
             "title": "Whistleblower org says DOGE may have caused \u2018significant cyber breach\u2019 at US labor watchdog",
             "external_url": "https://www.reuters.com/technology/cybersecurity/whistleblower-org-says-doge-may-have-caused-significant-cyber-breach-us-labor-2025-04-15/",
-            "upvotes": 20450,
+            "upvotes": 22146,
             "date": "04/15/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -61,76 +103,55 @@
                 "Yeah, everyone in tech knew this was a disaster both happening and in the making.\n\nWhat can you do though, when the population elects a disaster?\n\nYou just have to wait for it to play out, while knowing their denial means they'll never even accept they created the disaster.",
                 "DOGE itself is the cyber breach. Anything else is just additional damage."
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 12.0
         },
         {
             "category": "HOT",
             "title": "Funeral to be held for Idaho teen with autism shot 9 times by police in his yard",
             "external_url": "https://www.nbcnews.com/news/us-news/funeral-held-idaho-teen-autism-shot-9-police-yard-rcna201360",
-            "upvotes": 12317,
+            "upvotes": 13683,
             "date": "04/15/2025",
             "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250415-victor-perez-mn-1305-dda988.jpg",
             "top_comments": [
                 "As a parent to a son with autism this story scares the shit out of me.",
+                "Here is the number for the Pocatello Mayor\u2019s office if you\u2019d like to voice your dismay over this murder:\n\n208-234-6163",
                 "These fucking pigs had a goddamn fence between them and the kid that looked like he couldn\u2019t even walk and unloaded on him in less than 15 seconds from the time they arrived. Fuck all of them.",
                 "they'll try to justify this moment to themselves for the rest of their lives, and the law may address it one way or the other, but every one of them who fired their gun just *murdered* this kid.",
-                "Here is the number for the Pocatello Mayor\u2019s office if you\u2019d like to voice your dismay over this murder:\n\n208-234-6163",
                 "We have the video. The kid could barely stand up, was 6 feet behind a fence, and the cops started shooting almost immediately after getting out of their cars. This was a straight up murder. \n\nI have autism and mental illness and spend a lot of time with people who could easily become this boy. It's really scary.",
                 "Shithole country. Anywhere else, no less than the president or prime minister would be addressing the entire nation.",
                 "Crazy that a disabled child scared these officers enough that they immediately drew service weapons and didn't even consider less lethal means. Really speaks poorly of their character and courage.",
                 "I've watched several videos of teens with autism getting man-handled or straight up physically abused by cops because of spasms or whatever else. It's pretty horrifying to think about. This is the worst case I think i've heard about. Just absolutely mind boggling. So much wrong..",
-                "Stories like this and the reaction from certain people make me genuinely believe that we live in an age now where peoples brains are so rotted from propaganda they would defend anything. Some of you people would be defending a cop if they drew their gun and literally said \"Okay I am going to kill this person now because I want to\"",
-                "They went and executed this kid. Fuck those pigs.\u00a0"
+                "\\> \"In this case, two individuals were within a few feet of an armed, non-compliant individual,\" Schei\u00a0[said at a news conference\u00a0on Monday](https://www.youtube.com/watch?v=BDrQT0TkNGo). \"The risk was immediate, and the situation rapidly evolving.\"\n\n  \nOh fuck ALL the way off. I'm so tired of this.",
+                "Stories like this and the reaction from certain people make me genuinely believe that we live in an age now where peoples brains are so rotted from propaganda they would defend anything. Some of you people would be defending a cop if they drew their gun and literally said \"Okay I am going to kill this person now because I want to\""
             ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "HOT",
-            "title": "NY immigrants are seeing a grim email in their inboxes: \u2018It is time for you to leave\u2019",
-            "external_url": "https://gothamist.com/news/ny-immigrants-are-seeing-a-grim-email-in-their-inboxes-it-is-time-for-you-to-leave?utm_source=firefox-newtab-en-us",
-            "upvotes": 2074,
-            "date": "04/16/2025",
-            "thumbnail": "https://api-prod.gothamist.com/images/350733/fill-1200x650|format-webp|webpquality-85/",
-            "top_comments": [
-                "They are running ads in Spanish radio stations in Texas also. The ads are Newman (or whatever her name is) from the DHS telling people to leave.",
-                "*give me your tired, your poor, your huddled masses yearning to breathe free*\n\nNo- actually\n>\u201cIt is time for you to leave the United States,\u201d the mass email from the U.S. Department of Homeland Security advises, including this warning: \u201cDo not attempt to remain in the United States \u2014 the federal government will find you.\u201d\n\nWell ain't that a kick in the teeth.",
-                "\"It's not about racism, is about enforcing the law.\" -\u00a0 every racist ever.",
-                "\"It's time for you to learn about the second amendment\"",
-                "Come on Congress. Get off your ass and do something.",
-                "This is dystopian as hell to witness as a non-American.",
-                "The whole city is immigrants though.",
-                "I wonder how the native Americans would define \u201cimmigrants\u201d to their country\u2026",
-                "When are people going to rise up and stop this? When will enough be enough? When people are illegally shipped off to gulags? When protesters are tazed and beaten? When children die of preventable disease? When  citizens are lined up and shot? Tell me, when is America going to step the fuck up?",
-                "Lmao USA is hilarious, what a shithole."
-            ],
-            "aggregate_sentiment": 60.0
+            "aggregate_sentiment": 14.0
         },
         {
             "category": "HOT",
             "title": "Indiana mom brought gun to grade school and threatened lesbian teacher, police say",
             "external_url": "https://www.nbcnews.com/news/us-news/mom-arrested-bringing-gun-indiana-elementary-school-harassing-teacher-rcna201316",
-            "upvotes": 10258,
+            "upvotes": 11620,
             "date": "04/15/2025",
             "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250415-wthr-mom-gun-3-ew-1120a-033dc9.jpg",
             "top_comments": [
                 "> Police let Rivers go, but then she sent a threatening message to her daughter's teacher 25 minutes later, the affidavit states.\nRivers told the teacher that \"god will condemn you to hell\" and that \"your (sic) a child predator,\" the affidavit states.\nRivers allegedly told the teacher to \"say ur prayers and kiss ur kids goodbye and goodnight u never know when god says its (sic) our time so be prepared.\"\n\nThis person plans to homeschool their child? Maybe they can take lessons in spelling together. Sadly, the thing they're most likely to teach their child is hatred.",
-                ">The teacher, who keeps a picture of her wife and daughter on her desk, told police that she \"gave an assignment to the whole class with the subject matter of flags.\" When she was giving examples of country flags, she also referenced the rainbow flag in the classroom with the words \"be kind\" on it, the affidavit said.\n\n>Rivers told the teacher she disagreed with an assignment, accusing the educator of \"trying to push her personal agenda in regard to sexuality on her daughter,\" the affidavit said. The teacher said she allowed Rivers' daughter to skip the assignment.\n\nRemember that time Jesus said fuck being kind to people?\n\n  \nAlso just imagine living in so much fear that you feel the need to bring a gun to drop off your kid. That level of paranoia is just unfathomable to me.",
                 "Carrying a gun on a school campus and threatening a teacher cause they used a pride flag that said \u201cbe kind\u201d on it as one of her several examples. I don\u2019t know God, but I have a hard time they would want this person speaking for them.\u00a0\n\nAlso, I feel horrible for that kid. Their parents are beyond psycho and now they\u2019ll be \u201chomeschooled\u201d away from any protection.\u00a0",
+                ">The teacher, who keeps a picture of her wife and daughter on her desk, told police that she \"gave an assignment to the whole class with the subject matter of flags.\" When she was giving examples of country flags, she also referenced the rainbow flag in the classroom with the words \"be kind\" on it, the affidavit said.\n\n>Rivers told the teacher she disagreed with an assignment, accusing the educator of \"trying to push her personal agenda in regard to sexuality on her daughter,\" the affidavit said. The teacher said she allowed Rivers' daughter to skip the assignment.\n\nRemember that time Jesus said fuck being kind to people?\n\n  \nAlso just imagine living in so much fear that you feel the need to bring a gun to drop off your kid. That level of paranoia is just unfathomable to me.",
                 "Hilarious that her excuse as a responsible gun owner was that she \"didn't even realize she had it on\" and has committed the same crime of bringing it to a school multiple times in the past",
                 "When \"Be Kind\" is enough to provoke people to threats and violence, maybe it's time to take a deeper look at where these people are getting indoctrinated.",
                 "Them Christian values. I doubt any of them actually reads the Bible. Just a club to hate on people.\nLol",
                 "Why does this Indiana family feel the need to be armed constantly?  The armed and abusive mother seems to have paranoia and an anger issue.  She was a threat to everyone on campus at the time she massively acted out.  If she was so upset about her child\u2019s teacher\u2019s sexuality, she should have requested a class transfer, changed schools or home-schooled.  She should start with gun safety rules & regulations.",
-                "Will POTUS say \u201cwhack job\u201d as he did regarding the arsonist who attacked the Pennsylvania\u2019s Governor\u2019s Mansion???",
+                "I wonder what would happen if a gay person showed up to a school with a gun and threatened to shoot a straight teacher for having a picture of their family on their desk \ud83e\uddd0",
                 "They didn't even arrest her for the gun initially. All this was swept away with a warning but then ole girl doubles down and makes more threats 25 minutes later. Somebody tell her white privilege has a 30 minute cool down before it can be used for the same thing again.",
-                "I wonder what would happen if a gay person showed up to a school with a gun and threatened to shoot a straight teacher for having a picture of their family on their desk \ud83e\uddd0"
+                "Will POTUS say \u201cwhack job\u201d as he did regarding the arsonist who attacked the Pennsylvania\u2019s Governor\u2019s Mansion???"
             ],
-            "aggregate_sentiment": 38.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "HOT",
             "title": "\u2018Treated like a criminal': US citizen says he was detained returning from Canada",
             "external_url": "https://nbcnewyork.app.link/UHX2TktOASb",
-            "upvotes": 11421,
+            "upvotes": 12495,
             "date": "04/15/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -142,16 +163,16 @@
                 "It's so hard to have empathy for people who voted for this.\n\n>I thought things would be better with Mr Trump but they are worse.\n\nFucking dummy would probably vote for him again.",
                 ">\"I really thought things would change after this administration, when we have Mr. Trump in office, things would change to the better,\" Atallah said. \"Things actually changed to the worse.\"\n\n>NBC10 Boston has reached out to the Department of Homeland Security and Customs and Border Protection, but has not heard back.\n\n>Atallah is planning to leave for Lebanon in a few days, and he is not sure what will happen when he tries to return.\n\nMan who voted for the face eating leopards is surprised that the leopard started eating his face, too. And then he's about to put himself back into this situation by leaving the country again.\n\n  \nFucking idiot. He got what he voted for.",
                 "Went through all that, then goes off to lebanon, not the brightest bulb in the pack",
-                "Man as a lebanese myself i can\u2019t help but laugh at this idiot, you deserve it",
-                "Remember when people said \"Well, that's a slippery slope argument, we'll never see authoritarianism in the US.\"\n\nWhelp, they were wrong.  Here we are."
+                "Remember when people said \"Well, that's a slippery slope argument, we'll never see authoritarianism in the US.\"\n\nWhelp, they were wrong.  Here we are.",
+                "Man as a lebanese myself i can\u2019t help but laugh at this idiot, you deserve it"
             ],
-            "aggregate_sentiment": 0.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "HOT",
             "title": "US judge to question Trump officials' refusal to return Kilmar Abrego Garcia",
             "external_url": "https://apnews.com/article/kilmar-abrego-garcia-el-salvador-trump-deported-e537cfb69a9840046b5d3e512509e9a8",
-            "upvotes": 6261,
+            "upvotes": 6886,
             "date": "04/15/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -166,398 +187,182 @@
                 "I really want to see a judge call out the administrations purpose for sending these people to El Salvador in the first place. They want to subject people to cruel and unusual punishments. If the immigrants were in the U.S. they could challenge their conditions as unlawful because the U.S. would have the ability to change them. The El Salvador plan is a workaround because even if the conditions of the prison are cruel under U.S. standards \"well what do you want us to do about it? We can't force El Salvador to fix it's prisons.\"",
                 "Judge's should be deputizing people to enforce their rulings. The judicial branch is being dismantled and its authority completely undermined by Trump's admin top to bottom."
             ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "HOT",
-            "title": "'Nothing has been done' - judge admonishes Trump officials in deportation case",
-            "external_url": "https://www.bbc.com/news/articles/c793vwrrgjwo",
-            "upvotes": 2765,
-            "date": "04/15/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/f3b6/live/4f45d530-1a5e-11f0-bd32-7346abd61002.jpg",
-            "top_comments": [
-                "2 weeks? How's about like 1 week or less at this point.\n\nEdit: a video call to see if he's alive at the bare minimum?",
-                ">Nothing will be done.\n\nFTFY\n\nThe goal is fear. First it's immigrants (undocumented and documented). Next it's political rivals. Then it's the average American. Once the average American (MAGA faithful included) has a general sense of fear, the true exploitation will begin.",
-                "Trump is laughing at the justice system and relishing the power SCOTUS granted him. \n\nReach your own conclusions about the few remaining methods to contain him.",
-                "\u201cFor reasons of national security, it\u2019s not possible to show what we did to try and return this citizen\u201d",
-                "And nothing *will* be done until these people start getting arrested for contempt. Stop being pussies and do your fucking job",
-                "round them up, him, his enablers, put them in prison. protect the constitution. protect the nation.",
-                "Keep it up and I\u2019ll admonish you a second time. Maybe write a strongly worded letter.",
-                "I hope he is still alive.",
-                "Ooooh! They've been *admonished!* Does anyone think they care? Get in the streets, people! Ostracize your \"friends\" that didn't bother to vote. Take a chance. Get out there!",
-                "Put.  \nThem.  \nIn.  \nJail."
-            ],
-            "aggregate_sentiment": 14.0
-        },
-        {
-            "category": "HOT",
-            "title": "Notorious internet messageboard 4chan has been hacked",
-            "external_url": "https://www.reuters.com/technology/cybersecurity/notorious-internet-messageboard-4chan-has-been-hacked-posts-claim-2025-04-15/",
-            "upvotes": 811,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "The QA board, which is known for popularizing soyjacks, got shut down indefinitely after beefing with the site. They made a new site, nicknamed the sharty. Turns out 4chan hasn't been updated since 2014. \n\nThe guy did it by uploading a pdf onto a board that allowed it that executed some stuff in PHP at the end and made him a master level user.",
-                "Must have been [The hacker known as 4chan](https://youtu.be/HMZaS94LF5U?si=RWPrqEQ7fWk_OZcc)",
-                "Get the kid from IT to install Adobe Reader, fixes everything.",
-                "Just who is this \"Four Chan?\"",
-                "I'm guessing, it was done for the lulz",
-                "the call is coming from inside the house:)",
-                "So, this is how 4chan ends?\n\nNot with a Thunder, but with a shart?\n\nFitting.",
-                "Seems like the only thing they\u2019ve accomplished in the last 10 years is adding a captcha system that\u2019s incredibly shit and drives away real people.\n\nI doubt they\u2019d even be able to figure out how to fix anything, idk how they got put in charge of 4chan.",
-                "Infamous hacker known as 4chan",
-                "It was bound to happen. Now everyone will know about my Godzilla ntr fanfic! Nooooooooo!"
-            ],
             "aggregate_sentiment": 42.0
         },
         {
-            "category": "NEW",
-            "title": "Notorious internet messageboard 4chan has been hacked",
-            "external_url": "https://www.reuters.com/technology/cybersecurity/notorious-internet-messageboard-4chan-has-been-hacked-posts-claim-2025-04-15/",
-            "upvotes": 811,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "The QA board, which is known for popularizing soyjacks, got shut down indefinitely after beefing with the site. They made a new site, nicknamed the sharty. Turns out 4chan hasn't been updated since 2014. \n\nThe guy did it by uploading a pdf onto a board that allowed it that executed some stuff in PHP at the end and made him a master level user.",
-                "Must have been [The hacker known as 4chan](https://youtu.be/HMZaS94LF5U?si=RWPrqEQ7fWk_OZcc)",
-                "Get the kid from IT to install Adobe Reader, fixes everything.",
-                "Just who is this \"Four Chan?\"",
-                "I'm guessing, it was done for the lulz",
-                "the call is coming from inside the house:)",
-                "So, this is how 4chan ends?\n\nNot with a Thunder, but with a shart?\n\nFitting.",
-                "Seems like the only thing they\u2019ve accomplished in the last 10 years is adding a captcha system that\u2019s incredibly shit and drives away real people.\n\nI doubt they\u2019d even be able to figure out how to fix anything, idk how they got put in charge of 4chan.",
-                "Infamous hacker known as 4chan",
-                "It was bound to happen. Now everyone will know about my Godzilla ntr fanfic! Nooooooooo!"
-            ],
-            "aggregate_sentiment": 20.0
-        },
-        {
-            "category": "NEW",
+            "category": "HOT",
             "title": "Marshall man claims ICE detained him for protests over police killings",
             "external_url": "https://www.mprnews.org/story/2025/04/15/marshall-man-claims-ice-detained-him-for-protests-over-police-killings",
-            "upvotes": 767,
+            "upvotes": 1498,
             "date": "04/16/2025",
             "thumbnail": "https://img.apmcdn.org/48056ada026c13a4c9c3517c9647583ef2515641/widescreen/a9b7fc-20250414-a-man-holds-his-baby-2000.jpg",
             "top_comments": [
                 "Well, the gestapo is alive and well and it\u2019s in the form of ice.",
                 "Incredibly Corrupt and Evil",
-                "Welcome to the Fourth Reich everyone.",
                 "I have decided that henceforth I shall call them the Gicetapo.",
-                "Bunch of human traffickers",
-                "Every single ice agent needs to be arrested and sent to El Salvador throw in the Republicans and office and it\u2019s a win win for everyone. (Minus the Nazis but no one should care about them)",
-                "I am not religious but they probably are. On judgement day, they will go straight to hell",
-                "I wouldn't be surprised if he gets sent to el Salvador instead of Indonesia..."
-            ],
-            "aggregate_sentiment": 0.0
-        },
-        {
-            "category": "NEW",
-            "title": "NY immigrants are seeing a grim email in their inboxes: \u2018It is time for you to leave\u2019",
-            "external_url": "https://gothamist.com/news/ny-immigrants-are-seeing-a-grim-email-in-their-inboxes-it-is-time-for-you-to-leave?utm_source=firefox-newtab-en-us",
-            "upvotes": 2071,
-            "date": "04/16/2025",
-            "thumbnail": "https://api-prod.gothamist.com/images/350733/fill-1200x650|format-webp|webpquality-85/",
-            "top_comments": [
-                "They are running ads in Spanish radio stations in Texas also. The ads are Newman (or whatever her name is) from the DHS telling people to leave.",
-                "*give me your tired, your poor, your huddled masses yearning to breathe free*\n\nNo- actually\n>\u201cIt is time for you to leave the United States,\u201d the mass email from the U.S. Department of Homeland Security advises, including this warning: \u201cDo not attempt to remain in the United States \u2014 the federal government will find you.\u201d\n\nWell ain't that a kick in the teeth.",
-                "\"It's not about racism, is about enforcing the law.\" -\u00a0 every racist ever.",
-                "\"It's time for you to learn about the second amendment\"",
-                "Come on Congress. Get off your ass and do something.",
-                "This is dystopian as hell to witness as a non-American.",
-                "The whole city is immigrants though.",
-                "I wonder how the native Americans would define \u201cimmigrants\u201d to their country\u2026",
-                "When are people going to rise up and stop this? When will enough be enough? When people are illegally shipped off to gulags? When protesters are tazed and beaten? When children die of preventable disease? When  citizens are lined up and shot? Tell me, when is America going to step the fuck up?",
-                "Lmao USA is hilarious, what a shithole."
-            ],
-            "aggregate_sentiment": 38.0
-        },
-        {
-            "category": "NEW",
-            "title": "White House Ends a Regular Reporting Slot for Independent Newswires",
-            "external_url": "https://www.nytimes.com/2025/04/15/business/media/trump-white-house-newswire-press.html?unlocked_article_code=1.AE8.rubn.BXVnTqfeKKB5&smid=re-share",
-            "upvotes": 776,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Only loyal propaganda allowed.",
-                "This administration can only claim transparency because of how thin their skin is.",
-                "Republican voters - \"It doesn't look like anything to me.\"",
-                "Controlling the message is Mission 1..",
-                "Where are all those free speech right wingers?  Or is this not infringing free speech because these reporters are now free to stand around outside with no access saying whatever they like to an audience of 0?",
-                "Because they\u2019re fascists.",
-                "First Amendment my ass! They\u2019re taking the constitution and wiping it with their ass.",
-                "The White House - home of weak-ass babies.",
-                "So the White House wants to supposedly expand access to \u201cnon-traditional\u201d media by reserving a spot in the pool for, checks notes, \u201cPRINT MEDIA?\u201d What?\n\nI think the entire White House Correspondents Association should boycott attendance at any White House Press Briefing or Trump gaggle. Shut his voice off.",
-                "right only non sensical softball questions and praise allowed. smh \ud83e\udd26\u200d\u2642\ufe0f what an embarrassment we have become.\u00a0"
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "NEW",
-            "title": "Wink Martindale, the genial game-show host and an early TV interviewer of Elvis Presley, dies at 91",
-            "external_url": "https://abcnews.go.com/Entertainment/wireStory/wink-martindale-genial-game-show-host-early-tv-120846992",
-            "upvotes": 404,
-            "date": "04/16/2025",
-            "thumbnail": "https://i.abcnewsfe.com/a/99ec86c7-1737-40d2-a351-3fc0ba296881/wirestory_d2f333da86b6efb3b99b36bb7a71a7a4_16x9.jpg?w=1600",
-            "top_comments": [
-                "I didn\u2019t realize he was still alive, but I used to watch him on TV Land a lot",
-                "Not the Defensive Coordinator from\nMichigan 2 years ago?",
-                "RIP Wink and The Tic Tac Dough Dragon",
-                "For anyone who didn't run into it, he (or at least his people) have a YouTube channel where he'd post various pilot/unaired/miscellaneous episodes of game shows that never made it into production, posting new content as recently as today.\n\n[https://www.youtube.com/@WinkMartindaleGames/videos](https://www.youtube.com/@WinkMartindaleGames/videos)",
-                "He's off to the great bonus round in the sky. R.I.P., and no dragons!",
-                "His sister-in-law was my 2nd grade teacher.",
-                "He\u2019s randomly been doing really funny pre recorded bits on the Howard stern for a few years",
-                "I think he was on the money in The Game of Life.",
-                "May his memory be a blessing.",
-                "I honestly thought he had already died."
-            ],
-            "aggregate_sentiment": 60.0
-        },
-        {
-            "category": "NEW",
-            "title": "'Nothing has been done' - judge admonishes Trump officials in deportation case",
-            "external_url": "https://www.bbc.com/news/articles/c793vwrrgjwo",
-            "upvotes": 2762,
-            "date": "04/15/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/f3b6/live/4f45d530-1a5e-11f0-bd32-7346abd61002.jpg",
-            "top_comments": [
-                "2 weeks? How's about like 1 week or less at this point.\n\nEdit: a video call to see if he's alive at the bare minimum?",
-                ">Nothing will be done.\n\nFTFY\n\nThe goal is fear. First it's immigrants (undocumented and documented). Next it's political rivals. Then it's the average American. Once the average American (MAGA faithful included) has a general sense of fear, the true exploitation will begin.",
-                "Trump is laughing at the justice system and relishing the power SCOTUS granted him. \n\nReach your own conclusions about the few remaining methods to contain him.",
-                "\u201cFor reasons of national security, it\u2019s not possible to show what we did to try and return this citizen\u201d",
-                "And nothing *will* be done until these people start getting arrested for contempt. Stop being pussies and do your fucking job",
-                "round them up, him, his enablers, put them in prison. protect the constitution. protect the nation.",
-                "Keep it up and I\u2019ll admonish you a second time. Maybe write a strongly worded letter.",
-                "I hope he is still alive.",
-                "Ooooh! They've been *admonished!* Does anyone think they care? Get in the streets, people! Ostracize your \"friends\" that didn't bother to vote. Take a chance. Get out there!",
-                "Put.  \nThem.  \nIn.  \nJail."
-            ],
-            "aggregate_sentiment": 38.0
-        },
-        {
-            "category": "NEW",
-            "title": "Hamas says it has lost contact with US-Israeli hostage in Gaza",
-            "external_url": "https://www.bbc.com/news/articles/cyvqnd7y5n0o",
-            "upvotes": 476,
-            "date": "04/15/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/e1ac/live/8d1cefe0-1a38-11f0-b287-9bbf4848835b.jpg",
-            "top_comments": [
-                "Didn\u2019t Hamas say something like this before about another hostage and that hostage turned out to be fine when they were released during a ceasefire exchange later on?",
-                "They are \"unable to effectuate his release\" because \"we don't know where they are\".  Sounds familiar.",
-                "Did they look in El Salvador?",
-                "Is that code for \"already murdered?\"",
-                "Uncle Sam: \u201cWe also seemed to have lost contact with several of our B-2\u2019s. Let us know if you see or hear anything.\u201d",
-                "Sorry wait why do we care what noises come out of Hamas except death rattles?",
-                "Israel killing their own soldiers is by design, it's called the [Hannibal Directive](https://www.jpost.com/israel-news/article-844045). Israel killed him.",
-                "[removed]",
-                "It's going to be weird for them when Donald gets angry",
-                "They\u2019re just copying what the Trump administration is doing at this point."
-            ],
-            "aggregate_sentiment": 50.0
-        },
-        {
-            "category": "NEW",
-            "title": "Los Angeles County reaches tentative $4 billion settlement for thousands of sexual abuse cases",
-            "external_url": "https://www.cbsnews.com/losangeles/news/los-angeles-county-tentative-settlement-sexual-abuse/",
-            "upvotes": 321,
-            "date": "04/15/2025",
-            "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/04/16906d42-2e94-4e5c-9dae-bf83817b87e6/thumbnail/1200x630/e421aff9d748798f6e1f47e37e3e513d/gettyimages-1242004214.jpg?v=412b48b2e3085db78364e6e02a7dc2b8",
-            "top_comments": [
-                "> Although a majority of the claims are from the 1980s,1990s and 2000s, the county said there are claims that date back to 1959. The claims are alleged to have taken place at probation department facilities and at the MacLaren Children's Center.\nIn December 2022, McNicholas & McNicholas, LLP and Becker Law Group filed a complaint on behalf of 1,200 anonymous plaintiffs. The victims allege they were sexually abused and mistreated while they were staying in LA County juvenile probation centers.\n\nSo decades of sexual abuse inside juvenile facilities that was clearly a massive problem. I'm glad the victims are being financially compensated, but people belong in prison for this. You don't just ignore this level of abuse, you actively cover it up. Then the county has the guts to complain about how this hurts their budget.",
-                "As tax payers, we deserve to know the names of the criminals that cost us this money. We also need to know that they've been imprisoned. If we're paying the money, we need accountability",
-                "By comparison, the LA Catholic Diocese paid out 880 million, as opposed to LA County's 4 billion, in sex abuse claims.",
-                "TLDR; [Los Angeles County has reached a tentative $4 billion settlement to resolve more than 6,800 sexual abuse claims involving juveniles in county custody, dating back to 1959. The claims stem from abuse in facilities such as juvenile halls, probation camps, foster care, and the now-closed MacLaren Children\u2019s Center. The deal, enabled by California\u2019s 2020 law temporarily lifting the statute of limitations for such cases, would be the largest public settlement of its kind in U.S. history. Approval is still pending from the county\u2019s Claims Board and Board of Supervisors](https://www.cbsnews.com/losangeles/news/los-angeles-county-tentative-settlement-sexual-abuse/)",
-                "As a LA County resident: WTF!?!? This better include a shitload of firings and prosecutions!",
-                "Fucking disgusting. As if they didn't already have the odds against them for a better future. They robbed them of whatever they had left.",
-                "\"The victims allege they were sexually abused and mistreated while they were staying in LA County juvenile probation centers.\"\n\nSo incompetence and crime perpetrated by LA county employees over the past few decades are going to cost the taxpayers $4B. Got it.",
-                "This is more than the BSA agreement and Boy Scouts had more than 82,000 claims. No one cares about men"
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Students at Pentagon schools sue Hegseth over book bans on race and gender",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans",
-            "upvotes": 5767,
-            "date": "04/15/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/caaae65eb27630f687c14b7d9959ff71cd2535b1/0_132_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d47af90949621427408888e44f34624",
-            "top_comments": [
-                "\"We do not want someone who does not know how to read books to tell us what we can and can not read. \"\n\n  \nA solid moral argument.",
-                "This administration has important things to do, like repealing the definition of \"Showerhead\" (see [section 2](https://www.whitehouse.gov/presidential-actions/2025/04/maintaining-acceptable-water-pressure-in-showerheads/)) presumably because the current definition of a showerhead is too woke for Republicans.",
-                "Hegseth wanted to do a book burn, but they were to scared of his flammability to proceed. From the liquor. Because he\u2019s a white nationalist alcoholic. And a rapist.\u00a0",
-                "There are schools at the pentagon?",
-                "I spent most of my young life in these schools and graduated at one.  It takes big balls to do what they're doing because in our (the students/military dependents) lives, our actions reflect on our military sponsor (mom or dad in service)  In that community, you don't rock the boat because it could impact your parent/s career.  It shouldn't, but especially under this administration you can bet that Trump will end the military family member's career over this.",
-                "Hegseth responded \"Something, something, lethality, something something War fighters, something, something mission...\" Then smiled, flexed, and pretended to do really bad pushups.",
-                "*There's more than one way to burn a book. -Ray Bradbury*",
-                "From weekend anchor to Secretary of Defense. Only in Trump's America.",
-                "Keep the pressure up! No rest till 2029!",
-                "I was hoping they\u2019d do this. He\u2019s breaking our constitution."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Pakistan: Blast kills 3 police officers in Balochistan",
-            "external_url": "https://www.dw.com/en/pakistan-blast-kills-3-police-officers-in-balochistan/a-72247584",
-            "upvotes": 95,
-            "date": "04/15/2025",
-            "thumbnail": "https://static.dw.com/image/68190894_6.jpg",
-            "top_comments": [
-                "Excerpts from the article\n\n> At least three police officers were killed and 16 others injured on Tuesday after a bus carrying police personnel exploded in the Pakistani province of Balochistan.\n\n> While no group has claimed the attack, the Baloch Liberation Army (BLA) is the most active group in the region that carries out such deadly attacks on security forces.\n\n> \u2026\n\n> The mineral-rich southwestern province borders Afghanistan and Iran.\n\n> The situation in Balochistan has become increasingly tense in the last month after several Baloch separatist groups announced the formation of a common armed front on March 2.",
-                "i always wonder where these people are getting the parts to make these bombs"
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "Marshall man claims ICE detained him for protests over police killings",
-            "external_url": "https://www.mprnews.org/story/2025/04/15/marshall-man-claims-ice-detained-him-for-protests-over-police-killings",
-            "upvotes": 760,
-            "date": "04/16/2025",
-            "thumbnail": "https://img.apmcdn.org/48056ada026c13a4c9c3517c9647583ef2515641/widescreen/a9b7fc-20250414-a-man-holds-his-baby-2000.jpg",
-            "top_comments": [
-                "Well, the gestapo is alive and well and it\u2019s in the form of ice.",
-                "Incredibly Corrupt and Evil",
+                "Police killings, you say? Didn't trump just pardon a whole bunch of police killers?",
                 "Welcome to the Fourth Reich everyone.",
-                "I have decided that henceforth I shall call them the Gicetapo.",
-                "Bunch of human traffickers",
-                "Every single ice agent needs to be arrested and sent to El Salvador throw in the Republicans and office and it\u2019s a win win for everyone. (Minus the Nazis but no one should care about them)",
                 "I am not religious but they probably are. On judgement day, they will go straight to hell",
-                "I wouldn't be surprised if he gets sent to el Salvador instead of Indonesia..."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "Students at Pentagon schools sue Hegseth over book bans on race and gender",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans",
-            "upvotes": 5771,
-            "date": "04/15/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/caaae65eb27630f687c14b7d9959ff71cd2535b1/0_132_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d47af90949621427408888e44f34624",
-            "top_comments": [
-                "\"We do not want someone who does not know how to read books to tell us what we can and can not read. \"\n\n  \nA solid moral argument.",
-                "This administration has important things to do, like repealing the definition of \"Showerhead\" (see [section 2](https://www.whitehouse.gov/presidential-actions/2025/04/maintaining-acceptable-water-pressure-in-showerheads/)) presumably because the current definition of a showerhead is too woke for Republicans.",
-                "Hegseth wanted to do a book burn, but they were to scared of his flammability to proceed. From the liquor. Because he\u2019s a white nationalist alcoholic. And a rapist.\u00a0",
-                "There are schools at the pentagon?",
-                "I spent most of my young life in these schools and graduated at one.  It takes big balls to do what they're doing because in our (the students/military dependents) lives, our actions reflect on our military sponsor (mom or dad in service)  In that community, you don't rock the boat because it could impact your parent/s career.  It shouldn't, but especially under this administration you can bet that Trump will end the military family member's career over this.",
-                "Hegseth responded \"Something, something, lethality, something something War fighters, something, something mission...\" Then smiled, flexed, and pretended to do really bad pushups.",
-                "*There's more than one way to burn a book. -Ray Bradbury*",
-                "From weekend anchor to Secretary of Defense. Only in Trump's America.",
-                "Keep the pressure up! No rest till 2029!",
-                "I was hoping they\u2019d do this. He\u2019s breaking our constitution."
-            ],
-            "aggregate_sentiment": 60.0
-        },
-        {
-            "category": "RISING",
-            "title": "NY immigrants are seeing a grim email in their inboxes: \u2018It is time for you to leave\u2019",
-            "external_url": "https://gothamist.com/news/ny-immigrants-are-seeing-a-grim-email-in-their-inboxes-it-is-time-for-you-to-leave?utm_source=firefox-newtab-en-us",
-            "upvotes": 2075,
-            "date": "04/16/2025",
-            "thumbnail": "https://api-prod.gothamist.com/images/350733/fill-1200x650|format-webp|webpquality-85/",
-            "top_comments": [
-                "They are running ads in Spanish radio stations in Texas also. The ads are Newman (or whatever her name is) from the DHS telling people to leave.",
-                "*give me your tired, your poor, your huddled masses yearning to breathe free*\n\nNo- actually\n>\u201cIt is time for you to leave the United States,\u201d the mass email from the U.S. Department of Homeland Security advises, including this warning: \u201cDo not attempt to remain in the United States \u2014 the federal government will find you.\u201d\n\nWell ain't that a kick in the teeth.",
-                "\"It's not about racism, is about enforcing the law.\" -\u00a0 every racist ever.",
-                "\"It's time for you to learn about the second amendment\"",
-                "Come on Congress. Get off your ass and do something.",
-                "This is dystopian as hell to witness as a non-American.",
-                "The whole city is immigrants though.",
-                "I wonder how the native Americans would define \u201cimmigrants\u201d to their country\u2026",
-                "When are people going to rise up and stop this? When will enough be enough? When people are illegally shipped off to gulags? When protesters are tazed and beaten? When children die of preventable disease? When  citizens are lined up and shot? Tell me, when is America going to step the fuck up?",
-                "Lmao USA is hilarious, what a shithole."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "'Nothing has been done' - judge admonishes Trump officials in deportation case",
-            "external_url": "https://www.bbc.com/news/articles/c793vwrrgjwo",
-            "upvotes": 2760,
-            "date": "04/15/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/f3b6/live/4f45d530-1a5e-11f0-bd32-7346abd61002.jpg",
-            "top_comments": [
-                "2 weeks? How's about like 1 week or less at this point.\n\nEdit: a video call to see if he's alive at the bare minimum?",
-                ">Nothing will be done.\n\nFTFY\n\nThe goal is fear. First it's immigrants (undocumented and documented). Next it's political rivals. Then it's the average American. Once the average American (MAGA faithful included) has a general sense of fear, the true exploitation will begin.",
-                "Trump is laughing at the justice system and relishing the power SCOTUS granted him. \n\nReach your own conclusions about the few remaining methods to contain him.",
-                "\u201cFor reasons of national security, it\u2019s not possible to show what we did to try and return this citizen\u201d",
-                "And nothing *will* be done until these people start getting arrested for contempt. Stop being pussies and do your fucking job",
-                "round them up, him, his enablers, put them in prison. protect the constitution. protect the nation.",
-                "Keep it up and I\u2019ll admonish you a second time. Maybe write a strongly worded letter.",
-                "I hope he is still alive.",
-                "Ooooh! They've been *admonished!* Does anyone think they care? Get in the streets, people! Ostracize your \"friends\" that didn't bother to vote. Take a chance. Get out there!",
-                "Put.  \nThem.  \nIn.  \nJail."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "Notorious internet messageboard 4chan has been hacked",
-            "external_url": "https://www.reuters.com/technology/cybersecurity/notorious-internet-messageboard-4chan-has-been-hacked-posts-claim-2025-04-15/",
-            "upvotes": 814,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "The QA board, which is known for popularizing soyjacks, got shut down indefinitely after beefing with the site. They made a new site, nicknamed the sharty. Turns out 4chan hasn't been updated since 2014. \n\nThe guy did it by uploading a pdf onto a board that allowed it that executed some stuff in PHP at the end and made him a master level user.",
-                "Must have been [The hacker known as 4chan](https://youtu.be/HMZaS94LF5U?si=RWPrqEQ7fWk_OZcc)",
-                "Get the kid from IT to install Adobe Reader, fixes everything.",
-                "Just who is this \"Four Chan?\"",
-                "I'm guessing, it was done for the lulz",
-                "the call is coming from inside the house:)",
-                "So, this is how 4chan ends?\n\nNot with a Thunder, but with a shart?\n\nFitting.",
-                "Seems like the only thing they\u2019ve accomplished in the last 10 years is adding a captcha system that\u2019s incredibly shit and drives away real people.\n\nI doubt they\u2019d even be able to figure out how to fix anything, idk how they got put in charge of 4chan.",
-                "Infamous hacker known as 4chan",
-                "It was bound to happen. Now everyone will know about my Godzilla ntr fanfic! Nooooooooo!"
+                "Bunch of human traffickers",
+                "I wouldn't be surprised if he gets sent to el Salvador instead of Indonesia...",
+                "Estimates are that by 2035 the US will be a net negative in population growth - there will be more people dying than being born. Any guesses as to what that means when you need to call a plumber, a doctor, a mechanic? I  won't live that long to see it, but I know for a fact the day will come when our country will be begging for the hardworking, contributing, positive citizens that we're now booting from the country. This thuggery from our pseudo-president is Un-American and Un-Constitutional. I pray there will be trials, someday, for the perpetrators of these criminal acts and neglect for law and order.",
+                "[ Removed by Reddit ]"
             ],
             "aggregate_sentiment": 40.0
         },
         {
-            "category": "RISING",
+            "category": "NEW",
+            "title": "U.K. Top Court Says Trans Women Are Not Legally Women Under Equality Act",
+            "external_url": "https://www.nytimes.com/2025/04/16/world/europe/uk-supreme-court-woman-definition-trans.html?unlocked_article_code=1.AE8.cfzk.pIrpb0-Czz4_&smid=url-share",
+            "upvotes": 186,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "> However, he added: \u201cWe counsel against reading this judgment as a triumph of one or more groups in our society at the expense of another, it is not.\u201d He said the ruling \u201cdoes not cause disadvantage to trans people\u201d because they have protections under anti-discrimination and equality laws.\n\n>Lord Hodge began his remarks by acknowledging the national conversation about transgender rights and protections, and described trans people as a \u201cvulnerable and often harassed minority,\u201d while noting that women had fought for centuries for equal rights.\n\n>He added: \u201cIt is not the task of this court to make policy on how the interests of these groups should be protected\u201d but \u201cto ascertain the meaning of the legislation which Parliament has enacted.\u201d\n\n  \n   \n   \nSo yeah they\u2019re just interpreting something, it doesn\u2019t mean the Act can\u2019t be changed.",
+                "I find it interesting and revealing that the debate is *always* over the definition of \"woman\" and never the definition of \"man\".",
+                "> However, he added: \u201cWe counsel against reading this judgment as a triumph of one or more groups in our society at the expense of another, it is not.\u201d \n\nTOO LATE, it is already here. \n\nWe will be flooded with \"the great vitory of the common sense\" from thousands and thousands of news site, propagandas, and pundits. \n\nAnd there will be counter fire from opposite position.",
+                "Someone once said. \"Let it be\". Nowadays some people just won't let it be. Sad times.",
+                "For the Americans: Watch how many anti-trans comments pop up, then remember:  \n\n- A teacher in Florida was fired for using a 17 year olds preferred name.\n- Republican lawmakers in Arkansas want to ban children from getting haircuts that \u201cdon\u2019t match their gender\u201d\n- A cis woman was fired from her job at Walmart because a male customer followed her into the bathroom and accused her of being trans, all because she happed to be tall for a woman. \n\nAll of this has happened in the last month in America. Normalizing trans hatred will lead to a destruction of all our civil rights. People should be free to dress how they please without fear of being targeted by our government.",
+                "This will age as well as what the UK did to Alan Turing.",
+                "[removed]",
+                "You can call yourself whatever you like but what is the problem with a woman being a woman when she is born a woman ?",
+                "When are we going to properly talk about sex v gender.   They are being exchanged so readily with little understanding. I recall a man on LBC happily declaring there are only two genders because you are born that way. \ud83e\udd14",
+                "The uk taking a page out of the USA book?"
+            ],
+            "aggregate_sentiment": 67.0
+        },
+        {
+            "category": "NEW",
+            "title": "Google faces \u00a35 billion lawsuit in the UK for abusing 'near-total dominance' in search",
+            "external_url": "https://www.cnbc.com/2025/04/16/google-sued-for-5-billion-in-the-uk-for-abusing-dominance-in-search.html",
+            "upvotes": 172,
+            "date": "04/16/2025",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/107067502-1653564514625-gettyimages-1149449076-BPS01_Branding_Location_OC_4.jpeg?v=1744634895&w=1920&h=1080",
+            "top_comments": [
+                "Love it!\u00a0\nToo dominant\u00a0",
+                "It\u2019s not opening the link for me",
+                "They should pay *something* for inflicting those crappy AI answers on us..."
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "NEW",
+            "title": "Homeland Security funding for CVE program expires",
+            "external_url": "https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/?utm_source=dlvr.it&utm_medium=bluesky",
+            "upvotes": 152,
+            "date": "04/16/2025",
+            "thumbnail": "https://regmedia.co.uk/2016/11/09/baldeagleusaflag.jpg",
+            "top_comments": [
+                "Yeah sure, let's just cut funding for a global cybersecurity database used by pretty much literally everyone with no warning... I.... this is just unbelievable. No matter how many times I think, this is it, nothing they can do can surprise me anymore, they find a new way to do it.",
+                "Yep will help Papochka and his friends.    Goto take care of Daddy first",
+                "I\u2019m sure this will in no way have negative consequences",
+                "EU could set in and pay for it. Be helleva PR coup.\n\nCondition for funding is to have EU in the name. So CVE >> EUCVE",
+                "They keep cutting all the minuscule stuff when rampant military spending is staring them right in the face.",
+                "Awesome I get to build my own one and sell it as proprietary info. If you were noob before you\u2019re totally cooked now haha"
+            ],
+            "aggregate_sentiment": 67.0
+        },
+        {
+            "category": "NEW",
+            "title": "China appoints new trade envoy in face of tariff turmoil",
+            "external_url": "https://www.bbc.com/news/articles/c8jem097l4do",
+            "upvotes": 92,
+            "date": "04/16/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/2588/live/bb2b9410-1a95-11f0-849e-f3d9ffdf9a20.jpg",
+            "top_comments": [
+                "Man cannot be happy about this \"promotion\", Xi's so fed up dealing with one mans bullshit that he found a poor soul to take the weight of his shoulders.\n\nThat's a man who knows life is going to be shit with a lot of being woken up in the middle of the night for the next dumpster fire.\n\nEdit: Should've read the article first, my bad \"veteran trade negotiator Vice Commerce Minister Wang Shouwen.\" was not dealing with this shit."
+            ],
+            "aggregate_sentiment": 12.0
+        },
+        {
+            "category": "NEW",
+            "title": "Notorious internet messageboard 4chan has been hacked",
+            "external_url": "https://www.reuters.com/technology/cybersecurity/notorious-internet-messageboard-4chan-has-been-hacked-posts-claim-2025-04-15/",
+            "upvotes": 2060,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "\"The user then pointed Reuters to an unrelated, explicit four-minute video montage. A request for further information was followed by a link to a different video with similar content.\"\n\n\nNot sure what they expected",
+                "The QA board, which is known for popularizing soyjacks, got shut down indefinitely after beefing with the site. They made a new site, nicknamed the sharty. Turns out 4chan hasn't been updated since 2014. \n\nThe guy did it by uploading a pdf onto a board that allowed it that executed some stuff in PHP at the end and made him a master level user.",
+                "What ive read so far is basically they didnt upgrade anything since moot left and they got pwned by an pdf file with embedded ghostscript.",
+                "Must have been [The hacker known as 4chan](https://youtu.be/HMZaS94LF5U?si=RWPrqEQ7fWk_OZcc)",
+                "Get the kid from IT to install Adobe Reader, fixes everything.",
+                "So, this is how 4chan ends?\n\nNot with a Thunder, but with a shart?\n\nFitting.",
+                "Seems like the only thing they\u2019ve accomplished in the last 10 years is adding a captcha system that\u2019s incredibly shit and drives away real people.\n\nI doubt they\u2019d even be able to figure out how to fix anything, idk how they got put in charge of 4chan.",
+                "Just who is this \"Four Chan?\"",
+                "I'm guessing, it was done for the lulz",
+                "I\u2019m hearing the hacker was behind 7 proxies, they\u2019re never catching him"
+            ],
+            "aggregate_sentiment": 40.0
+        },
+        {
+            "category": "NEW",
+            "title": "Marshall man claims ICE detained him for protests over police killings",
+            "external_url": "https://www.mprnews.org/story/2025/04/15/marshall-man-claims-ice-detained-him-for-protests-over-police-killings",
+            "upvotes": 1505,
+            "date": "04/16/2025",
+            "thumbnail": "https://img.apmcdn.org/48056ada026c13a4c9c3517c9647583ef2515641/widescreen/a9b7fc-20250414-a-man-holds-his-baby-2000.jpg",
+            "top_comments": [
+                "Well, the gestapo is alive and well and it\u2019s in the form of ice.",
+                "Incredibly Corrupt and Evil",
+                "I have decided that henceforth I shall call them the Gicetapo.",
+                "Police killings, you say? Didn't trump just pardon a whole bunch of police killers?",
+                "Welcome to the Fourth Reich everyone.",
+                "I am not religious but they probably are. On judgement day, they will go straight to hell",
+                "Bunch of human traffickers",
+                "I wouldn't be surprised if he gets sent to el Salvador instead of Indonesia...",
+                "Estimates are that by 2035 the US will be a net negative in population growth - there will be more people dying than being born. Any guesses as to what that means when you need to call a plumber, a doctor, a mechanic? I  won't live that long to see it, but I know for a fact the day will come when our country will be begging for the hardworking, contributing, positive citizens that we're now booting from the country. This thuggery from our pseudo-president is Un-American and Un-Constitutional. I pray there will be trials, someday, for the perpetrators of these criminal acts and neglect for law and order.",
+                "[ Removed by Reddit ]"
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "NEW",
+            "title": "NY immigrants are seeing a grim email in their inboxes: \u2018It is time for you to leave\u2019",
+            "external_url": "https://gothamist.com/news/ny-immigrants-are-seeing-a-grim-email-in-their-inboxes-it-is-time-for-you-to-leave?utm_source=firefox-newtab-en-us",
+            "upvotes": 4379,
+            "date": "04/16/2025",
+            "thumbnail": "https://api-prod.gothamist.com/images/350733/fill-1200x650|format-webp|webpquality-85/",
+            "top_comments": [
+                "They are running ads in Spanish radio stations in Texas also. The ads are Newman (or whatever her name is) from the DHS telling people to leave.",
+                "Wonder how many Puerto Ricans are going to get round up and deported to El Salvador for being \"illegal\".",
+                "*give me your tired, your poor, your huddled masses yearning to breathe free*\n\nNo- actually\n>\u201cIt is time for you to leave the United States,\u201d the mass email from the U.S. Department of Homeland Security advises, including this warning: \u201cDo not attempt to remain in the United States \u2014 the federal government will find you.\u201d\n\nWell ain't that a kick in the teeth.",
+                "If you have citizenship or are in another group the email doesn\u2019t apply to, does that even matter?\nDetainees are not being given a chance to prove that in court.  They don\u2019t even get to call a lawyer or family.  Without them giving due process, we are all at risk.",
+                "\"It's not about racism, is about enforcing the law.\" -\u00a0 every racist ever.",
+                "This is dystopian as hell to witness as a non-American.",
+                "Come on Congress. Get off your ass and do something.",
+                "The whole city is immigrants though.",
+                "\"It's time for you to learn about the second amendment\"",
+                "I wonder how the native Americans would define \u201cimmigrants\u201d to their country\u2026"
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
             "title": "White House Ends a Regular Reporting Slot for Independent Newswires",
             "external_url": "https://www.nytimes.com/2025/04/15/business/media/trump-white-house-newswire-press.html?unlocked_article_code=1.AE8.rubn.BXVnTqfeKKB5&smid=re-share",
-            "upvotes": 772,
+            "upvotes": 1003,
             "date": "04/16/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
                 "Only loyal propaganda allowed.",
                 "This administration can only claim transparency because of how thin their skin is.",
                 "Republican voters - \"It doesn't look like anything to me.\"",
-                "Controlling the message is Mission 1..",
                 "Where are all those free speech right wingers?  Or is this not infringing free speech because these reporters are now free to stand around outside with no access saying whatever they like to an audience of 0?",
+                "Controlling the message is Mission 1..",
                 "Because they\u2019re fascists.",
                 "First Amendment my ass! They\u2019re taking the constitution and wiping it with their ass.",
-                "The White House - home of weak-ass babies.",
+                "And these dipshits dare criticise Europe about freedom...",
                 "So the White House wants to supposedly expand access to \u201cnon-traditional\u201d media by reserving a spot in the pool for, checks notes, \u201cPRINT MEDIA?\u201d What?\n\nI think the entire White House Correspondents Association should boycott attendance at any White House Press Briefing or Trump gaggle. Shut his voice off.",
-                "right only non sensical softball questions and praise allowed. smh \ud83e\udd26\u200d\u2642\ufe0f what an embarrassment we have become.\u00a0"
+                "Infectious narcissistic delusions"
             ],
-            "aggregate_sentiment": 20.0
+            "aggregate_sentiment": 67.0
         },
         {
-            "category": "RISING",
-            "title": "Hamas says it has lost contact with US-Israeli hostage in Gaza",
-            "external_url": "https://www.bbc.com/news/articles/cyvqnd7y5n0o",
-            "upvotes": 475,
-            "date": "04/15/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/e1ac/live/8d1cefe0-1a38-11f0-b287-9bbf4848835b.jpg",
-            "top_comments": [
-                "Didn\u2019t Hamas say something like this before about another hostage and that hostage turned out to be fine when they were released during a ceasefire exchange later on?",
-                "They are \"unable to effectuate his release\" because \"we don't know where they are\".  Sounds familiar.",
-                "Did they look in El Salvador?",
-                "Is that code for \"already murdered?\"",
-                "Uncle Sam: \u201cWe also seemed to have lost contact with several of our B-2\u2019s. Let us know if you see or hear anything.\u201d",
-                "Sorry wait why do we care what noises come out of Hamas except death rattles?",
-                "Israel killing their own soldiers is by design, it's called the [Hannibal Directive](https://www.jpost.com/israel-news/article-844045). Israel killed him.",
-                "[removed]",
-                "It's going to be weird for them when Donald gets angry",
-                "They\u2019re just copying what the Trump administration is doing at this point."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "RISING",
+            "category": "NEW",
             "title": "Wink Martindale, the genial game-show host and an early TV interviewer of Elvis Presley, dies at 91",
             "external_url": "https://abcnews.go.com/Entertainment/wireStory/wink-martindale-genial-game-show-host-early-tv-120846992",
-            "upvotes": 412,
+            "upvotes": 464,
             "date": "04/16/2025",
             "thumbnail": "https://i.abcnewsfe.com/a/99ec86c7-1737-40d2-a351-3fc0ba296881/wirestory_d2f333da86b6efb3b99b36bb7a71a7a4_16x9.jpg?w=1600",
             "top_comments": [
@@ -566,38 +371,166 @@
                 "RIP Wink and The Tic Tac Dough Dragon",
                 "For anyone who didn't run into it, he (or at least his people) have a YouTube channel where he'd post various pilot/unaired/miscellaneous episodes of game shows that never made it into production, posting new content as recently as today.\n\n[https://www.youtube.com/@WinkMartindaleGames/videos](https://www.youtube.com/@WinkMartindaleGames/videos)",
                 "He's off to the great bonus round in the sky. R.I.P., and no dragons!",
-                "His sister-in-law was my 2nd grade teacher.",
                 "He\u2019s randomly been doing really funny pre recorded bits on the Howard stern for a few years",
+                "His sister-in-law was my 2nd grade teacher.",
                 "I think he was on the money in The Game of Life.",
                 "May his memory be a blessing.",
                 "I honestly thought he had already died."
             ],
-            "aggregate_sentiment": 70.0
+            "aggregate_sentiment": 30.0
+        },
+        {
+            "category": "NEW",
+            "title": "'Nothing has been done' - judge admonishes Trump officials in deportation case",
+            "external_url": "https://www.bbc.com/news/articles/c793vwrrgjwo",
+            "upvotes": 3139,
+            "date": "04/15/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/f3b6/live/4f45d530-1a5e-11f0-bd32-7346abd61002.jpg",
+            "top_comments": [
+                "2 weeks? How's about like 1 week or less at this point.\n\nEdit: a video call to see if he's alive at the bare minimum?",
+                ">Nothing will be done.\n\nFTFY\n\nThe goal is fear. First it's immigrants (undocumented and documented). Next it's political rivals. Then it's the average American. Once the average American (MAGA faithful included) has a general sense of fear, the true exploitation will begin.",
+                "\u201cFor reasons of national security, it\u2019s not possible to show what we did to try and return this citizen\u201d",
+                "Trump is laughing at the justice system and relishing the power SCOTUS granted him. \n\nReach your own conclusions about the few remaining methods to contain him.",
+                "And nothing *will* be done until these people start getting arrested for contempt. Stop being pussies and do your fucking job",
+                "Keep it up and I\u2019ll admonish you a second time. Maybe write a strongly worded letter.",
+                "round them up, him, his enablers, put them in prison. protect the constitution. protect the nation.",
+                "I hope he is still alive.",
+                "Put.  \nThem.  \nIn.  \nJail.",
+                "Ooooh! They've been *admonished!* Does anyone think they care? Get in the streets, people! Ostracize your \"friends\" that didn't bother to vote. Take a chance. Get out there!"
+            ],
+            "aggregate_sentiment": 38.0
         },
         {
             "category": "RISING",
-            "title": "Los Angeles County reaches tentative $4 billion settlement for thousands of sexual abuse cases",
-            "external_url": "https://www.cbsnews.com/losangeles/news/los-angeles-county-tentative-settlement-sexual-abuse/",
-            "upvotes": 322,
-            "date": "04/15/2025",
-            "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/04/16906d42-2e94-4e5c-9dae-bf83817b87e6/thumbnail/1200x630/e421aff9d748798f6e1f47e37e3e513d/gettyimages-1242004214.jpg?v=412b48b2e3085db78364e6e02a7dc2b8",
+            "title": "U.K. Top Court Says Trans Women Are Not Legally Women Under Equality Act",
+            "external_url": "https://www.nytimes.com/2025/04/16/world/europe/uk-supreme-court-woman-definition-trans.html?unlocked_article_code=1.AE8.cfzk.pIrpb0-Czz4_&smid=url-share",
+            "upvotes": 185,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
             "top_comments": [
-                "> Although a majority of the claims are from the 1980s,1990s and 2000s, the county said there are claims that date back to 1959. The claims are alleged to have taken place at probation department facilities and at the MacLaren Children's Center.\nIn December 2022, McNicholas & McNicholas, LLP and Becker Law Group filed a complaint on behalf of 1,200 anonymous plaintiffs. The victims allege they were sexually abused and mistreated while they were staying in LA County juvenile probation centers.\n\nSo decades of sexual abuse inside juvenile facilities that was clearly a massive problem. I'm glad the victims are being financially compensated, but people belong in prison for this. You don't just ignore this level of abuse, you actively cover it up. Then the county has the guts to complain about how this hurts their budget.",
-                "As tax payers, we deserve to know the names of the criminals that cost us this money. We also need to know that they've been imprisoned. If we're paying the money, we need accountability",
-                "By comparison, the LA Catholic Diocese paid out 880 million, as opposed to LA County's 4 billion, in sex abuse claims.",
-                "TLDR; [Los Angeles County has reached a tentative $4 billion settlement to resolve more than 6,800 sexual abuse claims involving juveniles in county custody, dating back to 1959. The claims stem from abuse in facilities such as juvenile halls, probation camps, foster care, and the now-closed MacLaren Children\u2019s Center. The deal, enabled by California\u2019s 2020 law temporarily lifting the statute of limitations for such cases, would be the largest public settlement of its kind in U.S. history. Approval is still pending from the county\u2019s Claims Board and Board of Supervisors](https://www.cbsnews.com/losangeles/news/los-angeles-county-tentative-settlement-sexual-abuse/)",
-                "As a LA County resident: WTF!?!? This better include a shitload of firings and prosecutions!",
-                "Fucking disgusting. As if they didn't already have the odds against them for a better future. They robbed them of whatever they had left.",
-                "\"The victims allege they were sexually abused and mistreated while they were staying in LA County juvenile probation centers.\"\n\nSo incompetence and crime perpetrated by LA county employees over the past few decades are going to cost the taxpayers $4B. Got it.",
-                "This is more than the BSA agreement and Boy Scouts had more than 82,000 claims. No one cares about men"
+                "> However, he added: \u201cWe counsel against reading this judgment as a triumph of one or more groups in our society at the expense of another, it is not.\u201d He said the ruling \u201cdoes not cause disadvantage to trans people\u201d because they have protections under anti-discrimination and equality laws.\n\n>Lord Hodge began his remarks by acknowledging the national conversation about transgender rights and protections, and described trans people as a \u201cvulnerable and often harassed minority,\u201d while noting that women had fought for centuries for equal rights.\n\n>He added: \u201cIt is not the task of this court to make policy on how the interests of these groups should be protected\u201d but \u201cto ascertain the meaning of the legislation which Parliament has enacted.\u201d\n\n  \n   \n   \nSo yeah they\u2019re just interpreting something, it doesn\u2019t mean the Act can\u2019t be changed.",
+                "I find it interesting and revealing that the debate is *always* over the definition of \"woman\" and never the definition of \"man\".",
+                "> However, he added: \u201cWe counsel against reading this judgment as a triumph of one or more groups in our society at the expense of another, it is not.\u201d \n\nTOO LATE, it is already here. \n\nWe will be flooded with \"the great vitory of the common sense\" from thousands and thousands of news site, propagandas, and pundits. \n\nAnd there will be counter fire from opposite position.",
+                "Someone once said. \"Let it be\". Nowadays some people just won't let it be. Sad times.",
+                "For the Americans: Watch how many anti-trans comments pop up, then remember:  \n\n- A teacher in Florida was fired for using a 17 year olds preferred name.\n- Republican lawmakers in Arkansas want to ban children from getting haircuts that \u201cdon\u2019t match their gender\u201d\n- A cis woman was fired from her job at Walmart because a male customer followed her into the bathroom and accused her of being trans, all because she happed to be tall for a woman. \n\nAll of this has happened in the last month in America. Normalizing trans hatred will lead to a destruction of all our civil rights. People should be free to dress how they please without fear of being targeted by our government.",
+                "This will age as well as what the UK did to Alan Turing.",
+                "[removed]",
+                "You can call yourself whatever you like but what is the problem with a woman being a woman when she is born a woman ?",
+                "When are we going to properly talk about sex v gender.   They are being exchanged so readily with little understanding. I recall a man on LBC happily declaring there are only two genders because you are born that way. \ud83e\udd14",
+                "The uk taking a page out of the USA book?"
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 50.0
+        },
+        {
+            "category": "RISING",
+            "title": "Marshall man claims ICE detained him for protests over police killings",
+            "external_url": "https://www.mprnews.org/story/2025/04/15/marshall-man-claims-ice-detained-him-for-protests-over-police-killings",
+            "upvotes": 1508,
+            "date": "04/16/2025",
+            "thumbnail": "https://img.apmcdn.org/48056ada026c13a4c9c3517c9647583ef2515641/widescreen/a9b7fc-20250414-a-man-holds-his-baby-2000.jpg",
+            "top_comments": [
+                "Well, the gestapo is alive and well and it\u2019s in the form of ice.",
+                "Incredibly Corrupt and Evil",
+                "I have decided that henceforth I shall call them the Gicetapo.",
+                "Police killings, you say? Didn't trump just pardon a whole bunch of police killers?",
+                "Welcome to the Fourth Reich everyone.",
+                "I am not religious but they probably are. On judgement day, they will go straight to hell",
+                "Bunch of human traffickers",
+                "I wouldn't be surprised if he gets sent to el Salvador instead of Indonesia...",
+                "Estimates are that by 2035 the US will be a net negative in population growth - there will be more people dying than being born. Any guesses as to what that means when you need to call a plumber, a doctor, a mechanic? I  won't live that long to see it, but I know for a fact the day will come when our country will be begging for the hardworking, contributing, positive citizens that we're now booting from the country. This thuggery from our pseudo-president is Un-American and Un-Constitutional. I pray there will be trials, someday, for the perpetrators of these criminal acts and neglect for law and order.",
+                "[ Removed by Reddit ]"
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "RISING",
+            "title": "NY immigrants are seeing a grim email in their inboxes: \u2018It is time for you to leave\u2019",
+            "external_url": "https://gothamist.com/news/ny-immigrants-are-seeing-a-grim-email-in-their-inboxes-it-is-time-for-you-to-leave?utm_source=firefox-newtab-en-us",
+            "upvotes": 4380,
+            "date": "04/16/2025",
+            "thumbnail": "https://api-prod.gothamist.com/images/350733/fill-1200x650|format-webp|webpquality-85/",
+            "top_comments": [
+                "They are running ads in Spanish radio stations in Texas also. The ads are Newman (or whatever her name is) from the DHS telling people to leave.",
+                "Wonder how many Puerto Ricans are going to get round up and deported to El Salvador for being \"illegal\".",
+                "*give me your tired, your poor, your huddled masses yearning to breathe free*\n\nNo- actually\n>\u201cIt is time for you to leave the United States,\u201d the mass email from the U.S. Department of Homeland Security advises, including this warning: \u201cDo not attempt to remain in the United States \u2014 the federal government will find you.\u201d\n\nWell ain't that a kick in the teeth.",
+                "If you have citizenship or are in another group the email doesn\u2019t apply to, does that even matter?\nDetainees are not being given a chance to prove that in court.  They don\u2019t even get to call a lawyer or family.  Without them giving due process, we are all at risk.",
+                "\"It's not about racism, is about enforcing the law.\" -\u00a0 every racist ever.",
+                "This is dystopian as hell to witness as a non-American.",
+                "Come on Congress. Get off your ass and do something.",
+                "The whole city is immigrants though.",
+                "\"It's time for you to learn about the second amendment\"",
+                "I wonder how the native Americans would define \u201cimmigrants\u201d to their country\u2026"
+            ],
+            "aggregate_sentiment": 42.0
+        },
+        {
+            "category": "RISING",
+            "title": "Notorious internet messageboard 4chan has been hacked",
+            "external_url": "https://www.reuters.com/technology/cybersecurity/notorious-internet-messageboard-4chan-has-been-hacked-posts-claim-2025-04-15/",
+            "upvotes": 2066,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "\"The user then pointed Reuters to an unrelated, explicit four-minute video montage. A request for further information was followed by a link to a different video with similar content.\"\n\n\nNot sure what they expected",
+                "The QA board, which is known for popularizing soyjacks, got shut down indefinitely after beefing with the site. They made a new site, nicknamed the sharty. Turns out 4chan hasn't been updated since 2014. \n\nThe guy did it by uploading a pdf onto a board that allowed it that executed some stuff in PHP at the end and made him a master level user.",
+                "What ive read so far is basically they didnt upgrade anything since moot left and they got pwned by an pdf file with embedded ghostscript.",
+                "Must have been [The hacker known as 4chan](https://youtu.be/HMZaS94LF5U?si=RWPrqEQ7fWk_OZcc)",
+                "Get the kid from IT to install Adobe Reader, fixes everything.",
+                "So, this is how 4chan ends?\n\nNot with a Thunder, but with a shart?\n\nFitting.",
+                "Seems like the only thing they\u2019ve accomplished in the last 10 years is adding a captcha system that\u2019s incredibly shit and drives away real people.\n\nI doubt they\u2019d even be able to figure out how to fix anything, idk how they got put in charge of 4chan.",
+                "Just who is this \"Four Chan?\"",
+                "I'm guessing, it was done for the lulz",
+                "I\u2019m hearing the hacker was behind 7 proxies, they\u2019re never catching him"
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
+            "title": "Wink Martindale, the genial game-show host and an early TV interviewer of Elvis Presley, dies at 91",
+            "external_url": "https://abcnews.go.com/Entertainment/wireStory/wink-martindale-genial-game-show-host-early-tv-120846992",
+            "upvotes": 464,
+            "date": "04/16/2025",
+            "thumbnail": "https://i.abcnewsfe.com/a/99ec86c7-1737-40d2-a351-3fc0ba296881/wirestory_d2f333da86b6efb3b99b36bb7a71a7a4_16x9.jpg?w=1600",
+            "top_comments": [
+                "I didn\u2019t realize he was still alive, but I used to watch him on TV Land a lot",
+                "Not the Defensive Coordinator from\nMichigan 2 years ago?",
+                "RIP Wink and The Tic Tac Dough Dragon",
+                "For anyone who didn't run into it, he (or at least his people) have a YouTube channel where he'd post various pilot/unaired/miscellaneous episodes of game shows that never made it into production, posting new content as recently as today.\n\n[https://www.youtube.com/@WinkMartindaleGames/videos](https://www.youtube.com/@WinkMartindaleGames/videos)",
+                "He's off to the great bonus round in the sky. R.I.P., and no dragons!",
+                "He\u2019s randomly been doing really funny pre recorded bits on the Howard stern for a few years",
+                "His sister-in-law was my 2nd grade teacher.",
+                "I think he was on the money in The Game of Life.",
+                "May his memory be a blessing.",
+                "I honestly thought he had already died."
+            ],
+            "aggregate_sentiment": 80.0
+        },
+        {
+            "category": "RISING",
+            "title": "Students at Pentagon schools sue Hegseth over book bans on race and gender",
+            "external_url": "https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans",
+            "upvotes": 8296,
+            "date": "04/15/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/caaae65eb27630f687c14b7d9959ff71cd2535b1/0_132_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d47af90949621427408888e44f34624",
+            "top_comments": [
+                "\"We do not want someone who does not know how to read books to tell us what we can and can not read. \"\n\n  \nA solid moral argument.",
+                "This administration has important things to do, like repealing the definition of \"Showerhead\" (see [section 2](https://www.whitehouse.gov/presidential-actions/2025/04/maintaining-acceptable-water-pressure-in-showerheads/)) presumably because the current definition of a showerhead is too woke for Republicans.",
+                "Hegseth wanted to do a book burn, but they were to scared of his flammability to proceed. From the liquor. Because he\u2019s a white nationalist alcoholic. And a rapist.\u00a0",
+                "There are schools at the pentagon?",
+                "I spent most of my young life in these schools and graduated at one.  It takes big balls to do what they're doing because in our (the students/military dependents) lives, our actions reflect on our military sponsor (mom or dad in service)  In that community, you don't rock the boat because it could impact your parent/s career.  It shouldn't, but especially under this administration you can bet that Trump will end the military family member's career over this.",
+                "Hegseth responded \"Something, something, lethality, something something War fighters, something, something mission...\" Then smiled, flexed, and pretended to do really bad pushups.",
+                "The last book Hegseth finished, he failed to color inside the lines.",
+                "*There's more than one way to burn a book. -Ray Bradbury*",
+                "From weekend anchor to Secretary of Defense. Only in Trump's America.",
+                "Keep the pressure up! No rest till 2029!"
+            ],
+            "aggregate_sentiment": 18.0
         },
         {
             "category": "RISING",
             "title": "Ice deports Venezuelan teen despite reportedly knowing he was not a target",
             "external_url": "https://www.theguardian.com/us-news/2025/apr/15/merwil-gutierrez-venezuelan-teen-deported-el-salvador",
-            "upvotes": 41719,
+            "upvotes": 44132,
             "date": "04/15/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/ee360365a30b84e756e6cd505a06b458cdacf009/0_61_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be7ae080843db1eb7019eb2e247be2f1",
             "top_comments": [
@@ -612,8 +545,71 @@
                 "I can't stand this. What can I do? I feel powerless. I tried calling my representative, but I don't feel like that does anything. I feel so helpless.",
                 "If someone had told Americans that Trump would be defying court orders, picking up brown teenagers off the street, and sending them to an Salvadoran concentration camp run by his dictator buddy, they'd have been accused of fearmongering. The dark irony in all of this is that the most alarmist resist libs were literally right about everything.\n\nFuck the animals who are participating in these orders. The next time a Democrat takes office, there needs to be mass trials for all of them. Hell send them over to the ICC. Shit like this cannot be allowed to fly."
             ],
-            "aggregate_sentiment": 0.0
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "RISING",
+            "title": "Whistleblower org says DOGE may have caused \u2018significant cyber breach\u2019 at US labor watchdog",
+            "external_url": "https://www.reuters.com/technology/cybersecurity/whistleblower-org-says-doge-may-have-caused-significant-cyber-breach-us-labor-2025-04-15/",
+            "upvotes": 22144,
+            "date": "04/15/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Just imagine the damage we won't find out about until years later",
+                "This story is getting lost in the sauce, but outside of the current disappearing of non-native citizens, this is probably the largest \"wtf omg bbq\" scandal of the administration. DOGE staffers stole 10 gigabytes worth of data from NLRB's network, and then attempted to hide their trail so no one would find out. They're stealing information on almost all americans, but also sensitive information on unions, ongoing legal cases and corporate secrets, including cases involving Musk's companies. It's a long read, but the source is from NPR.  \"https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security",
+                "DOGE is the cyber breach...",
+                "> The NLRB, a New Deal-era agency that is tasked with protecting workers' rights to organize and join unions, has for years been a target of America's corporate titans, including Musk, some of whom are now seeking to have the agency's powers declared unconstitutional.\n\n>In an affidavit, Berulis said he had evidence that DOGE staffers were given extraordinarily sweeping access to the NLRB's systems, including to sensitive case files. He said that beginning in early March, logging protocols created to audit users appeared to have been tampered with, and that he had detected the removal of about 10 gigabytes worth of data from NLRB's network sometime thereafter.\n\n> That kind of spike is extremely unusual because data almost never directly leaves NLRB's databases,\" Berulis said in his affidavit.\nA spokesperson for Musk's team - officially known as U.S. DOGE Service - didn't immediately return a message seeking comment. A message left with the NLRB also wasn't immediately returned, although NPR, which first reported the story, opens new tab, quoted an NLRB spokesperson as disputing Berulis' claims and saying there had been no breach. Cotton and Warner didn't immediately return messages seeking comment.\n\n> NPR, which said it interviewed 30 sources in government, law enforcement, the cybersecurity industry, and the labor movement about the complaint, said that the disabling of logging software was reminiscent of cybercriminal behavior.\n\n>Berulis' affidavit said that an effort by him and his colleague to formally investigate and alert the Cybersecurity and Infrastructure Security Agency (CISA) was disrupted by higher-ups without explanation. A message left with CISA wasn't immediately returned.",
+                "I heard about this on NPR. What NPR reported but is not included in this article, is that they detected remote logins using legitimate usernames and passwords, but originating from a Russian IP address. So not only is DOGE removing information, but they\u2019ve given remote access to Russia. 99.9999999% chance this isn\u2019t the only agency they now have access to.\n\nEdit:  it is in the article. I missed it.",
+                "Quote from the legal document presented by the NLRB's lawyers\n\n\n>This declaration details DOGE activity within NLRB, the exfiltration of data fromNLRB systems, and \u2013 concerningly \u2013 near real-time access by users in Russia.\u00a0\n\n\n>Notably,within minutes of DOGE personnel creating user accounts in NLRB systems, onmultiple occasions someone or something within Russia attempted to login using all ofthe valid credentials (eg. Usernames/Passwords).\n\n\nHoly fuck. Sends chills down my spine. They are really russian assests that have infilitrated the highest levels of The U.S. government.\n\n\nBlood will spill over all of this shit",
+                "I can only imagine what DOGE would be doing at the NLRB\u2026 oh wait, targeting union organizers. \n\nIt is happening.",
+                "Whichever departments are still untouched should probably get going on independent backups of their data.",
+                "Yeah, everyone in tech knew this was a disaster both happening and in the making.\n\nWhat can you do though, when the population elects a disaster?\n\nYou just have to wait for it to play out, while knowing their denial means they'll never even accept they created the disaster.",
+                "DOGE itself is the cyber breach. Anything else is just additional damage."
+            ],
+            "aggregate_sentiment": 42.0
+        },
+        {
+            "category": "RISING",
+            "title": "Funeral to be held for Idaho teen with autism shot 9 times by police in his yard",
+            "external_url": "https://www.nbcnews.com/news/us-news/funeral-held-idaho-teen-autism-shot-9-police-yard-rcna201360",
+            "upvotes": 13674,
+            "date": "04/15/2025",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250415-victor-perez-mn-1305-dda988.jpg",
+            "top_comments": [
+                "As a parent to a son with autism this story scares the shit out of me.",
+                "Here is the number for the Pocatello Mayor\u2019s office if you\u2019d like to voice your dismay over this murder:\n\n208-234-6163",
+                "These fucking pigs had a goddamn fence between them and the kid that looked like he couldn\u2019t even walk and unloaded on him in less than 15 seconds from the time they arrived. Fuck all of them.",
+                "they'll try to justify this moment to themselves for the rest of their lives, and the law may address it one way or the other, but every one of them who fired their gun just *murdered* this kid.",
+                "We have the video. The kid could barely stand up, was 6 feet behind a fence, and the cops started shooting almost immediately after getting out of their cars. This was a straight up murder. \n\nI have autism and mental illness and spend a lot of time with people who could easily become this boy. It's really scary.",
+                "Shithole country. Anywhere else, no less than the president or prime minister would be addressing the entire nation.",
+                "Crazy that a disabled child scared these officers enough that they immediately drew service weapons and didn't even consider less lethal means. Really speaks poorly of their character and courage.",
+                "I've watched several videos of teens with autism getting man-handled or straight up physically abused by cops because of spasms or whatever else. It's pretty horrifying to think about. This is the worst case I think i've heard about. Just absolutely mind boggling. So much wrong..",
+                "\\> \"In this case, two individuals were within a few feet of an armed, non-compliant individual,\" Schei\u00a0[said at a news conference\u00a0on Monday](https://www.youtube.com/watch?v=BDrQT0TkNGo). \"The risk was immediate, and the situation rapidly evolving.\"\n\n  \nOh fuck ALL the way off. I'm so tired of this.",
+                "Stories like this and the reaction from certain people make me genuinely believe that we live in an age now where peoples brains are so rotted from propaganda they would defend anything. Some of you people would be defending a cop if they drew their gun and literally said \"Okay I am going to kill this person now because I want to\""
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
+            "title": "Indiana mom brought gun to grade school and threatened lesbian teacher, police say",
+            "external_url": "https://www.nbcnews.com/news/us-news/mom-arrested-bringing-gun-indiana-elementary-school-harassing-teacher-rcna201316",
+            "upvotes": 11624,
+            "date": "04/15/2025",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250415-wthr-mom-gun-3-ew-1120a-033dc9.jpg",
+            "top_comments": [
+                "> Police let Rivers go, but then she sent a threatening message to her daughter's teacher 25 minutes later, the affidavit states.\nRivers told the teacher that \"god will condemn you to hell\" and that \"your (sic) a child predator,\" the affidavit states.\nRivers allegedly told the teacher to \"say ur prayers and kiss ur kids goodbye and goodnight u never know when god says its (sic) our time so be prepared.\"\n\nThis person plans to homeschool their child? Maybe they can take lessons in spelling together. Sadly, the thing they're most likely to teach their child is hatred.",
+                "Carrying a gun on a school campus and threatening a teacher cause they used a pride flag that said \u201cbe kind\u201d on it as one of her several examples. I don\u2019t know God, but I have a hard time they would want this person speaking for them.\u00a0\n\nAlso, I feel horrible for that kid. Their parents are beyond psycho and now they\u2019ll be \u201chomeschooled\u201d away from any protection.\u00a0",
+                ">The teacher, who keeps a picture of her wife and daughter on her desk, told police that she \"gave an assignment to the whole class with the subject matter of flags.\" When she was giving examples of country flags, she also referenced the rainbow flag in the classroom with the words \"be kind\" on it, the affidavit said.\n\n>Rivers told the teacher she disagreed with an assignment, accusing the educator of \"trying to push her personal agenda in regard to sexuality on her daughter,\" the affidavit said. The teacher said she allowed Rivers' daughter to skip the assignment.\n\nRemember that time Jesus said fuck being kind to people?\n\n  \nAlso just imagine living in so much fear that you feel the need to bring a gun to drop off your kid. That level of paranoia is just unfathomable to me.",
+                "Hilarious that her excuse as a responsible gun owner was that she \"didn't even realize she had it on\" and has committed the same crime of bringing it to a school multiple times in the past",
+                "When \"Be Kind\" is enough to provoke people to threats and violence, maybe it's time to take a deeper look at where these people are getting indoctrinated.",
+                "Them Christian values. I doubt any of them actually reads the Bible. Just a club to hate on people.\nLol",
+                "Why does this Indiana family feel the need to be armed constantly?  The armed and abusive mother seems to have paranoia and an anger issue.  She was a threat to everyone on campus at the time she massively acted out.  If she was so upset about her child\u2019s teacher\u2019s sexuality, she should have requested a class transfer, changed schools or home-schooled.  She should start with gun safety rules & regulations.",
+                "I wonder what would happen if a gay person showed up to a school with a gun and threatened to shoot a straight teacher for having a picture of their family on their desk \ud83e\uddd0",
+                "They didn't even arrest her for the gun initially. All this was swept away with a warning but then ole girl doubles down and makes more threats 25 minutes later. Somebody tell her white privilege has a 30 minute cool down before it can be used for the same thing again.",
+                "Will POTUS say \u201cwhack job\u201d as he did regarding the arsonist who attacked the Pennsylvania\u2019s Governor\u2019s Mansion???"
+            ],
+            "aggregate_sentiment": 12.0
         }
     ],
-    "last_updated": "04/16/2025 08:12:55 UTC"
+    "last_updated": "04/16/2025 12:16:05 UTC"
 }
