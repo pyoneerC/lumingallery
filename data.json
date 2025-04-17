@@ -2,9 +2,30 @@
     "posts": [
         {
             "category": "HOT",
+            "title": "US IRS planning to rescind Harvard's tax-exempt status",
+            "external_url": "https://www.reuters.com/world/us/us-irs-planning-rescind-harvards-tax-exempt-status-cnn-reports-2025-04-16/",
+            "upvotes": 19538,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "This is going to be drawn out in court for a long time. Harvard isn't likely to back down.",
+                "Isn't it illegal for the president to get the IRS to do that?\n\n\"Prohibition on executive branch influence over taxpayer audits and other investigations\"\n\n[Stated here](https://www.law.cornell.edu/uscode/text/26/7217)",
+                "All is fair then when the shoe is on the other foot...every church that participated in preaching about voting (at all for anyone) should lose their tax exempt status too",
+                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
+                "Remember when conservatives cried persecution because the IRS showed extra scrutiny to conservative groups based on keyword usage? (The IRS also did the same for liberal groups as well but conservatives just ignored that since it didn't support their worldview)",
+                "How about megachurches next?",
+                "Harvard may know some lawyers who can represent them in court.",
+                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
+                "Oh, good.  The dollar is collapsing, U.S. bonds are becoming more unstable and disfavored globally every day, stock market volatility is off the charts with every indication that the bottom is going to fall out, the FED chairman just cautioned that Trump's tariffs are putting the country on track for devastating stagflation ... and instead of dealing with any of this the White House is hyper-focused on abusing the power of the federal government to exact petty retributions against perceived political enemies.  Any Trump supporters want to defend this daily shitshow?",
+                "I hope Harvard doesn't blink, here. Stand up for yourselves. Stand up for all of us."
+            ],
+            "aggregate_sentiment": 82.0
+        },
+        {
+            "category": "HOT",
             "title": "Trump administration plans to end the IRS Direct File program for free tax filing, AP sources say",
             "external_url": "https://apnews.com/article/irs-direct-file-tax-returns-free-trump-4bb0bca02fab9b3d06ae6f45ac67b7ab",
-            "upvotes": 21432,
+            "upvotes": 27393,
             "date": "04/16/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -12,41 +33,20 @@
                 "\u201cWe want the worst for everyone!\u201d\n\n\u201cWe are just plain evil\u201d",
                 "What if I just don't do my taxes correctly like him?",
                 "> The program developed during Joe Biden\u2019s presidency was credited by users with making tax filing easy, fast and economical. But Republican lawmakers and commercial tax preparation companies complained it was a waste of taxpayer money because free filing programs already exist, although they are hard to use.\n\nPeople who like this software: users\n\nPeople who don\u2019t: Republican lawmakers and tax preparation software companies (TurboTax)\n\nPick a side, folks.",
-                "I filed my taxes with this in less than 30 minutes and got my return in less than week. Obviously its a terrible inefficient program that needs to go. /s",
-                "Every decision, the benefit of our enemies.",
                 "MAGA : Let's remove DirectFile, which people like and makes sense.\n\nMAGA : Let's not go after TurboTax though, which is outright scamming us.",
+                "Every decision, the benefit of our enemies.",
+                "I filed my taxes with this in less than 30 minutes and got my return in less than week. Obviously its a terrible inefficient program that needs to go. /s",
                 "It cost $100 to file taxes under H&R Block services. That is insane when the IRS already has our information! It\u2019s ridiculous.",
                 "I wonder how much Intuit and H&R Block paid for this. It doesn't help anyone but them to get rid of this service.",
                 "Been using freetaxusa"
             ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "HOT",
-            "title": "US IRS planning to rescind Harvard's tax-exempt status",
-            "external_url": "https://www.reuters.com/world/us/us-irs-planning-rescind-harvards-tax-exempt-status-cnn-reports-2025-04-16/",
-            "upvotes": 5093,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Isn't it illegal for the president to get the IRS to do that?\n\n\"Prohibition on executive branch influence over taxpayer audits and other investigations\"\n\n[Stated here](https://www.law.cornell.edu/uscode/text/26/7217)",
-                "All is fair then when the shoe is on the other foot...every church that participated in preaching about voting (at all for anyone) should lose their tax exempt status too",
-                "This is going to be drawn out in court for a long time. Harvard isn't likely to back down.",
-                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
-                "Remember when conservatives cried persecution because the IRS showed extra scrutiny to conservative groups based on keyword usage? (The IRS also did the same for liberal groups as well but conservatives just ignored that since it didn't support their worldview)",
-                "Harvard may know some lawyers who can represent them in court.",
-                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
-                "I hope Harvard doesn't blink, here. Stand up for yourselves. Stand up for all of us.",
-                "Oh, good.  The dollar is collapsing, U.S. bonds are becoming more unstable and disfavored globally every day, stock market volatility is off the charts with every indication that the bottom is going to fall out, the FED chairman just cautioned that Trump's tariffs are putting the country on track for devastating stagflation ... and instead of dealing with any of this the White House is hyper-focused on abusing the power of the federal government to exact petty retributions against perceived political enemies.  Any Trump supporters want to defend this daily shitshow?",
-                "Man the fascism is being ramped up real quick, anyone still have a problem with calling trump a fascist and the death of democracy in america?"
-            ],
-            "aggregate_sentiment": 82.0
+            "aggregate_sentiment": 0.0
         },
         {
             "category": "HOT",
             "title": "California the 1st state to sue Trump administration over tariffs",
             "external_url": "https://www.cbc.ca/news/world/california-newsom-trump-tariffs-1.7511493",
-            "upvotes": 21359,
+            "upvotes": 26356,
             "date": "04/16/2025",
             "thumbnail": "https://i.cbc.ca/1.7511588.1744814544!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-trump.JPG?im=Resize%3D620",
             "top_comments": [
@@ -54,83 +54,144 @@
                 "Here's to hoping he gets a preliminary injunction. The Supreme Court will side with Trump in the end, but not if Republicans finally grow a spine and help pass a bill that limits Trump's powers.",
                 "LETS GO Washington, Oregon, Illinois... get on board with this.",
                 "California is getting specifically targeted/fucked by Trump. National parks, tourism, trade, agriculture (the water thing). \n\nMakes me want to not pay my federal taxes. Not like anyone works at the IRS anymore.",
-                "What use is a lawsuit to someone who doesn\u2019t even have to obey the Supreme Court?",
-                "Hope the rest follow suit.\n\n\nMake him regret this.",
+                "As ashamed as I am to be American these days, I'm proud to be a Californian.",
                 "Sue his ass for everything at this point",
                 "Proud to live in California. Just watched Newsom\u2019s news conference on it. Really good points made. \n\n\u201cPresident can\u2019t do unlawful things.\u201d Damn right.\n\nETA: Some of the people here don\u2019t know the history of what happens when Cali sues Trump. \n\nCalifornia has brought over 100 lawsuits against Trump\u2014a majority being during Trump 1.0. 15 so far for Trump 2.0. And in many of those, gains have been made. Lawsuits can work and do work. So it\u2019s not a waste of time for them to be doing this. If anything they\u2019ve fired the first shot, other states will hopefully follow.",
-                "As ashamed as I am to be American these days, I'm proud to be a Californian.",
-                "I don't think this lawsuit will go anywhere, and will probably be thrown out since tariffs are an international issue with the federal government, not with states.\n\nBut more power to him to try."
-            ],
-            "aggregate_sentiment": 85.0
-        },
-        {
-            "category": "HOT",
-            "title": "Missing toddler who walked 7 miles alone through Arizona wilderness led to safety by rancher's dog",
-            "external_url": "https://www.nbcnews.com/news/us-news/missing-toddler-walked-7-miles-alone-arizona-wilderness-led-safety-ran-rcna201479?utm_source=firefox-newtab-en-us",
-            "upvotes": 3596,
-            "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-kid-rescue-ch-0514-b0f001.jpg",
-            "top_comments": [
-                "\n\"I got in my truck to go to town and I see Buford walking down the side of the fence with a little blond kid with him. I had heard about the missing child this morning, so I knew it was him.\"\n\n\nBuford, (best name ever), probably only walked with him about a mile, but the dog did find him.",
-                "I hope Buford got a nice treat for being a good boy.",
-                "the goodest of good boys.",
-                "Cause dogs are awesome.\u00a0",
-                "7 miles for a 2 year old!",
-                "I have a Pyrenees mix (Buford is a full Pyr) and they are one of the smartest and self-sufficient dog breeds.  They can make decisions on their own and I can believe the doggo worked out that the kid shouldn't have been there and that the best thing to do was to lead him home, like a sheep.  They are also hard headed and stubborn, because they believe they are smarter than we are...",
-                "It followed me home, dad, can I keep him?",
-                "\u201cThe more I learn about people, the more I like dogs\u201d",
-                "Buford finds small human, herds him to safety. Dogs are the best.",
-                "Great to read a positive story with a good ending"
-            ],
-            "aggregate_sentiment": 78.0
-        },
-        {
-            "category": "HOT",
-            "title": "The State Department closes the office that flags disinformation from Russia, China and Iran",
-            "external_url": "https://apnews.com/article/rubio-disinformation-russia-china-iran-d53d00551a0a57f3114431c624db0b0f?utm_source=reddit&utm_medium=share",
-            "upvotes": 2895,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "The only flag the State Department cares about now is the white flag to keep bending over for Russia. This country used to know how to handle traitors.",
-                "Wonder if anyone on the Right will hear about this.",
-                "Pointless anyway. Didn\u2019t flag Trump\u2018s blatant Russian propaganda at all",
-                "cant say theyve been working hard anyway for the past oh... 10 years?...",
-                "I would be surprised but I'm not.",
-                "..and Palm Beach County Florida..",
-                "And you think Russia, China, and Iran will slow down their operations to try shit on us right now? \n\nTrump is dragging us all down.",
-                "Who's even fucking surprised anymore",
-                "Imagine being Putin\u2019s buttslut this bad god damn",
-                "Yes they're clicking their hobnail boots together wishing away any kind of entity that points out disinformation. Think about it it's in their own best interest to normalize disinformation these are the stepping Stones of authoritarian government. There is a video on YouTube called don't be a sucker from the end of world War II put out by the army people might want to watch."
+                "Looks like California is tired of subsidizing red states\u2026",
+                "The thing I'm worried about is Trump losing and just saying \"No, the tariffs remain.\"\n\nThe SCOTUS needs to force him to comply, it seems, and they haven't done that yet.",
+                "Why doesn't Newsom just hold a presser and call Trump a huge cunt?\u00a0"
             ],
             "aggregate_sentiment": 40.0
         },
         {
             "category": "HOT",
+            "title": "Congestion pricing is working': MTA says tolls keeping 82k drivers a day out of Manhattan",
+            "external_url": "https://gothamist.com/news/congestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan?utm_source=sfmc&utm_medium=nypr-email&utm_campaign=Gothamist+Daily+Newsletter&utm_term=https%3a%2f%2fgothamist.com%2fnews%2fcongestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan&utm_id=437122&sfmc_id=53418894&utm_content=2025414&nypr_member=True",
+            "upvotes": 2968,
+            "date": "04/17/2025",
+            "thumbnail": "https://api-prod.gothamist.com/images/349119/fill-1200x650|format-webp|webpquality-85/",
+            "top_comments": [
+                "Wait\u2026What happened to \u201ccongestion pricing is dead. Long live the king!\u201d?",
+                "I was just in the city the other week and the amount of cars was WAY down. It was noticable. But you know what? The town was still busy as hell and taxis, subways and busses were moving right along. The people that needed or wanted to be there were there.",
+                "For me driving in Manhattan was enough to keep me from driving in Manhattan. What a nightmare.",
+                "Wait, it's working? I assume Trump will immediately try to end it.",
+                "The Trump administration literally just wants to undo everything good, it's fucking disgusting",
+                "I was pissed when I heard about this being implemented, being an out-of-towner going to NYC is already an expensive affair with all the tolled highways, bridges and tunnels. But it was the first time ever that I was able to drive into Manhattan and not feel like I was suffocating in traffic. I was even able to find free parking on like 48th st. Nuts.\n\nThis has my full support.",
+                "As a person who drives a car (and isn't made of money), I hate the idea of congestion pricing.\n\nAs a person who hates traffic and doesn't like pollution, I love the idea of congestion pricing.\n\nI've got mixed feelings about it, but if it works it works I suppose?",
+                "I just hope that the MTA uses this money wisely.",
+                "Ongoing case: [https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/](https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/)\n\nOne of at least 195 against this administration ... [https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)",
+                "In this thread: People who either dont live in NYC or have never been clutching their pearls worried about this \"affecting the working classs\""
+            ],
+            "aggregate_sentiment": 72.0
+        },
+        {
+            "category": "HOT",
+            "title": "Harvard researchers say they might have to lay off workers and euthanize research animals due to funding freeze",
+            "external_url": "https://www.wxow.com/news/national/harvard-researchers-say-they-might-have-to-lay-off-workers-and-euthanize-research-animals-due/article_90bd9ea0-e8f5-55d4-ab2d-8c96b6e85915.html",
+            "upvotes": 2491,
+            "date": "04/16/2025",
+            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/3/63/3639369c-7d7d-5b2e-b34b-dbabc632507b/68002f01b8ab8.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
+            "top_comments": [
+                "If they have to euthanize animals I vote they do it right in front of the White House, make it known this is something Trump is forcing them to do, make it public",
+                "The science and learning don't matter. Only hate.... Welcome to Trump's America",
+                "The shit stain country gets shit stainier every day",
+                "Lots of people here clearly don't know how endowments work.",
+                "i will take the animals :(",
+                "Wait, why is euthanizing the first solution?",
+                "Harvard has $52 Billion to fight Trump but not enough to maintain researcher employment and protect science assets?",
+                "Have the Heritage Foundation bail them out they\u2019re behind all of this.",
+                "I mean Havard has a $53 BILLION endowment. I think they can keep this open until trump is out of the white house.",
+                "Give us money or the dog gets it."
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "HOT",
+            "title": "Missing toddler who walked 7 miles alone through Arizona wilderness led to safety by rancher's dog",
+            "external_url": "https://www.nbcnews.com/news/us-news/missing-toddler-walked-7-miles-alone-arizona-wilderness-led-safety-ran-rcna201479?utm_source=firefox-newtab-en-us",
+            "upvotes": 5061,
+            "date": "04/16/2025",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-arizona-toddler-dog-ch-1033-58c02e.jpg",
+            "top_comments": [
+                "\n\"I got in my truck to go to town and I see Buford walking down the side of the fence with a little blond kid with him. I had heard about the missing child this morning, so I knew it was him.\"\n\n\nBuford, (best name ever), probably only walked with him about a mile, but the dog did find him.",
+                "I hope Buford got a nice treat for being a good boy.",
+                "the goodest of good boys.",
+                "7 miles for a 2 year old!",
+                "Cause dogs are awesome.\u00a0",
+                "I have a Pyrenees mix (Buford is a full Pyr) and they are one of the smartest and self-sufficient dog breeds.  They can make decisions on their own and I can believe the doggo worked out that the kid shouldn't have been there and that the best thing to do was to lead him home, like a sheep.  They are also hard headed and stubborn, because they believe they are smarter than we are...",
+                "It followed me home, dad, can I keep him?",
+                "If you watch the video...\n\nRancher: \"Buford... come on...\"\n\nBuford: \"Nah\".\n\n:)\n\nDogs are fucking magical.",
+                "I really needed to read a good news story like this.  So happy for the family.  Buford is a good boy.",
+                "What were the parents doing and how did he leave his home around 5pm. Either way glad he is safe but what was his parents/guardians doing"
+            ],
+            "aggregate_sentiment": 98.0
+        },
+        {
+            "category": "HOT",
+            "title": "The State Department closes the office that flags disinformation from Russia, China and Iran",
+            "external_url": "https://apnews.com/article/rubio-disinformation-russia-china-iran-d53d00551a0a57f3114431c624db0b0f?utm_source=reddit&utm_medium=share",
+            "upvotes": 3553,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "The only flag the State Department cares about now is the white flag to keep bending over for Russia. This country used to know how to handle traitors.",
+                "And you think Russia, China, and Iran will slow down their operations to try shit on us right now? \n\nTrump is dragging us all down.",
+                "Everything is going according to plan:\n\n[Ruble Is Top Performing Currency as US Trade War Hits Dollar](https://www.bloomberg.com/news/articles/2025-04-15/ruble-surges-as-best-performing-global-currency-outpacing-gold)",
+                "..and Palm Beach County Florida..",
+                "I would be surprised but I'm not.",
+                "Wonder if anyone on the Right will hear about this.",
+                "Mentioned in a related Politico article. On it it links a letter written by Republicans on the House foreign affairs committee condemning the GEC: \n\n\n*For that reason, we had hoped the GEC could carry out its responsibilities while unimpeachably observing the First Amendment, which gives Americans the right to receive foreign propaganda.*\n\nThey are actively arguing that foreign propaganda should be allowed.\n\nhttps://foreignaffairs.house.gov/press-release/mccaul-mast-issa-send-letter-expressing-concerns-with-gec-reauthorization/",
+                "cant say theyve been working hard anyway for the past oh... 10 years?...",
+                "Yes they're clicking their hobnail boots together wishing away any kind of entity that points out disinformation. Think about it it's in their own best interest to normalize disinformation these are the stepping Stones of authoritarian government. There is a video on YouTube called don't be a sucker from the end of world War II put out by the army people might want to watch.",
+                "Pointless anyway. Didn\u2019t flag Trump\u2018s blatant Russian propaganda at all"
+            ],
+            "aggregate_sentiment": 50.0
+        },
+        {
+            "category": "HOT",
+            "title": "Michelle Trachtenberg died from diabetes complications, medical examiner says",
+            "external_url": "https://www.bbc.com/news/articles/cdrg6e2xgj6o",
+            "upvotes": 1079,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/38bb/live/e0d42320-1b09-11f0-8a1e-3ff815141b98.jpg",
+            "top_comments": [
+                "She recently had a liver transplant. Liver transplant patients can develop diabetes mellitus as a common post surgical complication. She probably didn't know she had it. Poor Michelle. It's tragic.",
+                "I forgot she died and get to be sad all over again",
+                ">Officials did not perform a post-mortem examination, but said toxicology tests determined Trachtenberg's cause of death.\n\n  \nI'm not diabetic, and I'm not a doctor, so what would a toxicology report reveal that would lead to this diagnosis?  Was her blood sugar super high or something?",
+                "Diabetes has become so commonplace people forget it can absolutely be a complicated and difficult disease for some people. People really seem to consider it a minor illness and it\u2019s really not.",
+                "*An unnamed source told NBC News the actress had received a liver transplant before her death. The exact timing or reasoning of the operation is unclear.*\n\nI would guess that the cause of her death is related to this skimpy info.  I can't imagine a toxicology report would that helpful in determining her death unless it were a drug overdose or the like.",
+                "Rest in peace, Michelle \ud83d\udc9c",
+                "Either diabetic keto acidosis (high blood sugar) that came on unknowingly and fast, or possibly a hypoglycemic episode while sleeping seems like.\n\nI am diabetic and have gone through both. DKA undiagnosed and ignored can render you unconscious and dead within hours. A hypo episode could have triggered her passing out and seizing, or simply happened in her sleep. Diabetes/uncontrolled blood sugar is VERY dangerous especially for someone undiagnosed/new to having it.",
+                "Damn, she died of beaties."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "HOT",
             "title": "JPMorgan Chase sues more customers who allegedly stole cash in 'infinite money glitch'",
             "external_url": "https://www.cnbc.com/2025/04/16/jpmorgan-chase-infinite-money-glitch-bank-lawsuits.html",
-            "upvotes": 6059,
+            "upvotes": 6709,
             "date": "04/16/2025",
             "thumbnail": "https://image.cnbcfm.com/api/v1/image/108065444-1732060726356-gettyimages-2185023708-AFP_36MW3R2.jpeg?v=1732060988&w=1920&h=1080",
             "top_comments": [
                 "> JPMorgan is also considering pushing back against the bankruptcy filings of alleged \u201cinfinite money\u201d fraudsters.\nIn one of the bank\u2019s motions made this week in bankruptcy court in Grand Rapids, Michigan, the company asked a judge for more time to object to the customer\u2019s attempt to discharge his or her debts.\n\nIt is amazing that people have screwed up their lives and finances for YEARS over a trend they saw online. A ChexSystems blacklist is not a fun thing to deal with.",
-                "I used to work at a bank. It\u2019s amazing how much check fraud is out there and how susceptible young people are to going through with it. \n\nIt\u2019s usually teenagers that get in trouble. Older people give them a bad check to deposit and promise the kids a share of it. Then the adults get 75% or whatever and the kid winds up being on the hook for the whole thing when it bounces. \n\nIt was pretty sad",
                 "Check Fraud. They committed check fraud.",
+                "I used to work at a bank. It\u2019s amazing how much check fraud is out there and how susceptible young people are to going through with it. \n\nIt\u2019s usually teenagers that get in trouble. Older people give them a bad check to deposit and promise the kids a share of it. Then the adults get 75% or whatever and the kid winds up being on the hook for the whole thing when it bounces. \n\nIt was pretty sad",
                 "I mean, if you don\u2019t prosecute every single one of them then some idiot on TikTok will double down and say that this actually worked, and he faced no consequences, and the whole thing will start over again.",
                 "With everything going on right now, I had forgotten that a bunch of people had committed check fraud while thinking it was a real world \"infinite money glitch.\" As much as I dislike Chase, I'm glad I got reminded, I needed a smile today.",
                 "It's wild to me that people thought the bank wouldn't go after them.",
-                "Fraud not Glitch but what do I know.",
-                "\u201cInfinite money glitch\u201d aka fraud",
-                "Of all the institutions to mess with, these bozos chose JP Morgan Chase. Zero sympathies.",
-                "I still think it\u2019s dumb that the people that did this refer to it as a \u201cglitch\u201d.\u00a0\n\nBut what else to expect from these people when they use the funds to buy something stupid like a Gucci wallet. It gives me strong PPP loan without a business vibes.\u00a0"
+                "Next time someone tells you about an \"amazing new TikTok hack\" it's probably just crime.",
+                "You mean customers who videod themselves doing crimes ?",
+                "The \u201cinfinite money glitch\u201d sounds like plain old check fraud\u2026",
+                "So stupid, you have an account with chase, they have all your information on file. Unless you plan on going off grid forever, otherwise they will find you."
             ],
-            "aggregate_sentiment": 0.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "HOT",
             "title": "U.K. Top Court Says Trans Women Are Not Legally Women Under Equality Act",
             "external_url": "https://www.nytimes.com/2025/04/16/world/europe/uk-supreme-court-woman-definition-trans.html?unlocked_article_code=1.AE8.cfzk.pIrpb0-Czz4_&smid=url-share",
-            "upvotes": 12223,
+            "upvotes": 12839,
             "date": "04/16/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -145,68 +206,145 @@
                 "Even biology says that sex isn't binary. \n\nI swear, Canada is one of the few English-speaking countries hanging on for dear life against right-wing takeover. Decades of right-wing/neoliberal policies and austerity have made England a hollow shell of its former self and impoverished it outside of London. Starmer is supposed to be a labour politician, but he's doing things like decreasing support for disabled people. Mind you, I'm not sitting on my high horse here in Canada. We were (and still could be pending the election) dangerously close to following the same right-wing path if Trump didn't expose it for the load of shit that it actually is.",
                 "TERF Island TERFing not even surprised \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f"
             ],
-            "aggregate_sentiment": 58.0
+            "aggregate_sentiment": 28.0
         },
         {
-            "category": "HOT",
-            "title": "Protester tased by police at Marjorie Taylor Greene's Georgia town hall",
-            "external_url": "https://apnews.com/video/demonstrator-apprehended-during-congresswoman-marjorie-taylor-greenes-georgia-town-hall-34521ef711774381acc3e94863a6d371",
-            "upvotes": 4694,
-            "date": "04/16/2025",
+            "category": "NEW",
+            "title": "Russian IP access federal databases: DOGE breach sparks cybersecurity crisis as Russian IP tries to access Federal Labor Systems, Senate receives urgent complain - The Economic Times",
+            "external_url": "https://m.economictimes.com/news/international/us/doge-breach-sparks-cybersecurity-crisis-as-russian-ip-tries-to-access-federal-labor-systems-senate-receives-urgent-complain/articleshow/120350816.cms",
+            "upvotes": 29,
+            "date": "04/17/2025",
+            "thumbnail": "https://img.etimg.com/thumb/msid-120350858,width-1200,height-630,imgsize-105970,overlay-economictimes/articleshow.jpg",
+            "top_comments": [
+                "I\u2019m sure republicans are very concerned\u2026"
+            ],
+            "aggregate_sentiment": 20.0
+        },
+        {
+            "category": "NEW",
+            "title": "Judge scraps US rule capping credit card late fees at $8",
+            "external_url": "https://www.reuters.com/business/finance/judge-scraps-us-rule-capping-credit-card-late-fees-8-2025-04-15/",
+            "upvotes": 117,
+            "date": "04/17/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "MtG and Boebert screeched like howler monkeys and heckled Biden during his state of the union address. This is rich coming from this hypocritical cu*t.\u00a0",
-                "My favorite part is that she reportedly said something along the lines that she doesn't tolerate heckling at her town halls.\n\nThis is after all she has ever done is heckle, scream, and rant conspiracy theories for the last 4 years during Biden's administration. The hypocrisy is palpable.",
-                "I take it she should have been tased at Biden\u2019s SotU address? \ud83e\udd14",
-                "\"sit and listen\"  \nLady, this is a town hall, not a re-education camp.",
-                "So she was removing anybody who stood up and disagreed with her? And they'd get tased if they didn't listen? Party of free speech, everybody.",
-                "Of course it would be at a MTG event...",
-                "I guess she didn\u2019t want to listen to her constituents concerns.  And this coming from one the best hecklers in the party.",
-                "Just a reminder that when public figures respond to questions from the public with violence, it is a sure sign of weakness, not of strength.",
-                "Here's how you combat this: \n\nFind your fellow heckler. Establish an order. Only one heckler at a time. Don't stand up. \n\nWhen approached by authorities, quickly volunteer to leave with no resistance. \n\nAs one heckler gets all the attention from the authorities and is escorted from the room, the other starts up. This will delay the response to the 2nd heckler. \n\nStay seated. Why? Because eventually, the authorities won't be able to identify who's heckling, or will heckle next.   It also makes you less of a threat. Supporters of the crook will aim to accuse the hecklers in their midst, creating confusion. \n\nContinue until governance is improved.",
-                "Can\u2019t fucken wait for her reckoning. Insider trader would be a great take down. \n\nLock her up. \n\nJust an awful human being and a horrible American and \u201cpatriot\u201d"
+                "Just in time for the upcoming recession.",
+                "Call me shocked..  let's tank the markets and let banks raise late fees...",
+                "Judge Pittman in Fort Worth.\n\nA Trump appointee. Natch.",
+                "You Americans always say \"we need guns when the government is coming for us.\"\n\nBruh, every branch of government is coming for your poor ass now.\n\nI am more curious to see some jackass defending the ruling of scraping the cap though.",
+                "Are we even going to get a reach around at some point from these Republican dicks?\u00a0",
+                "Do you think we could start some movement where we just all stop using our credit cards and/or aggressively pay them off as much as possible? IDK, man, I'm out of ideas at this point...",
+                "Any and every action possible to fuck over people who are struggling with money.",
+                "\u201cA federal judge in Texas\u201d is going to be on our tombstone",
+                "Republicans are pure evil. Next they destroy Medicare. Then social security.\u00a0\u00a0",
+                "[https://apnews.com/article/consumer-financial-protection-bureau-lawsuit-fees-6a2e6b913aec0bdfc0d13c7ad329c5c8](https://apnews.com/article/consumer-financial-protection-bureau-lawsuit-fees-6a2e6b913aec0bdfc0d13c7ad329c5c8) Non paywall (I think)."
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 14.0
         },
         {
-            "category": "HOT",
-            "title": "Harvard researchers say they might have to lay off workers and euthanize research animals due to funding freeze",
-            "external_url": "https://www.wxow.com/news/national/harvard-researchers-say-they-might-have-to-lay-off-workers-and-euthanize-research-animals-due/article_90bd9ea0-e8f5-55d4-ab2d-8c96b6e85915.html",
-            "upvotes": 662,
-            "date": "04/16/2025",
-            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/3/63/3639369c-7d7d-5b2e-b34b-dbabc632507b/68002f01b8ab8.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
+            "category": "NEW",
+            "title": "Arkansas SB 486, a Far-Reaching Anti-Trans \"Bathroom Bounty\" Bill, Heads To The Governor's Desk",
+            "external_url": "https://whatyoucandotohelp.org/news/arkansas-sb-486-a-far-reaching-bathroom-bounty-bill-heads-to-the-governor-s-desk/",
+            "upvotes": 65,
+            "date": "04/17/2025",
+            "thumbnail": "No social preview available",
             "top_comments": [
-                "If they have to euthanize animals I vote they do it right in front of the White House, make it known this is something Trump is forcing them to do, make it public",
-                "The science and learning don't matter. Only hate.... Welcome to Trump's America",
-                "The shit stain country gets shit stainier every day",
-                "Lots of people here clearly don't know how endowments work.",
-                "i will take the animals :(",
-                "I mean Havard has a $53 BILLION endowment. I think they can keep this open until trump is out of the white house.",
-                "Give us money or the dog gets it.",
-                "aww shucks.\ndarn.\ndrat.",
-                "No they don\u2019t. They have the largest endowment probably in the world.",
-                "God forbid they tap into the $57 billion endowment so we don't have the euthanize animals."
+                "It would be hypocritical of him to sign it.",
+                "Everyone go yell at the governor",
+                "My boycott of Arkansas will continue. Having never stepped foot in that state\u2026 the most they\u2019ll ever see of me is, I\u2019ll drive through or fly over. If I stop, it will be to fill up, or I\u2019ve broken down - much like that state.",
+                "It\u2019s not my country but it is kind of sad how a once great country has descended into acrimony over who pees where."
             ],
-            "aggregate_sentiment": 18.0
+            "aggregate_sentiment": 8.0
         },
         {
-            "category": "HOT",
-            "title": "Fyre Festival 2's fate up in the air after website says tickets unavailable",
-            "external_url": "https://www.nbcnews.com/news/us-news/fate-fyre-festival-2-air-website-announces-postponement-rcna198093",
-            "upvotes": 981,
-            "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-Billy-McFarland-se-209p-e04eaf.jpg",
+            "category": "NEW",
+            "title": "Trade war fallout: Cancellations of Chinese freight ships begin as bookings plummet",
+            "external_url": "https://www.cnbc.com/2025/04/16/trade-war-fallout-china-freight-ship-decline-begins-orders-plummet.html",
+            "upvotes": 191,
+            "date": "04/17/2025",
+            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108084402-1736447375007-gettyimages-2191474671-vcg111538748527.jpeg?v=1744819797&w=1920&h=1080",
             "top_comments": [
-                "Anyone who bought tickets to this deserves absolutely everything coming to them.",
-                "Fyre Festival is a fraud, you say? Have we timewarped to 2017 or something?",
-                "Who could've possibly foreseen any issues with this?",
-                "Aw man! I was really looking forward to the documentary.",
-                "> McFarland, who pleaded guilty to wire fraud and other crimes tied to the first Fyre Fest fiasco in the Bahamas in 2017, had posted documents on his social media April 4 that he said proves that organizers had been working with local officials since March 5 to obtain permits for a Fyre Festival 2.\n\nAttempting to secure permits just 2 months out from the festival isn't as reassuring as he thinks it is.",
-                "How is that possible? I just bought the VIP package from a dude off of Craigslist for $10,000. It looks pretty legit. It's printed on the back of a candy wrapper.",
-                "These people deserved to be scammed it's like buying a meme coin in 2025",
-                "Organizers of a\u00a0Fyre Festival sequel\u00a0announced on its website Wednesday that the event had been postponed before updating the language to say tickets were \"currently not available.\"\n\nThe confusion comes after Mexican officials this month disputed that a multiday musical event will be held next month in the popular resort town of Playa Del Carmen.\n\nThe festival's promoter, Billy McFarland, did not immediately respond to a request for comment.\n\nIn an earlier announcement, the site said: \"FYRE 2 Festival is postponed and will be rescheduled for a later date in the future. If you have purchased tickets already, you will receive an email once the new date is confirmed.\"...",
-                "Anyone who has seen either one of the documentaries knows how much of a Con that guy is. He has absolutely no shame either.\n\n\u2026so he\u2019ll probably be president of the United States one day.",
-                "Find Ja Rule so I can make sense of all this! WHERE IS JA?!"
+                "This is the fault of congress. Trump spent four years with a congress that obeyed his every command and now he and his team just assumed that other nations would bow down also. But, unlike our spineless congress, other nations are not going to destroy themselves just to appease a bully. \n\nUnfortunately, it\u2019s the people of America that will suffer.",
+                "We have to be winning now, right?",
+                "A total of 80 blank, or canceled, sailings out of China have been recorded by freight company HLS Group. It wrote in a recent note to clients that with the trade war between China and the U.S. leading to a demand plummet, carriers have started to suspend or adjust transpacific services.\n\nThe impact of the diminished freight container traffic to North America will be significant for many links in the economy and supply chain, including the ports and logistics companies moving the freight. If each sailing was carrying 8,000 to 10,000 TEUs (twenty-foot equivalent units), that would equal a decline in freight traffic of between 640,000-800,000 containers, and lead to decreased crane operations at the ports, lower fees that could be collected, and declines in container pick-ups and transports by trucks, rails, and to warehouses for storage.\n\nThe World Trade Organization warned on Wednesday that the outlook for global trade has \u201cdeteriorated sharply\u201d in the wake of Trump\u2019s tariffs plan. JB Hunt shares hit their lowest level since November 2020 after commentary during the trucking company\u2019s earnings call about the uncertainty from tariffs.",
+                "Glad those longshoremen went on strike and had their union boss cozy up with Trump during the election.",
+                "[deleted]",
+                "Im in construction and there is a lot of disruption right now in the construction industry with these tariffs. Not even to mention the mass deportations and flat out threats of rendition of Hispanic workers. \n\nTrump is really screwing the pooch.",
+                "This can\u2019t be right, China were gonna have to pay all those tariffs and it was gonna make the US a whole bunch of money\u2026.  /s"
+            ],
+            "aggregate_sentiment": 67.0
+        },
+        {
+            "category": "NEW",
+            "title": "Telescope finds promising hints of life on distant planet",
+            "external_url": "https://www.bbc.co.uk/news/articles/c39jj9vkr34o",
+            "upvotes": 18,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b0e/live/6fd33320-16b1-11f0-b1b3-7358f8d35a35.jpg",
+            "top_comments": [
+                "Guess they need to make an addition to the tariff list",
+                "\"Life on distant planet scared earth found thier hints\".",
+                "\u201cQuick turn off the lights! They\u2019ll go away\u201d\n\n-life forms on the other planet",
+                "Can I move there? I volunteer",
+                "Maybe we can ship our illegal immigrants there, too!",
+                "Nice, some new destiny to manifest",
+                "This is amazing! Can\u2019t believe it"
+            ],
+            "aggregate_sentiment": 82.0
+        },
+        {
+            "category": "NEW",
+            "title": "Salvadoran fugitive convicted in deadly attack of Maryland hiker",
+            "external_url": "https://www.cnn.com/2025/04/14/us/rachel-morin-maryland-attacker-convicted",
+            "upvotes": 0,
+            "date": "04/17/2025",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15239350d.jpg?c=16x9&q=w_800,c_fill",
+            "top_comments": [
+                "A tragedy but to be clear, nothing to do with Abrego Garcia despite the Trump administration trying to link the two",
+                "This person has had more due process than those we have sent to El Salvador. Keep that in mind.",
+                "So actual due process for a criminal; but no due process for someone who is not?",
+                "What country this man hails from is of no consequence at all because he could be from any country in the world, and any state in the US, and any county in the US.  A vicious criminal has been caught, tried, and found guilty.  End of news account.",
+                "Two pardoned by the felon 1/6ers are being charged with child molestation. How come we don\u2019t hear anything about that by the right wing.",
+                "Oh. That makes it okay about that innocent guy then.",
+                "You know if we fixed our immigration system where it was easy to get a visa we would reduce the number of people crossing illegally into the country by a large enough amount that we would have more than enough enforcement there to stop the few criminals that would be trying to cross without being checked."
+            ],
+            "aggregate_sentiment": 38.0
+        },
+        {
+            "category": "NEW",
+            "title": "Israel kills dozens in latest Gaza attacks as 500,000 forcibly displaced",
+            "external_url": "https://www.aljazeera.com/news/liveblog/2025/4/17/live-israel-kills-dozens-in-new-gaza-attacks-as-500000-forcibly-displaced",
+            "upvotes": 315,
+            "date": "04/17/2025",
+            "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/04/AA-20250416-37647614-37647606-ISRAELI_ATTACKS_ON_GAZA_CONTINUE-1744856463_858511-1744856663.jpg?resize=1200%2C630&quality=80",
+            "top_comments": [
+                "Ridiculous this is not only being brushed under the rug, but being supported by our governments. Where do they expect these people to go? What about their property, possessions, lives? Disgusting. We're already reaching for the stars and Pandora's box yet we continue to throw stones at one another. Greed and people trying to make a grey world black and white is going to be the end of humanity, and frankly good riddance if this is what we plan to continue doing.",
+                "this is getting a worse everday. saw on the news they are running out of food and water in the hospital too.",
+                "Israel on point to seeing how many people they can kill before 5he world takes notice",
+                "What\u2019s the end game here they just kill everyone ?",
+                "I understand how extreme Hamas is and the widespread support it's had in Gaza at different times, but this is no different than the ethnic cleansing of Native Americans by the United States. You can't rationalize this away.\n\nIt's no wonder that historical revisionists like Donald Trump are so defensive of Israel - they want Americans to believe that \"might makes right\" both in the past and in the present.",
+                "this is so heartbreaking \ud83d\udc94",
+                "....But but internet and Twitter told me in October/November that Kamala would have been worse for Gaza",
+                "Nothing going on here just self defense don't be anti-semetic/hamas supporter now move along\n\nEdit: /s"
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "NEW",
+            "title": "Michelle Trachtenberg died from diabetes complications, medical examiner says",
+            "external_url": "https://www.bbc.com/news/articles/cdrg6e2xgj6o",
+            "upvotes": 1071,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/38bb/live/e0d42320-1b09-11f0-8a1e-3ff815141b98.jpg",
+            "top_comments": [
+                "She recently had a liver transplant. Liver transplant patients can develop diabetes mellitus as a common post surgical complication. She probably didn't know she had it. Poor Michelle. It's tragic.",
+                "I forgot she died and get to be sad all over again",
+                ">Officials did not perform a post-mortem examination, but said toxicology tests determined Trachtenberg's cause of death.\n\n  \nI'm not diabetic, and I'm not a doctor, so what would a toxicology report reveal that would lead to this diagnosis?  Was her blood sugar super high or something?",
+                "Diabetes has become so commonplace people forget it can absolutely be a complicated and difficult disease for some people. People really seem to consider it a minor illness and it\u2019s really not.",
+                "*An unnamed source told NBC News the actress had received a liver transplant before her death. The exact timing or reasoning of the operation is unclear.*\n\nI would guess that the cause of her death is related to this skimpy info.  I can't imagine a toxicology report would that helpful in determining her death unless it were a drug overdose or the like.",
+                "Rest in peace, Michelle \ud83d\udc9c",
+                "Either diabetic keto acidosis (high blood sugar) that came on unknowingly and fast, or possibly a hypoglycemic episode while sleeping seems like.\n\nI am diabetic and have gone through both. DKA undiagnosed and ignored can render you unconscious and dead within hours. A hypo episode could have triggered her passing out and seizing, or simply happened in her sleep. Diabetes/uncontrolled blood sugar is VERY dangerous especially for someone undiagnosed/new to having it.",
+                "Damn, she died of beaties."
             ],
             "aggregate_sentiment": 8.0
         },
@@ -214,381 +352,232 @@
             "category": "NEW",
             "title": "Congestion pricing is working': MTA says tolls keeping 82k drivers a day out of Manhattan",
             "external_url": "https://gothamist.com/news/congestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan?utm_source=sfmc&utm_medium=nypr-email&utm_campaign=Gothamist+Daily+Newsletter&utm_term=https%3a%2f%2fgothamist.com%2fnews%2fcongestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan&utm_id=437122&sfmc_id=53418894&utm_content=2025414&nypr_member=True",
-            "upvotes": 0,
+            "upvotes": 2970,
             "date": "04/17/2025",
             "thumbnail": "https://api-prod.gothamist.com/images/349119/fill-1200x650|format-webp|webpquality-85/",
-            "top_comments": [],
-            "aggregate_sentiment": null
+            "top_comments": [
+                "Wait\u2026What happened to \u201ccongestion pricing is dead. Long live the king!\u201d?",
+                "I was just in the city the other week and the amount of cars was WAY down. It was noticable. But you know what? The town was still busy as hell and taxis, subways and busses were moving right along. The people that needed or wanted to be there were there.",
+                "For me driving in Manhattan was enough to keep me from driving in Manhattan. What a nightmare.",
+                "Wait, it's working? I assume Trump will immediately try to end it.",
+                "The Trump administration literally just wants to undo everything good, it's fucking disgusting",
+                "I was pissed when I heard about this being implemented, being an out-of-towner going to NYC is already an expensive affair with all the tolled highways, bridges and tunnels. But it was the first time ever that I was able to drive into Manhattan and not feel like I was suffocating in traffic. I was even able to find free parking on like 48th st. Nuts.\n\nThis has my full support.",
+                "As a person who drives a car (and isn't made of money), I hate the idea of congestion pricing.\n\nAs a person who hates traffic and doesn't like pollution, I love the idea of congestion pricing.\n\nI've got mixed feelings about it, but if it works it works I suppose?",
+                "I just hope that the MTA uses this money wisely.",
+                "Ongoing case: [https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/](https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/)\n\nOne of at least 195 against this administration ... [https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)",
+                "In this thread: People who either dont live in NYC or have never been clutching their pearls worried about this \"affecting the working classs\""
+            ],
+            "aggregate_sentiment": 80.0
         },
         {
             "category": "NEW",
             "title": "The mysterious firing of a Chinese professor has Asian students on edge: \u2018Brings chills to our spines\u2019 | US politics",
             "external_url": "https://www.theguardian.com/us-news/2025/apr/16/chinese-professor-bloomington-indiana",
-            "upvotes": 33,
+            "upvotes": 378,
             "date": "04/17/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/1f8bce05a03c92aabccc3a21e478ecf518909baf/0_246_7375_4427/master/7375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcb63289f5d9b7c401a45cc5c4a31b57",
             "top_comments": [
-                "*\u201cWhat is particularly troubling in this case is that Indiana University fired him and his wife without due process, presuming guilt instead of innocence,\u201d Chen says.*\n\nYeah, and fired by email on the very day DHS operatives swooped down upon the campus. No wonder Chinese students are living in fear, and are readying to leave the US on a moment's notice."
+                "*\u201cWhat is particularly troubling in this case is that Indiana University fired him and his wife without due process, presuming guilt instead of innocence,\u201d Chen says.*\n\nYeah, and fired by email on the very day DHS operatives swooped down upon the campus. No wonder Chinese students are living in fear, and are readying to leave the US on a moment's notice.",
+                "US is inevitably going to create a second [Qian Xuesen \\(Tsien Hsue-shen\\)](https://www.galcit.caltech.edu/about/legends-of-galcit/qian-xuesen-tsien-hsue-shen).\n\nFor those out of the loop, China's nuclear program, missile program, and space program only exist because the US accused Dr. Qian of being a communist spy and deported him to China."
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 38.0
         },
         {
-            "category": "NEW",
-            "title": "No plans to allow any aid into Gaza, says Israeli minister",
-            "external_url": "https://www.theguardian.com/world/2025/apr/16/no-humanitarian-aid-gaza-israeli-minister-israel-katz-hamas",
-            "upvotes": 40,
+            "category": "RISING",
+            "title": "Israel kills dozens in latest Gaza attacks as 500,000 forcibly displaced",
+            "external_url": "https://www.aljazeera.com/news/liveblog/2025/4/17/live-israel-kills-dozens-in-new-gaza-attacks-as-500000-forcibly-displaced",
+            "upvotes": 314,
             "date": "04/17/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/101d32b3c372581966678a16cc6e04617a6537f5/0_353_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee9a6e6cefdf5d2c27b10c8de666db9d",
+            "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/04/AA-20250416-37647614-37647606-ISRAELI_ATTACKS_ON_GAZA_CONTINUE-1744856463_858511-1744856663.jpg?resize=1200%2C630&quality=80",
             "top_comments": [
-                "The Trump administration really doing a great job on this one \ud83d\ude44",
-                "So is there outside smuggling going on, or what are they living off?",
-                "Ahh!! They sticking to  the final solution as set by Germany in 1942 while Trumps does  the concentration camps,",
-                "B-b-but Kamala wouldn\u2019t have been any different to Trump!!!!\n\n/s"
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Scientists hail \u2018strongest evidence\u2019 so far for life beyond our solar system",
-            "external_url": "https://www.theguardian.com/science/2025/apr/17/scientists-hail-strongest-evidence-so-far-for-life-beyond-our-solar-system",
-            "upvotes": 58,
-            "date": "04/17/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/58192346609b2168208fe4d6674df709df795be6/120_0_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32964ac6f916c3fd2155cf4a6e89a786",
-            "top_comments": [
-                "Tell it to stay away from Earth!",
-                "Sources close to President Trump say he plans to levy tariffs against K2-18 b later this week. /s",
-                "Whoever smelt it dealt it",
-                "Only 200 or so life times to get in a ship to go find out..."
-            ],
-            "aggregate_sentiment": 67.0
-        },
-        {
-            "category": "NEW",
-            "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
-            "external_url": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html?unlocked_article_code=1.AE8.5BZ1.3b8-7WRby9m5&smid=nytcore-ios-share&referringSource=articleShare",
-            "upvotes": 236,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "It took frustratingly long for the article to get to the point: They found hints of the possibility of dimethyl sulfide, a compound thought to be produced only by life.",
-                "Cool. What's the planet's immigration policy? Speaking as an American of course.",
-                "If the surface gravity is much stronger than earths, then would it even be possible for a human to visit the surface of this planet?   Could we step foot on any planet that has a surface gravity stronger than earths?",
-                "I hope they're hostile and highly advanced\u00a0",
-                "All I could see in my email was \u201cBreaking News:Astronomers detect\u2026\u201d. I honestly got sad when I clicked on it and it didn\u2019t read \u201c\u2026a large asteroid about to hit earth.\u201d",
-                "as long as they land on any other soil than the US, we may get a nice 1st contact.",
-                "I think we should pretend like we aren\u2019t home. We\u2019ve got lots going on as is.",
-                "What's the asylum process like?",
-                "God I hate the joking comments up in this bitch",
-                "So this is how it ends.\n\nNow that's they know where are, how long does it take before they come?"
-            ],
-            "aggregate_sentiment": 48.0
-        },
-        {
-            "category": "NEW",
-            "title": "US IRS planning to rescind Harvard's tax-exempt status",
-            "external_url": "https://www.reuters.com/world/us/us-irs-planning-rescind-harvards-tax-exempt-status-cnn-reports-2025-04-16/",
-            "upvotes": 5076,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Isn't it illegal for the president to get the IRS to do that?\n\n\"Prohibition on executive branch influence over taxpayer audits and other investigations\"\n\n[Stated here](https://www.law.cornell.edu/uscode/text/26/7217)",
-                "All is fair then when the shoe is on the other foot...every church that participated in preaching about voting (at all for anyone) should lose their tax exempt status too",
-                "This is going to be drawn out in court for a long time. Harvard isn't likely to back down.",
-                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
-                "Remember when conservatives cried persecution because the IRS showed extra scrutiny to conservative groups based on keyword usage? (The IRS also did the same for liberal groups as well but conservatives just ignored that since it didn't support their worldview)",
-                "Harvard may know some lawyers who can represent them in court.",
-                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
-                "I hope Harvard doesn't blink, here. Stand up for yourselves. Stand up for all of us.",
-                "Oh, good.  The dollar is collapsing, U.S. bonds are becoming more unstable and disfavored globally every day, stock market volatility is off the charts with every indication that the bottom is going to fall out, the FED chairman just cautioned that Trump's tariffs are putting the country on track for devastating stagflation ... and instead of dealing with any of this the White House is hyper-focused on abusing the power of the federal government to exact petty retributions against perceived political enemies.  Any Trump supporters want to defend this daily shitshow?",
-                "Man the fascism is being ramped up real quick, anyone still have a problem with calling trump a fascist and the death of democracy in america?"
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Harvard researchers say they might have to lay off workers and euthanize research animals due to funding freeze",
-            "external_url": "https://www.wxow.com/news/national/harvard-researchers-say-they-might-have-to-lay-off-workers-and-euthanize-research-animals-due/article_90bd9ea0-e8f5-55d4-ab2d-8c96b6e85915.html",
-            "upvotes": 665,
-            "date": "04/16/2025",
-            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/3/63/3639369c-7d7d-5b2e-b34b-dbabc632507b/68002f01b8ab8.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
-            "top_comments": [
-                "If they have to euthanize animals I vote they do it right in front of the White House, make it known this is something Trump is forcing them to do, make it public",
-                "The science and learning don't matter. Only hate.... Welcome to Trump's America",
-                "The shit stain country gets shit stainier every day",
-                "Lots of people here clearly don't know how endowments work.",
-                "i will take the animals :(",
-                "I mean Havard has a $53 BILLION endowment. I think they can keep this open until trump is out of the white house.",
-                "Give us money or the dog gets it.",
-                "aww shucks.\ndarn.\ndrat.",
-                "No they don\u2019t. They have the largest endowment probably in the world.",
-                "God forbid they tap into the $57 billion endowment so we don't have the euthanize animals."
-            ],
-            "aggregate_sentiment": 62.0
-        },
-        {
-            "category": "NEW",
-            "title": "Puerto Rico goes completely dark after another island-wide power outage",
-            "external_url": "https://www.nbcnews.com/news/us-news/puerto-rico-goes-completely-dark-another-island-wide-power-outage-rcna201643",
-            "upvotes": 138,
-            "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/123124-puerto-rico-power-outage-vl-851a-6e98cf.jpg",
-            "top_comments": [
-                "Something tells me they won't even get paper towels this time",
-                "It's time for Trump to yeet a 3-pointer with a pack of toilet paper again /s",
-                "Hope this won\u2019t impact medical supplies too badly, the supply chain was already in bad shape",
-                "Instead of calling his good friend, the president of Puerto Rico, he'll try to impose tariffs and deport every human off the island.",
-                "Can\u2019t wait to see what President Krasnov throws at them this time\u2026"
-            ],
-            "aggregate_sentiment": 18.0
-        },
-        {
-            "category": "NEW",
-            "title": "Arson suspect angry with Pennsylvania Gov. Josh Shapiro over Palestinian stance, search warrants say",
-            "external_url": "https://www.nbcnews.com/news/us-news/arson-suspect-angry-pennsylvania-gov-josh-shapiro-palestinian-stance-s-rcna200852",
-            "upvotes": 246,
-            "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250414-josh-shapiro-fire-mn-1110-cbfa4a.jpg",
-            "top_comments": [
-                "Kind of surprising given the public facing part of his Facebook shows no interest in Palestine but a *lot* of interest in violence and anger towards Biden and Biden-supporters.",
-                "Wow a lot of people want to claim this is \u201cfake news\u201d same way Trump would. \n\nLook just because a crazy person has the same position on you doesn\u2019t betray your cause. There are enough crazy people out there there will always be crazy people on both sides of every issue.",
-                "So the fact he chose the first day of Passover to attack a Jewish governor\u2019s home is a (strange and  dark) coincidence then? It was 100% just motivated by Palestine and absolutely nothing else?",
-                "Five bucks says this guy couldn't find Palestine on a map.",
-                "Hasn\u2019t Shapiro been unapologetic in his criticism of Netanyahu?",
-                "Yea, no shit white nationalist are wild.",
-                "Damn. This completely justifies the genocide. /S",
-                "If he's really that angry about Palestine, shouldn't he be going after head honcho in charge instead?",
-                "He called and told them why he did it an hour after the arson. They knew at the time. They knew he did it because of Palestine and Shapiro's religion and they waited until the story died out to give us that info. Expect this story to disappear now",
-                "Conservative nut bags attacking conservative politicians and Liberal nut bags attacking liberal politicians... man what a fucking timeline."
-            ],
-            "aggregate_sentiment": 45.0
-        },
-        {
-            "category": "NEW",
-            "title": "Island-wide blackout hits Puerto Rico as residents prepare for Easter weekend",
-            "external_url": "https://www.cnn.com/2025/04/16/us/puerto-rico-island-wide-blackout-easter-weekend?cid=ios_app",
-            "upvotes": 395,
-            "date": "04/16/2025",
-            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/ap25106695668333.jpg?c=16x9&q=w_800,c_fill",
-            "top_comments": [
-                "San Juan, Puerto Rico (AP) \u2014 An island-wide blackout hit Puerto Rico on Wednesday as the largely Catholic residents of the U.S. territory prepared to celebrate the Easter weekend, officials said.\n\nAll 1.4 million clients on the island were without power, Hugo Sorrentini, spokesman for Luma Energy, which oversees the transmission and distribution of power, told The Associated Press. \u201cThe entire island is without generation,\u201d he said.\n\nMeanwhile, at least 78,000 clients were without water, with officials warning that power likely won\u2019t be fully restored for another 48 to 72 hours.",
-                "I just had a call with my parents and at least for now they have cell signal but water was starting to go out already.  They have solar so gas is no issue for them BUT gas stations already have hour long lines since it caught folks off guard during the regular rush hour",
-                "Puerto Rico built up a robust electrical grid that was owned by the public but was sold off to a business to be \u201cmore efficient\u201d.\u00a0After it was privatized prices increased while the quality went down drastically. This situation sucks and happens all the time.",
-                "Paper towels incoming...",
-                "And they don't have an obvious reason? Going to be a stressful couple days. People were probably doing a lot of food prep at the very least, too.",
-                "Major infrastructure (hotels, airport, some markets/restaurants) have sufficient generators to keep going but there's definitely a shift here",
-                "What did Puerto Rico say that Trump didn\u2019t like?",
-                "So what's the roof top solar panel industry like down there?"
-            ],
-            "aggregate_sentiment": 46.0
-        },
-        {
-            "category": "RISING",
-            "title": "Harvard researchers say they might have to lay off workers and euthanize research animals due to funding freeze",
-            "external_url": "https://www.wxow.com/news/national/harvard-researchers-say-they-might-have-to-lay-off-workers-and-euthanize-research-animals-due/article_90bd9ea0-e8f5-55d4-ab2d-8c96b6e85915.html",
-            "upvotes": 669,
-            "date": "04/16/2025",
-            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/3/63/3639369c-7d7d-5b2e-b34b-dbabc632507b/68002f01b8ab8.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
-            "top_comments": [
-                "If they have to euthanize animals I vote they do it right in front of the White House, make it known this is something Trump is forcing them to do, make it public",
-                "The science and learning don't matter. Only hate.... Welcome to Trump's America",
-                "The shit stain country gets shit stainier every day",
-                "Lots of people here clearly don't know how endowments work.",
-                "i will take the animals :(",
-                "I mean Havard has a $53 BILLION endowment. I think they can keep this open until trump is out of the white house.",
-                "Give us money or the dog gets it.",
-                "aww shucks.\ndarn.\ndrat.",
-                "No they don\u2019t. They have the largest endowment probably in the world.",
-                "God forbid they tap into the $57 billion endowment so we don't have the euthanize animals."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "The State Department closes the office that flags disinformation from Russia, China and Iran",
-            "external_url": "https://apnews.com/article/rubio-disinformation-russia-china-iran-d53d00551a0a57f3114431c624db0b0f?utm_source=reddit&utm_medium=share",
-            "upvotes": 2898,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "The only flag the State Department cares about now is the white flag to keep bending over for Russia. This country used to know how to handle traitors.",
-                "Wonder if anyone on the Right will hear about this.",
-                "Pointless anyway. Didn\u2019t flag Trump\u2018s blatant Russian propaganda at all",
-                "cant say theyve been working hard anyway for the past oh... 10 years?...",
-                "I would be surprised but I'm not.",
-                "..and Palm Beach County Florida..",
-                "And you think Russia, China, and Iran will slow down their operations to try shit on us right now? \n\nTrump is dragging us all down.",
-                "Who's even fucking surprised anymore",
-                "Imagine being Putin\u2019s buttslut this bad god damn",
-                "Yes they're clicking their hobnail boots together wishing away any kind of entity that points out disinformation. Think about it it's in their own best interest to normalize disinformation these are the stepping Stones of authoritarian government. There is a video on YouTube called don't be a sucker from the end of world War II put out by the army people might want to watch."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "US IRS planning to rescind Harvard's tax-exempt status",
-            "external_url": "https://www.reuters.com/world/us/us-irs-planning-rescind-harvards-tax-exempt-status-cnn-reports-2025-04-16/",
-            "upvotes": 5085,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "Isn't it illegal for the president to get the IRS to do that?\n\n\"Prohibition on executive branch influence over taxpayer audits and other investigations\"\n\n[Stated here](https://www.law.cornell.edu/uscode/text/26/7217)",
-                "All is fair then when the shoe is on the other foot...every church that participated in preaching about voting (at all for anyone) should lose their tax exempt status too",
-                "This is going to be drawn out in court for a long time. Harvard isn't likely to back down.",
-                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
-                "Remember when conservatives cried persecution because the IRS showed extra scrutiny to conservative groups based on keyword usage? (The IRS also did the same for liberal groups as well but conservatives just ignored that since it didn't support their worldview)",
-                "Harvard may know some lawyers who can represent them in court.",
-                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
-                "I hope Harvard doesn't blink, here. Stand up for yourselves. Stand up for all of us.",
-                "Oh, good.  The dollar is collapsing, U.S. bonds are becoming more unstable and disfavored globally every day, stock market volatility is off the charts with every indication that the bottom is going to fall out, the FED chairman just cautioned that Trump's tariffs are putting the country on track for devastating stagflation ... and instead of dealing with any of this the White House is hyper-focused on abusing the power of the federal government to exact petty retributions against perceived political enemies.  Any Trump supporters want to defend this daily shitshow?",
-                "Man the fascism is being ramped up real quick, anyone still have a problem with calling trump a fascist and the death of democracy in america?"
+                "Ridiculous this is not only being brushed under the rug, but being supported by our governments. Where do they expect these people to go? What about their property, possessions, lives? Disgusting. We're already reaching for the stars and Pandora's box yet we continue to throw stones at one another. Greed and people trying to make a grey world black and white is going to be the end of humanity, and frankly good riddance if this is what we plan to continue doing.",
+                "this is getting a worse everday. saw on the news they are running out of food and water in the hospital too.",
+                "Israel on point to seeing how many people they can kill before 5he world takes notice",
+                "What\u2019s the end game here they just kill everyone ?",
+                "I understand how extreme Hamas is and the widespread support it's had in Gaza at different times, but this is no different than the ethnic cleansing of Native Americans by the United States. You can't rationalize this away.\n\nIt's no wonder that historical revisionists like Donald Trump are so defensive of Israel - they want Americans to believe that \"might makes right\" both in the past and in the present.",
+                "this is so heartbreaking \ud83d\udc94",
+                "....But but internet and Twitter told me in October/November that Kamala would have been worse for Gaza",
+                "Nothing going on here just self defense don't be anti-semetic/hamas supporter now move along\n\nEdit: /s"
             ],
             "aggregate_sentiment": 14.0
         },
         {
             "category": "RISING",
-            "title": "Island-wide blackout hits Puerto Rico as residents prepare for Easter weekend",
-            "external_url": "https://www.cnn.com/2025/04/16/us/puerto-rico-island-wide-blackout-easter-weekend?cid=ios_app",
-            "upvotes": 397,
-            "date": "04/16/2025",
-            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/ap25106695668333.jpg?c=16x9&q=w_800,c_fill",
+            "title": "Congestion pricing is working': MTA says tolls keeping 82k drivers a day out of Manhattan",
+            "external_url": "https://gothamist.com/news/congestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan?utm_source=sfmc&utm_medium=nypr-email&utm_campaign=Gothamist+Daily+Newsletter&utm_term=https%3a%2f%2fgothamist.com%2fnews%2fcongestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan&utm_id=437122&sfmc_id=53418894&utm_content=2025414&nypr_member=True",
+            "upvotes": 2965,
+            "date": "04/17/2025",
+            "thumbnail": "https://api-prod.gothamist.com/images/349119/fill-1200x650|format-webp|webpquality-85/",
             "top_comments": [
-                "San Juan, Puerto Rico (AP) \u2014 An island-wide blackout hit Puerto Rico on Wednesday as the largely Catholic residents of the U.S. territory prepared to celebrate the Easter weekend, officials said.\n\nAll 1.4 million clients on the island were without power, Hugo Sorrentini, spokesman for Luma Energy, which oversees the transmission and distribution of power, told The Associated Press. \u201cThe entire island is without generation,\u201d he said.\n\nMeanwhile, at least 78,000 clients were without water, with officials warning that power likely won\u2019t be fully restored for another 48 to 72 hours.",
-                "I just had a call with my parents and at least for now they have cell signal but water was starting to go out already.  They have solar so gas is no issue for them BUT gas stations already have hour long lines since it caught folks off guard during the regular rush hour",
-                "Puerto Rico built up a robust electrical grid that was owned by the public but was sold off to a business to be \u201cmore efficient\u201d.\u00a0After it was privatized prices increased while the quality went down drastically. This situation sucks and happens all the time.",
-                "Paper towels incoming...",
-                "And they don't have an obvious reason? Going to be a stressful couple days. People were probably doing a lot of food prep at the very least, too.",
-                "Major infrastructure (hotels, airport, some markets/restaurants) have sufficient generators to keep going but there's definitely a shift here",
-                "What did Puerto Rico say that Trump didn\u2019t like?",
-                "So what's the roof top solar panel industry like down there?"
+                "Wait\u2026What happened to \u201ccongestion pricing is dead. Long live the king!\u201d?",
+                "I was just in the city the other week and the amount of cars was WAY down. It was noticable. But you know what? The town was still busy as hell and taxis, subways and busses were moving right along. The people that needed or wanted to be there were there.",
+                "For me driving in Manhattan was enough to keep me from driving in Manhattan. What a nightmare.",
+                "Wait, it's working? I assume Trump will immediately try to end it.",
+                "The Trump administration literally just wants to undo everything good, it's fucking disgusting",
+                "I was pissed when I heard about this being implemented, being an out-of-towner going to NYC is already an expensive affair with all the tolled highways, bridges and tunnels. But it was the first time ever that I was able to drive into Manhattan and not feel like I was suffocating in traffic. I was even able to find free parking on like 48th st. Nuts.\n\nThis has my full support.",
+                "As a person who drives a car (and isn't made of money), I hate the idea of congestion pricing.\n\nAs a person who hates traffic and doesn't like pollution, I love the idea of congestion pricing.\n\nI've got mixed feelings about it, but if it works it works I suppose?",
+                "I just hope that the MTA uses this money wisely.",
+                "Ongoing case: [https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/](https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/)\n\nOne of at least 195 against this administration ... [https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)",
+                "In this thread: People who either dont live in NYC or have never been clutching their pearls worried about this \"affecting the working classs\""
             ],
-            "aggregate_sentiment": 42.0
+            "aggregate_sentiment": 8.0
         },
         {
             "category": "RISING",
-            "title": "Missing toddler who walked 7 miles alone through Arizona wilderness led to safety by rancher's dog",
-            "external_url": "https://www.nbcnews.com/news/us-news/missing-toddler-walked-7-miles-alone-arizona-wilderness-led-safety-ran-rcna201479?utm_source=firefox-newtab-en-us",
-            "upvotes": 3605,
+            "title": "Harvard researchers say they might have to lay off workers and euthanize research animals due to funding freeze",
+            "external_url": "https://www.wxow.com/news/national/harvard-researchers-say-they-might-have-to-lay-off-workers-and-euthanize-research-animals-due/article_90bd9ea0-e8f5-55d4-ab2d-8c96b6e85915.html",
+            "upvotes": 2492,
             "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-kid-rescue-ch-0514-b0f001.jpg",
+            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/3/63/3639369c-7d7d-5b2e-b34b-dbabc632507b/68002f01b8ab8.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
             "top_comments": [
-                "\n\"I got in my truck to go to town and I see Buford walking down the side of the fence with a little blond kid with him. I had heard about the missing child this morning, so I knew it was him.\"\n\n\nBuford, (best name ever), probably only walked with him about a mile, but the dog did find him.",
-                "I hope Buford got a nice treat for being a good boy.",
-                "the goodest of good boys.",
-                "Cause dogs are awesome.\u00a0",
-                "7 miles for a 2 year old!",
-                "I have a Pyrenees mix (Buford is a full Pyr) and they are one of the smartest and self-sufficient dog breeds.  They can make decisions on their own and I can believe the doggo worked out that the kid shouldn't have been there and that the best thing to do was to lead him home, like a sheep.  They are also hard headed and stubborn, because they believe they are smarter than we are...",
-                "It followed me home, dad, can I keep him?",
-                "\u201cThe more I learn about people, the more I like dogs\u201d",
-                "Buford finds small human, herds him to safety. Dogs are the best.",
-                "Great to read a positive story with a good ending"
+                "If they have to euthanize animals I vote they do it right in front of the White House, make it known this is something Trump is forcing them to do, make it public",
+                "The science and learning don't matter. Only hate.... Welcome to Trump's America",
+                "The shit stain country gets shit stainier every day",
+                "Lots of people here clearly don't know how endowments work.",
+                "i will take the animals :(",
+                "Wait, why is euthanizing the first solution?",
+                "Harvard has $52 Billion to fight Trump but not enough to maintain researcher employment and protect science assets?",
+                "Have the Heritage Foundation bail them out they\u2019re behind all of this.",
+                "I mean Havard has a $53 BILLION endowment. I think they can keep this open until trump is out of the white house.",
+                "Give us money or the dog gets it."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "RISING",
+            "title": "The mysterious firing of a Chinese professor has Asian students on edge: \u2018Brings chills to our spines\u2019 | US politics",
+            "external_url": "https://www.theguardian.com/us-news/2025/apr/16/chinese-professor-bloomington-indiana",
+            "upvotes": 377,
+            "date": "04/17/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/1f8bce05a03c92aabccc3a21e478ecf518909baf/0_246_7375_4427/master/7375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcb63289f5d9b7c401a45cc5c4a31b57",
+            "top_comments": [
+                "*\u201cWhat is particularly troubling in this case is that Indiana University fired him and his wife without due process, presuming guilt instead of innocence,\u201d Chen says.*\n\nYeah, and fired by email on the very day DHS operatives swooped down upon the campus. No wonder Chinese students are living in fear, and are readying to leave the US on a moment's notice.",
+                "US is inevitably going to create a second [Qian Xuesen \\(Tsien Hsue-shen\\)](https://www.galcit.caltech.edu/about/legends-of-galcit/qian-xuesen-tsien-hsue-shen).\n\nFor those out of the loop, China's nuclear program, missile program, and space program only exist because the US accused Dr. Qian of being a communist spy and deported him to China."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "RISING",
+            "title": "The State Department closes the office that flags disinformation from Russia, China and Iran",
+            "external_url": "https://apnews.com/article/rubio-disinformation-russia-china-iran-d53d00551a0a57f3114431c624db0b0f?utm_source=reddit&utm_medium=share",
+            "upvotes": 3559,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "The only flag the State Department cares about now is the white flag to keep bending over for Russia. This country used to know how to handle traitors.",
+                "And you think Russia, China, and Iran will slow down their operations to try shit on us right now? \n\nTrump is dragging us all down.",
+                "Everything is going according to plan:\n\n[Ruble Is Top Performing Currency as US Trade War Hits Dollar](https://www.bloomberg.com/news/articles/2025-04-15/ruble-surges-as-best-performing-global-currency-outpacing-gold)",
+                "..and Palm Beach County Florida..",
+                "I would be surprised but I'm not.",
+                "Wonder if anyone on the Right will hear about this.",
+                "Mentioned in a related Politico article. On it it links a letter written by Republicans on the House foreign affairs committee condemning the GEC: \n\n\n*For that reason, we had hoped the GEC could carry out its responsibilities while unimpeachably observing the First Amendment, which gives Americans the right to receive foreign propaganda.*\n\nThey are actively arguing that foreign propaganda should be allowed.\n\nhttps://foreignaffairs.house.gov/press-release/mccaul-mast-issa-send-letter-expressing-concerns-with-gec-reauthorization/",
+                "cant say theyve been working hard anyway for the past oh... 10 years?...",
+                "Yes they're clicking their hobnail boots together wishing away any kind of entity that points out disinformation. Think about it it's in their own best interest to normalize disinformation these are the stepping Stones of authoritarian government. There is a video on YouTube called don't be a sucker from the end of world War II put out by the army people might want to watch.",
+                "Pointless anyway. Didn\u2019t flag Trump\u2018s blatant Russian propaganda at all"
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "RISING",
+            "title": "Michelle Trachtenberg died from diabetes complications, medical examiner says",
+            "external_url": "https://www.bbc.com/news/articles/cdrg6e2xgj6o",
+            "upvotes": 1075,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/38bb/live/e0d42320-1b09-11f0-8a1e-3ff815141b98.jpg",
+            "top_comments": [
+                "She recently had a liver transplant. Liver transplant patients can develop diabetes mellitus as a common post surgical complication. She probably didn't know she had it. Poor Michelle. It's tragic.",
+                "I forgot she died and get to be sad all over again",
+                ">Officials did not perform a post-mortem examination, but said toxicology tests determined Trachtenberg's cause of death.\n\n  \nI'm not diabetic, and I'm not a doctor, so what would a toxicology report reveal that would lead to this diagnosis?  Was her blood sugar super high or something?",
+                "Diabetes has become so commonplace people forget it can absolutely be a complicated and difficult disease for some people. People really seem to consider it a minor illness and it\u2019s really not.",
+                "*An unnamed source told NBC News the actress had received a liver transplant before her death. The exact timing or reasoning of the operation is unclear.*\n\nI would guess that the cause of her death is related to this skimpy info.  I can't imagine a toxicology report would that helpful in determining her death unless it were a drug overdose or the like.",
+                "Rest in peace, Michelle \ud83d\udc9c",
+                "Either diabetic keto acidosis (high blood sugar) that came on unknowingly and fast, or possibly a hypoglycemic episode while sleeping seems like.\n\nI am diabetic and have gone through both. DKA undiagnosed and ignored can render you unconscious and dead within hours. A hypo episode could have triggered her passing out and seizing, or simply happened in her sleep. Diabetes/uncontrolled blood sugar is VERY dangerous especially for someone undiagnosed/new to having it.",
+                "Damn, she died of beaties."
+            ],
+            "aggregate_sentiment": 20.0
+        },
+        {
+            "category": "RISING",
+            "title": "US IRS planning to rescind Harvard's tax-exempt status",
+            "external_url": "https://www.reuters.com/world/us/us-irs-planning-rescind-harvards-tax-exempt-status-cnn-reports-2025-04-16/",
+            "upvotes": 19545,
+            "date": "04/16/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "This is going to be drawn out in court for a long time. Harvard isn't likely to back down.",
+                "Isn't it illegal for the president to get the IRS to do that?\n\n\"Prohibition on executive branch influence over taxpayer audits and other investigations\"\n\n[Stated here](https://www.law.cornell.edu/uscode/text/26/7217)",
+                "All is fair then when the shoe is on the other foot...every church that participated in preaching about voting (at all for anyone) should lose their tax exempt status too",
+                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
+                "Remember when conservatives cried persecution because the IRS showed extra scrutiny to conservative groups based on keyword usage? (The IRS also did the same for liberal groups as well but conservatives just ignored that since it didn't support their worldview)",
+                "How about megachurches next?",
+                "Harvard may know some lawyers who can represent them in court.",
+                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
+                "Oh, good.  The dollar is collapsing, U.S. bonds are becoming more unstable and disfavored globally every day, stock market volatility is off the charts with every indication that the bottom is going to fall out, the FED chairman just cautioned that Trump's tariffs are putting the country on track for devastating stagflation ... and instead of dealing with any of this the White House is hyper-focused on abusing the power of the federal government to exact petty retributions against perceived political enemies.  Any Trump supporters want to defend this daily shitshow?",
+                "I hope Harvard doesn't blink, here. Stand up for yourselves. Stand up for all of us."
             ],
             "aggregate_sentiment": 82.0
         },
         {
             "category": "RISING",
-            "title": "Trump administration plans to end the IRS Direct File program for free tax filing, AP sources say",
-            "external_url": "https://apnews.com/article/irs-direct-file-tax-returns-free-trump-4bb0bca02fab9b3d06ae6f45ac67b7ab",
-            "upvotes": 21427,
+            "title": "Puerto Rico goes completely dark after another island-wide power outage",
+            "external_url": "https://www.nbcnews.com/news/us-news/puerto-rico-goes-completely-dark-another-island-wide-power-outage-rcna201643",
+            "upvotes": 260,
             "date": "04/16/2025",
-            "thumbnail": "No social preview available",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/123124-puerto-rico-power-outage-vl-851a-6e98cf.jpg",
             "top_comments": [
-                "*\"Republican lawmakers and commercial tax preparation companies complained it was a waste of taxpayer money\"*  \n\nThe places that are making money from filing taxes and selling peoples information are saying it's a waste of taxpayer money.   As a taxpayer I disagree with them.",
-                "\u201cWe want the worst for everyone!\u201d\n\n\u201cWe are just plain evil\u201d",
-                "What if I just don't do my taxes correctly like him?",
-                "> The program developed during Joe Biden\u2019s presidency was credited by users with making tax filing easy, fast and economical. But Republican lawmakers and commercial tax preparation companies complained it was a waste of taxpayer money because free filing programs already exist, although they are hard to use.\n\nPeople who like this software: users\n\nPeople who don\u2019t: Republican lawmakers and tax preparation software companies (TurboTax)\n\nPick a side, folks.",
-                "I filed my taxes with this in less than 30 minutes and got my return in less than week. Obviously its a terrible inefficient program that needs to go. /s",
-                "Every decision, the benefit of our enemies.",
-                "MAGA : Let's remove DirectFile, which people like and makes sense.\n\nMAGA : Let's not go after TurboTax though, which is outright scamming us.",
-                "It cost $100 to file taxes under H&R Block services. That is insane when the IRS already has our information! It\u2019s ridiculous.",
-                "I wonder how much Intuit and H&R Block paid for this. It doesn't help anyone but them to get rid of this service.",
-                "Been using freetaxusa"
+                "Something tells me they won't even get paper towels this time",
+                "Hope this won\u2019t impact medical supplies too badly, the supply chain was already in bad shape",
+                "Finally something Trump can help with.  /s",
+                "It's time for Trump to yeet a 3-pointer with a pack of toilet paper again /s",
+                "Can\u2019t wait to see what President Krasnov throws at them this time\u2026",
+                "Instead of calling his good friend, the president of Puerto Rico, he'll try to impose tariffs and deport every human off the island.",
+                "Let's make the Puerto Rico the 11th province or 4th territory. We'll treat them better than the US does\n\nEdit bad math",
+                "Maybe Trumpty Dumpty can go over and throw lightbulbs at them."
             ],
-            "aggregate_sentiment": 60.0
+            "aggregate_sentiment": 67.0
         },
         {
             "category": "RISING",
-            "title": "California the 1st state to sue Trump administration over tariffs",
-            "external_url": "https://www.cbc.ca/news/world/california-newsom-trump-tariffs-1.7511493",
-            "upvotes": 21350,
+            "title": "Missing toddler who walked 7 miles alone through Arizona wilderness led to safety by rancher's dog",
+            "external_url": "https://www.nbcnews.com/news/us-news/missing-toddler-walked-7-miles-alone-arizona-wilderness-led-safety-ran-rcna201479?utm_source=firefox-newtab-en-us",
+            "upvotes": 5054,
             "date": "04/16/2025",
-            "thumbnail": "https://i.cbc.ca/1.7511588.1744814544!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-trump.JPG?im=Resize%3D620",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-arizona-toddler-dog-ch-1033-58c02e.jpg",
             "top_comments": [
-                "Makes a lot of sense. Out of the 50 states, California has the largest economy \u2014 the tariffs would significantly impact the golden state",
-                "Here's to hoping he gets a preliminary injunction. The Supreme Court will side with Trump in the end, but not if Republicans finally grow a spine and help pass a bill that limits Trump's powers.",
-                "LETS GO Washington, Oregon, Illinois... get on board with this.",
-                "California is getting specifically targeted/fucked by Trump. National parks, tourism, trade, agriculture (the water thing). \n\nMakes me want to not pay my federal taxes. Not like anyone works at the IRS anymore.",
-                "What use is a lawsuit to someone who doesn\u2019t even have to obey the Supreme Court?",
-                "Hope the rest follow suit.\n\n\nMake him regret this.",
-                "Sue his ass for everything at this point",
-                "Proud to live in California. Just watched Newsom\u2019s news conference on it. Really good points made. \n\n\u201cPresident can\u2019t do unlawful things.\u201d Damn right.\n\nETA: Some of the people here don\u2019t know the history of what happens when Cali sues Trump. \n\nCalifornia has brought over 100 lawsuits against Trump\u2014a majority being during Trump 1.0. 15 so far for Trump 2.0. And in many of those, gains have been made. Lawsuits can work and do work. So it\u2019s not a waste of time for them to be doing this. If anything they\u2019ve fired the first shot, other states will hopefully follow.",
-                "As ashamed as I am to be American these days, I'm proud to be a Californian.",
-                "I don't think this lawsuit will go anywhere, and will probably be thrown out since tariffs are an international issue with the federal government, not with states.\n\nBut more power to him to try."
+                "\n\"I got in my truck to go to town and I see Buford walking down the side of the fence with a little blond kid with him. I had heard about the missing child this morning, so I knew it was him.\"\n\n\nBuford, (best name ever), probably only walked with him about a mile, but the dog did find him.",
+                "I hope Buford got a nice treat for being a good boy.",
+                "the goodest of good boys.",
+                "7 miles for a 2 year old!",
+                "Cause dogs are awesome.\u00a0",
+                "I have a Pyrenees mix (Buford is a full Pyr) and they are one of the smartest and self-sufficient dog breeds.  They can make decisions on their own and I can believe the doggo worked out that the kid shouldn't have been there and that the best thing to do was to lead him home, like a sheep.  They are also hard headed and stubborn, because they believe they are smarter than we are...",
+                "It followed me home, dad, can I keep him?",
+                "If you watch the video...\n\nRancher: \"Buford... come on...\"\n\nBuford: \"Nah\".\n\n:)\n\nDogs are fucking magical.",
+                "I really needed to read a good news story like this.  So happy for the family.  Buford is a good boy.",
+                "What were the parents doing and how did he leave his home around 5pm. Either way glad he is safe but what was his parents/guardians doing"
             ],
-            "aggregate_sentiment": 62.0
+            "aggregate_sentiment": 98.0
         },
         {
             "category": "RISING",
-            "title": "Arson suspect angry with Pennsylvania Gov. Josh Shapiro over Palestinian stance, search warrants say",
-            "external_url": "https://www.nbcnews.com/news/us-news/arson-suspect-angry-pennsylvania-gov-josh-shapiro-palestinian-stance-s-rcna200852",
-            "upvotes": 248,
+            "title": "Island-wide blackout hits Puerto Rico as residents prepare for Easter weekend",
+            "external_url": "https://www.cnn.com/2025/04/16/us/puerto-rico-island-wide-blackout-easter-weekend?cid=ios_app",
+            "upvotes": 546,
             "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250414-josh-shapiro-fire-mn-1110-cbfa4a.jpg",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/ap25106695668333.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
-                "Kind of surprising given the public facing part of his Facebook shows no interest in Palestine but a *lot* of interest in violence and anger towards Biden and Biden-supporters.",
-                "Wow a lot of people want to claim this is \u201cfake news\u201d same way Trump would. \n\nLook just because a crazy person has the same position on you doesn\u2019t betray your cause. There are enough crazy people out there there will always be crazy people on both sides of every issue.",
-                "So the fact he chose the first day of Passover to attack a Jewish governor\u2019s home is a (strange and  dark) coincidence then? It was 100% just motivated by Palestine and absolutely nothing else?",
-                "Five bucks says this guy couldn't find Palestine on a map.",
-                "Hasn\u2019t Shapiro been unapologetic in his criticism of Netanyahu?",
-                "Yea, no shit white nationalist are wild.",
-                "Damn. This completely justifies the genocide. /S",
-                "If he's really that angry about Palestine, shouldn't he be going after head honcho in charge instead?",
-                "He called and told them why he did it an hour after the arson. They knew at the time. They knew he did it because of Palestine and Shapiro's religion and they waited until the story died out to give us that info. Expect this story to disappear now",
-                "Conservative nut bags attacking conservative politicians and Liberal nut bags attacking liberal politicians... man what a fucking timeline."
+                "Trump wants to expand the USA and yet they can\u2019t provide electricity to a USA territory? What kind of banana republic the USA is becoming",
+                "San Juan, Puerto Rico (AP) \u2014 An island-wide blackout hit Puerto Rico on Wednesday as the largely Catholic residents of the U.S. territory prepared to celebrate the Easter weekend, officials said.\n\nAll 1.4 million clients on the island were without power, Hugo Sorrentini, spokesman for Luma Energy, which oversees the transmission and distribution of power, told The Associated Press. \u201cThe entire island is without generation,\u201d he said.\n\nMeanwhile, at least 78,000 clients were without water, with officials warning that power likely won\u2019t be fully restored for another 48 to 72 hours.",
+                "Paper towels incoming...",
+                "And they don't have an obvious reason? Going to be a stressful couple days. People were probably doing a lot of food prep at the very least, too.",
+                "I just had a call with my parents and at least for now they have cell signal but water was starting to go out already.  They have solar so gas is no issue for them BUT gas stations already have hour long lines since it caught folks off guard during the regular rush hour",
+                "Puerto Rico built up a robust electrical grid that was owned by the public but was sold off to a business to be \u201cmore efficient\u201d.\u00a0After it was privatized prices increased while the quality went down drastically. This situation sucks and happens all the time.",
+                "Major infrastructure (hotels, airport, some markets/restaurants) have sufficient generators to keep going but there's definitely a shift here",
+                "So what's the roof top solar panel industry like down there?",
+                "What did Puerto Rico say that Trump didn\u2019t like?",
+                "Such a giant shit hole"
             ],
-            "aggregate_sentiment": 18.0
-        },
-        {
-            "category": "RISING",
-            "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
-            "external_url": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html?unlocked_article_code=1.AE8.5BZ1.3b8-7WRby9m5&smid=nytcore-ios-share&referringSource=articleShare",
-            "upvotes": 235,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "It took frustratingly long for the article to get to the point: They found hints of the possibility of dimethyl sulfide, a compound thought to be produced only by life.",
-                "Cool. What's the planet's immigration policy? Speaking as an American of course.",
-                "If the surface gravity is much stronger than earths, then would it even be possible for a human to visit the surface of this planet?   Could we step foot on any planet that has a surface gravity stronger than earths?",
-                "I hope they're hostile and highly advanced\u00a0",
-                "All I could see in my email was \u201cBreaking News:Astronomers detect\u2026\u201d. I honestly got sad when I clicked on it and it didn\u2019t read \u201c\u2026a large asteroid about to hit earth.\u201d",
-                "as long as they land on any other soil than the US, we may get a nice 1st contact.",
-                "I think we should pretend like we aren\u2019t home. We\u2019ve got lots going on as is.",
-                "What's the asylum process like?",
-                "God I hate the joking comments up in this bitch",
-                "So this is how it ends.\n\nNow that's they know where are, how long does it take before they come?"
-            ],
-            "aggregate_sentiment": 30.0
-        },
-        {
-            "category": "RISING",
-            "title": "Police stun 2 demonstrators at Rep. Marjorie Taylor Greene's town hall.",
-            "external_url": "https://www.nbcnews.com/politics/congress/police-tase-2-demonstrators-marjorie-taylor-greene-town-hall-acworth-rcna201457",
-            "upvotes": 368,
-            "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250415-marjorie-taylor-greene-ac-1002p-fe8a04.jpg",
-            "top_comments": [
-                "She's still holding town halls???",
-                "Time for protestors to start wearing insulated clothing to avoid getting tased.",
-                "I sincerely wish her brain would leak out of her orifices and her public life would stop being a part of our society.",
-                "She cannot take what she dishes out. Typical.",
-                "Did she call the police ahead of time for them to do this to anyone that yelled at her? Looked like a crowd of about 50 people but there were 6-7 cops on hand?",
-                "Don\u2019t have to stun them. Most people are already shocked at whatever comes out of her mouth.",
-                "If only there were some kind of sign... some, I don't know, way to tell if someone is really representing the people  who elected them to office? It's so confusing, I mean, she knows she's doing an *amazing job!* and everyone loves her and the orange penis in her mouth has gone over so well, especially now that the country is obviously on the right track. *FINALLY!*\n\nBut then something like this happens and antifa or the communists or whoever those brown people really are tries to get in the way of her cute little peaceful town hall meetings where she's just going to politely explain how imprisoning all their neighbors in Central America along with destroying their financial future (did she mention how well she did playing the market last week?!?!) and the fact none of them can afford eggs this Easter... look. Can someone just explain to her what it is she really has to do to get some respect around here?",
-                "\u201cStun\u201d is certainly one way to put it.",
-                "Are you sure they weren\u2019t hit by space lasers??",
-                "Police stunned to see many demonstrators at Rep. Marjorie Tasers Greene's town hall. \n\nMaybe a building capacity issue."
-            ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 8.0
         }
     ],
-    "last_updated": "04/17/2025 00:41:39 UTC"
+    "last_updated": "04/17/2025 04:11:12 UTC"
 }
