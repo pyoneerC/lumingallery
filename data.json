@@ -2,9 +2,51 @@
     "posts": [
         {
             "category": "HOT",
+            "title": "Tesla whistleblower wins latest legal battle in fight against Musk",
+            "external_url": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
+            "upvotes": 5229,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/057d/live/f4e7a3a0-1af0-11f0-8a1e-3ff815141b98.jpg",
+            "top_comments": [
+                "As someone who was also diagnosed with an advanced cancer at a young age, I am in awe of this woman.  She is doing a good, but extremely challenging thing during her darkest days.  I\u2019m routing for her, and hope she gets a resolution sooner rather than later.  I\u2019m also wishing her positive outcomes with her treatment and outcome battling cancer.",
+                "Hope she wins, no one deserves to wrongfully lose their job for bringing up concerns to a supervisor.",
+                "> \"I wish Elon Musk had the decency to apologise.\"\n\nDon't we all wish the world's richest person had some decency.",
+                "Darkest Prediction: \nWin the legal battle, lose the \"not getting sent to El Salvador prison\" war.",
+                "Hard to be a shittier American than a Trump/Elon supporter these days",
+                "What a stupid thing to get fired over. Fix the e carpets",
+                "\u201cI wish Elon Musk has the decency to apologize\u201d\nHahahahahaha",
+                "What\u2019s the deal with the mats?  My mat curls and slides under the pedals.  I have to pull it down every single time I get in the car.",
+                ">the chance to take on Elon Musk in front of a jury and judge\n\nThis thought delights me to the extreme.",
+                "And the regime has sent her to their foreign gulag"
+            ],
+            "aggregate_sentiment": 98.0
+        },
+        {
+            "category": "HOT",
+            "title": "2 Defense Department officials, including senior adviser to Pete Hegseth, put on leave amid leak investigation",
+            "external_url": "https://www.cbsnews.com/news/dan-caldwell-pentagon-leak-investigation-on-leave/",
+            "upvotes": 1266,
+            "date": "04/17/2025",
+            "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/15/37068e63-d5d8-44de-a1f5-d962712cccf3/thumbnail/1200x630/18120fcbb01fc5c0cb9650e2ab0af4fe/gettyimages-2203658198.jpg?v=412b48b2e3085db78364e6e02a7dc2b8",
+            "top_comments": [
+                ">A source familiar says Caldwell is accused of sharing classified documents with reporters.\n\nOh, is that a problem for Hegseth now?",
+                "Such a mess. 0 Professionalism",
+                "What about Hegseth? Shouldn't he be on leave too?",
+                "WHISKEY LEAKS\nRemember: Trump only hires the best.\u00a0",
+                "Damn, I got excited when I misread \"including Pete hegseth\"... then I remembered he's already at the top of that chain",
+                "This DEI-less experiment seems to be a disaster.  Can we go back to being really good at things again?",
+                "Every top official on that chat knew it was illegal to use for classified information. All of them, including the VP, needs to be impeached, removed from office, and prosecuted.",
+                "Imagine being the one in the chat, leaking information, and then it's your assistant that gets suspended...Much accountability, much wow.",
+                "Paid vacation for being bad at their jobs.",
+                "\"Tyranny requires constant effort. It breaks, it leaks. Authority is brittle. Oppression is the mask of fear.\"\n\n-Nemik's Manifesto, Andor"
+            ],
+            "aggregate_sentiment": 18.0
+        },
+        {
+            "category": "HOT",
             "title": "Judge scraps US rule capping credit card late fees at $8",
             "external_url": "https://www.reuters.com/business/finance/judge-scraps-us-rule-capping-credit-card-late-fees-8-2025-04-15/",
-            "upvotes": 6624,
+            "upvotes": 11681,
             "date": "04/17/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -15,38 +57,138 @@
                 "Any and every action possible to fuck over people who are struggling with money.",
                 "Who the fuck does this benefit aside from corporations? \n\nLike what scumbag does rhis",
                 "They sure are undoing a lot of stuff from a President who \u201cdidn\u2019t do anything\u201d",
+                "MAGA bros erupt in cheers all over the country.   Nobody knows why",
                 "You Americans always say \"we need guns when the government is coming for us.\"\n\nBruh, every branch of government is coming for your poor ass now.\n\nI am more curious to see some jackass defending the ruling of scraping the cap though.",
-                "I thought judges shouldn\u2019t dictate policies or whatever the clown in office says?",
-                "Cool cause I was worrying about banks and their execs and if they were getting enough money"
+                "I thought judges shouldn\u2019t dictate policies or whatever the clown in office says?"
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "HOT",
+            "title": "US judge finds Google holds illegal online ad tech monopolies",
+            "external_url": "https://www.reuters.com/technology/us-judge-finds-google-holds-illegal-online-ad-tech-monopolies-2025-04-17/",
+            "upvotes": 912,
+            "date": "04/17/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Kinda hard to get upset at this stage considering we've just let every mega corporation buy each other the last two decades. There is only like one competitor and it's meta for online ads, yeah? I mean Bing exists but.. It's Bing.",
+                "I sense a completely unrelated trip to Mar-a-Lago and then things will get 'sorted' out.",
+                "I predict this will go away after a trip to maraloago",
+                "Time for Sundar Pichai to buy Clarence Thomas a new house.",
+                "There are judges and law in the US?",
+                "Every day is groundhogs day from 2016 on",
+                "Will Democrats now go after Big Tech? Lol trump",
+                "Yeah no shit. Now do Meta.",
+                "I was at a focus group put on by Google to test how their defense worked. On the dolts in the session, it worked like a charm. Only a few saw through the defense.",
+                "Predictable follow up headline, they get a $700m fine which sounds crazy but is actually the amount of money they make in 1 day."
+            ],
+            "aggregate_sentiment": 58.0
+        },
+        {
+            "category": "HOT",
+            "title": "Temu and Shein will raise prices for US customers due to Trump's tariffs",
+            "external_url": "https://apnews.com/article/temu-shein-price-increases-trump-tariffs-066a3e729c971fdf9e929bb8a94eea67",
+            "upvotes": 1210,
+            "date": "04/17/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Guess people are only going to be shoppinng like millionaires, maybe even thousandaires, instead of billionaires at Temu",
+                "I can't wait until the \"haul culture\" dies, what a waste that is.",
+                "Didn\u2019t buy that shit before and I really won\u2019t now.",
+                "This must come as a huge shock to Americans who have been told by their leadership that China pays the tariffs, not Americans.",
+                "I'll be honest, if you're someone that buys random things off of Instagram ads because you think they're functional or cute or useful, literally every single one of those things that you're seeing are sold on Temu infinitely cheaper - in some cases 90-95% cheaper for the exact same item. I've seen a bunch of Instagram ads for an ear wax removal tool with a camera so you can see what you're picking at for 59 dollars on some vendor, and the exact same item on Temu was $3.45.\n\nI don't use it for everything, clothes especially, but I've bought a number of Temu goods that I'm pretty happy with. And a number of those things I've had for years and they still work just as well.",
+                "I guess if there\u2019s one silver lining is that junk producers may go away. Fast fashion may disappear. \n\nBut then the flip side is that if you can\u2019t afford lots then Temu and SHEIN are your only hope.",
+                "Maybe a positive aspect of this is that temu goes out of business\u00a0",
+                "This probably won\u2019t deter many of their customers, who are apparently addicted to this fast fashion garbage.",
+                "I dont feel bad for these 2 companies hurt by tariffs. They only sell single use craps.\n\nShein\u2019s return rate is crazy high and those returned stuff mostly end up in some landfill in Africa. Just sad.",
+                "So the exact same backpack that sells for 65$ on amazon will now cost me 30$ rather than the 20$ it used too.... oh well."
+            ],
+            "aggregate_sentiment": 82.0
+        },
+        {
+            "category": "HOT",
+            "title": "Two infants die of whooping cough in Louisiana as cases climb nationally",
+            "external_url": "https://www.cnn.com/2025/04/02/health/whooping-cough-pertussis-louisiana/index.html",
+            "upvotes": 1813,
+            "date": "04/17/2025",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-541052350.jpg?c=16x9&q=w_800,c_fill",
+            "top_comments": [
+                "If only there were a way to stop it.",
+                "it's like a revival of all the sicknesses",
+                "It's sad for the children who die because it is so obviously preventable.  Kids can't control whether or not their parents are anti vaxxers.   As for any parent who has a child who dies because you decided to not vaccinate them, I have zero sympathy.  \n\nClearly there are parts of the population who for various reasons cannot be vaccinated, such as immunocompromized.  That's understandable and legitimate in my opinion",
+                "Measles, whooping cough. Conservatives are getting what they wanted. The good old days are coming back.",
+                "We've seen a rise of whooping cough cases in my highschool, we had three or four notices sent home that there were\u00a0\ncases this school year. You have to get your TDAP vaccine every 10 years, it's an easy one to forget about.\n\n\nYou can get it at your local pharmacy, and if you plan on being around any newborns it doesn't hurt to get revaccinated.",
+                "[Infant girl with whooping cough](https://youtu.be/S3oZrMGDMMw?si=SmUSkPnBy55QZKO2)\n\nWatch if you don't believe in vaccinations.",
+                "Pregnant people can get the TDaP vaccine during each pregnancy to give their baby some protection when they're too young to be vaccinated.",
+                "I want to stop playing The Oregon Trail for real now, please.",
+                "Copied my comment from another sub:\n\nI got whooping cough when I was 16.\n\nI cannot stress that please for the love of god, ensure you and your children are immunized for it. It was the worst cough I'd ever had in my life, and you might say \"Why Tycho-Celchu, coughs aren't that bad, it's more of a minor annoyance when you're sick.\" and I cannot stress enough: No it is fucking horrible. It's horrible racking coughs that feel like any second your lung tissue is about to be expunged. I would get coughing fits so bad my stomach would contract and I'd throw up. Imagine with every cough you're vomiting more and more and when there's nothing left you're just retching with every hack.\n\nOh and you know what the alternative name for whooping cough is? The cough of a hundred days. And trust me, you feel everyone of those hundred days. I missed the last month of grade 10 because of it, I went to class once and I coughed so hard I wasn't able to breathe and the entire class panicked and thought I was going to die, complete with my teacher trying frantically to call 911 while I'm trying to stop her. When I showed up for the 1st day in grade 11, there were people I weren't friends with stopping to chat with me because I didn't come back to school after that and they thought I had died.",
+                "I got whooping cough when I was six, almost died from it, and no doubt have lasting effects. This was *before* a vaccine was widely prescribed/available. These people are fucking idiots."
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "HOT",
+            "title": "Man Who Set Fire to Shapiro\u2019s Mansion Cited Treatment of Palestinians, Police Say",
+            "external_url": "https://www.nytimes.com/2025/04/16/us/cody-balmer-motive-arson-gaza-palestinian-shapiro.html?unlocked_article_code=1.AU8.Urgu.PkzlAQXT8lQK&smid=nytcore-ios-share&referringSource=articleShare&sgrp=p",
+            "upvotes": 1292,
+            "date": "04/17/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "It's weird that they keep referring to this as \"Shapiro's Mansion\". \n\nIt's not HIS mansion, it's the governor's mansion. All Pennsylvania governors live there during their terms. \n\nIt would be like referring to the white house as \"Trump's House\".",
+                "The guy is nuts. Have you seen him?",
+                "Is there anything Governor Shapiro personally did to mistreat Palestinians, other than simply be Jewish?",
+                "That makes sense, because I totally remember when Josh Shapiro personally flew over to Gaza and shot a few before hopping on a plane home.",
+                "Naw.  I'm pretty sure that progressives already fixed that  whole \"mistreatment of Palestinians\" thing when they refused to vote for Harris and ended up getting Trump elected instead.  \n\nEverything is much better now, right?"
+            ],
+            "aggregate_sentiment": 12.0
         },
         {
             "category": "HOT",
             "title": "US IRS planning to rescind Harvard's tax-exempt status",
             "external_url": "https://www.reuters.com/world/us/us-irs-planning-rescind-harvards-tax-exempt-status-cnn-reports-2025-04-16/",
-            "upvotes": 29435,
+            "upvotes": 33034,
             "date": "04/16/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
                 "This is going to be drawn out in court for a long time. Harvard isn't likely to back down.",
                 "Isn't it illegal for the president to get the IRS to do that?\n\n\"Prohibition on executive branch influence over taxpayer audits and other investigations\"\n\n[Stated here](https://www.law.cornell.edu/uscode/text/26/7217)",
                 "All is fair then when the shoe is on the other foot...every church that participated in preaching about voting (at all for anyone) should lose their tax exempt status too",
-                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
                 "Remember when conservatives cried persecution because the IRS showed extra scrutiny to conservative groups based on keyword usage? (The IRS also did the same for liberal groups as well but conservatives just ignored that since it didn't support their worldview)",
+                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
                 "How about megachurches next?",
-                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
                 "Harvard may know some lawyers who can represent them in court.",
+                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
                 "Oh, good.  The dollar is collapsing, U.S. bonds are becoming more unstable and disfavored globally every day, stock market volatility is off the charts with every indication that the bottom is going to fall out, the FED chairman just cautioned that Trump's tariffs are putting the country on track for devastating stagflation ... and instead of dealing with any of this the White House is hyper-focused on abusing the power of the federal government to exact petty retributions against perceived political enemies.  Any Trump supporters want to defend this daily shitshow?",
                 "I'm very glad Harvard decided to be the one to stick out its neck. I was having conversations with my former colleagues at smaller state universities at the R2 level. Many wanted to defy the federal government but did not have the resource to do so. Now that Harvard did this and MIT followed suit, a lot more universities can just follow their footsteps. White House cannot possibly target every single college."
             ],
-            "aggregate_sentiment": 40.0
+            "aggregate_sentiment": 82.0
+        },
+        {
+            "category": "HOT",
+            "title": "Toby Carvery owner 'sorry' after cutting down 500 year old oak.",
+            "external_url": "https://www.bbc.com/news/articles/ce8g6lj8343o",
+            "upvotes": 642,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/bdae/live/c7f3b800-1b74-11f0-b015-f17d4d024f76.jpg",
+            "top_comments": [
+                "How hard was it for these folks to just not cut the tree down Jfc",
+                "Note: he\u2019s sorry they upset the public. He never says sorry for cutting it down.",
+                "Revoke the license of the Toby. Hit them where it hurts. The fines are pathetic.",
+                "He's sorry he got caught, not that he cut it down.",
+                "He\u2019s not sorry for cutting it down. He\u2019s sorry people are mad at him for being a dick. I\u2019m sure the extremely light punishment will deter him going forward.",
+                "The contractors that suggested cutting the thing down need their licenses revoking and stiff fines as well as the Toby Carvery owner - there are rules for cutting down mature trees in the UK",
+                "no they are not sorry.",
+                "He should be sorry about serving up that slop in his carvery. He should hang his head in shame for cutting down that tree",
+                "In NYC, the restitution value of that tree by Parks would be in the hundreds of thousands of dollars.\n\nFine them to oblivion.",
+                "the only way shit like this is going to stop is if we determine the individuals who are responsible and put them in prison, or otherwise punish them.  strip them of all assets, and make them work as a janitor at a national park, or something like that.  people having the ability to hide from personal liability behind the corporate wall has got to end."
+            ],
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "HOT",
             "title": "Trump administration plans to end the IRS Direct File program for free tax filing, AP sources say",
             "external_url": "https://apnews.com/article/irs-direct-file-tax-returns-free-trump-4bb0bca02fab9b3d06ae6f45ac67b7ab",
-            "upvotes": 30981,
+            "upvotes": 32690,
             "date": "04/16/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -57,313 +199,290 @@
                 "MAGA : Let's remove DirectFile, which people like and makes sense.\n\nMAGA : Let's not go after TurboTax though, which is outright scamming us.",
                 "Every decision, the benefit of our enemies.",
                 "I filed my taxes with this in less than 30 minutes and got my return in less than week. Obviously its a terrible inefficient program that needs to go. /s",
-                "It cost $100 to file taxes under H&R Block services. That is insane when the IRS already has our information! It\u2019s ridiculous.",
                 "I wonder how much Intuit and H&R Block paid for this. It doesn't help anyone but them to get rid of this service.",
+                "It cost $100 to file taxes under H&R Block services. That is insane when the IRS already has our information! It\u2019s ridiculous.",
                 "Been using freetaxusa"
-            ],
-            "aggregate_sentiment": 67.0
-        },
-        {
-            "category": "HOT",
-            "title": "Tesla whistleblower wins latest legal battle in fight against Musk",
-            "external_url": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
-            "upvotes": 960,
-            "date": "04/17/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/057d/live/f4e7a3a0-1af0-11f0-8a1e-3ff815141b98.jpg",
-            "top_comments": [
-                "As someone who was also diagnosed with an advanced cancer at a young age, I am in awe of this woman.  She is doing a good, but extremely challenging thing during her darkest days.  I\u2019m routing for her, and hope she gets a resolution sooner rather than later.  I\u2019m also wishing her positive outcomes with her treatment and outcome battling cancer."
-            ],
-            "aggregate_sentiment": 92.0
-        },
-        {
-            "category": "HOT",
-            "title": "Congestion pricing is working': MTA says tolls keeping 82k drivers a day out of Manhattan",
-            "external_url": "https://gothamist.com/news/congestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan?utm_source=sfmc&utm_medium=nypr-email&utm_campaign=Gothamist+Daily+Newsletter&utm_term=https%3a%2f%2fgothamist.com%2fnews%2fcongestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan&utm_id=437122&sfmc_id=53418894&utm_content=2025414&nypr_member=True",
-            "upvotes": 4821,
-            "date": "04/17/2025",
-            "thumbnail": "https://api-prod.gothamist.com/images/349119/fill-1200x650|format-webp|webpquality-85/",
-            "top_comments": [
-                "Wait\u2026What happened to \u201ccongestion pricing is dead. Long live the king!\u201d?",
-                "For me driving in Manhattan was enough to keep me from driving in Manhattan. What a nightmare.",
-                "I was just in the city the other week and the amount of cars was WAY down. It was noticable. But you know what? The town was still busy as hell and taxis, subways and busses were moving right along. The people that needed or wanted to be there were there.",
-                "$9 per day sounds pretty reasonable. Was that all that was required to deter 2.5 million vehicles compared to last March?",
-                "Wait, it's working? I assume Trump will immediately try to end it.",
-                "The Trump administration literally just wants to undo everything good, it's fucking disgusting",
-                "I was pissed when I heard about this being implemented, being an out-of-towner going to NYC is already an expensive affair with all the tolled highways, bridges and tunnels. But it was the first time ever that I was able to drive into Manhattan and not feel like I was suffocating in traffic. I was even able to find free parking on like 48th st. Nuts.\n\nThis has my full support.",
-                "As a person who drives a car (and isn't made of money), I hate the idea of congestion pricing.\n\nAs a person who hates traffic and doesn't like pollution, I love the idea of congestion pricing.\n\nI've got mixed feelings about it, but if it works it works I suppose?",
-                "I just hope that the MTA uses this money wisely.",
-                "Ongoing case: [https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/](https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/)\n\nOne of at least 195 against this administration ... [https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)"
-            ],
-            "aggregate_sentiment": 40.0
-        },
-        {
-            "category": "HOT",
-            "title": "California the 1st state to sue Trump administration over tariffs",
-            "external_url": "https://www.cbc.ca/news/world/california-newsom-trump-tariffs-1.7511493",
-            "upvotes": 30607,
-            "date": "04/16/2025",
-            "thumbnail": "https://i.cbc.ca/1.7511588.1744814544!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-trump.JPG?im=Resize%3D620",
-            "top_comments": [
-                "Makes a lot of sense. Out of the 50 states, California has the largest economy \u2014 the tariffs would significantly impact the golden state",
-                "California is getting specifically targeted/fucked by Trump. National parks, tourism, trade, agriculture (the water thing). \n\nMakes me want to not pay my federal taxes. Not like anyone works at the IRS anymore.",
-                "LETS GO Washington, Oregon, Illinois... get on board with this.",
-                "Here's to hoping he gets a preliminary injunction. The Supreme Court will side with Trump in the end, but not if Republicans finally grow a spine and help pass a bill that limits Trump's powers.",
-                "Hope the rest follow suit.\n\n\nMake him regret this.",
-                "As ashamed as I am to be American these days, I'm proud to be a Californian.",
-                "What use is a lawsuit to someone who doesn\u2019t even have to obey the Supreme Court?",
-                "Sue his ass for everything at this point",
-                "Proud to live in California. Just watched Newsom\u2019s news conference on it. Really good points made. \n\n\u201cPresident can\u2019t do unlawful things.\u201d Damn right.\n\nETA: Some of the people here don\u2019t know the history of what happens when Cali sues Trump. \n\nCalifornia has brought over 100 lawsuits against Trump\u2014a majority being during Trump 1.0. 15 so far for Trump 2.0. And in many of those, gains have been made. Lawsuits can work and do work. So it\u2019s not a waste of time for them to be doing this. If anything they\u2019ve fired the first shot, other states will hopefully follow.",
-                "I don't think this lawsuit will go anywhere, and will probably be thrown out since tariffs are an international issue with the federal government, not with states.\n\nBut more power to him to try."
-            ],
-            "aggregate_sentiment": 85.0
-        },
-        {
-            "category": "HOT",
-            "title": "Harvard researchers say they might have to lay off workers and euthanize research animals due to funding freeze",
-            "external_url": "https://www.wxow.com/news/national/harvard-researchers-say-they-might-have-to-lay-off-workers-and-euthanize-research-animals-due/article_90bd9ea0-e8f5-55d4-ab2d-8c96b6e85915.html",
-            "upvotes": 4743,
-            "date": "04/16/2025",
-            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/3/63/3639369c-7d7d-5b2e-b34b-dbabc632507b/68002f01b8ab8.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
-            "top_comments": [
-                "If they have to euthanize animals I vote they do it right in front of the White House, make it known this is something Trump is forcing them to do, make it public",
-                "The science and learning don't matter. Only hate.... Welcome to Trump's America",
-                "The shit stain country gets shit stainier every day",
-                "Lots of people here clearly don't know how endowments work.",
-                "https://www.nytimes.com/2025/04/15/us/politics/trump-harvard-tax-status.html\n\u201cPerhaps Harvard should lose its Tax Exempt Status and be Taxed as a Political Entity if it keeps pushing political, ideological, and terrorist inspired/supporting \u2018Sickness?\u2019\u201d Mr. Trump posted on Truth Social on Tuesday morning.\n\nFederal law prohibits the president from \u201cdirectly or indirectly\u201d telling the I.R.S. to conduct specific tax investigations:\n\nhttps://www.law.cornell.edu/uscode/text/26/7217\n26 U.S. Code \u00a7 7217 - Prohibition on executive branch influence over taxpayer audits and other investigations",
-                "Wait, why is euthanizing the first solution?",
-                "They want all the research, innovation and development here  but then cut off all funding and grants for the stupidest reasons. There is NO way we will beat China in the trade war.",
-                "i will take the animals :(",
-                "Just a reminder that the Trump administration NIH grant cuts are coming after state schools without big endowments too.\n\n\"But Harvard has money!!!\" is not a defense of these illegal grant cuts, it's just the reason why they have the resources to fight back.",
-                "See to most people this headline sounds like bad news, but to republicans and MAGA not only do smart people lose their jobs but animals die too so for them it's a double win."
             ],
             "aggregate_sentiment": 14.0
         },
         {
-            "category": "HOT",
-            "title": "Trade war fallout: Cancellations of Chinese freight ships begin as bookings plummet",
-            "external_url": "https://www.cnbc.com/2025/04/16/trade-war-fallout-china-freight-ship-decline-begins-orders-plummet.html",
-            "upvotes": 1766,
+            "category": "NEW",
+            "title": "2 Defense Department officials, including senior adviser to Pete Hegseth, put on leave amid leak investigation",
+            "external_url": "https://www.cbsnews.com/news/dan-caldwell-pentagon-leak-investigation-on-leave/",
+            "upvotes": 1249,
             "date": "04/17/2025",
-            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108084402-1736447375007-gettyimages-2191474671-vcg111538748527.jpeg?v=1744819797&w=1920&h=1080",
+            "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/15/37068e63-d5d8-44de-a1f5-d962712cccf3/thumbnail/1200x630/18120fcbb01fc5c0cb9650e2ab0af4fe/gettyimages-2203658198.jpg?v=412b48b2e3085db78364e6e02a7dc2b8",
             "top_comments": [
-                "This is the fault of Congress. \n\nFor four years Trump was able to make irrational demands and Congress obeyed with no question or hesitation. So Trump and his team just assumed that other nations would bow down just as easily also. \n\nBut, unlike our spineless congress, other nations are not going to sacrifice their citizens or destroy themselves just to appease a bully.",
-                "A total of 80 blank, or canceled, sailings out of China have been recorded by freight company HLS Group. It wrote in a recent note to clients that with the trade war between China and the U.S. leading to a demand plummet, carriers have started to suspend or adjust transpacific services.\n\nThe impact of the diminished freight container traffic to North America will be significant for many links in the economy and supply chain, including the ports and logistics companies moving the freight. If each sailing was carrying 8,000 to 10,000 TEUs (twenty-foot equivalent units), that would equal a decline in freight traffic of between 640,000-800,000 containers, and lead to decreased crane operations at the ports, lower fees that could be collected, and declines in container pick-ups and transports by trucks, rails, and to warehouses for storage.\n\nThe World Trade Organization warned on Wednesday that the outlook for global trade has \u201cdeteriorated sharply\u201d in the wake of Trump\u2019s tariffs plan. JB Hunt shares hit their lowest level since November 2020 after commentary during the trucking company\u2019s earnings call about the uncertainty from tariffs.",
-                "Glad those longshoremen went on strike and had their union boss cozy up with Trump during the election.",
-                "This can\u2019t be right, China were gonna have to pay all those tariffs and it was gonna make the US a whole bunch of money\u2026.  /s",
-                "The ripple effects of this are really pretty insane. So much of the global economy is built on just in time supply chains, with a heavy reliance on the US as a key consumer.  Now organizations need to route everything around the US and build  new lines. In some cases they will find cost savings over US centric models and never return. In others, it will be just be more expense for everyone. No one trusts this is a long term thing, but the threat is existential for too many companies to do nothing. However, there will continued dynamic shifts well into 2026 because of these stupid tariffs.",
-                "We have to be winning now, right?",
-                "The fallout goes far beyond shipping. I'm a sales rep and my number one line is a handbag line made in China. If they go under, I'm out 40% of my income. I also have other lines with product sourced from China. I have a Canadian line that will be hit with a 30% tariff as of May 1st, when the de minimus rule is cancelled. I'm sure my sales of their products will plummet.\n\nI'm starting to get announcements from vendors of upcoming price increases or tariff surcharges. One surcharge will be 18%.\n\nTo sum it all up...I'm screwed.",
-                "Im in construction and there is a lot of disruption right now in the construction industry with these tariffs. Not even to mention the mass deportations and flat out threats of rendition of Hispanic workers. \n\nTrump is really screwing the pooch.",
-                "Americans are going to suffer real inflation soon.",
-                "The layoffs are going to be huge in a ripple effect"
+                ">A source familiar says Caldwell is accused of sharing classified documents with reporters.\n\nOh, is that a problem for Hegseth now?",
+                "Such a mess. 0 Professionalism",
+                "What about Hegseth? Shouldn't he be on leave too?",
+                "WHISKEY LEAKS\nRemember: Trump only hires the best.\u00a0",
+                "Damn, I got excited when I misread \"including Pete hegseth\"... then I remembered he's already at the top of that chain",
+                "This DEI-less experiment seems to be a disaster.  Can we go back to being really good at things again?",
+                "Every top official on that chat knew it was illegal to use for classified information. All of them, including the VP, needs to be impeached, removed from office, and prosecuted.",
+                "Imagine being the one in the chat, leaking information, and then it's your assistant that gets suspended...Much accountability, much wow.",
+                "Paid vacation for being bad at their jobs.",
+                "\"Tyranny requires constant effort. It breaks, it leaks. Authority is brittle. Oppression is the mask of fear.\"\n\n-Nemik's Manifesto, Andor"
             ],
             "aggregate_sentiment": 22.0
         },
         {
-            "category": "HOT",
-            "title": "Missing toddler who walked 7 miles alone through Arizona wilderness led to safety by rancher's dog",
-            "external_url": "https://www.nbcnews.com/news/us-news/missing-toddler-walked-7-miles-alone-arizona-wilderness-led-safety-ran-rcna201479?utm_source=firefox-newtab-en-us",
-            "upvotes": 6368,
-            "date": "04/16/2025",
-            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-arizona-toddler-dog-ch-1033-58c02e.jpg",
-            "top_comments": [
-                "\n\"I got in my truck to go to town and I see Buford walking down the side of the fence with a little blond kid with him. I had heard about the missing child this morning, so I knew it was him.\"\n\n\nBuford, (best name ever), probably only walked with him about a mile, but the dog did find him.",
-                "I hope Buford got a nice treat for being a good boy.",
-                "the goodest of good boys.",
-                "7 miles for a 2 year old!",
-                "I have a Pyrenees mix (Buford is a full Pyr) and they are one of the smartest and self-sufficient dog breeds.  They can make decisions on their own and I can believe the doggo worked out that the kid shouldn't have been there and that the best thing to do was to lead him home, like a sheep.  They are also hard headed and stubborn, because they believe they are smarter than we are...",
-                "Cause dogs are awesome.\u00a0",
-                "It followed me home, dad, can I keep him?",
-                "Great to read a positive story with a good ending",
-                "I have an Anatolian Pyrenees! Also known as a Colorado Mountain Dog. \n\nGreat with kids, protective and suspicious of anything else they don\u2019t know.",
-                "God I love dogs. I wish more humans were more like dogs."
-            ],
-            "aggregate_sentiment": 80.0
-        },
-        {
-            "category": "HOT",
-            "title": "Two infants die of whooping cough in Louisiana as cases climb nationally",
-            "external_url": "https://www.cnn.com/2025/04/02/health/whooping-cough-pertussis-louisiana/index.html",
-            "upvotes": 255,
+            "category": "NEW",
+            "title": "American woman who killed man in Kaiserslautern train station stabbing gets probation",
+            "external_url": "https://www.stripes.com/theaters/europe/2025-04-17/kaiserslautern-stabbing-sentence-17495326.html",
+            "upvotes": 35,
             "date": "04/17/2025",
-            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-541052350.jpg?c=16x9&q=w_800,c_fill",
+            "thumbnail": "https://www.stripes.com/incoming/mv4a5p-170425ktn-sentencephoto01.jpg/alternates/LANDSCAPE_480/170425KTN-SENTENCEphoto01.jpg",
             "top_comments": [
-                "If only there were a way to stop it.",
-                "it's like a revival of all the sicknesses",
-                "It's sad for the children who die because it is so obviously preventable.  Kids can't control whether or not their parents are anti vaxxers.   As for any parent who has a child who dies because you decided to not vaccinate them, I have zero sympathy.  \n\nClearly there are parts of the population who for various reasons cannot be vaccinated, such as immunocompromized.  That's understandable and legitimate in my opinion",
-                "Pregnant people can get the TDaP vaccine during each pregnancy to give their baby some protection when they're too young to be vaccinated.",
-                "Measles, whooping cough. Conservatives are getting what they wanted. The good old days are coming back.",
-                "I want to stop playing The Oregon Trail for real now, please.",
-                "I had whooping cough as a kid at 1 and then 2 years old. My parents told me it's no joke.",
-                "This just gets worse day by day",
-                "I have a question for you all. I'm a Middle School teacher at a private school in the US. I learned the other day that there are unvaccinated kids at our school. Do I have the right to demand who those kids are?",
-                "We are making America so fucking great."
+                "Misleading headline, the man had sexually assaulted her. This makes it sound like the stabbing was unprovoked.\n\nTry \"Sexual Predator dies after being stabbed by victim\" \n\nIf he'd kept his hands to himself, he'd still be alive.",
+                "Finally, some good news.",
+                "2 years probation for manslaughter - yes, sounds about right.\u00a0\n\n\nI guess that means I'll go to a train station now, wait until someone is being an asshole to me, and i get to murder the for free!"
             ],
             "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
+            "title": "US judge finds Google holds illegal online ad tech monopolies",
+            "external_url": "https://www.reuters.com/technology/us-judge-finds-google-holds-illegal-online-ad-tech-monopolies-2025-04-17/",
+            "upvotes": 918,
+            "date": "04/17/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Kinda hard to get upset at this stage considering we've just let every mega corporation buy each other the last two decades. There is only like one competitor and it's meta for online ads, yeah? I mean Bing exists but.. It's Bing.",
+                "I sense a completely unrelated trip to Mar-a-Lago and then things will get 'sorted' out.",
+                "I predict this will go away after a trip to maraloago",
+                "Time for Sundar Pichai to buy Clarence Thomas a new house.",
+                "There are judges and law in the US?",
+                "Every day is groundhogs day from 2016 on",
+                "Will Democrats now go after Big Tech? Lol trump",
+                "Yeah no shit. Now do Meta.",
+                "I was at a focus group put on by Google to test how their defense worked. On the dolts in the session, it worked like a charm. Only a few saw through the defense.",
+                "Predictable follow up headline, they get a $700m fine which sounds crazy but is actually the amount of money they make in 1 day."
+            ],
+            "aggregate_sentiment": 58.0
+        },
+        {
+            "category": "NEW",
+            "title": "Target baby food recalled over lead contamination",
+            "external_url": "https://www.denver7.com/life/recalls/target-baby-food-recalled-over-lead-contamination",
+            "upvotes": 439,
+            "date": "04/17/2025",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/1e90499/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fac%2F2c%2F1a6290854e989967dce1a6486285%2F1710766284-4lr8vv.jpg",
+            "top_comments": [
+                "Don't worry! Next time there won't be any pesky recalls because the dept that investigates food safety got DOGE'd. Lead for all!",
+                "And some Americans wonder why we don't want to buy their shitty, deregulated food products.",
+                "Lead in baby food and I saw another article about lead in a lot of toothpastes just this morning.\n\nCool",
+                "This is why we need to get rid of regulations. Then we won\u2019t have these scary recalls. Problem solved, right?\u00a0",
+                "That's probably not gonna help their declining sales. Whoops.\u00a0",
+                "Good thing the USDA is getting gutted. God damn MAGA is made of fucking morons.",
+                "How does lead get into this stuff in the first place? Crops grown in toxic soil?",
+                "This is the US in a nutshell. Have them babies so we can kill them!",
+                "Well I, for one, think that lead is very *manly* and that it should be in more things. A lot of very powerful people got where there are because of lead, you know.",
+                "Cost cutting kills customers."
+            ],
+            "aggregate_sentiment": 20.0
+        },
+        {
+            "category": "NEW",
+            "title": "Toby Carvery owner 'sorry' after cutting down 500 year old oak.",
+            "external_url": "https://www.bbc.com/news/articles/ce8g6lj8343o",
+            "upvotes": 647,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/bdae/live/c7f3b800-1b74-11f0-b015-f17d4d024f76.jpg",
+            "top_comments": [
+                "How hard was it for these folks to just not cut the tree down Jfc",
+                "Note: he\u2019s sorry they upset the public. He never says sorry for cutting it down.",
+                "Revoke the license of the Toby. Hit them where it hurts. The fines are pathetic.",
+                "He's sorry he got caught, not that he cut it down.",
+                "He\u2019s not sorry for cutting it down. He\u2019s sorry people are mad at him for being a dick. I\u2019m sure the extremely light punishment will deter him going forward.",
+                "The contractors that suggested cutting the thing down need their licenses revoking and stiff fines as well as the Toby Carvery owner - there are rules for cutting down mature trees in the UK",
+                "no they are not sorry.",
+                "He should be sorry about serving up that slop in his carvery. He should hang his head in shame for cutting down that tree",
+                "In NYC, the restitution value of that tree by Parks would be in the hundreds of thousands of dollars.\n\nFine them to oblivion.",
+                "the only way shit like this is going to stop is if we determine the individuals who are responsible and put them in prison, or otherwise punish them.  strip them of all assets, and make them work as a janitor at a national park, or something like that.  people having the ability to hide from personal liability behind the corporate wall has got to end."
+            ],
+            "aggregate_sentiment": 18.0
+        },
+        {
+            "category": "NEW",
+            "title": "Florida principal and teacher charged after 100 minors were at house party with alcohol.",
+            "external_url": "https://www.nbcnews.com/news/us-news/florida-principal-teacher-charged-100-minors-house-party-alcohol-rcna201662",
+            "upvotes": 209,
+            "date": "04/17/2025",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-Cocoa-Beach-Fla-Karly-Gayle-Anderson-police-bodycam-snip-ac-813p-9e776a.jpg",
+            "top_comments": [
+                "There are photos of DeSantis at a high school party drinking with his underage students, but i guess it's different if you're elected Governor after the fact.",
+                "A third grade teacher and the principal hosting 100+ high schoolers. What even is this?",
+                "Man, I think about all the times this happened at my high school and wonder how nothing ever came to light about it. We had an art teacher who also doubled as the surf club (yes, that was a real thing) advisor, and he regularly allowed us to have a couple of beers at his beach house after club outings. This was the late 80's, so obviously a \"different time\", but the thought of telling anyone about it never occurred to any of us.",
+                "This is the Florida I grew up in. Crooked ass state. I had a teacher that traded grades for drugs. Another one that slept with their students. Of course a few party with the students as well.",
+                "Wait...they got charged? Must have been using preferred pronouns.",
+                "School I worked at had principal throwing parties with beer and weed. 2 teachers married their high school students summer after graduation and then worked together at same high school. Administrators drinking during staff meeting days and school events. Small town shit never changes.",
+                "Hold up so these kids were at the principals home completely wasted. Oh hell nah, throw the whole school away. What the fuck even is this.",
+                "so many questions ........how can this kinda stuff happen ?",
+                "One of the security people at my HS was caught doing something similar, but not at this scale. He was friends with the photography teacher and class and was known for buying students booze."
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "NEW",
+            "title": "Temu and Shein will raise prices for US customers due to Trump's tariffs",
+            "external_url": "https://apnews.com/article/temu-shein-price-increases-trump-tariffs-066a3e729c971fdf9e929bb8a94eea67",
+            "upvotes": 1210,
+            "date": "04/17/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Guess people are only going to be shoppinng like millionaires, maybe even thousandaires, instead of billionaires at Temu",
+                "I can't wait until the \"haul culture\" dies, what a waste that is.",
+                "Didn\u2019t buy that shit before and I really won\u2019t now.",
+                "This must come as a huge shock to Americans who have been told by their leadership that China pays the tariffs, not Americans.",
+                "I'll be honest, if you're someone that buys random things off of Instagram ads because you think they're functional or cute or useful, literally every single one of those things that you're seeing are sold on Temu infinitely cheaper - in some cases 90-95% cheaper for the exact same item. I've seen a bunch of Instagram ads for an ear wax removal tool with a camera so you can see what you're picking at for 59 dollars on some vendor, and the exact same item on Temu was $3.45.\n\nI don't use it for everything, clothes especially, but I've bought a number of Temu goods that I'm pretty happy with. And a number of those things I've had for years and they still work just as well.",
+                "I guess if there\u2019s one silver lining is that junk producers may go away. Fast fashion may disappear. \n\nBut then the flip side is that if you can\u2019t afford lots then Temu and SHEIN are your only hope.",
+                "Maybe a positive aspect of this is that temu goes out of business\u00a0",
+                "This probably won\u2019t deter many of their customers, who are apparently addicted to this fast fashion garbage.",
+                "I dont feel bad for these 2 companies hurt by tariffs. They only sell single use craps.\n\nShein\u2019s return rate is crazy high and those returned stuff mostly end up in some landfill in Africa. Just sad.",
+                "So the exact same backpack that sells for 65$ on amazon will now cost me 30$ rather than the 20$ it used too.... oh well."
+            ],
+            "aggregate_sentiment": 0.0
         },
         {
             "category": "NEW",
             "title": "Man Who Set Fire to Shapiro\u2019s Mansion Cited Treatment of Palestinians, Police Say",
             "external_url": "https://www.nytimes.com/2025/04/16/us/cody-balmer-motive-arson-gaza-palestinian-shapiro.html?unlocked_article_code=1.AU8.Urgu.PkzlAQXT8lQK&smid=nytcore-ios-share&referringSource=articleShare&sgrp=p",
-            "upvotes": 6,
+            "upvotes": 1288,
             "date": "04/17/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
                 "It's weird that they keep referring to this as \"Shapiro's Mansion\". \n\nIt's not HIS mansion, it's the governor's mansion. All Pennsylvania governors live there during their terms. \n\nIt would be like referring to the white house as \"Trump's House\".",
-                "That makes sense, because I totally remember when Josh Shapiro personally flew over to Gaza and shot a few before hopping on a plane home.",
-                "Naw.  I'm pretty sure that progressives already fixed that  whole \"mistreatment of Palestinians\" thing when they refused to vote for Harris and ended up getting Trump elected instead.  \n\nEverything is much better now, right?",
                 "The guy is nuts. Have you seen him?",
-                "Is there anything Governor Shapiro personally did to mistreat Palestinians, other than simply be Jewish?"
+                "Is there anything Governor Shapiro personally did to mistreat Palestinians, other than simply be Jewish?",
+                "That makes sense, because I totally remember when Josh Shapiro personally flew over to Gaza and shot a few before hopping on a plane home.",
+                "Naw.  I'm pretty sure that progressives already fixed that  whole \"mistreatment of Palestinians\" thing when they refused to vote for Harris and ended up getting Trump elected instead.  \n\nEverything is much better now, right?"
             ],
-            "aggregate_sentiment": 12.0
-        },
-        {
-            "category": "NEW",
-            "title": "Boarding passes and check-in could be scrapped in air travel shake-up",
-            "external_url": "https://www.theguardian.com/world/2025/apr/11/boarding-passes-and-check-in-to-be-scrapped-in-air-travel-shake-up-plans",
-            "upvotes": 5,
-            "date": "04/17/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/088a7d80c1e0cdc9507d46ae01f6d019dcf3dc37/0_182_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73289707661f466757c86218c3f5ce43",
-            "top_comments": [
-                "Unfortunately, there are actually people who don\u2019t live digital lives who still travel. Are they actually proposing they can\u2019t travel?\n\nI will say, that I have US Global Entry. When I fly back to the US, the terminal recognizes me before I even get to the kiosk. And it tells me to move along. The CBP agent then just asked me if I\u2019m me, and waves me through. No passport checking or duty declaration unless I need to. It feels almost too easy.",
-                "Nice that they are trying to speed up boarding but this is going to blowup since face recognition has severe problems with people of darker skin tones.",
-                "Evil garbage made by evil people who just want to sell things with no care about the consequences who will lie to your face about implications and only want to line their pockets by selling something new"
-            ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 40.0
         },
         {
             "category": "NEW",
             "title": "Two infants die of whooping cough in Louisiana as cases climb nationally",
             "external_url": "https://www.cnn.com/2025/04/02/health/whooping-cough-pertussis-louisiana/index.html",
-            "upvotes": 252,
+            "upvotes": 1808,
             "date": "04/17/2025",
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-541052350.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
                 "If only there were a way to stop it.",
                 "it's like a revival of all the sicknesses",
                 "It's sad for the children who die because it is so obviously preventable.  Kids can't control whether or not their parents are anti vaxxers.   As for any parent who has a child who dies because you decided to not vaccinate them, I have zero sympathy.  \n\nClearly there are parts of the population who for various reasons cannot be vaccinated, such as immunocompromized.  That's understandable and legitimate in my opinion",
-                "Pregnant people can get the TDaP vaccine during each pregnancy to give their baby some protection when they're too young to be vaccinated.",
                 "Measles, whooping cough. Conservatives are getting what they wanted. The good old days are coming back.",
+                "We've seen a rise of whooping cough cases in my highschool, we had three or four notices sent home that there were\u00a0\ncases this school year. You have to get your TDAP vaccine every 10 years, it's an easy one to forget about.\n\n\nYou can get it at your local pharmacy, and if you plan on being around any newborns it doesn't hurt to get revaccinated.",
+                "[Infant girl with whooping cough](https://youtu.be/S3oZrMGDMMw?si=SmUSkPnBy55QZKO2)\n\nWatch if you don't believe in vaccinations.",
+                "Pregnant people can get the TDaP vaccine during each pregnancy to give their baby some protection when they're too young to be vaccinated.",
                 "I want to stop playing The Oregon Trail for real now, please.",
-                "I had whooping cough as a kid at 1 and then 2 years old. My parents told me it's no joke.",
-                "This just gets worse day by day",
-                "I have a question for you all. I'm a Middle School teacher at a private school in the US. I learned the other day that there are unvaccinated kids at our school. Do I have the right to demand who those kids are?",
-                "We are making America so fucking great."
-            ],
-            "aggregate_sentiment": 38.0
-        },
-        {
-            "category": "NEW",
-            "title": "Tesla whistleblower wins latest legal battle in fight against Musk",
-            "external_url": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
-            "upvotes": 961,
-            "date": "04/17/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/057d/live/f4e7a3a0-1af0-11f0-8a1e-3ff815141b98.jpg",
-            "top_comments": [
-                "As someone who was also diagnosed with an advanced cancer at a young age, I am in awe of this woman.  She is doing a good, but extremely challenging thing during her darkest days.  I\u2019m routing for her, and hope she gets a resolution sooner rather than later.  I\u2019m also wishing her positive outcomes with her treatment and outcome battling cancer."
-            ],
-            "aggregate_sentiment": 98.0
-        },
-        {
-            "category": "NEW",
-            "title": "Russia seizing thousands of homes in occupied Mariupol - BBC News",
-            "external_url": "https://www.bbc.co.uk/news/resources/idt-ca98fa24-29a3-4c74-aa7d-ce38f756270d",
-            "upvotes": 77,
-            "date": "04/17/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/images/ic/raw/p0l4pfhc.png.webp",
-            "top_comments": [
-                "This is quite literally one of the grievances explicitly listed within the United States' declaration of Independence. \n\n\nI don't care how deep into \"well its way over there and ain't happening to me\" you are. \n\nThis, as an American, should be fundamentally repulsive to you."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "NHS will be pursued if gender policies don't change, equalities watchdog says",
-            "external_url": "https://www.bbc.com/news/articles/ce84054nqnyo",
-            "upvotes": 67,
-            "date": "04/17/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/695d/live/0658dab0-1b77-11f0-b1b3-7358f8d35a35.jpg",
-            "top_comments": [
-                "How long until a trans man or cis woman who looks masculine or is just tall is harassed in a hospital when in a bathroom or ward\n\nEdit or cases where cis women are placed in mens jails https://www.independent.co.uk/news/uk/crime/woman-held-male-prison-scotland-b2636786.html",
-                "You people wonder why we oppose \u201creasonable\u201d policies like trans athlete and bathroom bans. It was always a beachhead into broader attacks on trans rights, which are themselves a beachhead to reinforcing traditional gender roles more broadly.\n\nOf course here in the US it\u2019s even broader than that. Trump is cancelling federal education funds for entire states because of trans rights protections that affect less than a dozen students; something they\u2019ve always wanted to do but have heretofore lacked an excuse for. The UK isn\u2019t quite that insane yet, but it might be if they embrace the new boogie man to the extent that we have.",
-                "Horrible. The world is going backwards. If we don\u2019t fight against it, everyone would lose their right slowly slowly. Equity is about rights for everyone.",
-                "can't wait to get outed and humiliated to/by a bunch of strangers during whatever horrible event next leads to being hospitalised.\n\ni love how half the people celebrating the supreme court ruling were pretending it had absolutely no impact on trans people's rights or access to public life whilst the other half are celebrating that they'll be outed, humiliated and lost the access they've had for the last 20+ years. it can't be both.",
-                "I\u2019m not convinced that biological sex necessarily equals the sex indicated on a birth certificate. The issuance of a GRC is done on much stricter terms than assigning sex at birth.",
-                ">\"Single-sex services like changing rooms must be based on biological sex if a male person is allowed to use - it's no longer a single sex space.\"\n\nWhy does it sound like single-sex services/spaces are female-exclusive? Does it mean cis women and trans-men are allowed to continue to use male restrooms?"
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Denmark to send unarmed soldiers to Ukraine for drone warfare training",
-            "external_url": "https://kyivindependent.com/denmark-to-send-unarmed-soldiers-to-ukraine-for-drone-warfare-training/",
-            "upvotes": 307,
-            "date": "04/17/2025",
-            "thumbnail": "https://assets.kyivindependent.com/content/images/2025/04/GettyImages-2198909372-1.jpg",
-            "top_comments": [
-                "Learning from the absolute best fpv drone warfare pilots in the world.\u00a0",
-                "Drone warfare looks like absolute nightmare shame it can\u2019t be limited on all sides. Like an episode of black mirror\n\nOne pilot said its safer to stay still in trees atm due to quality of camera he catches movement like people running but fuck trying to do that if a bomb drone it above you and youre not sure if it\u2019s about to go for you to explode",
-                "Unarmed - except with the killer drone.  \n\nPretty sure all drone pilots are unarmed.   It\u2019s the people around them who are armed as they sit in VR.",
-                "Now imagine if Russia targets the training camp where these Danish soldiers are being trained...I wonder what repercussions that would have?",
-                "This is target practice training for the drone operators right?"
-            ],
-            "aggregate_sentiment": 40.0
-        },
-        {
-            "category": "NEW",
-            "title": "Scientists discover \u2018strongest evidence\u2019 so far of alien life 120 light years from Earth",
-            "external_url": "https://www.lbc.co.uk/tech/alien-life-discovered-k2-18-earth-cambridge-chemicals/",
-            "upvotes": 154,
-            "date": "04/17/2025",
-            "thumbnail": "https://images.lbc.co.uk/images/717169?width=1200&crop=16_9&signature=d2i60jc6O4Hd94MQi1gnO-nurKE=",
-            "top_comments": [
-                "The presence of those three molecules is hard to explain by any other known process. And that's the problem. We have never even been to another planet let alone another solar system.",
-                "Next thing you know when we go investigate it we discover a Monolith",
-                "In fairness the least click baity headline of the stories I\u2019ve seen to day.",
-                "The planet probably smells like cabbage, garlic, and farts.",
-                "A mass nine times that of earth? Uh oh, we\u2019re gonna find borderline Supermen there! \ud83d\ude02",
-                "Don't tell them Red Riding Hood.",
-                "\"Scientists discover \u2018strongest evidence\u2019 so far of alien life\" says a science journalist purposefully misreporting the findings.",
-                "But a baby in a womb is not life.   How does that make sense."
-            ],
-            "aggregate_sentiment": 80.0
-        },
-        {
-            "category": "NEW",
-            "title": "US tariffs will make global trade shrink, says WTO",
-            "external_url": "https://www.bbc.com/news/articles/cjewdy2zw3go.amp",
-            "upvotes": 527,
-            "date": "04/17/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/da96/live/c4733bb0-1ae3-11f0-8a1e-3ff815141b98.jpg",
-            "top_comments": [
-                "so they saying something like higher prices everywhere might cause people to buy less? big if true :)",
-                "When does the winning begin?",
-                "I expect Chinese prices to drop to non-US markets.  All that supply no longer earmarked for the US, make it available to the EU and other countries. Great for non-US consumers. A win-win if you are outside the US borders.",
-                "Fuck yes! I want these corporate fucks to feel it where it hurts them most. Their pockets \n\nI\u2019m broke already but it would be nice to take a few millionaire and billionaires down to my level",
-                "No shit Sherlock sub is that-a-way my man!",
-                "Also in the news water is wet. More at 11.",
-                "In a roundabout, fucked up way, these tariffs = people buying less worldwide might help with pollution."
+                "Copied my comment from another sub:\n\nI got whooping cough when I was 16.\n\nI cannot stress that please for the love of god, ensure you and your children are immunized for it. It was the worst cough I'd ever had in my life, and you might say \"Why Tycho-Celchu, coughs aren't that bad, it's more of a minor annoyance when you're sick.\" and I cannot stress enough: No it is fucking horrible. It's horrible racking coughs that feel like any second your lung tissue is about to be expunged. I would get coughing fits so bad my stomach would contract and I'd throw up. Imagine with every cough you're vomiting more and more and when there's nothing left you're just retching with every hack.\n\nOh and you know what the alternative name for whooping cough is? The cough of a hundred days. And trust me, you feel everyone of those hundred days. I missed the last month of grade 10 because of it, I went to class once and I coughed so hard I wasn't able to breathe and the entire class panicked and thought I was going to die, complete with my teacher trying frantically to call 911 while I'm trying to stop her. When I showed up for the 1st day in grade 11, there were people I weren't friends with stopping to chat with me because I didn't come back to school after that and they thought I had died.",
+                "I got whooping cough when I was six, almost died from it, and no doubt have lasting effects. This was *before* a vaccine was widely prescribed/available. These people are fucking idiots."
             ],
             "aggregate_sentiment": 67.0
         },
         {
             "category": "NEW",
-            "title": "Judge scraps US rule capping credit card late fees at $8",
-            "external_url": "https://www.reuters.com/business/finance/judge-scraps-us-rule-capping-credit-card-late-fees-8-2025-04-15/",
-            "upvotes": 6618,
+            "title": "Tesla whistleblower wins latest legal battle in fight against Musk",
+            "external_url": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
+            "upvotes": 5230,
+            "date": "04/17/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/057d/live/f4e7a3a0-1af0-11f0-8a1e-3ff815141b98.jpg",
+            "top_comments": [
+                "As someone who was also diagnosed with an advanced cancer at a young age, I am in awe of this woman.  She is doing a good, but extremely challenging thing during her darkest days.  I\u2019m routing for her, and hope she gets a resolution sooner rather than later.  I\u2019m also wishing her positive outcomes with her treatment and outcome battling cancer.",
+                "Hope she wins, no one deserves to wrongfully lose their job for bringing up concerns to a supervisor.",
+                "> \"I wish Elon Musk had the decency to apologise.\"\n\nDon't we all wish the world's richest person had some decency.",
+                "Darkest Prediction: \nWin the legal battle, lose the \"not getting sent to El Salvador prison\" war.",
+                "Hard to be a shittier American than a Trump/Elon supporter these days",
+                "What a stupid thing to get fired over. Fix the e carpets",
+                "\u201cI wish Elon Musk has the decency to apologize\u201d\nHahahahahaha",
+                "What\u2019s the deal with the mats?  My mat curls and slides under the pedals.  I have to pull it down every single time I get in the car.",
+                ">the chance to take on Elon Musk in front of a jury and judge\n\nThis thought delights me to the extreme.",
+                "And the regime has sent her to their foreign gulag"
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "RISING",
+            "title": "2 Defense Department officials, including senior adviser to Pete Hegseth, put on leave amid leak investigation",
+            "external_url": "https://www.cbsnews.com/news/dan-caldwell-pentagon-leak-investigation-on-leave/",
+            "upvotes": 1264,
+            "date": "04/17/2025",
+            "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/15/37068e63-d5d8-44de-a1f5-d962712cccf3/thumbnail/1200x630/18120fcbb01fc5c0cb9650e2ab0af4fe/gettyimages-2203658198.jpg?v=412b48b2e3085db78364e6e02a7dc2b8",
+            "top_comments": [
+                ">A source familiar says Caldwell is accused of sharing classified documents with reporters.\n\nOh, is that a problem for Hegseth now?",
+                "Such a mess. 0 Professionalism",
+                "What about Hegseth? Shouldn't he be on leave too?",
+                "WHISKEY LEAKS\nRemember: Trump only hires the best.\u00a0",
+                "Damn, I got excited when I misread \"including Pete hegseth\"... then I remembered he's already at the top of that chain",
+                "This DEI-less experiment seems to be a disaster.  Can we go back to being really good at things again?",
+                "Every top official on that chat knew it was illegal to use for classified information. All of them, including the VP, needs to be impeached, removed from office, and prosecuted.",
+                "Imagine being the one in the chat, leaking information, and then it's your assistant that gets suspended...Much accountability, much wow.",
+                "Paid vacation for being bad at their jobs.",
+                "\"Tyranny requires constant effort. It breaks, it leaks. Authority is brittle. Oppression is the mask of fear.\"\n\n-Nemik's Manifesto, Andor"
+            ],
+            "aggregate_sentiment": 5.0
+        },
+        {
+            "category": "RISING",
+            "title": "US judge finds Google holds illegal online ad tech monopolies",
+            "external_url": "https://www.reuters.com/technology/us-judge-finds-google-holds-illegal-online-ad-tech-monopolies-2025-04-17/",
+            "upvotes": 915,
             "date": "04/17/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "\u201cA federal judge in Texas\u201d is going to be on our tombstone",
-                "Just in time for the upcoming recession.",
-                "Call me shocked..  let's tank the markets and let banks raise late fees...",
-                "The people who are poor and voted for this will say it\u2019s because \u201cthey had to\u201d because \u201cof the democrats\u201d which is why this country is destined to become worse and worse",
-                "Any and every action possible to fuck over people who are struggling with money.",
-                "Who the fuck does this benefit aside from corporations? \n\nLike what scumbag does rhis",
-                "They sure are undoing a lot of stuff from a President who \u201cdidn\u2019t do anything\u201d",
-                "You Americans always say \"we need guns when the government is coming for us.\"\n\nBruh, every branch of government is coming for your poor ass now.\n\nI am more curious to see some jackass defending the ruling of scraping the cap though.",
-                "I thought judges shouldn\u2019t dictate policies or whatever the clown in office says?",
-                "Cool cause I was worrying about banks and their execs and if they were getting enough money"
+                "Kinda hard to get upset at this stage considering we've just let every mega corporation buy each other the last two decades. There is only like one competitor and it's meta for online ads, yeah? I mean Bing exists but.. It's Bing.",
+                "I sense a completely unrelated trip to Mar-a-Lago and then things will get 'sorted' out.",
+                "I predict this will go away after a trip to maraloago",
+                "Time for Sundar Pichai to buy Clarence Thomas a new house.",
+                "There are judges and law in the US?",
+                "Every day is groundhogs day from 2016 on",
+                "Will Democrats now go after Big Tech? Lol trump",
+                "Yeah no shit. Now do Meta.",
+                "I was at a focus group put on by Google to test how their defense worked. On the dolts in the session, it worked like a charm. Only a few saw through the defense.",
+                "Predictable follow up headline, they get a $700m fine which sounds crazy but is actually the amount of money they make in 1 day."
+            ],
+            "aggregate_sentiment": 30.0
+        },
+        {
+            "category": "RISING",
+            "title": "Target baby food recalled over lead contamination",
+            "external_url": "https://www.denver7.com/life/recalls/target-baby-food-recalled-over-lead-contamination",
+            "upvotes": 439,
+            "date": "04/17/2025",
+            "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/1e90499/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fac%2F2c%2F1a6290854e989967dce1a6486285%2F1710766284-4lr8vv.jpg",
+            "top_comments": [
+                "Don't worry! Next time there won't be any pesky recalls because the dept that investigates food safety got DOGE'd. Lead for all!",
+                "And some Americans wonder why we don't want to buy their shitty, deregulated food products.",
+                "Lead in baby food and I saw another article about lead in a lot of toothpastes just this morning.\n\nCool",
+                "This is why we need to get rid of regulations. Then we won\u2019t have these scary recalls. Problem solved, right?\u00a0",
+                "That's probably not gonna help their declining sales. Whoops.\u00a0",
+                "Good thing the USDA is getting gutted. God damn MAGA is made of fucking morons.",
+                "How does lead get into this stuff in the first place? Crops grown in toxic soil?",
+                "This is the US in a nutshell. Have them babies so we can kill them!",
+                "Well I, for one, think that lead is very *manly* and that it should be in more things. A lot of very powerful people got where there are because of lead, you know.",
+                "Cost cutting kills customers."
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "RISING",
+            "title": "Temu and Shein will raise prices for US customers due to Trump's tariffs",
+            "external_url": "https://apnews.com/article/temu-shein-price-increases-trump-tariffs-066a3e729c971fdf9e929bb8a94eea67",
+            "upvotes": 1212,
+            "date": "04/17/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Guess people are only going to be shoppinng like millionaires, maybe even thousandaires, instead of billionaires at Temu",
+                "I can't wait until the \"haul culture\" dies, what a waste that is.",
+                "Didn\u2019t buy that shit before and I really won\u2019t now.",
+                "This must come as a huge shock to Americans who have been told by their leadership that China pays the tariffs, not Americans.",
+                "I'll be honest, if you're someone that buys random things off of Instagram ads because you think they're functional or cute or useful, literally every single one of those things that you're seeing are sold on Temu infinitely cheaper - in some cases 90-95% cheaper for the exact same item. I've seen a bunch of Instagram ads for an ear wax removal tool with a camera so you can see what you're picking at for 59 dollars on some vendor, and the exact same item on Temu was $3.45.\n\nI don't use it for everything, clothes especially, but I've bought a number of Temu goods that I'm pretty happy with. And a number of those things I've had for years and they still work just as well.",
+                "I guess if there\u2019s one silver lining is that junk producers may go away. Fast fashion may disappear. \n\nBut then the flip side is that if you can\u2019t afford lots then Temu and SHEIN are your only hope.",
+                "Maybe a positive aspect of this is that temu goes out of business\u00a0",
+                "This probably won\u2019t deter many of their customers, who are apparently addicted to this fast fashion garbage.",
+                "I dont feel bad for these 2 companies hurt by tariffs. They only sell single use craps.\n\nShein\u2019s return rate is crazy high and those returned stuff mostly end up in some landfill in Africa. Just sad.",
+                "So the exact same backpack that sells for 65$ on amazon will now cost me 30$ rather than the 20$ it used too.... oh well."
             ],
             "aggregate_sentiment": 0.0
         },
@@ -371,187 +490,114 @@
             "category": "RISING",
             "title": "Tesla whistleblower wins latest legal battle in fight against Musk",
             "external_url": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
-            "upvotes": 964,
+            "upvotes": 5235,
             "date": "04/17/2025",
             "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/057d/live/f4e7a3a0-1af0-11f0-8a1e-3ff815141b98.jpg",
             "top_comments": [
-                "As someone who was also diagnosed with an advanced cancer at a young age, I am in awe of this woman.  She is doing a good, but extremely challenging thing during her darkest days.  I\u2019m routing for her, and hope she gets a resolution sooner rather than later.  I\u2019m also wishing her positive outcomes with her treatment and outcome battling cancer."
+                "As someone who was also diagnosed with an advanced cancer at a young age, I am in awe of this woman.  She is doing a good, but extremely challenging thing during her darkest days.  I\u2019m routing for her, and hope she gets a resolution sooner rather than later.  I\u2019m also wishing her positive outcomes with her treatment and outcome battling cancer.",
+                "Hope she wins, no one deserves to wrongfully lose their job for bringing up concerns to a supervisor.",
+                "> \"I wish Elon Musk had the decency to apologise.\"\n\nDon't we all wish the world's richest person had some decency.",
+                "Darkest Prediction: \nWin the legal battle, lose the \"not getting sent to El Salvador prison\" war.",
+                "Hard to be a shittier American than a Trump/Elon supporter these days",
+                "What a stupid thing to get fired over. Fix the e carpets",
+                "\u201cI wish Elon Musk has the decency to apologize\u201d\nHahahahahaha",
+                "What\u2019s the deal with the mats?  My mat curls and slides under the pedals.  I have to pull it down every single time I get in the car.",
+                ">the chance to take on Elon Musk in front of a jury and judge\n\nThis thought delights me to the extreme.",
+                "And the regime has sent her to their foreign gulag"
             ],
-            "aggregate_sentiment": 98.0
+            "aggregate_sentiment": 22.0
         },
         {
             "category": "RISING",
             "title": "Two infants die of whooping cough in Louisiana as cases climb nationally",
             "external_url": "https://www.cnn.com/2025/04/02/health/whooping-cough-pertussis-louisiana/index.html",
-            "upvotes": 253,
+            "upvotes": 1810,
             "date": "04/17/2025",
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-541052350.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
                 "If only there were a way to stop it.",
                 "it's like a revival of all the sicknesses",
                 "It's sad for the children who die because it is so obviously preventable.  Kids can't control whether or not their parents are anti vaxxers.   As for any parent who has a child who dies because you decided to not vaccinate them, I have zero sympathy.  \n\nClearly there are parts of the population who for various reasons cannot be vaccinated, such as immunocompromized.  That's understandable and legitimate in my opinion",
-                "Pregnant people can get the TDaP vaccine during each pregnancy to give their baby some protection when they're too young to be vaccinated.",
                 "Measles, whooping cough. Conservatives are getting what they wanted. The good old days are coming back.",
+                "We've seen a rise of whooping cough cases in my highschool, we had three or four notices sent home that there were\u00a0\ncases this school year. You have to get your TDAP vaccine every 10 years, it's an easy one to forget about.\n\n\nYou can get it at your local pharmacy, and if you plan on being around any newborns it doesn't hurt to get revaccinated.",
+                "[Infant girl with whooping cough](https://youtu.be/S3oZrMGDMMw?si=SmUSkPnBy55QZKO2)\n\nWatch if you don't believe in vaccinations.",
+                "Pregnant people can get the TDaP vaccine during each pregnancy to give their baby some protection when they're too young to be vaccinated.",
                 "I want to stop playing The Oregon Trail for real now, please.",
-                "I had whooping cough as a kid at 1 and then 2 years old. My parents told me it's no joke.",
-                "This just gets worse day by day",
-                "I have a question for you all. I'm a Middle School teacher at a private school in the US. I learned the other day that there are unvaccinated kids at our school. Do I have the right to demand who those kids are?",
-                "We are making America so fucking great."
+                "Copied my comment from another sub:\n\nI got whooping cough when I was 16.\n\nI cannot stress that please for the love of god, ensure you and your children are immunized for it. It was the worst cough I'd ever had in my life, and you might say \"Why Tycho-Celchu, coughs aren't that bad, it's more of a minor annoyance when you're sick.\" and I cannot stress enough: No it is fucking horrible. It's horrible racking coughs that feel like any second your lung tissue is about to be expunged. I would get coughing fits so bad my stomach would contract and I'd throw up. Imagine with every cough you're vomiting more and more and when there's nothing left you're just retching with every hack.\n\nOh and you know what the alternative name for whooping cough is? The cough of a hundred days. And trust me, you feel everyone of those hundred days. I missed the last month of grade 10 because of it, I went to class once and I coughed so hard I wasn't able to breathe and the entire class panicked and thought I was going to die, complete with my teacher trying frantically to call 911 while I'm trying to stop her. When I showed up for the 1st day in grade 11, there were people I weren't friends with stopping to chat with me because I didn't come back to school after that and they thought I had died.",
+                "I got whooping cough when I was six, almost died from it, and no doubt have lasting effects. This was *before* a vaccine was widely prescribed/available. These people are fucking idiots."
             ],
-            "aggregate_sentiment": 20.0
+            "aggregate_sentiment": 38.0
         },
         {
             "category": "RISING",
-            "title": "Denmark to send unarmed soldiers to Ukraine for drone warfare training",
-            "external_url": "https://kyivindependent.com/denmark-to-send-unarmed-soldiers-to-ukraine-for-drone-warfare-training/",
-            "upvotes": 306,
-            "date": "04/17/2025",
-            "thumbnail": "https://assets.kyivindependent.com/content/images/2025/04/GettyImages-2198909372-1.jpg",
-            "top_comments": [
-                "Learning from the absolute best fpv drone warfare pilots in the world.\u00a0",
-                "Drone warfare looks like absolute nightmare shame it can\u2019t be limited on all sides. Like an episode of black mirror\n\nOne pilot said its safer to stay still in trees atm due to quality of camera he catches movement like people running but fuck trying to do that if a bomb drone it above you and youre not sure if it\u2019s about to go for you to explode",
-                "Unarmed - except with the killer drone.  \n\nPretty sure all drone pilots are unarmed.   It\u2019s the people around them who are armed as they sit in VR.",
-                "Now imagine if Russia targets the training camp where these Danish soldiers are being trained...I wonder what repercussions that would have?",
-                "This is target practice training for the drone operators right?"
-            ],
-            "aggregate_sentiment": 90.0
-        },
-        {
-            "category": "RISING",
-            "title": "Judge scraps US rule capping credit card late fees at $8",
-            "external_url": "https://www.reuters.com/business/finance/judge-scraps-us-rule-capping-credit-card-late-fees-8-2025-04-15/",
-            "upvotes": 6623,
+            "title": "Man Who Set Fire to Shapiro\u2019s Mansion Cited Treatment of Palestinians, Police Say",
+            "external_url": "https://www.nytimes.com/2025/04/16/us/cody-balmer-motive-arson-gaza-palestinian-shapiro.html?unlocked_article_code=1.AU8.Urgu.PkzlAQXT8lQK&smid=nytcore-ios-share&referringSource=articleShare&sgrp=p",
+            "upvotes": 1291,
             "date": "04/17/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
-                "\u201cA federal judge in Texas\u201d is going to be on our tombstone",
-                "Just in time for the upcoming recession.",
-                "Call me shocked..  let's tank the markets and let banks raise late fees...",
-                "The people who are poor and voted for this will say it\u2019s because \u201cthey had to\u201d because \u201cof the democrats\u201d which is why this country is destined to become worse and worse",
-                "Any and every action possible to fuck over people who are struggling with money.",
-                "Who the fuck does this benefit aside from corporations? \n\nLike what scumbag does rhis",
-                "They sure are undoing a lot of stuff from a President who \u201cdidn\u2019t do anything\u201d",
-                "You Americans always say \"we need guns when the government is coming for us.\"\n\nBruh, every branch of government is coming for your poor ass now.\n\nI am more curious to see some jackass defending the ruling of scraping the cap though.",
-                "I thought judges shouldn\u2019t dictate policies or whatever the clown in office says?",
-                "Cool cause I was worrying about banks and their execs and if they were getting enough money"
-            ],
-            "aggregate_sentiment": 18.0
-        },
-        {
-            "category": "RISING",
-            "title": "US tariffs will make global trade shrink, says WTO",
-            "external_url": "https://www.bbc.com/news/articles/cjewdy2zw3go.amp",
-            "upvotes": 524,
-            "date": "04/17/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/da96/live/c4733bb0-1ae3-11f0-8a1e-3ff815141b98.jpg",
-            "top_comments": [
-                "so they saying something like higher prices everywhere might cause people to buy less? big if true :)",
-                "When does the winning begin?",
-                "I expect Chinese prices to drop to non-US markets.  All that supply no longer earmarked for the US, make it available to the EU and other countries. Great for non-US consumers. A win-win if you are outside the US borders.",
-                "Fuck yes! I want these corporate fucks to feel it where it hurts them most. Their pockets \n\nI\u2019m broke already but it would be nice to take a few millionaire and billionaires down to my level",
-                "No shit Sherlock sub is that-a-way my man!",
-                "Also in the news water is wet. More at 11.",
-                "In a roundabout, fucked up way, these tariffs = people buying less worldwide might help with pollution."
+                "It's weird that they keep referring to this as \"Shapiro's Mansion\". \n\nIt's not HIS mansion, it's the governor's mansion. All Pennsylvania governors live there during their terms. \n\nIt would be like referring to the white house as \"Trump's House\".",
+                "The guy is nuts. Have you seen him?",
+                "Is there anything Governor Shapiro personally did to mistreat Palestinians, other than simply be Jewish?",
+                "That makes sense, because I totally remember when Josh Shapiro personally flew over to Gaza and shot a few before hopping on a plane home.",
+                "Naw.  I'm pretty sure that progressives already fixed that  whole \"mistreatment of Palestinians\" thing when they refused to vote for Harris and ended up getting Trump elected instead.  \n\nEverything is much better now, right?"
             ],
             "aggregate_sentiment": 40.0
         },
         {
             "category": "RISING",
-            "title": "Trade war fallout: Cancellations of Chinese freight ships begin as bookings plummet",
-            "external_url": "https://www.cnbc.com/2025/04/16/trade-war-fallout-china-freight-ship-decline-begins-orders-plummet.html",
-            "upvotes": 1769,
+            "title": "Toby Carvery owner 'sorry' after cutting down 500 year old oak.",
+            "external_url": "https://www.bbc.com/news/articles/ce8g6lj8343o",
+            "upvotes": 647,
             "date": "04/17/2025",
-            "thumbnail": "https://image.cnbcfm.com/api/v1/image/108084402-1736447375007-gettyimages-2191474671-vcg111538748527.jpeg?v=1744819797&w=1920&h=1080",
+            "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/bdae/live/c7f3b800-1b74-11f0-b015-f17d4d024f76.jpg",
             "top_comments": [
-                "This is the fault of Congress. \n\nFor four years Trump was able to make irrational demands and Congress obeyed with no question or hesitation. So Trump and his team just assumed that other nations would bow down just as easily also. \n\nBut, unlike our spineless congress, other nations are not going to sacrifice their citizens or destroy themselves just to appease a bully.",
-                "A total of 80 blank, or canceled, sailings out of China have been recorded by freight company HLS Group. It wrote in a recent note to clients that with the trade war between China and the U.S. leading to a demand plummet, carriers have started to suspend or adjust transpacific services.\n\nThe impact of the diminished freight container traffic to North America will be significant for many links in the economy and supply chain, including the ports and logistics companies moving the freight. If each sailing was carrying 8,000 to 10,000 TEUs (twenty-foot equivalent units), that would equal a decline in freight traffic of between 640,000-800,000 containers, and lead to decreased crane operations at the ports, lower fees that could be collected, and declines in container pick-ups and transports by trucks, rails, and to warehouses for storage.\n\nThe World Trade Organization warned on Wednesday that the outlook for global trade has \u201cdeteriorated sharply\u201d in the wake of Trump\u2019s tariffs plan. JB Hunt shares hit their lowest level since November 2020 after commentary during the trucking company\u2019s earnings call about the uncertainty from tariffs.",
-                "Glad those longshoremen went on strike and had their union boss cozy up with Trump during the election.",
-                "This can\u2019t be right, China were gonna have to pay all those tariffs and it was gonna make the US a whole bunch of money\u2026.  /s",
-                "The ripple effects of this are really pretty insane. So much of the global economy is built on just in time supply chains, with a heavy reliance on the US as a key consumer.  Now organizations need to route everything around the US and build  new lines. In some cases they will find cost savings over US centric models and never return. In others, it will be just be more expense for everyone. No one trusts this is a long term thing, but the threat is existential for too many companies to do nothing. However, there will continued dynamic shifts well into 2026 because of these stupid tariffs.",
-                "We have to be winning now, right?",
-                "The fallout goes far beyond shipping. I'm a sales rep and my number one line is a handbag line made in China. If they go under, I'm out 40% of my income. I also have other lines with product sourced from China. I have a Canadian line that will be hit with a 30% tariff as of May 1st, when the de minimus rule is cancelled. I'm sure my sales of their products will plummet.\n\nI'm starting to get announcements from vendors of upcoming price increases or tariff surcharges. One surcharge will be 18%.\n\nTo sum it all up...I'm screwed.",
-                "Im in construction and there is a lot of disruption right now in the construction industry with these tariffs. Not even to mention the mass deportations and flat out threats of rendition of Hispanic workers. \n\nTrump is really screwing the pooch.",
-                "Americans are going to suffer real inflation soon.",
-                "The layoffs are going to be huge in a ripple effect"
+                "How hard was it for these folks to just not cut the tree down Jfc",
+                "Note: he\u2019s sorry they upset the public. He never says sorry for cutting it down.",
+                "Revoke the license of the Toby. Hit them where it hurts. The fines are pathetic.",
+                "He's sorry he got caught, not that he cut it down.",
+                "He\u2019s not sorry for cutting it down. He\u2019s sorry people are mad at him for being a dick. I\u2019m sure the extremely light punishment will deter him going forward.",
+                "The contractors that suggested cutting the thing down need their licenses revoking and stiff fines as well as the Toby Carvery owner - there are rules for cutting down mature trees in the UK",
+                "no they are not sorry.",
+                "He should be sorry about serving up that slop in his carvery. He should hang his head in shame for cutting down that tree",
+                "In NYC, the restitution value of that tree by Parks would be in the hundreds of thousands of dollars.\n\nFine them to oblivion.",
+                "the only way shit like this is going to stop is if we determine the individuals who are responsible and put them in prison, or otherwise punish them.  strip them of all assets, and make them work as a janitor at a national park, or something like that.  people having the ability to hide from personal liability behind the corporate wall has got to end."
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
+            "title": "Florida principal and teacher charged after 100 minors were at house party with alcohol.",
+            "external_url": "https://www.nbcnews.com/news/us-news/florida-principal-teacher-charged-100-minors-house-party-alcohol-rcna201662",
+            "upvotes": 206,
+            "date": "04/17/2025",
+            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250416-Cocoa-Beach-Fla-Karly-Gayle-Anderson-police-bodycam-snip-ac-813p-9e776a.jpg",
+            "top_comments": [
+                "There are photos of DeSantis at a high school party drinking with his underage students, but i guess it's different if you're elected Governor after the fact.",
+                "A third grade teacher and the principal hosting 100+ high schoolers. What even is this?",
+                "Man, I think about all the times this happened at my high school and wonder how nothing ever came to light about it. We had an art teacher who also doubled as the surf club (yes, that was a real thing) advisor, and he regularly allowed us to have a couple of beers at his beach house after club outings. This was the late 80's, so obviously a \"different time\", but the thought of telling anyone about it never occurred to any of us.",
+                "This is the Florida I grew up in. Crooked ass state. I had a teacher that traded grades for drugs. Another one that slept with their students. Of course a few party with the students as well.",
+                "Wait...they got charged? Must have been using preferred pronouns.",
+                "School I worked at had principal throwing parties with beer and weed. 2 teachers married their high school students summer after graduation and then worked together at same high school. Administrators drinking during staff meeting days and school events. Small town shit never changes.",
+                "Hold up so these kids were at the principals home completely wasted. Oh hell nah, throw the whole school away. What the fuck even is this.",
+                "so many questions ........how can this kinda stuff happen ?",
+                "One of the security people at my HS was caught doing something similar, but not at this scale. He was friends with the photography teacher and class and was known for buying students booze."
             ],
             "aggregate_sentiment": 22.0
         },
         {
             "category": "RISING",
-            "title": "Congestion pricing is working': MTA says tolls keeping 82k drivers a day out of Manhattan",
-            "external_url": "https://gothamist.com/news/congestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan?utm_source=sfmc&utm_medium=nypr-email&utm_campaign=Gothamist+Daily+Newsletter&utm_term=https%3a%2f%2fgothamist.com%2fnews%2fcongestion-pricing-is-working-mta-says-tolls-keeping-82k-drivers-a-day-out-of-manhattan&utm_id=437122&sfmc_id=53418894&utm_content=2025414&nypr_member=True",
-            "upvotes": 4824,
+            "title": "Russia seizing thousands of homes in occupied Mariupol - BBC News",
+            "external_url": "https://www.bbc.co.uk/news/resources/idt-ca98fa24-29a3-4c74-aa7d-ce38f756270d",
+            "upvotes": 374,
             "date": "04/17/2025",
-            "thumbnail": "https://api-prod.gothamist.com/images/349119/fill-1200x650|format-webp|webpquality-85/",
+            "thumbnail": "https://ichef.bbci.co.uk/images/ic/raw/p0l4pfhc.png.webp",
             "top_comments": [
-                "Wait\u2026What happened to \u201ccongestion pricing is dead. Long live the king!\u201d?",
-                "For me driving in Manhattan was enough to keep me from driving in Manhattan. What a nightmare.",
-                "I was just in the city the other week and the amount of cars was WAY down. It was noticable. But you know what? The town was still busy as hell and taxis, subways and busses were moving right along. The people that needed or wanted to be there were there.",
-                "$9 per day sounds pretty reasonable. Was that all that was required to deter 2.5 million vehicles compared to last March?",
-                "Wait, it's working? I assume Trump will immediately try to end it.",
-                "The Trump administration literally just wants to undo everything good, it's fucking disgusting",
-                "I was pissed when I heard about this being implemented, being an out-of-towner going to NYC is already an expensive affair with all the tolled highways, bridges and tunnels. But it was the first time ever that I was able to drive into Manhattan and not feel like I was suffocating in traffic. I was even able to find free parking on like 48th st. Nuts.\n\nThis has my full support.",
-                "As a person who drives a car (and isn't made of money), I hate the idea of congestion pricing.\n\nAs a person who hates traffic and doesn't like pollution, I love the idea of congestion pricing.\n\nI've got mixed feelings about it, but if it works it works I suppose?",
-                "I just hope that the MTA uses this money wisely.",
-                "Ongoing case: [https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/](https://www.courtlistener.com/docket/69652290/metropolitan-transportation-authority-v-duffy/)\n\nOne of at least 195 against this administration ... [https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/)"
-            ],
-            "aggregate_sentiment": 30.0
-        },
-        {
-            "category": "RISING",
-            "title": "The mysterious firing of a Chinese professor has Asian students on edge: \u2018Brings chills to our spines\u2019 | US politics",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/16/chinese-professor-bloomington-indiana",
-            "upvotes": 782,
-            "date": "04/17/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/1f8bce05a03c92aabccc3a21e478ecf518909baf/0_246_7375_4427/master/7375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcb63289f5d9b7c401a45cc5c4a31b57",
-            "top_comments": [
-                "*\u201cWhat is particularly troubling in this case is that Indiana University fired him and his wife without due process, presuming guilt instead of innocence,\u201d Chen says.*\n\nYeah, and fired by email on the very day DHS operatives swooped down upon the campus. No wonder Chinese students are living in fear, and are readying to leave the US on a moment's notice.",
-                "US is inevitably going to create a second [Qian Xuesen \\(Tsien Hsue-shen\\)](https://www.galcit.caltech.edu/about/legends-of-galcit/qian-xuesen-tsien-hsue-shen).\n\nFor those out of the loop, China's nuclear program, missile program, and space program only exist because the US accused Dr. Qian of being a communist spy and deported him to China."
+                "This is quite literally one of the grievances explicitly listed within the United States' declaration of Independence. \n\n\nI don't care how deep into \"well its way over there and ain't happening to me\" you are. \n\nThis, as an American, should be fundamentally repulsive to you.",
+                "This is why after the war is over, and Ukraine is free of the Russians, you will see articles accusing Ukraine of \"ethnic cleansing\" of Russian people.  All of the Russians who \"bought\" homes from the Russian government which were stolen from the Ukrainian people will be displaced.  The Russians will use this as propaganda saying that they were right all along.  People in the west will buy it, too."
             ],
             "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "RISING",
-            "title": "US IRS planning to rescind Harvard's tax-exempt status",
-            "external_url": "https://www.reuters.com/world/us/us-irs-planning-rescind-harvards-tax-exempt-status-cnn-reports-2025-04-16/",
-            "upvotes": 29445,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "This is going to be drawn out in court for a long time. Harvard isn't likely to back down.",
-                "Isn't it illegal for the president to get the IRS to do that?\n\n\"Prohibition on executive branch influence over taxpayer audits and other investigations\"\n\n[Stated here](https://www.law.cornell.edu/uscode/text/26/7217)",
-                "All is fair then when the shoe is on the other foot...every church that participated in preaching about voting (at all for anyone) should lose their tax exempt status too",
-                "That's great! That means the next time we have a democratic president in we can just start pulling the tax exempt status of churches right? Just whomever we don't like?",
-                "Remember when conservatives cried persecution because the IRS showed extra scrutiny to conservative groups based on keyword usage? (The IRS also did the same for liberal groups as well but conservatives just ignored that since it didn't support their worldview)",
-                "How about megachurches next?",
-                "\"The essence of fascism is to make laws forbidding everything and then enforce them selectively against your enemies.\" - John Lescroart, A Plague of Secrets.",
-                "Harvard may know some lawyers who can represent them in court.",
-                "Oh, good.  The dollar is collapsing, U.S. bonds are becoming more unstable and disfavored globally every day, stock market volatility is off the charts with every indication that the bottom is going to fall out, the FED chairman just cautioned that Trump's tariffs are putting the country on track for devastating stagflation ... and instead of dealing with any of this the White House is hyper-focused on abusing the power of the federal government to exact petty retributions against perceived political enemies.  Any Trump supporters want to defend this daily shitshow?",
-                "I'm very glad Harvard decided to be the one to stick out its neck. I was having conversations with my former colleagues at smaller state universities at the R2 level. Many wanted to defy the federal government but did not have the resource to do so. Now that Harvard did this and MIT followed suit, a lot more universities can just follow their footsteps. White House cannot possibly target every single college."
-            ],
-            "aggregate_sentiment": 37.0
-        },
-        {
-            "category": "RISING",
-            "title": "Trump administration plans to end the IRS Direct File program for free tax filing, AP sources say",
-            "external_url": "https://apnews.com/article/irs-direct-file-tax-returns-free-trump-4bb0bca02fab9b3d06ae6f45ac67b7ab",
-            "upvotes": 30985,
-            "date": "04/16/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "*\"Republican lawmakers and commercial tax preparation companies complained it was a waste of taxpayer money\"*  \n\nThe places that are making money from filing taxes and selling peoples information are saying it's a waste of taxpayer money.   As a taxpayer I disagree with them.",
-                "\u201cWe want the worst for everyone!\u201d\n\n\u201cWe are just plain evil\u201d",
-                "> The program developed during Joe Biden\u2019s presidency was credited by users with making tax filing easy, fast and economical. But Republican lawmakers and commercial tax preparation companies complained it was a waste of taxpayer money because free filing programs already exist, although they are hard to use.\n\nPeople who like this software: users\n\nPeople who don\u2019t: Republican lawmakers and tax preparation software companies (TurboTax)\n\nPick a side, folks.",
-                "What if I just don't do my taxes correctly like him?",
-                "MAGA : Let's remove DirectFile, which people like and makes sense.\n\nMAGA : Let's not go after TurboTax though, which is outright scamming us.",
-                "Every decision, the benefit of our enemies.",
-                "I filed my taxes with this in less than 30 minutes and got my return in less than week. Obviously its a terrible inefficient program that needs to go. /s",
-                "It cost $100 to file taxes under H&R Block services. That is insane when the IRS already has our information! It\u2019s ridiculous.",
-                "I wonder how much Intuit and H&R Block paid for this. It doesn't help anyone but them to get rid of this service.",
-                "Been using freetaxusa"
-            ],
-            "aggregate_sentiment": 67.0
         }
     ],
-    "last_updated": "04/17/2025 12:16:04 UTC"
+    "last_updated": "04/17/2025 16:10:36 UTC"
 }
