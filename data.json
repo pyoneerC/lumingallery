@@ -2,9 +2,51 @@
     "posts": [
         {
             "category": "HOT",
+            "title": "Musk signals 'significantly' stepping back from Doge as Tesla profits plunge",
+            "external_url": "https://www.bbc.co.uk/news/articles/cy0x50yr46lo",
+            "upvotes": 7944,
+            "date": "04/23/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54dd/live/0534ad00-200c-11f0-8c2e-77498b1ce297.jpg",
+            "top_comments": [
+                "He's lying. It's a ruse to manipulate Tesla's stock price.",
+                "Don\u2019t think it\u2019ll help. He\u2019s destroyed his image in a short amount of time and there\u2019s no taking it back.",
+                "It's cute he thinks his reputation is salvageable at this point",
+                "He's already wrecked the systems, stolen all our data, and installed his digital and personnel backdoors.\n\n.. but at least the world has finally seen what a narcissistic nazi douchebag he is.",
+                "Won't matter. Damage is done. These tesla profits dropping are just the start. Wait for next quarter.",
+                "Okay.. Elon is no longer publicly making an ass of himself. That doesn't change the fact that big balls and the other creeps Elon hired are dismantling everything",
+                "The damage is done. I am in the market for an EV and would never now consider a Tesla. So many others are in the exact same situation.\u00a0",
+                "Can't put the \"heil Hitler\" back in the tube. Fuck Tesla. Take it to zero.",
+                "He stole what he wanted and bailed.\n\nWe\u2019ve been watching/ reading this supervillain shit our whole lives, but when Dr. Villain shows up in real life we don\u2019t have James Bond or the Avengers to save us.",
+                "Lmao yea right. Anything good that could come from this administration wont and Elon leaving would be amazing for us so he wont be going anywhere."
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "HOT",
+            "title": "Tesla sales plunge as carmaker warns \u2018political sentiment\u2019 could impact future demand",
+            "external_url": "https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit",
+            "upvotes": 14658,
+            "date": "04/22/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/84a18423ca2ed213d3451c93cff70ea1d454a856/0_53_7743_4646/master/7743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d888d103ebc9308d688aa42c7c9ea3e0",
+            "top_comments": [
+                "I love that for them!\n\nFuck you, Elon.",
+                "Obviously, you fucking idiots. Its not just political sentiment. The guy is making nazi gestures, making nazi jokes, propping up far right parties in germany, sending his goons in to capture data they weren't elected for in the States. Fuck Tesla. And this is coming from someone who owns an Model 3 but can't really get rid of it (family/young kids/mortgage/bills/etc take priority)",
+                "Kind of a stupid fucking move to try and sell electric cars to Nazi sympathizers. That's such a small overlap of American society.",
+                "The fact that a Hitler salute has to be described as \"political sentiment\" gives me feelings of disappointment in humanity.",
+                "The fact that it also sucks as a company also doesn't help.  They've been massively overvalued for a long time, kept afloat primarily through Elon Musk's weird tech bro cult of personality.  With Musk's mask off and his fascism on full display, the fragile foundation of this house of cards - i.e., the goodwill toward Elon himself - has cracked and the whole thing is tumbling down.",
+                "So anti-Nazi sentiment then? Okay that could be a problem yeah.",
+                "My wife and I would be at least two teslas in\u2026went so far as test driving but now, will never own one out of principle\u2026who cares, it\u2019s just two people but I\u2019m guessing we are part of a not insignificant part of the target demo\u2026get rekted Elmo\u2026",
+                "The CEO sieg heiled twice.",
+                "> Analysts attribute the company\u2019s overall difficulties to a number of factors, but ultimately conclude Elon Musk\u2019s role in the White House has caused a branding crisis for Tesla. The company is at a major crossroads, analysts say, that will only be remedied if Musk leaves his role in the so-called \u201cdepartment of government efficiency\u201d and returns to Tesla as CEO full time.\n\nElon is trash goods. People aren\u2019t going to stop hating him just because he leaves. The damage he has caused to America\u2019s democracy and government is unforgivable.",
+                "How it is when you offend and fuck with your core demo."
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "HOT",
             "title": "Sarah Palin loses retrial of defamation case against New York Times",
             "external_url": "https://www.theguardian.com/us-news/2025/apr/22/sarah-palin-loses-defamation-nyt-retrial",
-            "upvotes": 18256,
+            "upvotes": 21335,
             "date": "04/22/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/8a71a1a108784657ab0666974cc8c763211db1b0/0_142_4300_2581/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0e0a47794bea93c9f820c3c81f93292",
             "top_comments": [
@@ -17,36 +59,15 @@
                 "Not upset about this. She is one of the main reasons we are in the mess we are in now. Because she not only was a poor loser but a bad politician who couldn\u2019t take a black man becoming president.",
                 "Good. Now she can cry more.",
                 "First The Masked Singer, and now this. Can't get a break.",
-                "Anyone got a very small violin?"
+                "If you've never seen it, do yourself a favor and watch the movie Game Change about her campaign with John McCain. It's a decent movie with some big names but it has more of a TV movie feel IMHO. People on the campaign (and characters in the movie) like Nicole Wallace have said it is accurate. It's amazing how bad of a choice she was for his running mate. She did some wacky shit and really tanked his campaign."
             ],
             "aggregate_sentiment": 40.0
         },
         {
             "category": "HOT",
-            "title": "Tesla sales plunge as carmaker warns \u2018political sentiment\u2019 could impact future demand",
-            "external_url": "https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit",
-            "upvotes": 12524,
-            "date": "04/22/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/84a18423ca2ed213d3451c93cff70ea1d454a856/0_53_7743_4646/master/7743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d888d103ebc9308d688aa42c7c9ea3e0",
-            "top_comments": [
-                "I love that for them!\n\nFuck you, Elon.",
-                "Obviously, you fucking idiots. Its not just political sentiment. The guy is making nazi gestures, making nazi jokes, propping up far right parties in germany, sending his goons in to capture data they weren't elected for in the States. Fuck Tesla. And this is coming from someone who owns an Model 3 but can't really get rid of it (family/young kids/mortgage/bills/etc take priority)",
-                "Kind of a stupid fucking move to try and sell electric cars to Nazi sympathizers. That's such a small overlap of American society.",
-                "My wife and I would be at least two teslas in\u2026went so far as test driving but now, will never own one out of principle\u2026who cares, it\u2019s just two people but I\u2019m guessing we are part of a not insignificant part of the target demo\u2026get rekted Elmo\u2026",
-                "The fact that a Hitler salute has to be described as \"political sentiment\" gives me feelings of disappointment in humanity.",
-                "So anti-Nazi sentiment then? Okay that could be a problem yeah.",
-                "The fact that it also sucks as a company also doesn't help.  They've been massively overvalued for a long time, kept afloat primarily through Elon Musk's weird tech bro cult of personality.  With Musk's mask off and his fascism on full display, the fragile foundation of this house of cards - i.e., the goodwill toward Elon himself - has cracked and the whole thing is tumbling down.",
-                "> Analysts attribute the company\u2019s overall difficulties to a number of factors, but ultimately conclude Elon Musk\u2019s role in the White House has caused a branding crisis for Tesla. The company is at a major crossroads, analysts say, that will only be remedied if Musk leaves his role in the so-called \u201cdepartment of government efficiency\u201d and returns to Tesla as CEO full time.\n\nElon is trash goods. People aren\u2019t going to stop hating him just because he leaves. The damage he has caused to America\u2019s democracy and government is unforgivable.",
-                "How it is when you offend and fuck with your core demo.",
-                "The CEO sieg heiled twice."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "HOT",
             "title": "Veterans affairs agency orders staff to report each other for \u2018anti-Christian bias\u2019",
             "external_url": "https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias?CMP=Share_AndroidApp_Other",
-            "upvotes": 5435,
+            "upvotes": 6695,
             "date": "04/22/2025",
             "thumbnail": "https://i.guim.co.uk/img/media/61859c303c21779b1d4c162dfdfc73baffe0230c/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35ea48c1ee63f288cfa25a06cb609745",
             "top_comments": [
@@ -54,41 +75,20 @@
                 ">  The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d\n\nHostile to Christian views?\n\nSo, all instances of employees NOT discriminating against women, minorities, and the LGBTQ+ community will be reported.\n\nBasically, people will be punished for being decent.",
                 "mY sUpErViSoR sAiD hApPy hOlIdAyS tO mE!",
                 ">\u201cThe VA Task Force now requests all VA employees to **submit any instance of anti-Christian discrimination to Anti-ChristianBiasReporting.@va.gov,\u201d** the email reads. \u201cSubmissions should include sufficient identifiers such as names, dates, and locations.\u201d\n\nRedditors, you have your assignment.",
-                "> The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d.\n\nWanting to maintain the separation of church and state is not an attack.",
                 "So much for the separation of Church and State.",
-                "Everyday, Trump's administration proves that both parties are in fact not the same.\u00a0",
-                "wish jesus was real, and that he would come back - again - and take all these assholes to wherever it is that they belong ...",
+                "> The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d.\n\nWanting to maintain the separation of church and state is not an attack.",
                 "So all it takes is for that one religious zealot at work is to ask you \u201cDo you believe?\u201d Then if you say no, you\u2019re out of job? Ridiculous",
-                "Fuck these anti Constitutional traitors!That's a violation of the 1st amendment! These traitors won't stop until we make them, and they don't give a flying eff about protest signs they can't read anyways!"
+                "wish jesus was real, and that he would come back - again - and take all these assholes to wherever it is that they belong ...",
+                "Fuck these anti Constitutional traitors!That's a violation of the 1st amendment! These traitors won't stop until we make them, and they don't give a flying eff about protest signs they can't read anyways!",
+                "Everyday, Trump's administration proves that both parties are in fact not the same.\u00a0"
             ],
-            "aggregate_sentiment": 18.0
-        },
-        {
-            "category": "HOT",
-            "title": "Musk signals 'significantly' stepping back from Doge as Tesla profits plunge",
-            "external_url": "https://www.bbc.co.uk/news/articles/cy0x50yr46lo",
-            "upvotes": 1638,
-            "date": "04/23/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edfd/live/18dde810-1ff5-11f0-9060-674316cb3a1f.jpg",
-            "top_comments": [
-                "It's cute he thinks his reputation is salvageable at this point",
-                "Don\u2019t think it\u2019ll help. He\u2019s destroyed his image in a short amount of time and there\u2019s no taking it back.",
-                "Won't matter. Damage is done. These tesla profits dropping are just the start. Wait for next quarter.",
-                "He's already wrecked the systems, stolen all our data, and installed his digital and personnel backdoors.\n\n.. but at least the world has finally seen what a narcissistic nazi douchebag he is.",
-                "Okay.. Elon is no longer publicly making an ass of himself. That doesn't change the fact that big balls and the other creeps Elon hired are dismantling everything",
-                "He's lying. It's a ruse to manipulate Tesla's stock price.",
-                "Lmao yea right. Anything good that could come from this administration wont and Elon leaving would be amazing for us so he wont be going anywhere.",
-                "Can't put the \"heil Hitler\" back in the tube. Fuck Tesla. Take it to zero.",
-                "It isn't solely about you being in politics Musk. We all saw the Nazi Salute on global TV. Get fucked!",
-                "He stole what he wanted and bailed.\n\nWe\u2019ve been watching/ reading this supervillain shit our whole lives, but when Dr. Villain shows up in real life we don\u2019t have James Bond or the Avengers to save us."
-            ],
-            "aggregate_sentiment": 12.0
+            "aggregate_sentiment": 98.0
         },
         {
             "category": "HOT",
             "title": "FDA says it will phase out petroleum-based food dyes, authorize four natural color additives",
             "external_url": "https://www.cnn.com/2025/04/22/health/fda-food-dyes",
-            "upvotes": 3784,
+            "upvotes": 4451,
             "date": "04/22/2025",
             "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/2025-04-22t203936z-1661349634-rc283eaquvca-rtrmadp-3-usa-trump-fda-dyes.jpg?c=16x9&q=w_800,c_fill",
             "top_comments": [
@@ -97,40 +97,40 @@
                 "From a doctor, the issue with this is the HUGE amount of energy and effort being put into this (there\u2019s no good evidence that the amount of dye used here causes any problems other than in pitri dish studies/feeding gallons to mice) and a COMPLETE disregard for things that are ACTIVELY harming people (food safety monitoring, lead, vaccine hesitancy, cost of healthy food, more strict regulations on air and water quality).\n\nThis is the medical equivalent of giving emergency chamomile tea to someone with insomnia\u2026who also has a gaping gunshot wound to their leg.",
                 "I think a lot of the fears about some food dyes are overhyped and at worst fear mongering, but I do believe if natural color additives can be used they should be. Doing things because they're cheaper or easier doesn't mean it should be that way. Natural dyes work just fine. I think it would make people in all areas of the conversation come to agreement.",
                 "Any country that wants to export food products needs to meet the market\u2019s food safety standards or the products will only be good for domestic use.  Other countries don\u2019t need or want bright red fruit loops and blue icing and neon orange cheese dust. \n\nSome of these dyes have been banned for a decade in other countries - no one misses them one bit - and large companies have pivoted away from them without going broke.   It rarely changes the formulation or production of a product.   \n\nIt\u2019s a super simple change.  The only thing party that loses here are the companies that make the petroleum based dyes.  Which will be replaced by companies that make non petroleum based dyes.  Who owns those?",
-                "Why is medicine loaded up with dyes? I have no fucks to give about the color of medicine, only that the stuff is effective.",
-                "But let\u2019s not check milk for safety anymore!!!!",
                 "Plot twist: no one will be around at the FDA to test products for compliance",
+                "Why is medicine loaded up with dyes? I have no fucks to give about the color of medicine, only that the stuff is effective.",
                 "They can't test milk but they they'll be able to regulate and enforce this? Ya sure, totes.",
-                "This will save a lot of lives. Well, a lot of lives of rats who\u2019ve been force fed their entire body weight\u2019s worth of the dye. Probably not any humans though."
+                "But let\u2019s not check milk for safety anymore!!!!",
+                "These natural colors wouldn\u2019t happen to be Colloidal Silver, Monoatomic Gold, Copper and Spirulina would they?"
             ],
-            "aggregate_sentiment": 18.0
+            "aggregate_sentiment": 67.0
         },
         {
             "category": "HOT",
             "title": "US FDA suspends milk quality tests amid workforce cuts",
             "external_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-suspends-milk-quality-tests-amid-workforce-cuts-2025-04-21/",
-            "upvotes": 14118,
+            "upvotes": 15754,
             "date": "04/22/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
                 "Listeria for everyone!",
                 "I wonder if the fall of Rome was this stupid.",
                 "It feels like this administration is doing its best to create different ways to kill us or make us so sick we wish for death.",
-                "Bird flu is transferring to cows, did you see the 60 Minutes piece on that?\n\nAccording to this article, milk will no longer be tested for bird flu.",
                 "Guess this is how we kill people.",
+                "Bird flu is transferring to cows, did you see the 60 Minutes piece on that?\n\nAccording to this article, milk will no longer be tested for bird flu.",
                 "So I guess the attitude on listeria is similar to the attitude on pandemics:\n\n# \"If we stopped testing right now, we\u2019d have very few cases, if any\u2019\u2018",
                 "This reminds me of the Wisconsin or North Dakota politician that campaigned ***hard*** on allowing raw milk. They changed their state laws to allow for raw milk sales and at the press conference the politician drank a glass of raw milk in celebration. It immediately made him sick. Like, next day.",
                 "What could possibly go wrong? We\u2019re going to be so fucking great, just you wait..",
                 "Don\u2019t drink milk, got it.",
                 "Next new peice of business from this admin is calling Canada and the EU evil for not wanting to buy US dairy products. I can't imagine why!"
             ],
-            "aggregate_sentiment": 22.0
+            "aggregate_sentiment": 82.0
         },
         {
             "category": "HOT",
             "title": "Info Pete Hegseth shared with wife, brother came from top general's secure messages",
             "external_url": "https://www.nbcnews.com/politics/national-security/info-hegseths-yemen-signal-texts-came-generals-secure-messages-rcna198838",
-            "upvotes": 36779,
+            "upvotes": 37851,
             "date": "04/22/2025",
             "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250403-pete-hegseth-se-231p-3a286f.jpg",
             "top_comments": [
@@ -145,13 +145,13 @@
                 "He might as well add Fox news to the chat.",
                 "He is a traitor to the United States"
             ],
-            "aggregate_sentiment": 12.0
+            "aggregate_sentiment": 0.0
         },
         {
             "category": "HOT",
             "title": "Trump must give some Venezuelan migrants 21 days' notice before deportations, judge rules",
             "external_url": "https://www.reuters.com/legal/trump-must-give-some-venezuelan-migrants-21-days-notice-before-deportations-2025-04-22/",
-            "upvotes": 5328,
+            "upvotes": 5732,
             "date": "04/22/2025",
             "thumbnail": "No social preview available",
             "top_comments": [
@@ -166,13 +166,13 @@
                 "Trump: \"no\"\n\n\\~Probably.",
                 "I\u2019m SURE he\u2019ll comply this time."
             ],
-            "aggregate_sentiment": 8.0
+            "aggregate_sentiment": 0.0
         },
         {
             "category": "HOT",
             "title": "Bill Owens, Executive Producer Of \u201960 Minutes,\u2019 Resigns, Saying He Lost His Ability To Make \u201cIndependent Decisions\u201d About The Show",
             "external_url": "https://deadline.com/2025/04/bill-owens-60-minutes-cbs-trump-1236373948/",
-            "upvotes": 4146,
+            "upvotes": 4777,
             "date": "04/22/2025",
             "thumbnail": "https://deadline.com/wp-content/uploads/2024/02/Bill-Owens-headshot-credit-Michele-Crowe-CBS.jpg?w=1024",
             "top_comments": [
@@ -183,394 +183,17 @@
                 "It's The Insider all over again. But this time CBS isn't bowing to Big Tobacco, it bowing to Big Cheeto.",
                 "We have to collectively start to push back at these 'Trump lashed out etc' - the Dump basically has this unmoderated loudspeaker that has zero rebuttal or ability to correct. It just gets on there and speaks BS and the deluded followers believe it. And no one - other than the media who are scared shitless - can actually rebut at the same magnitude. We all play nice to it with 'oh, only the crazy believe him' or 'its just noise and bullshit, don't listen' but its impacting everyone and everything and it is so beyond needing to be stopped and corrected. Its brutal!\n\nThe dipshit doesn't even understand how or what tariffs are and is cratering economies and peoples lives. Its insane!",
                 "In other words, 60 Minutes and CBS are now wings of the Ministry of Truth.",
-                "Remember Dan Rather! They did the same thing to him for doing a story on Bush\u00a0",
                 "Canceled my Paramount+ subscription.  Hell with these fascist clowns...",
-                "CBS is bending the knee and kissing the ring of the Orange Fuhrer."
+                "CBS is bending the knee and kissing the ring of the Orange Fuhrer.",
+                "That was a good episode.  My last one."
             ],
-            "aggregate_sentiment": 23.0
+            "aggregate_sentiment": 37.0
         },
         {
             "category": "HOT",
-            "title": "Chan Zuckerberg Initiative announces it will close East Palo Alto school",
-            "external_url": "https://www.rwcpulse.com/education/2025/04/21/the-primary-school-to-shut-down-at-end-of-school-year/",
-            "upvotes": 2578,
-            "date": "04/22/2025",
-            "thumbnail": "https://i0.wp.com/www.rwcpulse.com/wp-content/uploads/2025/04/104441_original.jpg?fit=2000%2C1333&ssl=1",
-            "top_comments": [
-                "*The closure comes at a time when Zuckberberg has been winding down programs at Meta that pertain to diversity, equity and inclusion*.\n\nIndeed, 80% of the students were people of color, most Latino.",
-                "Feels important to note something like this, especially so since they are not saying why it\u2019s closing",
-                "This is mainly going to hurt Latino populations in the area which are already underserved and financially marginalized. I actually learned about it in a class this semester. It\u2019s part of a wider turn against diversity in tech currently underway.\u00a0",
-                "In this economy?  \nYou know how much taxes are when you own an entire Hawaiian island?",
-                "Another reason not to trust charter schools.",
-                "If they actually wanted to support the community, they would have invested in Ravenswood School District instead of building a parallel private school system. \n\nThat\u2019s going to be a lot of work for Ravenswood to integrate all these student, especially considering that there\u2019s a high pourcentage of students at the Primary School with IEPs.\n\nThere\u2019s a good French documentary about how people from EPA distrust the tech companies and don\u2019t want them to take control and privatize the citizens services. This is a very good example of why they are right.",
-                "All to please the president. Taking away education from kids who need it.\n\n  \nThis is just plain stupid.",
-                "This is exactly why the right has made concepts like systemic racism, DEI, \"woke\", etc. into pejorative. True racism isn't just calling someone a slur--it's systematically depriving them of education and isolating them from the cultural privileges, all in the attemp to ensure they don't get a fair chance at getting their slice of the pie (money, political power, etc.)\n\nThis is racism, pure and simple.",
-                "Grew up in EPA. I used to go to this school back when it was Brentwood Elementary. Edit*. Really interested to see what they\u2019re gonna put in its place if anything at all. I\u2019m curious how much of a strain it\u2019s going to put on the public schools in the surrounding area if as stated a lot of the students have an IEP, which can be very legally binding and difficult to follow. From what I understand it typically means they need a lot more one on one time with a teacher, which can be extremely expensive to facilitate.",
-                "Good job, Priscilla! Keep driving around in that Porsche monstrosity your husband had built for you while you live on stolen land in Hawaii."
-            ],
-            "aggregate_sentiment": 38.0
-        },
-        {
-            "category": "NEW",
-            "title": "El Paso Walmart shooter received forgiveness and a hug from victim\u2019s sister",
-            "external_url": "https://elpasomatters.org/2025/04/22/victims-sister-hugs-walmart-gunman-patrick-crusius-el-paso/",
-            "upvotes": 90,
-            "date": "04/23/2025",
-            "thumbnail": "https://elpasomatters.org/wp-content/uploads/2025/04/crusius_hug_rrr_1.jpg",
-            "top_comments": [
-                "If somebody murders me and then my sister hugs them, I\u2019d be so pissed!",
-                "That's big of her but society will hold him accountable.",
-                "Fucking terrorist. She\u2019s better than me.",
-                "Forgiveness is never a bad thing.\n\nForgiveness doesn\u2019t mean he isn\u2019t guilty, it doesn\u2019t mean he shouldn\u2019t suffer consequences. It\u2019s just forgiveness, and forgiveness is *good*. \n\nYou can forgive people who do terrible things, too. It will make your life better if you do.",
-                "If someone took a loved one away from me like that I wouldn't forgive them.",
-                "All the so-called Christians who think all they have to do are recite a few spells once a week and they magically get into heaven no matter whatever else they may do, should take a lesson from this woman. This is what Christianity is really about. Forgiving people, even when they have wronged you in a very serious way.\n\nI respect the hell out of this woman. I'm not sure I could do the same, and I don't even particularly get along with my siblings.",
-                "Bigger people than I. If I got my hands on someone who killed my loves, I would only let go when they or I had joined them.\n\n\nWhich shows I have a lot of work to do on my anger response still.\n\n\nI hope they all heal as best as is possible.\u00a0",
-                "And from another victim\u2019s wife. Hard to fathom. \n\nAlso buried in the article:\n>gunman who said he wanted to stop \u201cthe Hispanic invasion of Texas.\u201d\n\nA place that was literally Mexican before it was American. Teaching history is important, people. Teaching people not to be hateful bigoted murderers is also a good idea.",
-                "Is this the Chudjak guy or someone else?",
-                "I would never hug or forgive someone who would murder a family member of mine.\n\nTo me what he did is just unforgivable."
-            ],
-            "aggregate_sentiment": 12.0
-        },
-        {
-            "category": "NEW",
-            "title": "Gaza health ministry denies manipulating death toll figures",
-            "external_url": "https://www.bbc.co.uk/news/articles/cx25x35476yo",
-            "upvotes": 14,
-            "date": "04/23/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30b0/live/bafeccd0-1f79-11f0-b1b3-7358f8d35a35.jpg",
-            "top_comments": [],
-            "aggregate_sentiment": null
-        },
-        {
-            "category": "NEW",
-            "title": "Musk signals 'significantly' stepping back from Doge as Tesla profits plunge",
-            "external_url": "https://www.bbc.co.uk/news/articles/cy0x50yr46lo",
-            "upvotes": 1625,
-            "date": "04/23/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edfd/live/18dde810-1ff5-11f0-9060-674316cb3a1f.jpg",
-            "top_comments": [
-                "It's cute he thinks his reputation is salvageable at this point",
-                "Don\u2019t think it\u2019ll help. He\u2019s destroyed his image in a short amount of time and there\u2019s no taking it back.",
-                "Won't matter. Damage is done. These tesla profits dropping are just the start. Wait for next quarter.",
-                "He's already wrecked the systems, stolen all our data, and installed his digital and personnel backdoors.\n\n.. but at least the world has finally seen what a narcissistic nazi douchebag he is.",
-                "Okay.. Elon is no longer publicly making an ass of himself. That doesn't change the fact that big balls and the other creeps Elon hired are dismantling everything",
-                "He's lying. It's a ruse to manipulate Tesla's stock price.",
-                "Lmao yea right. Anything good that could come from this administration wont and Elon leaving would be amazing for us so he wont be going anywhere.",
-                "Can't put the \"heil Hitler\" back in the tube. Fuck Tesla. Take it to zero.",
-                "It isn't solely about you being in politics Musk. We all saw the Nazi Salute on global TV. Get fucked!",
-                "He stole what he wanted and bailed.\n\nWe\u2019ve been watching/ reading this supervillain shit our whole lives, but when Dr. Villain shows up in real life we don\u2019t have James Bond or the Avengers to save us."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Sharks drew crowds who swam with them off Israel's coast \u2014 until one man disappeared.",
-            "external_url": "https://apnews.com/article/shark-attack-wild-animals-israel-d68793e4007250395cbb22c1a8b087bf",
-            "upvotes": 581,
-            "date": "04/23/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "The sharks are there bc the water is warmer bc of drainage from a powerplant. People are not even supposed to swim there.\n\nPeople were apparently going up and grabbing their fins.\n\nI dont know what to say to that.",
-                "Darwin Award.\ud83c\udfc5\n\nFeeding the sharks and grabbing fins\u2026",
-                "TIL a group of sharks is called a *shiver*.",
-                "Unprovoked shark attacks are rare.\n\nDumbasses, however, are quite common.",
-                "I say let them get eaten. If this is how we thin out stupid people from society then so be it. They're adults, not children, let them figure out the consequences of their actions their own way.",
-                "\"Some tugged on the sharks\u2019 fins, while others threw them fish to eat. Dusky sharks can grow to 4 meters (13 feet) long and weigh about 350 kilograms (750 pounds). Sandbar sharks are smaller, growing to about 2.5 meters (8 feet) and 100 kilograms (220 pounds).\"\n\n\ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f",
-                "Like grandma use to say, \u201cthat boy ain\u2019t got no common\u201d",
-                "I'm surprised they didn't carpet bomb the ocean in retaliation.",
-                "Well, if that just isn't a microcosm of the world right now.",
-                "The fish went mammaling."
-            ],
-            "aggregate_sentiment": 50.0
-        },
-        {
-            "category": "NEW",
-            "title": "Lori Vallow Daybell jury returns guilty verdict in Arizona trial over Charles Vallow's death",
-            "external_url": "https://www.cbsnews.com/news/lori-vallow-daybell-verdict-arizona-trial/",
-            "upvotes": 525,
-            "date": "04/22/2025",
-            "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/22/7ce99098-c2df-4d24-8e6c-57e443d96687/thumbnail/1200x630/fae369373e14126636d473a1699164b0/ap23132709066020.jpg?v=edaea84d9f9990d3a4d8ddf0e6fb4e98",
-            "top_comments": [
-                "*... prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.*\n\nI knew that cult indications had to come up at some point in this story.",
-                "22 April 2025\n\nfrom the article:\n\n>Lori Vallow Daybell was convicted Tuesday of conspiracy to commit murder in the 2019 killing of her estranged husband in Arizona:\n\n>Daybell is already serving life sentences in Idaho for multiple murders and for conspiracy to commit murder.\n\n>Jurors deliberated for a total of three hours over two days. \n\n>During the trial, which began in Phoenix on March 31, prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.\n\n>\"What we see is a very planned out, premeditated murder,\" prosecutor Treena Kay told the jury in her closing argument.\n\n>Vallow Daybell represented herself at the trial despite not being a lawyer. She didn't call any witnesses or put on any evidence in her defense, but said in her opening and closing statements that Vallow's death wasn't a crime.\n\n>This trial was not Vallow Daybell's last. She is scheduled to go on trial again in early June on a charge of conspiring to murder Brandon Boudreaux, the ex-husband of her niece, Melani Pawlowski.",
-                ">Cox's account was later called into question and Vallow Daybell was charged in Vallow's death following other murders, including of her children, 16-year-old Tylee Ryan and 7-year-old Joshua \"JJ\" Vallow. Vallow Daybell is already\u00a0[serving life sentences in Idaho](https://www.cbsnews.com/news/lori-vallow-daybell-doomsday-mom-trial-tylee-ryan-jj-vallow-what-to-know/)\u00a0for those murders and conspiring to murder her then-boyfriend\u00a0[Chad Daybell's](https://www.cbsnews.com/news/chad-daybell-trial-doomsday-cult-murder-case/)\u00a0wife, Tammy.\n\nHoly fuck, no matter how many times I read that, I cannot make heads nor tails of it. Everyone is named either \"Vallow\" or \"Daybell\". I think it's saying she's serving life in Idaho for killing a couple of her kids, but the rest... \ud83e\udd37 Anyone out there on the interwebs able to translate this for me?",
-                "how many people has this crazy person tried to kill??? damn",
-                "Good. It still pisses me off that she didn't get the death penalty too because she fucking deserves it. If not for her those 4 people wouldn't be dead.",
-                "For anybody that really wants to dig into this crazy ass story, I recommend this podcast: https://youtu.be/iT4e3gRlQr8?si=DcYYiQMbsQUIc8o0",
-                "Gonna see this on Snapped right quick."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "NEW",
-            "title": "Veterans affairs agency orders staff to report each other for \u2018anti-Christian bias\u2019",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias?CMP=Share_AndroidApp_Other",
-            "upvotes": 5441,
-            "date": "04/22/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/61859c303c21779b1d4c162dfdfc73baffe0230c/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35ea48c1ee63f288cfa25a06cb609745",
-            "top_comments": [
-                "They have all the power now and they still act like they are the most oppressed people on the planet.",
-                ">  The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d\n\nHostile to Christian views?\n\nSo, all instances of employees NOT discriminating against women, minorities, and the LGBTQ+ community will be reported.\n\nBasically, people will be punished for being decent.",
-                "mY sUpErViSoR sAiD hApPy hOlIdAyS tO mE!",
-                ">\u201cThe VA Task Force now requests all VA employees to **submit any instance of anti-Christian discrimination to Anti-ChristianBiasReporting.@va.gov,\u201d** the email reads. \u201cSubmissions should include sufficient identifiers such as names, dates, and locations.\u201d\n\nRedditors, you have your assignment.",
-                "> The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d.\n\nWanting to maintain the separation of church and state is not an attack.",
-                "So much for the separation of Church and State.",
-                "Everyday, Trump's administration proves that both parties are in fact not the same.\u00a0",
-                "wish jesus was real, and that he would come back - again - and take all these assholes to wherever it is that they belong ...",
-                "So all it takes is for that one religious zealot at work is to ask you \u201cDo you believe?\u201d Then if you say no, you\u2019re out of job? Ridiculous",
-                "Fuck these anti Constitutional traitors!That's a violation of the 1st amendment! These traitors won't stop until we make them, and they don't give a flying eff about protest signs they can't read anyways!"
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "NEW",
-            "title": "FDA says it will phase out petroleum-based food dyes, authorize four natural color additives",
-            "external_url": "https://www.cnn.com/2025/04/22/health/fda-food-dyes",
-            "upvotes": 3784,
-            "date": "04/22/2025",
-            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/2025-04-22t203936z-1661349634-rc283eaquvca-rtrmadp-3-usa-trump-fda-dyes.jpg?c=16x9&q=w_800,c_fill",
-            "top_comments": [
-                "But they can\u2019t be fucked to enforce food safety regulations?",
-                "[deleted]",
-                "From a doctor, the issue with this is the HUGE amount of energy and effort being put into this (there\u2019s no good evidence that the amount of dye used here causes any problems other than in pitri dish studies/feeding gallons to mice) and a COMPLETE disregard for things that are ACTIVELY harming people (food safety monitoring, lead, vaccine hesitancy, cost of healthy food, more strict regulations on air and water quality).\n\nThis is the medical equivalent of giving emergency chamomile tea to someone with insomnia\u2026who also has a gaping gunshot wound to their leg.",
-                "I think a lot of the fears about some food dyes are overhyped and at worst fear mongering, but I do believe if natural color additives can be used they should be. Doing things because they're cheaper or easier doesn't mean it should be that way. Natural dyes work just fine. I think it would make people in all areas of the conversation come to agreement.",
-                "Any country that wants to export food products needs to meet the market\u2019s food safety standards or the products will only be good for domestic use.  Other countries don\u2019t need or want bright red fruit loops and blue icing and neon orange cheese dust. \n\nSome of these dyes have been banned for a decade in other countries - no one misses them one bit - and large companies have pivoted away from them without going broke.   It rarely changes the formulation or production of a product.   \n\nIt\u2019s a super simple change.  The only thing party that loses here are the companies that make the petroleum based dyes.  Which will be replaced by companies that make non petroleum based dyes.  Who owns those?",
-                "Why is medicine loaded up with dyes? I have no fucks to give about the color of medicine, only that the stuff is effective.",
-                "But let\u2019s not check milk for safety anymore!!!!",
-                "Plot twist: no one will be around at the FDA to test products for compliance",
-                "They can't test milk but they they'll be able to regulate and enforce this? Ya sure, totes.",
-                "This will save a lot of lives. Well, a lot of lives of rats who\u2019ve been force fed their entire body weight\u2019s worth of the dye. Probably not any humans though."
-            ],
-            "aggregate_sentiment": 50.0
-        },
-        {
-            "category": "NEW",
-            "title": "Tesla sales plunge as carmaker warns \u2018political sentiment\u2019 could impact future demand",
-            "external_url": "https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit",
-            "upvotes": 12520,
-            "date": "04/22/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/84a18423ca2ed213d3451c93cff70ea1d454a856/0_53_7743_4646/master/7743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d888d103ebc9308d688aa42c7c9ea3e0",
-            "top_comments": [
-                "I love that for them!\n\nFuck you, Elon.",
-                "Obviously, you fucking idiots. Its not just political sentiment. The guy is making nazi gestures, making nazi jokes, propping up far right parties in germany, sending his goons in to capture data they weren't elected for in the States. Fuck Tesla. And this is coming from someone who owns an Model 3 but can't really get rid of it (family/young kids/mortgage/bills/etc take priority)",
-                "Kind of a stupid fucking move to try and sell electric cars to Nazi sympathizers. That's such a small overlap of American society.",
-                "My wife and I would be at least two teslas in\u2026went so far as test driving but now, will never own one out of principle\u2026who cares, it\u2019s just two people but I\u2019m guessing we are part of a not insignificant part of the target demo\u2026get rekted Elmo\u2026",
-                "The fact that a Hitler salute has to be described as \"political sentiment\" gives me feelings of disappointment in humanity.",
-                "So anti-Nazi sentiment then? Okay that could be a problem yeah.",
-                "The fact that it also sucks as a company also doesn't help.  They've been massively overvalued for a long time, kept afloat primarily through Elon Musk's weird tech bro cult of personality.  With Musk's mask off and his fascism on full display, the fragile foundation of this house of cards - i.e., the goodwill toward Elon himself - has cracked and the whole thing is tumbling down.",
-                "> Analysts attribute the company\u2019s overall difficulties to a number of factors, but ultimately conclude Elon Musk\u2019s role in the White House has caused a branding crisis for Tesla. The company is at a major crossroads, analysts say, that will only be remedied if Musk leaves his role in the so-called \u201cdepartment of government efficiency\u201d and returns to Tesla as CEO full time.\n\nElon is trash goods. People aren\u2019t going to stop hating him just because he leaves. The damage he has caused to America\u2019s democracy and government is unforgivable.",
-                "How it is when you offend and fuck with your core demo.",
-                "The CEO sieg heiled twice."
-            ],
-            "aggregate_sentiment": 0.0
-        },
-        {
-            "category": "NEW",
-            "title": "Panini CEO Aldo Hugo Sallustro passes away at 75",
-            "external_url": "https://collectorclub.co.uk/sports-cards/panini-ceo-aldo-hugo-sallustro-obituary/",
-            "upvotes": 117,
-            "date": "04/22/2025",
-            "thumbnail": "https://collectorclub.co.uk/wp-content/uploads/2025/04/WEB-IMAGE-Aldo-Hugo-Sallustro-1.webp",
-            "top_comments": [
-                "Well now I'm torn. I mentally had my panini maker out already.",
-                "Gonna be honest. I totally thought that this was the guy who came up with Paninis the restaurant chain.",
-                "Flicking through the funeral catalogue.\n\n*Got, got, got, need.*",
-                "Are they gonna do a 1/1 relic card of him with crazy autos from Pele, Messi, Jordan, LeBron, Brady, Pok\u00e9mon, Han Solo, etc., to commemorate his passing?",
-                "Dude revolutionized the sandwich. RIP"
-            ],
-            "aggregate_sentiment": 80.0
-        },
-        {
-            "category": "NEW",
-            "title": "Potomac Mills GameStop employee charged with stabbing customer during argument",
-            "external_url": "https://www.insidenova.com/headlines/potomac-mills-gamestop-employee-charged-with-stabbing-customer-during-argument/article_62e4ff04-6eab-11ee-9fb4-f3bdde2fde09.html",
-            "upvotes": 0,
-            "date": "04/22/2025",
-            "thumbnail": "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/0/fe/0fe73fd8-6eb5-11ee-86f7-a3c052f32478/65318253009fa.image.png?crop=361%2C361%2C0%2C42&resize=200%2C200&order=crop%2Cresize",
-            "top_comments": [
-                "This is over a year old.",
-                "Man, prince william county sure has changed",
-                "Oh hey I saw this guy stab that guy on r/publicfreakout\u00a0",
-                "(checks GameStop employee manual)   Nope!  Nothing in there!",
-                "the dream of every retail worker",
-                "Rub some mayo on it, you'll be fine",
-                "Spamming a year and a half old article?\n\nAnyway gme to the moon! Lol",
-                "Should have settled the beef with a game off.",
-                "At least they didn't stab my shares",
-                "These Pokemon releases are getting out of hand ."
-            ],
-            "aggregate_sentiment": 12.0
-        },
-        {
-            "category": "RISING",
-            "title": "Musk signals 'significantly' stepping back from Doge as Tesla profits plunge",
-            "external_url": "https://www.bbc.co.uk/news/articles/cy0x50yr46lo",
-            "upvotes": 1639,
-            "date": "04/23/2025",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edfd/live/18dde810-1ff5-11f0-9060-674316cb3a1f.jpg",
-            "top_comments": [
-                "It's cute he thinks his reputation is salvageable at this point",
-                "Don\u2019t think it\u2019ll help. He\u2019s destroyed his image in a short amount of time and there\u2019s no taking it back.",
-                "Won't matter. Damage is done. These tesla profits dropping are just the start. Wait for next quarter.",
-                "He's already wrecked the systems, stolen all our data, and installed his digital and personnel backdoors.\n\n.. but at least the world has finally seen what a narcissistic nazi douchebag he is.",
-                "Okay.. Elon is no longer publicly making an ass of himself. That doesn't change the fact that big balls and the other creeps Elon hired are dismantling everything",
-                "He's lying. It's a ruse to manipulate Tesla's stock price.",
-                "Lmao yea right. Anything good that could come from this administration wont and Elon leaving would be amazing for us so he wont be going anywhere.",
-                "Can't put the \"heil Hitler\" back in the tube. Fuck Tesla. Take it to zero.",
-                "It isn't solely about you being in politics Musk. We all saw the Nazi Salute on global TV. Get fucked!",
-                "He stole what he wanted and bailed.\n\nWe\u2019ve been watching/ reading this supervillain shit our whole lives, but when Dr. Villain shows up in real life we don\u2019t have James Bond or the Avengers to save us."
-            ],
-            "aggregate_sentiment": 18.0
-        },
-        {
-            "category": "RISING",
-            "title": "Veterans affairs agency orders staff to report each other for \u2018anti-Christian bias\u2019",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias?CMP=Share_AndroidApp_Other",
-            "upvotes": 5441,
-            "date": "04/22/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/61859c303c21779b1d4c162dfdfc73baffe0230c/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35ea48c1ee63f288cfa25a06cb609745",
-            "top_comments": [
-                "They have all the power now and they still act like they are the most oppressed people on the planet.",
-                ">  The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d\n\nHostile to Christian views?\n\nSo, all instances of employees NOT discriminating against women, minorities, and the LGBTQ+ community will be reported.\n\nBasically, people will be punished for being decent.",
-                "mY sUpErViSoR sAiD hApPy hOlIdAyS tO mE!",
-                ">\u201cThe VA Task Force now requests all VA employees to **submit any instance of anti-Christian discrimination to Anti-ChristianBiasReporting.@va.gov,\u201d** the email reads. \u201cSubmissions should include sufficient identifiers such as names, dates, and locations.\u201d\n\nRedditors, you have your assignment.",
-                "> The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d.\n\nWanting to maintain the separation of church and state is not an attack.",
-                "So much for the separation of Church and State.",
-                "Everyday, Trump's administration proves that both parties are in fact not the same.\u00a0",
-                "wish jesus was real, and that he would come back - again - and take all these assholes to wherever it is that they belong ...",
-                "So all it takes is for that one religious zealot at work is to ask you \u201cDo you believe?\u201d Then if you say no, you\u2019re out of job? Ridiculous",
-                "Fuck these anti Constitutional traitors!That's a violation of the 1st amendment! These traitors won't stop until we make them, and they don't give a flying eff about protest signs they can't read anyways!"
-            ],
-            "aggregate_sentiment": 67.0
-        },
-        {
-            "category": "RISING",
-            "title": "Trump must give some Venezuelan migrants 21 days' notice before deportations, judge rules",
-            "external_url": "https://www.reuters.com/legal/trump-must-give-some-venezuelan-migrants-21-days-notice-before-deportations-2025-04-22/",
-            "upvotes": 5325,
-            "date": "04/22/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "In coming Truth Social Post: \"All immigrants are hereby notified that you are subject to deportation in 21 days!!!\"",
-                "I admire the judges that resist him with their rulings, but what does it ultimately mean if no one will enforce it? The people with the weapons have to follow the judges' orders before they are worth more than any rando's judgment.",
-                "Doesn't matter what the judge rules if he never faces consequences for anything.",
-                "Followed by him saying \u201cI\u2019m gonna do it anyway,\u201d the judges saying \u201cWell\u2026you can\u2019t,\u201d and then him doing it anyway because the law is simply not enforced where Trump is concerned.",
-                "Good. Everyone in the US is legally entitled and morally deserving of due process.",
-                ">\u00a0administration must tell the migrants in a language they understand that they have the right to consult a lawyer.\n\n  \nBut will they allow a lawyer to talk to them?  He know Trump goons going to skirt this part, these judges need to treat them like 5 y/o with their rulings and spell it out, every step.",
-                "So, Trump will arrest them tomorrow - hold them for 21 days - then, it's off to El Salvador?!!",
-                "In one ear right out the other. The fact this idiot hasn't already had the impeachment process started against him means he will ignore it and get away with it. I hate this country",
-                "Trump: \"no\"\n\n\\~Probably.",
-                "I\u2019m SURE he\u2019ll comply this time."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "RISING",
-            "title": "Tesla sales plunge as carmaker warns \u2018political sentiment\u2019 could impact future demand",
-            "external_url": "https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit",
-            "upvotes": 12514,
-            "date": "04/22/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/84a18423ca2ed213d3451c93cff70ea1d454a856/0_53_7743_4646/master/7743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d888d103ebc9308d688aa42c7c9ea3e0",
-            "top_comments": [
-                "I love that for them!\n\nFuck you, Elon.",
-                "Obviously, you fucking idiots. Its not just political sentiment. The guy is making nazi gestures, making nazi jokes, propping up far right parties in germany, sending his goons in to capture data they weren't elected for in the States. Fuck Tesla. And this is coming from someone who owns an Model 3 but can't really get rid of it (family/young kids/mortgage/bills/etc take priority)",
-                "Kind of a stupid fucking move to try and sell electric cars to Nazi sympathizers. That's such a small overlap of American society.",
-                "My wife and I would be at least two teslas in\u2026went so far as test driving but now, will never own one out of principle\u2026who cares, it\u2019s just two people but I\u2019m guessing we are part of a not insignificant part of the target demo\u2026get rekted Elmo\u2026",
-                "The fact that a Hitler salute has to be described as \"political sentiment\" gives me feelings of disappointment in humanity.",
-                "So anti-Nazi sentiment then? Okay that could be a problem yeah.",
-                "The fact that it also sucks as a company also doesn't help.  They've been massively overvalued for a long time, kept afloat primarily through Elon Musk's weird tech bro cult of personality.  With Musk's mask off and his fascism on full display, the fragile foundation of this house of cards - i.e., the goodwill toward Elon himself - has cracked and the whole thing is tumbling down.",
-                "> Analysts attribute the company\u2019s overall difficulties to a number of factors, but ultimately conclude Elon Musk\u2019s role in the White House has caused a branding crisis for Tesla. The company is at a major crossroads, analysts say, that will only be remedied if Musk leaves his role in the so-called \u201cdepartment of government efficiency\u201d and returns to Tesla as CEO full time.\n\nElon is trash goods. People aren\u2019t going to stop hating him just because he leaves. The damage he has caused to America\u2019s democracy and government is unforgivable.",
-                "How it is when you offend and fuck with your core demo.",
-                "The CEO sieg heiled twice."
-            ],
-            "aggregate_sentiment": 8.0
-        },
-        {
-            "category": "RISING",
-            "title": "Sarah Palin loses retrial of defamation case against New York Times",
-            "external_url": "https://www.theguardian.com/us-news/2025/apr/22/sarah-palin-loses-defamation-nyt-retrial",
-            "upvotes": 18260,
-            "date": "04/22/2025",
-            "thumbnail": "https://i.guim.co.uk/img/media/8a71a1a108784657ab0666974cc8c763211db1b0/0_142_4300_2581/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0e0a47794bea93c9f820c3c81f93292",
-            "top_comments": [
-                "I'm not joking, but I'd completely forgotten about Sarah Palin until I read this headline.",
-                "Can she see this verdict from her front porch?",
-                "Tina Fey made Sarah Palin more famous than Sarah Palin did.",
-                "Dam they're really Nailin Palin",
-                "\"Sarah Palin loses\", a tune now so common it's subtly and ever-so-slowly replacing that quintessential elevator music. Keep it up queen!",
-                "I'm surprised she didn't quit half way through the case",
-                "Not upset about this. She is one of the main reasons we are in the mess we are in now. Because she not only was a poor loser but a bad politician who couldn\u2019t take a black man becoming president.",
-                "Good. Now she can cry more.",
-                "First The Masked Singer, and now this. Can't get a break.",
-                "Anyone got a very small violin?"
-            ],
-            "aggregate_sentiment": 12.0
-        },
-        {
-            "category": "RISING",
-            "title": "Lori Vallow Daybell jury returns guilty verdict in Arizona trial over Charles Vallow's death",
-            "external_url": "https://www.cbsnews.com/news/lori-vallow-daybell-verdict-arizona-trial/",
-            "upvotes": 530,
-            "date": "04/22/2025",
-            "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/22/7ce99098-c2df-4d24-8e6c-57e443d96687/thumbnail/1200x630/fae369373e14126636d473a1699164b0/ap23132709066020.jpg?v=edaea84d9f9990d3a4d8ddf0e6fb4e98",
-            "top_comments": [
-                "*... prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.*\n\nI knew that cult indications had to come up at some point in this story.",
-                "22 April 2025\n\nfrom the article:\n\n>Lori Vallow Daybell was convicted Tuesday of conspiracy to commit murder in the 2019 killing of her estranged husband in Arizona:\n\n>Daybell is already serving life sentences in Idaho for multiple murders and for conspiracy to commit murder.\n\n>Jurors deliberated for a total of three hours over two days. \n\n>During the trial, which began in Phoenix on March 31, prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.\n\n>\"What we see is a very planned out, premeditated murder,\" prosecutor Treena Kay told the jury in her closing argument.\n\n>Vallow Daybell represented herself at the trial despite not being a lawyer. She didn't call any witnesses or put on any evidence in her defense, but said in her opening and closing statements that Vallow's death wasn't a crime.\n\n>This trial was not Vallow Daybell's last. She is scheduled to go on trial again in early June on a charge of conspiring to murder Brandon Boudreaux, the ex-husband of her niece, Melani Pawlowski.",
-                ">Cox's account was later called into question and Vallow Daybell was charged in Vallow's death following other murders, including of her children, 16-year-old Tylee Ryan and 7-year-old Joshua \"JJ\" Vallow. Vallow Daybell is already\u00a0[serving life sentences in Idaho](https://www.cbsnews.com/news/lori-vallow-daybell-doomsday-mom-trial-tylee-ryan-jj-vallow-what-to-know/)\u00a0for those murders and conspiring to murder her then-boyfriend\u00a0[Chad Daybell's](https://www.cbsnews.com/news/chad-daybell-trial-doomsday-cult-murder-case/)\u00a0wife, Tammy.\n\nHoly fuck, no matter how many times I read that, I cannot make heads nor tails of it. Everyone is named either \"Vallow\" or \"Daybell\". I think it's saying she's serving life in Idaho for killing a couple of her kids, but the rest... \ud83e\udd37 Anyone out there on the interwebs able to translate this for me?",
-                "how many people has this crazy person tried to kill??? damn",
-                "Good. It still pisses me off that she didn't get the death penalty too because she fucking deserves it. If not for her those 4 people wouldn't be dead.",
-                "For anybody that really wants to dig into this crazy ass story, I recommend this podcast: https://youtu.be/iT4e3gRlQr8?si=DcYYiQMbsQUIc8o0",
-                "Gonna see this on Snapped right quick."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "RISING",
-            "title": "FDA says it will phase out petroleum-based food dyes, authorize four natural color additives",
-            "external_url": "https://www.cnn.com/2025/04/22/health/fda-food-dyes",
-            "upvotes": 3784,
-            "date": "04/22/2025",
-            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/2025-04-22t203936z-1661349634-rc283eaquvca-rtrmadp-3-usa-trump-fda-dyes.jpg?c=16x9&q=w_800,c_fill",
-            "top_comments": [
-                "But they can\u2019t be fucked to enforce food safety regulations?",
-                "[deleted]",
-                "From a doctor, the issue with this is the HUGE amount of energy and effort being put into this (there\u2019s no good evidence that the amount of dye used here causes any problems other than in pitri dish studies/feeding gallons to mice) and a COMPLETE disregard for things that are ACTIVELY harming people (food safety monitoring, lead, vaccine hesitancy, cost of healthy food, more strict regulations on air and water quality).\n\nThis is the medical equivalent of giving emergency chamomile tea to someone with insomnia\u2026who also has a gaping gunshot wound to their leg.",
-                "I think a lot of the fears about some food dyes are overhyped and at worst fear mongering, but I do believe if natural color additives can be used they should be. Doing things because they're cheaper or easier doesn't mean it should be that way. Natural dyes work just fine. I think it would make people in all areas of the conversation come to agreement.",
-                "Any country that wants to export food products needs to meet the market\u2019s food safety standards or the products will only be good for domestic use.  Other countries don\u2019t need or want bright red fruit loops and blue icing and neon orange cheese dust. \n\nSome of these dyes have been banned for a decade in other countries - no one misses them one bit - and large companies have pivoted away from them without going broke.   It rarely changes the formulation or production of a product.   \n\nIt\u2019s a super simple change.  The only thing party that loses here are the companies that make the petroleum based dyes.  Which will be replaced by companies that make non petroleum based dyes.  Who owns those?",
-                "Why is medicine loaded up with dyes? I have no fucks to give about the color of medicine, only that the stuff is effective.",
-                "But let\u2019s not check milk for safety anymore!!!!",
-                "Plot twist: no one will be around at the FDA to test products for compliance",
-                "They can't test milk but they they'll be able to regulate and enforce this? Ya sure, totes.",
-                "This will save a lot of lives. Well, a lot of lives of rats who\u2019ve been force fed their entire body weight\u2019s worth of the dye. Probably not any humans though."
-            ],
-            "aggregate_sentiment": 22.0
-        },
-        {
-            "category": "RISING",
-            "title": "Sharks drew crowds who swam with them off Israel's coast \u2014 until one man disappeared.",
-            "external_url": "https://apnews.com/article/shark-attack-wild-animals-israel-d68793e4007250395cbb22c1a8b087bf",
-            "upvotes": 584,
-            "date": "04/23/2025",
-            "thumbnail": "No social preview available",
-            "top_comments": [
-                "The sharks are there bc the water is warmer bc of drainage from a powerplant. People are not even supposed to swim there.\n\nPeople were apparently going up and grabbing their fins.\n\nI dont know what to say to that.",
-                "Darwin Award.\ud83c\udfc5\n\nFeeding the sharks and grabbing fins\u2026",
-                "TIL a group of sharks is called a *shiver*.",
-                "Unprovoked shark attacks are rare.\n\nDumbasses, however, are quite common.",
-                "I say let them get eaten. If this is how we thin out stupid people from society then so be it. They're adults, not children, let them figure out the consequences of their actions their own way.",
-                "\"Some tugged on the sharks\u2019 fins, while others threw them fish to eat. Dusky sharks can grow to 4 meters (13 feet) long and weigh about 350 kilograms (750 pounds). Sandbar sharks are smaller, growing to about 2.5 meters (8 feet) and 100 kilograms (220 pounds).\"\n\n\ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f",
-                "Like grandma use to say, \u201cthat boy ain\u2019t got no common\u201d",
-                "I'm surprised they didn't carpet bomb the ocean in retaliation.",
-                "Well, if that just isn't a microcosm of the world right now.",
-                "The fish went mammaling."
-            ],
-            "aggregate_sentiment": 28.0
-        },
-        {
-            "category": "RISING",
             "title": "Texas measles outbreak surpasses 600 cases with most among children, teens",
             "external_url": "https://abcnews.go.com/Health/texas-measles-outbreak-surpasses-600-cases-children-teens/story?id=121042863",
-            "upvotes": 3866,
+            "upvotes": 4328,
             "date": "04/22/2025",
             "thumbnail": "https://i.abcnewsfe.com/a/c5c0b432-75a4-415d-ba52-ce0606bcc4a2/measles-testing-sign-gty-jt-250311_1741733337889_hpMain_16x9.jpg?w=1600",
             "top_comments": [
@@ -583,7 +206,370 @@
                 "This is so infuriating. Neglectful parents much??? As if they never got any Vaccines as kids that prevented them from the SAME THING.",
                 "Please understand that measles is the most infectious virus that we know of, and that this is only the cases we know about. The true number is almost certainly much higher than 600 - at this point, I would be unsurprised if it was more than ten times the known number of cases. \n\nWhile the Mennonite communities in Ontario and Texas have been the epicenters of this outbreak, it won\u2019t stay contained; people are traveling while contagious, and there are large populations of ~~fuckwits~~ antivaxxers outside those communities for the virus to prey on.\n\nThankfully, most countries outside of the Anglosphere aren\u2019t nearly so foolish, and tend to be very rigid about childhood vaccinations. \n\nI hate this shit. It\u2019s so much needless suffering and death (both immediate and postponed) because Bobby Brainworm and his ilk hate autistic people.",
                 "Scared of vaccines - another checkmark in the long list of stupid ass bullshit that Republicans use to scare you into not paying attention to their policies.",
-                "Good thing all of the parents had responsible parents themselves and are safer from the outbreak unlike their children."
+                "I am of the generation *before* the measles vaccine (born 1961). I caught measles when I was 7 years old, and I *still* remember how horrible it was. \n\nHighest fever I've ever had. Every moment was sharp and painful, not like a cold or flu which I was an 'old hand' with. My father (single parent) didn't know what to do, he had my younger sister to look after as well. *She* didn't get it -- even though its so crazy-communicable."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
+            "title": "Russia-Ukraine war: London to host new ceasefire talks",
+            "external_url": "https://www.bbc.co.uk/news/articles/c78jx68d922o",
+            "upvotes": 76,
+            "date": "04/23/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64c3/live/3ba894e0-2003-11f0-8c2e-77498b1ce297.jpg",
+            "top_comments": [
+                "Everyone better make sure they say thank you",
+                "And Marco Rubio chose not to attend",
+                "Read: London to host first real ceasefire talks.",
+                "in the meantime ruSSia droned bus full of people on their way to work... murdered at least 9 and injured 30."
+            ],
+            "aggregate_sentiment": 40.0
+        },
+        {
+            "category": "NEW",
+            "title": "Number of births in US increased by 1% in 2024, according to CDC data",
+            "external_url": "https://www.theguardian.com/us-news/2025/apr/23/births-increase",
+            "upvotes": 78,
+            "date": "04/23/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/f7002690c118a7f3998a21f3da638d1469a941a3/0_135_5375_3225/master/5375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=498380abac324496b09b713f4087c5a6",
+            "top_comments": [
+                "why are births holding steady with such high living costs?",
+                "That sounds more like a normal fluctuation than any meaningful increase.",
+                "I imagine we're going to hear ~~forced birthers~~ \"pro-lifers\" brag about this",
+                " I\u2019m sure with the new push for vaccines they\u2019ll all live a long healthy life.",
+                "Medicaid funding deduction. 2 billion dollars.",
+                "Who looks at the state of the world and thinks, \"Yeah, now's a good time to start a family\"? You've got a 50-50 shot your kid grows up (if it survives measles) to spend its life in a techno-slum with Grok for a feudal lord and Dickbutt on its flag.",
+                "Will drop under Trump.",
+                "Great, just what we need.... More people \ud83d\ude44",
+                "Great\u2026Now there\u2019s even more dumb Americans.",
+                "Interesting. Wonder if this trend will continue in 2025."
+            ],
+            "aggregate_sentiment": 82.0
+        },
+        {
+            "category": "NEW",
+            "title": "El Paso Walmart shooter received forgiveness and a hug from victim\u2019s sister",
+            "external_url": "https://elpasomatters.org/2025/04/22/victims-sister-hugs-walmart-gunman-patrick-crusius-el-paso/",
+            "upvotes": 482,
+            "date": "04/23/2025",
+            "thumbnail": "https://elpasomatters.org/wp-content/uploads/2025/04/crusius_hug_rrr_1.jpg",
+            "top_comments": [
+                "If somebody murders me and then my sister hugs them, I\u2019d be so pissed!",
+                "That's big of her but society will hold him accountable.",
+                "And from another victim\u2019s wife. Hard to fathom. \n\nAlso buried in the article:\n>gunman who said he wanted to stop \u201cthe Hispanic invasion of Texas.\u201d\n\nA place that was literally Mexican before it was American. Teaching history is important, people. Teaching people not to be hateful bigoted murderers is also a good idea.",
+                "Is this the Chudjak guy or someone else?",
+                "I think some people after suffering traumatic loss of a loved one struggle to feel \u201cwhole\u201d again. I can see her forgiveness as being something she feels she needs to do to move on or find peace. This is about her more than it is about him, and that\u2019s okay!",
+                "Fucking terrorist. She\u2019s better than me.",
+                "If someone took a loved one away from me like that I wouldn't forgive them. Not saying that's a good thing or anything. Good on her for being able to.",
+                "Forgiveness is never a bad thing.\n\nForgiveness doesn\u2019t mean he isn\u2019t guilty, it doesn\u2019t mean he shouldn\u2019t suffer consequences. It\u2019s just forgiveness, and forgiveness is *good*. \n\nYou can forgive people who do terrible things, too. It will make your life better if you do.",
+                "Bigger people than I. If I got my hands on someone who killed my loves, I would only let go when they or I had joined them.\n\n\nWhich shows I have a lot of work to do on my anger response still.\n\n\nI hope they all heal as best as is possible.\u00a0",
+                "All the so-called Christians who think all they have to do are recite a few spells once a week and they magically get into heaven no matter whatever else they may do, should take a lesson from this woman. This is what Christianity is really about. Forgiving people, even when they have wronged you in a very serious way.\n\nI respect the hell out of this woman. I'm not sure I could do the same, and I don't even particularly get along with my siblings."
+            ],
+            "aggregate_sentiment": 42.0
+        },
+        {
+            "category": "NEW",
+            "title": "Gaza health ministry denies manipulating death toll figures",
+            "external_url": "https://www.bbc.co.uk/news/articles/cx25x35476yo",
+            "upvotes": 44,
+            "date": "04/23/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30b0/live/bafeccd0-1f79-11f0-b1b3-7358f8d35a35.jpg",
+            "top_comments": [
+                "The US and Isreal have both accepted health ministry numbers for years.  Its only recently that the US media has started trying to besmirch the numbers by referring to it as the \"Hamas-lead.\"\n\nAnything to avoid responsibility for genocide.",
+                "\"At least 51,266 people have been killed in the 18 months since the Gaza war began, according to the Hamas-run Ministry of Health, with nearly a third of the dead aged under 18.\"\n\nAlways struck me as odd that the HAMAS controlled areas always have such a precise headcount for international media whenever there are deaths in Gaza, regardless of who did the killing. Just have to blame Israel and keep it in the news cycle long enough to have an impact before the correction is aired and the numbers end up being garbage.",
+                "They should exaggerate them to shine light on the genocide\u00a0"
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "NEW",
+            "title": "Musk signals 'significantly' stepping back from Doge as Tesla profits plunge",
+            "external_url": "https://www.bbc.co.uk/news/articles/cy0x50yr46lo",
+            "upvotes": 7940,
+            "date": "04/23/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54dd/live/0534ad00-200c-11f0-8c2e-77498b1ce297.jpg",
+            "top_comments": [
+                "He's lying. It's a ruse to manipulate Tesla's stock price.",
+                "Don\u2019t think it\u2019ll help. He\u2019s destroyed his image in a short amount of time and there\u2019s no taking it back.",
+                "It's cute he thinks his reputation is salvageable at this point",
+                "He's already wrecked the systems, stolen all our data, and installed his digital and personnel backdoors.\n\n.. but at least the world has finally seen what a narcissistic nazi douchebag he is.",
+                "Won't matter. Damage is done. These tesla profits dropping are just the start. Wait for next quarter.",
+                "Okay.. Elon is no longer publicly making an ass of himself. That doesn't change the fact that big balls and the other creeps Elon hired are dismantling everything",
+                "The damage is done. I am in the market for an EV and would never now consider a Tesla. So many others are in the exact same situation.\u00a0",
+                "Can't put the \"heil Hitler\" back in the tube. Fuck Tesla. Take it to zero.",
+                "He stole what he wanted and bailed.\n\nWe\u2019ve been watching/ reading this supervillain shit our whole lives, but when Dr. Villain shows up in real life we don\u2019t have James Bond or the Avengers to save us.",
+                "Lmao yea right. Anything good that could come from this administration wont and Elon leaving would be amazing for us so he wont be going anywhere."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
+            "title": "Sharks drew crowds who swam with them off Israel's coast \u2014 until one man disappeared.",
+            "external_url": "https://apnews.com/article/shark-attack-wild-animals-israel-d68793e4007250395cbb22c1a8b087bf",
+            "upvotes": 743,
+            "date": "04/23/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "The sharks are there bc the water is warmer bc of drainage from a powerplant. People are not even supposed to swim there.\n\nPeople were apparently going up and grabbing their fins.\n\nI dont know what to say to that.",
+                "Darwin Award.\ud83c\udfc5\n\nFeeding the sharks and grabbing fins\u2026",
+                "TIL a group of sharks is called a *shiver*.",
+                "Unprovoked shark attacks are rare.\n\nDumbasses, however, are quite common.",
+                "\"Some tugged on the sharks\u2019 fins, while others threw them fish to eat. Dusky sharks can grow to 4 meters (13 feet) long and weigh about 350 kilograms (750 pounds). Sandbar sharks are smaller, growing to about 2.5 meters (8 feet) and 100 kilograms (220 pounds).\"\n\n\ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f",
+                "The fish went mammaling.",
+                "I say let them get eaten. If this is how we thin out stupid people from society then so be it. They're adults, not children, let them figure out the consequences of their actions their own way.",
+                "I dive with sharks literally all the time\u2026 that being said you\u2019ll NEVER catch me on the surface of the ocean with a shark below me.",
+                "Like grandma use to say, \u201cthat boy ain\u2019t got no common\u201d",
+                "I'm surprised they didn't carpet bomb the ocean in retaliation."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "NEW",
+            "title": "Lori Vallow Daybell jury returns guilty verdict in Arizona trial over Charles Vallow's death",
+            "external_url": "https://www.cbsnews.com/news/lori-vallow-daybell-verdict-arizona-trial/",
+            "upvotes": 656,
+            "date": "04/22/2025",
+            "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/22/7ce99098-c2df-4d24-8e6c-57e443d96687/thumbnail/1200x630/fae369373e14126636d473a1699164b0/ap23132709066020.jpg?v=edaea84d9f9990d3a4d8ddf0e6fb4e98",
+            "top_comments": [
+                "*... prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.*\n\nI knew that cult indications had to come up at some point in this story.",
+                "22 April 2025\n\nfrom the article:\n\n>Lori Vallow Daybell was convicted Tuesday of conspiracy to commit murder in the 2019 killing of her estranged husband in Arizona:\n\n>Daybell is already serving life sentences in Idaho for multiple murders and for conspiracy to commit murder.\n\n>Jurors deliberated for a total of three hours over two days. \n\n>During the trial, which began in Phoenix on March 31, prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.\n\n>\"What we see is a very planned out, premeditated murder,\" prosecutor Treena Kay told the jury in her closing argument.\n\n>Vallow Daybell represented herself at the trial despite not being a lawyer. She didn't call any witnesses or put on any evidence in her defense, but said in her opening and closing statements that Vallow's death wasn't a crime.\n\n>This trial was not Vallow Daybell's last. She is scheduled to go on trial again in early June on a charge of conspiring to murder Brandon Boudreaux, the ex-husband of her niece, Melani Pawlowski.",
+                ">Cox's account was later called into question and Vallow Daybell was charged in Vallow's death following other murders, including of her children, 16-year-old Tylee Ryan and 7-year-old Joshua \"JJ\" Vallow. Vallow Daybell is already\u00a0[serving life sentences in Idaho](https://www.cbsnews.com/news/lori-vallow-daybell-doomsday-mom-trial-tylee-ryan-jj-vallow-what-to-know/)\u00a0for those murders and conspiring to murder her then-boyfriend\u00a0[Chad Daybell's](https://www.cbsnews.com/news/chad-daybell-trial-doomsday-cult-murder-case/)\u00a0wife, Tammy.\n\nHoly fuck, no matter how many times I read that, I cannot make heads nor tails of it. Everyone is named either \"Vallow\" or \"Daybell\". I think it's saying she's serving life in Idaho for killing a couple of her kids, but the rest... \ud83e\udd37 Anyone out there on the interwebs able to translate this for me?",
+                "For anybody that really wants to dig into this crazy ass story, I recommend this podcast: https://youtu.be/iT4e3gRlQr8?si=DcYYiQMbsQUIc8o0",
+                "Her son Colby live streamed the verdict and broke down in tears. I\u2019m honestly amazed by his strength and how he is rather grounded with a good head on his shoulders. He\u2019s definitely not giving up. I can\u2019t imagine being in his shoes. Lori is a fucking monster and even looks like a haggard demon.",
+                "how many people has this crazy person tried to kill??? damn",
+                "Good. It still pisses me off that she didn't get the death penalty too because she fucking deserves it. If not for her those 4 people wouldn't be dead.",
+                "Gonna see this on Snapped right quick.",
+                "Can't wait for the lpotl side stories discussion on this."
+            ],
+            "aggregate_sentiment": 28.0
+        },
+        {
+            "category": "NEW",
+            "title": "Veterans affairs agency orders staff to report each other for \u2018anti-Christian bias\u2019",
+            "external_url": "https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias?CMP=Share_AndroidApp_Other",
+            "upvotes": 6690,
+            "date": "04/22/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/61859c303c21779b1d4c162dfdfc73baffe0230c/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35ea48c1ee63f288cfa25a06cb609745",
+            "top_comments": [
+                "They have all the power now and they still act like they are the most oppressed people on the planet.",
+                ">  The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d\n\nHostile to Christian views?\n\nSo, all instances of employees NOT discriminating against women, minorities, and the LGBTQ+ community will be reported.\n\nBasically, people will be punished for being decent.",
+                "mY sUpErViSoR sAiD hApPy hOlIdAyS tO mE!",
+                ">\u201cThe VA Task Force now requests all VA employees to **submit any instance of anti-Christian discrimination to Anti-ChristianBiasReporting.@va.gov,\u201d** the email reads. \u201cSubmissions should include sufficient identifiers such as names, dates, and locations.\u201d\n\nRedditors, you have your assignment.",
+                "So much for the separation of Church and State.",
+                "> The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d.\n\nWanting to maintain the separation of church and state is not an attack.",
+                "So all it takes is for that one religious zealot at work is to ask you \u201cDo you believe?\u201d Then if you say no, you\u2019re out of job? Ridiculous",
+                "wish jesus was real, and that he would come back - again - and take all these assholes to wherever it is that they belong ...",
+                "Fuck these anti Constitutional traitors!That's a violation of the 1st amendment! These traitors won't stop until we make them, and they don't give a flying eff about protest signs they can't read anyways!",
+                "Everyday, Trump's administration proves that both parties are in fact not the same.\u00a0"
+            ],
+            "aggregate_sentiment": 67.0
+        },
+        {
+            "category": "NEW",
+            "title": "FDA says it will phase out petroleum-based food dyes, authorize four natural color additives",
+            "external_url": "https://www.cnn.com/2025/04/22/health/fda-food-dyes",
+            "upvotes": 4458,
+            "date": "04/22/2025",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/2025-04-22t203936z-1661349634-rc283eaquvca-rtrmadp-3-usa-trump-fda-dyes.jpg?c=16x9&q=w_800,c_fill",
+            "top_comments": [
+                "But they can\u2019t be fucked to enforce food safety regulations?",
+                "[deleted]",
+                "From a doctor, the issue with this is the HUGE amount of energy and effort being put into this (there\u2019s no good evidence that the amount of dye used here causes any problems other than in pitri dish studies/feeding gallons to mice) and a COMPLETE disregard for things that are ACTIVELY harming people (food safety monitoring, lead, vaccine hesitancy, cost of healthy food, more strict regulations on air and water quality).\n\nThis is the medical equivalent of giving emergency chamomile tea to someone with insomnia\u2026who also has a gaping gunshot wound to their leg.",
+                "I think a lot of the fears about some food dyes are overhyped and at worst fear mongering, but I do believe if natural color additives can be used they should be. Doing things because they're cheaper or easier doesn't mean it should be that way. Natural dyes work just fine. I think it would make people in all areas of the conversation come to agreement.",
+                "Any country that wants to export food products needs to meet the market\u2019s food safety standards or the products will only be good for domestic use.  Other countries don\u2019t need or want bright red fruit loops and blue icing and neon orange cheese dust. \n\nSome of these dyes have been banned for a decade in other countries - no one misses them one bit - and large companies have pivoted away from them without going broke.   It rarely changes the formulation or production of a product.   \n\nIt\u2019s a super simple change.  The only thing party that loses here are the companies that make the petroleum based dyes.  Which will be replaced by companies that make non petroleum based dyes.  Who owns those?",
+                "Plot twist: no one will be around at the FDA to test products for compliance",
+                "Why is medicine loaded up with dyes? I have no fucks to give about the color of medicine, only that the stuff is effective.",
+                "They can't test milk but they they'll be able to regulate and enforce this? Ya sure, totes.",
+                "But let\u2019s not check milk for safety anymore!!!!",
+                "These natural colors wouldn\u2019t happen to be Colloidal Silver, Monoatomic Gold, Copper and Spirulina would they?"
+            ],
+            "aggregate_sentiment": 67.0
+        },
+        {
+            "category": "NEW",
+            "title": "Tesla sales plunge as carmaker warns \u2018political sentiment\u2019 could impact future demand",
+            "external_url": "https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit",
+            "upvotes": 14655,
+            "date": "04/22/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/84a18423ca2ed213d3451c93cff70ea1d454a856/0_53_7743_4646/master/7743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d888d103ebc9308d688aa42c7c9ea3e0",
+            "top_comments": [
+                "I love that for them!\n\nFuck you, Elon.",
+                "Obviously, you fucking idiots. Its not just political sentiment. The guy is making nazi gestures, making nazi jokes, propping up far right parties in germany, sending his goons in to capture data they weren't elected for in the States. Fuck Tesla. And this is coming from someone who owns an Model 3 but can't really get rid of it (family/young kids/mortgage/bills/etc take priority)",
+                "Kind of a stupid fucking move to try and sell electric cars to Nazi sympathizers. That's such a small overlap of American society.",
+                "The fact that a Hitler salute has to be described as \"political sentiment\" gives me feelings of disappointment in humanity.",
+                "The fact that it also sucks as a company also doesn't help.  They've been massively overvalued for a long time, kept afloat primarily through Elon Musk's weird tech bro cult of personality.  With Musk's mask off and his fascism on full display, the fragile foundation of this house of cards - i.e., the goodwill toward Elon himself - has cracked and the whole thing is tumbling down.",
+                "So anti-Nazi sentiment then? Okay that could be a problem yeah.",
+                "My wife and I would be at least two teslas in\u2026went so far as test driving but now, will never own one out of principle\u2026who cares, it\u2019s just two people but I\u2019m guessing we are part of a not insignificant part of the target demo\u2026get rekted Elmo\u2026",
+                "The CEO sieg heiled twice.",
+                "> Analysts attribute the company\u2019s overall difficulties to a number of factors, but ultimately conclude Elon Musk\u2019s role in the White House has caused a branding crisis for Tesla. The company is at a major crossroads, analysts say, that will only be remedied if Musk leaves his role in the so-called \u201cdepartment of government efficiency\u201d and returns to Tesla as CEO full time.\n\nElon is trash goods. People aren\u2019t going to stop hating him just because he leaves. The damage he has caused to America\u2019s democracy and government is unforgivable.",
+                "How it is when you offend and fuck with your core demo."
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
+            "title": "Musk signals 'significantly' stepping back from Doge as Tesla profits plunge",
+            "external_url": "https://www.bbc.co.uk/news/articles/cy0x50yr46lo",
+            "upvotes": 7941,
+            "date": "04/23/2025",
+            "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54dd/live/0534ad00-200c-11f0-8c2e-77498b1ce297.jpg",
+            "top_comments": [
+                "He's lying. It's a ruse to manipulate Tesla's stock price.",
+                "Don\u2019t think it\u2019ll help. He\u2019s destroyed his image in a short amount of time and there\u2019s no taking it back.",
+                "It's cute he thinks his reputation is salvageable at this point",
+                "He's already wrecked the systems, stolen all our data, and installed his digital and personnel backdoors.\n\n.. but at least the world has finally seen what a narcissistic nazi douchebag he is.",
+                "Won't matter. Damage is done. These tesla profits dropping are just the start. Wait for next quarter.",
+                "Okay.. Elon is no longer publicly making an ass of himself. That doesn't change the fact that big balls and the other creeps Elon hired are dismantling everything",
+                "The damage is done. I am in the market for an EV and would never now consider a Tesla. So many others are in the exact same situation.\u00a0",
+                "Can't put the \"heil Hitler\" back in the tube. Fuck Tesla. Take it to zero.",
+                "He stole what he wanted and bailed.\n\nWe\u2019ve been watching/ reading this supervillain shit our whole lives, but when Dr. Villain shows up in real life we don\u2019t have James Bond or the Avengers to save us.",
+                "Lmao yea right. Anything good that could come from this administration wont and Elon leaving would be amazing for us so he wont be going anywhere."
+            ],
+            "aggregate_sentiment": 8.0
+        },
+        {
+            "category": "RISING",
+            "title": "Veterans affairs agency orders staff to report each other for \u2018anti-Christian bias\u2019",
+            "external_url": "https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias?CMP=Share_AndroidApp_Other",
+            "upvotes": 6694,
+            "date": "04/22/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/61859c303c21779b1d4c162dfdfc73baffe0230c/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35ea48c1ee63f288cfa25a06cb609745",
+            "top_comments": [
+                "They have all the power now and they still act like they are the most oppressed people on the planet.",
+                ">  The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d\n\nHostile to Christian views?\n\nSo, all instances of employees NOT discriminating against women, minorities, and the LGBTQ+ community will be reported.\n\nBasically, people will be punished for being decent.",
+                "mY sUpErViSoR sAiD hApPy hOlIdAyS tO mE!",
+                ">\u201cThe VA Task Force now requests all VA employees to **submit any instance of anti-Christian discrimination to Anti-ChristianBiasReporting.@va.gov,\u201d** the email reads. \u201cSubmissions should include sufficient identifiers such as names, dates, and locations.\u201d\n\nRedditors, you have your assignment.",
+                "So much for the separation of Church and State.",
+                "> The email states that the department will review \u201call instances of anti-Christian bias\u201d but that it is specifically seeking instances including \u201cany informal policies, procedures, or unofficially understandings hostile to Christian views\u201d.\n\nWanting to maintain the separation of church and state is not an attack.",
+                "So all it takes is for that one religious zealot at work is to ask you \u201cDo you believe?\u201d Then if you say no, you\u2019re out of job? Ridiculous",
+                "wish jesus was real, and that he would come back - again - and take all these assholes to wherever it is that they belong ...",
+                "Fuck these anti Constitutional traitors!That's a violation of the 1st amendment! These traitors won't stop until we make them, and they don't give a flying eff about protest signs they can't read anyways!",
+                "Everyday, Trump's administration proves that both parties are in fact not the same.\u00a0"
+            ],
+            "aggregate_sentiment": 98.0
+        },
+        {
+            "category": "RISING",
+            "title": "El Paso Walmart shooter received forgiveness and a hug from victim\u2019s sister",
+            "external_url": "https://elpasomatters.org/2025/04/22/victims-sister-hugs-walmart-gunman-patrick-crusius-el-paso/",
+            "upvotes": 485,
+            "date": "04/23/2025",
+            "thumbnail": "https://elpasomatters.org/wp-content/uploads/2025/04/crusius_hug_rrr_1.jpg",
+            "top_comments": [
+                "If somebody murders me and then my sister hugs them, I\u2019d be so pissed!",
+                "That's big of her but society will hold him accountable.",
+                "And from another victim\u2019s wife. Hard to fathom. \n\nAlso buried in the article:\n>gunman who said he wanted to stop \u201cthe Hispanic invasion of Texas.\u201d\n\nA place that was literally Mexican before it was American. Teaching history is important, people. Teaching people not to be hateful bigoted murderers is also a good idea.",
+                "Is this the Chudjak guy or someone else?",
+                "I think some people after suffering traumatic loss of a loved one struggle to feel \u201cwhole\u201d again. I can see her forgiveness as being something she feels she needs to do to move on or find peace. This is about her more than it is about him, and that\u2019s okay!",
+                "Fucking terrorist. She\u2019s better than me.",
+                "If someone took a loved one away from me like that I wouldn't forgive them. Not saying that's a good thing or anything. Good on her for being able to.",
+                "Forgiveness is never a bad thing.\n\nForgiveness doesn\u2019t mean he isn\u2019t guilty, it doesn\u2019t mean he shouldn\u2019t suffer consequences. It\u2019s just forgiveness, and forgiveness is *good*. \n\nYou can forgive people who do terrible things, too. It will make your life better if you do.",
+                "Bigger people than I. If I got my hands on someone who killed my loves, I would only let go when they or I had joined them.\n\n\nWhich shows I have a lot of work to do on my anger response still.\n\n\nI hope they all heal as best as is possible.\u00a0",
+                "All the so-called Christians who think all they have to do are recite a few spells once a week and they magically get into heaven no matter whatever else they may do, should take a lesson from this woman. This is what Christianity is really about. Forgiving people, even when they have wronged you in a very serious way.\n\nI respect the hell out of this woman. I'm not sure I could do the same, and I don't even particularly get along with my siblings."
+            ],
+            "aggregate_sentiment": 38.0
+        },
+        {
+            "category": "RISING",
+            "title": "Tesla sales plunge as carmaker warns \u2018political sentiment\u2019 could impact future demand",
+            "external_url": "https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit",
+            "upvotes": 14663,
+            "date": "04/22/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/84a18423ca2ed213d3451c93cff70ea1d454a856/0_53_7743_4646/master/7743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d888d103ebc9308d688aa42c7c9ea3e0",
+            "top_comments": [
+                "I love that for them!\n\nFuck you, Elon.",
+                "Obviously, you fucking idiots. Its not just political sentiment. The guy is making nazi gestures, making nazi jokes, propping up far right parties in germany, sending his goons in to capture data they weren't elected for in the States. Fuck Tesla. And this is coming from someone who owns an Model 3 but can't really get rid of it (family/young kids/mortgage/bills/etc take priority)",
+                "Kind of a stupid fucking move to try and sell electric cars to Nazi sympathizers. That's such a small overlap of American society.",
+                "The fact that a Hitler salute has to be described as \"political sentiment\" gives me feelings of disappointment in humanity.",
+                "The fact that it also sucks as a company also doesn't help.  They've been massively overvalued for a long time, kept afloat primarily through Elon Musk's weird tech bro cult of personality.  With Musk's mask off and his fascism on full display, the fragile foundation of this house of cards - i.e., the goodwill toward Elon himself - has cracked and the whole thing is tumbling down.",
+                "So anti-Nazi sentiment then? Okay that could be a problem yeah.",
+                "My wife and I would be at least two teslas in\u2026went so far as test driving but now, will never own one out of principle\u2026who cares, it\u2019s just two people but I\u2019m guessing we are part of a not insignificant part of the target demo\u2026get rekted Elmo\u2026",
+                "The CEO sieg heiled twice.",
+                "> Analysts attribute the company\u2019s overall difficulties to a number of factors, but ultimately conclude Elon Musk\u2019s role in the White House has caused a branding crisis for Tesla. The company is at a major crossroads, analysts say, that will only be remedied if Musk leaves his role in the so-called \u201cdepartment of government efficiency\u201d and returns to Tesla as CEO full time.\n\nElon is trash goods. People aren\u2019t going to stop hating him just because he leaves. The damage he has caused to America\u2019s democracy and government is unforgivable.",
+                "How it is when you offend and fuck with your core demo."
+            ],
+            "aggregate_sentiment": 18.0
+        },
+        {
+            "category": "RISING",
+            "title": "Sarah Palin loses retrial of defamation case against New York Times",
+            "external_url": "https://www.theguardian.com/us-news/2025/apr/22/sarah-palin-loses-defamation-nyt-retrial",
+            "upvotes": 21337,
+            "date": "04/22/2025",
+            "thumbnail": "https://i.guim.co.uk/img/media/8a71a1a108784657ab0666974cc8c763211db1b0/0_142_4300_2581/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0e0a47794bea93c9f820c3c81f93292",
+            "top_comments": [
+                "I'm not joking, but I'd completely forgotten about Sarah Palin until I read this headline.",
+                "Can she see this verdict from her front porch?",
+                "Tina Fey made Sarah Palin more famous than Sarah Palin did.",
+                "Dam they're really Nailin Palin",
+                "\"Sarah Palin loses\", a tune now so common it's subtly and ever-so-slowly replacing that quintessential elevator music. Keep it up queen!",
+                "I'm surprised she didn't quit half way through the case",
+                "Not upset about this. She is one of the main reasons we are in the mess we are in now. Because she not only was a poor loser but a bad politician who couldn\u2019t take a black man becoming president.",
+                "Good. Now she can cry more.",
+                "First The Masked Singer, and now this. Can't get a break.",
+                "If you've never seen it, do yourself a favor and watch the movie Game Change about her campaign with John McCain. It's a decent movie with some big names but it has more of a TV movie feel IMHO. People on the campaign (and characters in the movie) like Nicole Wallace have said it is accurate. It's amazing how bad of a choice she was for his running mate. She did some wacky shit and really tanked his campaign."
+            ],
+            "aggregate_sentiment": 14.0
+        },
+        {
+            "category": "RISING",
+            "title": "FDA says it will phase out petroleum-based food dyes, authorize four natural color additives",
+            "external_url": "https://www.cnn.com/2025/04/22/health/fda-food-dyes",
+            "upvotes": 4447,
+            "date": "04/22/2025",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/2025-04-22t203936z-1661349634-rc283eaquvca-rtrmadp-3-usa-trump-fda-dyes.jpg?c=16x9&q=w_800,c_fill",
+            "top_comments": [
+                "But they can\u2019t be fucked to enforce food safety regulations?",
+                "[deleted]",
+                "From a doctor, the issue with this is the HUGE amount of energy and effort being put into this (there\u2019s no good evidence that the amount of dye used here causes any problems other than in pitri dish studies/feeding gallons to mice) and a COMPLETE disregard for things that are ACTIVELY harming people (food safety monitoring, lead, vaccine hesitancy, cost of healthy food, more strict regulations on air and water quality).\n\nThis is the medical equivalent of giving emergency chamomile tea to someone with insomnia\u2026who also has a gaping gunshot wound to their leg.",
+                "I think a lot of the fears about some food dyes are overhyped and at worst fear mongering, but I do believe if natural color additives can be used they should be. Doing things because they're cheaper or easier doesn't mean it should be that way. Natural dyes work just fine. I think it would make people in all areas of the conversation come to agreement.",
+                "Any country that wants to export food products needs to meet the market\u2019s food safety standards or the products will only be good for domestic use.  Other countries don\u2019t need or want bright red fruit loops and blue icing and neon orange cheese dust. \n\nSome of these dyes have been banned for a decade in other countries - no one misses them one bit - and large companies have pivoted away from them without going broke.   It rarely changes the formulation or production of a product.   \n\nIt\u2019s a super simple change.  The only thing party that loses here are the companies that make the petroleum based dyes.  Which will be replaced by companies that make non petroleum based dyes.  Who owns those?",
+                "Plot twist: no one will be around at the FDA to test products for compliance",
+                "Why is medicine loaded up with dyes? I have no fucks to give about the color of medicine, only that the stuff is effective.",
+                "They can't test milk but they they'll be able to regulate and enforce this? Ya sure, totes.",
+                "But let\u2019s not check milk for safety anymore!!!!",
+                "These natural colors wouldn\u2019t happen to be Colloidal Silver, Monoatomic Gold, Copper and Spirulina would they?"
+            ],
+            "aggregate_sentiment": 18.0
+        },
+        {
+            "category": "RISING",
+            "title": "Lori Vallow Daybell jury returns guilty verdict in Arizona trial over Charles Vallow's death",
+            "external_url": "https://www.cbsnews.com/news/lori-vallow-daybell-verdict-arizona-trial/",
+            "upvotes": 659,
+            "date": "04/22/2025",
+            "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/22/7ce99098-c2df-4d24-8e6c-57e443d96687/thumbnail/1200x630/fae369373e14126636d473a1699164b0/ap23132709066020.jpg?v=edaea84d9f9990d3a4d8ddf0e6fb4e98",
+            "top_comments": [
+                "*... prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.*\n\nI knew that cult indications had to come up at some point in this story.",
+                "22 April 2025\n\nfrom the article:\n\n>Lori Vallow Daybell was convicted Tuesday of conspiracy to commit murder in the 2019 killing of her estranged husband in Arizona:\n\n>Daybell is already serving life sentences in Idaho for multiple murders and for conspiracy to commit murder.\n\n>Jurors deliberated for a total of three hours over two days. \n\n>During the trial, which began in Phoenix on March 31, prosecutors argued that Vallow Daybell and Cox had planned to kill Vallow so she could collect money from his life insurance policy and marry Daybell, an Idaho author who wrote several religious novels about prophecies and the end of the world.\n\n>\"What we see is a very planned out, premeditated murder,\" prosecutor Treena Kay told the jury in her closing argument.\n\n>Vallow Daybell represented herself at the trial despite not being a lawyer. She didn't call any witnesses or put on any evidence in her defense, but said in her opening and closing statements that Vallow's death wasn't a crime.\n\n>This trial was not Vallow Daybell's last. She is scheduled to go on trial again in early June on a charge of conspiring to murder Brandon Boudreaux, the ex-husband of her niece, Melani Pawlowski.",
+                ">Cox's account was later called into question and Vallow Daybell was charged in Vallow's death following other murders, including of her children, 16-year-old Tylee Ryan and 7-year-old Joshua \"JJ\" Vallow. Vallow Daybell is already\u00a0[serving life sentences in Idaho](https://www.cbsnews.com/news/lori-vallow-daybell-doomsday-mom-trial-tylee-ryan-jj-vallow-what-to-know/)\u00a0for those murders and conspiring to murder her then-boyfriend\u00a0[Chad Daybell's](https://www.cbsnews.com/news/chad-daybell-trial-doomsday-cult-murder-case/)\u00a0wife, Tammy.\n\nHoly fuck, no matter how many times I read that, I cannot make heads nor tails of it. Everyone is named either \"Vallow\" or \"Daybell\". I think it's saying she's serving life in Idaho for killing a couple of her kids, but the rest... \ud83e\udd37 Anyone out there on the interwebs able to translate this for me?",
+                "For anybody that really wants to dig into this crazy ass story, I recommend this podcast: https://youtu.be/iT4e3gRlQr8?si=DcYYiQMbsQUIc8o0",
+                "Her son Colby live streamed the verdict and broke down in tears. I\u2019m honestly amazed by his strength and how he is rather grounded with a good head on his shoulders. He\u2019s definitely not giving up. I can\u2019t imagine being in his shoes. Lori is a fucking monster and even looks like a haggard demon.",
+                "how many people has this crazy person tried to kill??? damn",
+                "Good. It still pisses me off that she didn't get the death penalty too because she fucking deserves it. If not for her those 4 people wouldn't be dead.",
+                "Gonna see this on Snapped right quick.",
+                "Can't wait for the lpotl side stories discussion on this."
+            ],
+            "aggregate_sentiment": 22.0
+        },
+        {
+            "category": "RISING",
+            "title": "Sharks drew crowds who swam with them off Israel's coast \u2014 until one man disappeared.",
+            "external_url": "https://apnews.com/article/shark-attack-wild-animals-israel-d68793e4007250395cbb22c1a8b087bf",
+            "upvotes": 746,
+            "date": "04/23/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "The sharks are there bc the water is warmer bc of drainage from a powerplant. People are not even supposed to swim there.\n\nPeople were apparently going up and grabbing their fins.\n\nI dont know what to say to that.",
+                "Darwin Award.\ud83c\udfc5\n\nFeeding the sharks and grabbing fins\u2026",
+                "TIL a group of sharks is called a *shiver*.",
+                "Unprovoked shark attacks are rare.\n\nDumbasses, however, are quite common.",
+                "\"Some tugged on the sharks\u2019 fins, while others threw them fish to eat. Dusky sharks can grow to 4 meters (13 feet) long and weigh about 350 kilograms (750 pounds). Sandbar sharks are smaller, growing to about 2.5 meters (8 feet) and 100 kilograms (220 pounds).\"\n\n\ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f \ud83d\ude45\u200d\u2642\ufe0f",
+                "The fish went mammaling.",
+                "I say let them get eaten. If this is how we thin out stupid people from society then so be it. They're adults, not children, let them figure out the consequences of their actions their own way.",
+                "I dive with sharks literally all the time\u2026 that being said you\u2019ll NEVER catch me on the surface of the ocean with a shark below me.",
+                "Like grandma use to say, \u201cthat boy ain\u2019t got no common\u201d",
+                "I'm surprised they didn't carpet bomb the ocean in retaliation."
             ],
             "aggregate_sentiment": 22.0
         },
@@ -591,7 +577,7 @@
             "category": "RISING",
             "title": "Iran parades missiles through the streets in a show of force as nuclear talks ramp up",
             "external_url": "https://www.nbcnews.com/news/world/iran-nuclear-talks-army-parade-trump-putin-witkoff-rcna201836",
-            "upvotes": 232,
+            "upvotes": 269,
             "date": "04/22/2025",
             "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250418-army-day-iran-ch-0741-370f47.jpg",
             "top_comments": [
@@ -600,8 +586,29 @@
                 "They are easier to count when you put them in a parade.",
                 "I always get scared when I see high steppers in fatigues."
             ],
-            "aggregate_sentiment": 58.0
+            "aggregate_sentiment": 42.0
+        },
+        {
+            "category": "RISING",
+            "title": "US FDA suspends milk quality tests amid workforce cuts",
+            "external_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-suspends-milk-quality-tests-amid-workforce-cuts-2025-04-21/",
+            "upvotes": 15752,
+            "date": "04/22/2025",
+            "thumbnail": "No social preview available",
+            "top_comments": [
+                "Listeria for everyone!",
+                "I wonder if the fall of Rome was this stupid.",
+                "It feels like this administration is doing its best to create different ways to kill us or make us so sick we wish for death.",
+                "Guess this is how we kill people.",
+                "Bird flu is transferring to cows, did you see the 60 Minutes piece on that?\n\nAccording to this article, milk will no longer be tested for bird flu.",
+                "So I guess the attitude on listeria is similar to the attitude on pandemics:\n\n# \"If we stopped testing right now, we\u2019d have very few cases, if any\u2019\u2018",
+                "This reminds me of the Wisconsin or North Dakota politician that campaigned ***hard*** on allowing raw milk. They changed their state laws to allow for raw milk sales and at the press conference the politician drank a glass of raw milk in celebration. It immediately made him sick. Like, next day.",
+                "What could possibly go wrong? We\u2019re going to be so fucking great, just you wait..",
+                "Don\u2019t drink milk, got it.",
+                "Next new peice of business from this admin is calling Canada and the EU evil for not wanting to buy US dairy products. I can't imagine why!"
+            ],
+            "aggregate_sentiment": 12.0
         }
     ],
-    "last_updated": "04/23/2025 04:11:25 UTC"
+    "last_updated": "04/23/2025 08:12:49 UTC"
 }
