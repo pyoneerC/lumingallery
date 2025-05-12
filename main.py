@@ -18,7 +18,7 @@ SUBREDDIT_NAME = "news"
 
 # Sentiment API settings
 SENTIMENT_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-SENTIMENT_API_KEY = "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"  # Use your secure key!
+SENTIMENT_API_KEY = "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"  # Use your secure key!
 
 # Create a PRAW Reddit instance
 reddit = praw.Reddit(client_id=REDDIT_CLIENT_ID,
@@ -116,7 +116,7 @@ async def analyze_sentiment_async(text, session):
         f"Text: \"{text}\"\nRespond only with the numerical score."
     )
     payload = {
-        "model": "llama-3.3-70b-versatile",
+        "model": "llama3-70b-8192",
         "messages": [
             {"role": "system",
              "content": "You are a sentiment analysis tool. Provide a sentiment score from 0 to 100."},
